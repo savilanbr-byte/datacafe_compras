@@ -22,25 +22,29 @@
  },
  "forecastSource": {
   "name": "MET Norway",
-  "period": "17 al 23 de octubre",
+  "period": "22 al 28 de octubre",
   "url": "https://api.met.no/"
  },
  "ideam": {
-  "asOf": "2026-10-13",
-  "headline": "Segunda temporada de lluvias activa pese a El Niño",
+  "asOf": "2026-10-19",
+  "headline": "Lluvias siguen en octubre–noviembre, pero El Niño traerá déficit desde diciembre",
   "items": [
-   "Lluvias moderadas a fuertes en las regiones Andina, Caribe y Pacífica, además de Meta y el occidente de Casanare.",
-   "567 municipios con alguna alerta por deslizamientos; Chocó encabeza las alertas rojas.",
-   "Planes de contingencia por El Niño deben actualizarse antes del 30 de noviembre."
+   "Comunicado especial 111 (6-oct): la temporada de lluvias empezó a finales de septiembre, con acumulados menores a los históricos en varias zonas y tormentas intensas en lapsos cortos.",
+   "Semana del 19 al 23 de octubre: lluvias más fuertes en Antioquia, Chocó, Cauca y Nariño.",
+   "Después podrían presentarse déficits de lluvia superiores al 60%; sequía posible entre diciembre y marzo."
   ],
   "links": [
    {
-    "t": "Comunicado IDEAM",
-    "url": "https://www.ideam.gov.co/sala-de-prensa/noticia/condiciones-el-nino-continuan-en-fortalecimiento-y-aumenta-la-probabilidad-de-que-alcance-una"
-   },
-   {
     "t": "Infobae: lluvias en 22 departamentos",
     "url": "https://www.infobae.com/colombia/2026/10/13/el-ideam-preve-lluvias-intensas-en-22-departamentos-pese-a-declaratoria-oficial-del-inicio-del-fenomeno-de-el-nino/"
+   },
+   {
+    "t": "El Tiempo: regiones con más lluvia esta semana",
+    "url": "https://www.eltiempo.com/vida/medio-ambiente/lluvias-en-colombia-esta-semana-estas-son-las-regiones-donde-mas-llovera-segun-el-ideam-3594740"
+   },
+   {
+    "t": "Comunicado IDEAM",
+    "url": "https://www.ideam.gov.co/sala-de-prensa/noticia/condiciones-el-nino-continuan-en-fortalecimiento-y-aumenta-la-probabilidad-de-que-alcance-una"
    }
   ]
  },
@@ -54,109 +58,109 @@
  "regions": [
   {
    "dept": "Huila",
-   "p7": 23.3,
+   "p7": 34.1,
    "place": "Pitalito",
-   "tmax": 27.1,
-   "tmin": 18.7
+   "tmax": 25.6,
+   "tmin": 18.1
   },
   {
    "dept": "Antioquia",
-   "p7": 75.5,
+   "p7": 73.9,
    "place": "Andes",
-   "tmax": 25.2,
+   "tmax": 26.1,
    "tmin": 18.7
   },
   {
    "dept": "Tolima",
-   "p7": 46,
+   "p7": 64.6,
    "place": "Planadas",
-   "tmax": 28.3,
-   "tmin": 19.5
+   "tmax": 28.1,
+   "tmin": 19.3
   },
   {
    "dept": "Cauca",
-   "p7": 122.5,
+   "p7": 88.5,
    "place": "Popayán",
-   "tmax": 21.5,
-   "tmin": 16.9
+   "tmax": 22.7,
+   "tmin": 16.3
   },
   {
    "dept": "Nariño",
-   "p7": 122.9,
+   "p7": 67.4,
    "place": "La Unión",
-   "tmax": 20.6,
+   "tmax": 22.3,
    "tmin": 15.8
   },
   {
    "dept": "Caldas",
-   "p7": 85.5,
+   "p7": 88.7,
    "place": "Chinchiná",
-   "tmax": 25.9,
-   "tmin": 18.1
+   "tmax": 25.8,
+   "tmin": 17.6
   },
   {
    "dept": "Quindío",
-   "p7": 192.7,
+   "p7": 113.6,
    "place": "Armenia",
-   "tmax": 22,
-   "tmin": 17.7
+   "tmax": 23.5,
+   "tmin": 17.2
   },
   {
    "dept": "Risaralda",
-   "p7": 98.2,
+   "p7": 106.7,
    "place": "Santa Rosa de Cabal",
-   "tmax": 22.5,
-   "tmin": 16.8
+   "tmax": 23.3,
+   "tmin": 16.0
   },
   {
    "dept": "Valle del Cauca",
-   "p7": 104.3,
+   "p7": 78.9,
    "place": "Sevilla",
-   "tmax": 22.6,
-   "tmin": 16.5
-  },
-  {
-   "dept": "Cundinamarca",
-   "p7": 34.9,
-   "place": "Viotá",
-   "tmax": 29,
-   "tmin": 22.1
-  },
-  {
-   "dept": "Boyacá",
-   "p7": 73,
-   "place": "Moniquirá",
-   "tmax": 24.1,
+   "tmax": 23.4,
    "tmin": 16.2
   },
   {
+   "dept": "Cundinamarca",
+   "p7": 42.9,
+   "place": "Viotá",
+   "tmax": 29.1,
+   "tmin": 22.2
+  },
+  {
+   "dept": "Boyacá",
+   "p7": 78.2,
+   "place": "Moniquirá",
+   "tmax": 25.4,
+   "tmin": 15.2
+  },
+  {
    "dept": "Santander",
-   "p7": 125.2,
+   "p7": 118.8,
    "place": "San Gil",
-   "tmax": 25.5,
-   "tmin": 19.7
+   "tmax": 25.9,
+   "tmin": 19.2
   },
   {
    "dept": "Norte de Santander",
-   "p7": 28.3,
+   "p7": 40.0,
    "place": "Salazar",
-   "tmax": 27.1,
+   "tmax": 27.2,
    "tmin": 20.4
   },
   {
    "dept": "Cesar",
-   "p7": 32,
+   "p7": 40.0,
    "place": "Pueblo Bello",
-   "tmax": 25.4,
-   "tmin": 19.3
+   "tmax": 24.7,
+   "tmin": 19.8
   },
   {
    "dept": "Magdalena",
-   "p7": 44.5,
+   "p7": 56.2,
    "place": "Minca",
-   "tmax": 25.8,
-   "tmin": 20.4
+   "tmax": 25.5,
+   "tmin": 20.8
   }
  ],
- "updatedAt": "2026-10-16T23:44:25Z"
+ "updatedAt": "2026-10-21T01:59:49Z"
 }

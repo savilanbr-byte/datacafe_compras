@@ -1,26 +1,6 @@
 {
  "items": [
   {
-   "date": "2026-10-09",
-   "id": "n1",
-   "scope": "co",
-   "source": "El Universal · FNC",
-   "summary": "Pasó de 14,87 a 12,65 millones de sacos. Septiembre subió 6% (1,215 millones), pero no compensa la caída acumulada. Las exportaciones del año sumaron 11,78 millones de sacos, 12% menos.",
-   "tag": "Producción",
-   "title": "La producción de café de Colombia cayó 15% en el año cafetero 2025-2026",
-   "url": "https://www.eluniversal.com.co/colombia/2026/10/09/produccion-de-cafe-en-colombia-cayo-15-en-el-ano-cafetero-2025-2026/"
-  },
-  {
-   "date": "2026-10-08",
-   "id": "n2",
-   "scope": "co",
-   "source": "El Universal · IDEAM",
-   "summary": "83% de probabilidad de que dure al menos hasta marzo de 2027. Lluvias por debajo de lo normal en octubre y noviembre y déficit más marcado desde diciembre en las regiones Andina, Pacífica y Caribe.",
-   "tag": "Clima",
-   "title": "El IDEAM declara el inicio de El Niño, con intensidad de fuerte a muy fuerte",
-   "url": "https://www.eluniversal.com.co/colombia/2026/10/08/ideam-confirma-oficialmente-la-llegada-del-fenomeno-de-el-nino-advierte-deficit-de-lluvias/"
-  },
-  {
    "date": "2026-10-13",
    "id": "n3",
    "scope": "co",
@@ -39,26 +19,6 @@
    "tag": "Eventos",
    "title": "Abre Cafés de Colombia Expo 2026 en Corferias",
    "url": "https://www.agronegocios.co/ferias/cafes-de-colombia-expo-2026-abre-hoy-sus-puertas-con-mas-de-150-expositores-en-corferias-4503471"
-  },
-  {
-   "date": "2026-10-08",
-   "id": "n7",
-   "scope": "mundo",
-   "source": "NOAA CPC",
-   "summary": "Más de 83% de probabilidad de un evento fuerte a muy fuerte hasta enero-marzo de 2027. Niño 3.4 en +2,1 °C.",
-   "tag": "Clima",
-   "title": "NOAA: El Niño sigue fortaleciéndose y podría ser histórico",
-   "url": "https://www.cpc.ncep.noaa.gov/products/analysis_monitoring/enso_advisory/ensodisc.shtml"
-  },
-  {
-   "date": "2026-10-10",
-   "id": "n8",
-   "scope": "mundo",
-   "source": "World Coffee Index",
-   "summary": "Brasil exportó 3,93 millones de sacos en septiembre (+20,4%). El arábica pasó de US$3/lb y cerró la semana cerca de donde empezó. El USDA proyecta producción mundial récord de 189,7 millones de sacos en 2026/27.",
-   "tag": "Mercado",
-   "title": "Arábica volátil mientras llegan exportaciones récord de Brasil",
-   "url": "https://www.worldcoffeeindex.com/article/coffee-week-2026-10-10/"
   },
   {
    "date": "2026-10-14",
@@ -139,7 +99,17 @@
    "tag": "Precios",
    "title": "El arábica supera los US$3 por libra, máximo desde inicios de septiembre",
    "url": "https://tradingeconomics.com/commodity/coffee/news/592784"
+  },
+  {
+   "id": "n18",
+   "scope": "mundo",
+   "tag": "Mercado",
+   "date": "2026-10-19",
+   "source": "Reuters · ESM",
+   "url": "https://www.esmmagazine.com/supply-chain/arabica-coffee-touches-one-month-high-amid-low-stocks-strong-brazil-currency-324039",
+   "title": "Arábica toca máximo de un mes por inventarios bajos y real fuerte",
+   "summary": "El arábica ICE subió 1,5% a US$3,103/lb tras tocar US$3,138; los inventarios certificados son 240.767 sacos, cerca del mínimo de 27 años (217.646). El robusta subió 1,5% a US$3.454/t."
   }
  ],
- "updatedAt": "2026-10-16T23:44:25Z"
+ "updatedAt": "2026-10-21T01:59:49Z"
 }
