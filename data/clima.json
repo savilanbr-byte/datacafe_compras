@@ -1,0 +1,162 @@
+{
+ "enso": {
+  "asOf": "2026-10-08",
+  "facts": [
+   {
+    "l": "Anomalía Niño 3.4",
+    "v": "+2,1 °C"
+   },
+   {
+    "l": "Fuerte o más hasta ene–mar 2027",
+    "v": "83%"
+   },
+   {
+    "l": "Inicio del déficit fuerte de lluvias",
+    "v": "Dic"
+   }
+  ],
+  "headline": "El IDEAM declaró el inicio del fenómeno y NOAA mantiene aviso de El Niño en fortalecimiento.",
+  "source": "NOAA CPC · IDEAM",
+  "status": "El Niño · fuerte a muy fuerte",
+  "url": "https://www.cpc.ncep.noaa.gov/products/analysis_monitoring/enso_advisory/ensodisc.shtml"
+ },
+ "forecastSource": {
+  "name": "MET Norway",
+  "period": "17 al 23 de octubre",
+  "url": "https://api.met.no/"
+ },
+ "ideam": {
+  "asOf": "2026-10-13",
+  "headline": "Segunda temporada de lluvias activa pese a El Niño",
+  "items": [
+   "Lluvias moderadas a fuertes en las regiones Andina, Caribe y Pacífica, además de Meta y el occidente de Casanare.",
+   "567 municipios con alguna alerta por deslizamientos; Chocó encabeza las alertas rojas.",
+   "Planes de contingencia por El Niño deben actualizarse antes del 30 de noviembre."
+  ],
+  "links": [
+   {
+    "t": "Comunicado IDEAM",
+    "url": "https://www.ideam.gov.co/sala-de-prensa/noticia/condiciones-el-nino-continuan-en-fortalecimiento-y-aumenta-la-probabilidad-de-que-alcance-una"
+   },
+   {
+    "t": "Infobae: lluvias en 22 departamentos",
+    "url": "https://www.infobae.com/colombia/2026/10/13/el-ideam-preve-lluvias-intensas-en-22-departamentos-pese-a-declaratoria-oficial-del-inicio-del-fenomeno-de-el-nino/"
+   }
+  ]
+ },
+ "impactos": [
+  "Octubre y noviembre todavía traen lluvias en la zona andina; el déficit fuerte llega desde diciembre.",
+  "En el sur (Huila, Cauca, Nariño, sur del Tolima), la cosecha principal de mar–jun 2027 llenará grano en plena sequía: riesgo de grano más pequeño, menor rendimiento y más pasilla.",
+  "Las floraciones de diciembre a febrero alimentan la principal 2027 de la zona centro: si fallan por falta de agua, esa cosecha llega más corta.",
+  "La sequía favorece la broca: revisa calidad física (broca, pasilla, factor) en los lotes de inicios de 2027.",
+  "Con más sol, el secado mejora en diciembre y enero para la cosecha que va terminando."
+ ],
+ "regions": [
+  {
+   "dept": "Huila",
+   "p7": 23.3,
+   "place": "Pitalito",
+   "tmax": 27.1,
+   "tmin": 18.7
+  },
+  {
+   "dept": "Antioquia",
+   "p7": 75.5,
+   "place": "Andes",
+   "tmax": 25.2,
+   "tmin": 18.7
+  },
+  {
+   "dept": "Tolima",
+   "p7": 46,
+   "place": "Planadas",
+   "tmax": 28.3,
+   "tmin": 19.5
+  },
+  {
+   "dept": "Cauca",
+   "p7": 122.5,
+   "place": "Popayán",
+   "tmax": 21.5,
+   "tmin": 16.9
+  },
+  {
+   "dept": "Nariño",
+   "p7": 122.9,
+   "place": "La Unión",
+   "tmax": 20.6,
+   "tmin": 15.8
+  },
+  {
+   "dept": "Caldas",
+   "p7": 85.5,
+   "place": "Chinchiná",
+   "tmax": 25.9,
+   "tmin": 18.1
+  },
+  {
+   "dept": "Quindío",
+   "p7": 192.7,
+   "place": "Armenia",
+   "tmax": 22,
+   "tmin": 17.7
+  },
+  {
+   "dept": "Risaralda",
+   "p7": 98.2,
+   "place": "Santa Rosa de Cabal",
+   "tmax": 22.5,
+   "tmin": 16.8
+  },
+  {
+   "dept": "Valle del Cauca",
+   "p7": 104.3,
+   "place": "Sevilla",
+   "tmax": 22.6,
+   "tmin": 16.5
+  },
+  {
+   "dept": "Cundinamarca",
+   "p7": 34.9,
+   "place": "Viotá",
+   "tmax": 29,
+   "tmin": 22.1
+  },
+  {
+   "dept": "Boyacá",
+   "p7": 73,
+   "place": "Moniquirá",
+   "tmax": 24.1,
+   "tmin": 16.2
+  },
+  {
+   "dept": "Santander",
+   "p7": 125.2,
+   "place": "San Gil",
+   "tmax": 25.5,
+   "tmin": 19.7
+  },
+  {
+   "dept": "Norte de Santander",
+   "p7": 28.3,
+   "place": "Salazar",
+   "tmax": 27.1,
+   "tmin": 20.4
+  },
+  {
+   "dept": "Cesar",
+   "p7": 32,
+   "place": "Pueblo Bello",
+   "tmax": 25.4,
+   "tmin": 19.3
+  },
+  {
+   "dept": "Magdalena",
+   "p7": 44.5,
+   "place": "Minca",
+   "tmax": 25.8,
+   "tmin": 20.4
+  }
+ ],
+ "updatedAt": "2026-10-16T23:44:25Z"
+}

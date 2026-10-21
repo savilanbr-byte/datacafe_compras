@@ -1,0 +1,145 @@
+{
+ "items": [
+  {
+   "date": "2026-10-09",
+   "id": "n1",
+   "scope": "co",
+   "source": "El Universal · FNC",
+   "summary": "Pasó de 14,87 a 12,65 millones de sacos. Septiembre subió 6% (1,215 millones), pero no compensa la caída acumulada. Las exportaciones del año sumaron 11,78 millones de sacos, 12% menos.",
+   "tag": "Producción",
+   "title": "La producción de café de Colombia cayó 15% en el año cafetero 2025-2026",
+   "url": "https://www.eluniversal.com.co/colombia/2026/10/09/produccion-de-cafe-en-colombia-cayo-15-en-el-ano-cafetero-2025-2026/"
+  },
+  {
+   "date": "2026-10-08",
+   "id": "n2",
+   "scope": "co",
+   "source": "El Universal · IDEAM",
+   "summary": "83% de probabilidad de que dure al menos hasta marzo de 2027. Lluvias por debajo de lo normal en octubre y noviembre y déficit más marcado desde diciembre en las regiones Andina, Pacífica y Caribe.",
+   "tag": "Clima",
+   "title": "El IDEAM declara el inicio de El Niño, con intensidad de fuerte a muy fuerte",
+   "url": "https://www.eluniversal.com.co/colombia/2026/10/08/ideam-confirma-oficialmente-la-llegada-del-fenomeno-de-el-nino-advierte-deficit-de-lluvias/"
+  },
+  {
+   "date": "2026-10-13",
+   "id": "n3",
+   "scope": "co",
+   "source": "Infobae",
+   "summary": "La segunda temporada de lluvias sigue activa en la región Andina, Caribe y Pacífica. 567 municipios tienen alerta por deslizamientos. El déficit se sentiría con más fuerza desde diciembre.",
+   "tag": "Clima",
+   "title": "Pese a El Niño, el IDEAM prevé lluvias intensas en 22 departamentos",
+   "url": "https://www.infobae.com/colombia/2026/10/13/el-ideam-preve-lluvias-intensas-en-22-departamentos-pese-a-declaratoria-oficial-del-inicio-del-fenomeno-de-el-nino/"
+  },
+  {
+   "date": "2026-10-15",
+   "id": "n6",
+   "scope": "co",
+   "source": "Agronegocios",
+   "summary": "Del 15 al 18 de octubre en Bogotá, con más de 150 expositores y campeonatos nacionales.",
+   "tag": "Eventos",
+   "title": "Abre Cafés de Colombia Expo 2026 en Corferias",
+   "url": "https://www.agronegocios.co/ferias/cafes-de-colombia-expo-2026-abre-hoy-sus-puertas-con-mas-de-150-expositores-en-corferias-4503471"
+  },
+  {
+   "date": "2026-10-08",
+   "id": "n7",
+   "scope": "mundo",
+   "source": "NOAA CPC",
+   "summary": "Más de 83% de probabilidad de un evento fuerte a muy fuerte hasta enero-marzo de 2027. Niño 3.4 en +2,1 °C.",
+   "tag": "Clima",
+   "title": "NOAA: El Niño sigue fortaleciéndose y podría ser histórico",
+   "url": "https://www.cpc.ncep.noaa.gov/products/analysis_monitoring/enso_advisory/ensodisc.shtml"
+  },
+  {
+   "date": "2026-10-10",
+   "id": "n8",
+   "scope": "mundo",
+   "source": "World Coffee Index",
+   "summary": "Brasil exportó 3,93 millones de sacos en septiembre (+20,4%). El arábica pasó de US$3/lb y cerró la semana cerca de donde empezó. El USDA proyecta producción mundial récord de 189,7 millones de sacos en 2026/27.",
+   "tag": "Mercado",
+   "title": "Arábica volátil mientras llegan exportaciones récord de Brasil",
+   "url": "https://www.worldcoffeeindex.com/article/coffee-week-2026-10-10/"
+  },
+  {
+   "date": "2026-10-14",
+   "id": "n9",
+   "scope": "mundo",
+   "source": "Barchart · TradingView",
+   "summary": "Brasil cosecharía 67,6 millones de sacos en 2026, con 48,21 millones de arábica. Los inventarios certificados ICE rebotaron a 260.654 sacos tras tocar mínimo de 27 años.",
+   "tag": "Producción",
+   "title": "Conab sube su estimado de Brasil: arábica +34,8%",
+   "url": "https://www.tradingview.com/news/barchart:f50148f03094b:0-arabica-coffee-prices-finish-higher-on-supply-concerns/"
+  },
+  {
+   "date": "2026-10-14",
+   "id": "n10",
+   "scope": "mundo",
+   "source": "Comunicaffe",
+   "summary": "El arábica diciembre subió a 292,70 ¢/lb el 13-oct. La UE y JDE Peet's financian un proyecto con 65 empresas cafeteras en Vietnam.",
+   "tag": "Industria",
+   "title": "Nestlé duplica su inversión en México a US$2.000 millones",
+   "url": "https://www.comunicaffe.com/arabica-coffee-futures-extend-recovery-nestle-to-invest-us2bn-in-mexico-the-eu-and-jde-peets-to-fund-a-project-in-vietnams-arabica-coffee-growing-region/"
+  },
+  {
+   "date": "2026-10-16",
+   "id": "n12",
+   "scope": "co",
+   "source": "El Tiempo",
+   "summary": "El gerente de la FNC atribuyó la caída a La Niña (ene–abr) y a El Niño, que reduce el peso del grano. El café cosechado en 12 meses valió $21,4 billones y la feria espera 40.000 visitantes.",
+   "tag": "Producción",
+   "title": "Bahamón: el clima recortó la producción; la Expo apuesta por el consumo interno",
+   "url": "https://www.eltiempo.com/economia/cafes-de-colombia-expo-2026-la-apuesta-por-el-consumo-interno-de-cafe-especial-en-un-ano-de-alertas-en-su-produccion-3593936"
+  },
+  {
+   "date": "2026-10-16",
+   "id": "n13",
+   "scope": "mundo",
+   "source": "Finimize",
+   "summary": "Los futuros subieron 4,7% a cerca de US$3,0855/lb; los inventarios certificados están en 238.976 sacos y operadores dudan que el café brasileño llegue a bodegas antes del vencimiento de diciembre.",
+   "tag": "Mercado",
+   "title": "El arábica salta a máximo de un mes por inventarios ICE bajos",
+   "url": "https://finimize.com/content/coffee-prices-jump-as-ice-stockpiles-stay-uncomfortably-low"
+  },
+  {
+   "date": "2026-10-16",
+   "id": "n14",
+   "scope": "mundo",
+   "source": "TradingKey",
+   "summary": "Brasil exportó 236.000 t en septiembre (+20%) y Vietnam 124.000 t (+53%); la OIC proyecta un superávit global de 3 millones de sacos, el primero en cinco años.",
+   "tag": "Producción",
+   "title": "Exportaciones récord de Brasil y Vietnam frente a un mercado alcista",
+   "url": "https://www.tradingkey.com/news/market-movers/262220714-market-movers-coffee-20261016"
+  },
+  {
+   "date": "2026-10-16",
+   "id": "n15",
+   "scope": "co",
+   "source": "Agronegocios",
+   "summary": "La FNC subastó en Corferias 25 lotes finalistas, elegidos entre 1.048 inscritos, de Tolima, Cauca, Caldas, Antioquia, Santander, Huila, Cundinamarca y Nariño. Participaron compradores de Japón, Corea, EE. UU., Europa, China y Medio Oriente.",
+   "tag": "Cafés especiales",
+   "title": "Cafés de Colombia Expo subasta 25 lotes de especialidad ante compradores internacionales",
+   "url": "https://www.agronegocios.co/ferias/cafes-de-colombia-expo-subastara-25-lotes-de-cafes-de-especialidad-ante-compradores-internacionales-4504523"
+  },
+  {
+   "date": "2026-10-16",
+   "id": "n16",
+   "scope": "co",
+   "source": "Portafolio",
+   "summary": "En su centenario, la Federación abrirá un hotel en Montenegro, frente al Parque del Café. Bahamón proyecta un consumo mundial de 200 millones de sacos en 2030, frente a 178 millones el año pasado.",
+   "tag": "Industria",
+   "title": "La FNC abrirá un hotel de 200 habitaciones en Quindío en 2027",
+   "url": "https://www.portafolio.co/economia/agro/del-cafe-al-turismo-federacion-de-cafeteros-prepara-su-entrada-al-negocio-hotelero-con-apertura-prevista-para-504570"
+  },
+  {
+   "date": "2026-10-16",
+   "id": "n17",
+   "scope": "mundo",
+   "source": "Trading Economics",
+   "summary": "Los futuros subieron a cerca de US$3,10/lb con inventarios certificados de 238.976 sacos, cerca del mínimo de 27 años (217.646). Preocupa que el café brasileño no llegue a bodegas ICE antes del vencimiento de diciembre.",
+   "tag": "Precios",
+   "title": "El arábica supera los US$3 por libra, máximo desde inicios de septiembre",
+   "url": "https://tradingeconomics.com/commodity/coffee/news/592784"
+  }
+ ],
+ "updatedAt": "2026-10-16T23:44:25Z"
+}

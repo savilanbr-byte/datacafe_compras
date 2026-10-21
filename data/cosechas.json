@@ -1,0 +1,335 @@
+{
+ "estado": {
+  "antioquia": {
+   "ajusteSemanas": 0,
+   "fecha": "2026-08-31",
+   "fuente": "El Colombiano",
+   "resumen": "Principal en marcha desde septiembre, con el grueso en octubre y noviembre. Se proyectan cerca de 1,9 millones de sacos, 15–20% menos que el año pasado.",
+   "url": "https://co.headtopics.com/news/plan-cosecha-2026-700-uniformados-blindar-n-la-recolecci-n-87249817",
+   "volumen": "bajo"
+  },
+  "caldas": {
+   "ajusteSemanas": 0,
+   "fecha": "2026-09-18",
+   "fuente": "Tintiando",
+   "resumen": "Plan Cosecha lanzado el 19 de septiembre en Anserma; la principal avanza en los 25 municipios.",
+   "url": "https://www.tintiando.com/2026/09/18/caldas-se-prepara-para-su-cosecha-cafetera-2026/",
+   "volumen": null
+  },
+  "cauca": {
+   "ajusteSemanas": 0,
+   "fecha": "2026-03-30",
+   "fuente": "Portafolio",
+   "resumen": "El comité proyecta más de 1,5 millones de sacos en 2026, una de sus mayores cosechas, con 76% del área en plena producción.",
+   "url": "https://www.portafolio.co/economia/agro/cauca-proyecta-su-mayor-cosecha-de-cafe-en-anos-y-superaria-1-5-millones-de-sacos-en-491068",
+   "volumen": "alto"
+  },
+  "huila-sur": {
+   "ajusteSemanas": 0,
+   "fecha": "2026-09-28",
+   "fuente": "Radio Nacional · Diario del Huila",
+   "resumen": "Segunda cosecha de 2026 en curso, con operativo de seguridad desde agosto. Huila es la región más expuesta a El Niño: temperaturas 2–4 °C sobre lo normal.",
+   "url": "https://www.radionacional.co/actualidad/campo-colombiano/cafe-en-colombia",
+   "volumen": null
+  },
+  "quindio": {
+   "ajusteSemanas": 0,
+   "fecha": "2026-04-18",
+   "fuente": "El Quindiano",
+   "resumen": "El primer semestre aportó el 52% del año (111.020 de 213.500 sacos proyectados); el segundo semestre trae el resto.",
+   "url": "https://elquindiano.com/noticia/262812/arranco-la-cosecha-se-estima-se-buscan-6-500-recolectores/",
+   "volumen": null
+  },
+  "risaralda": {
+   "ajusteSemanas": 0,
+   "fecha": "2026-08-26",
+   "fuente": "Eje21",
+   "resumen": "Cosecha concentrada en el último trimestre; se esperan 32.000 a 35.000 recolectores.",
+   "url": "https://www.eje21.com.co/2026/08/el-cafe-se-prepara-para-mover-cerca-de-700-000-millones-en-risaralda-durante-la-cosecha-de-2026/",
+   "volumen": null
+  },
+  "santander": {
+   "ajusteSemanas": 0,
+   "fecha": "2026-10-07",
+   "fuente": "Vanguardia",
+   "resumen": "Cosecha en Guanentá y Comunera con menos producción: en Oiba bajan de 12–14 a 8–10 cargas por hectárea. Floración débil y más broca por El Niño.",
+   "url": "https://www.vanguardia.com/santander/2026/10/07/cafeteros-santandereanos-hacen-cuentas-entre-los-bajos-precios-la-baja-produccion-y-la-broca/",
+   "volumen": "bajo"
+  },
+  "tolima-sur": {
+   "ajusteSemanas": 0,
+   "fecha": "2026-04-16",
+   "fuente": "El Cronista",
+   "resumen": "En el primer semestre las lluvias retrasaron la maduración y la producción cayó cerca de 30% hasta abril (Planadas, Villarrica). Sin reportes aún de la mitaca.",
+   "url": "https://elcronista.co/actualidad/invierno-golpea-la-cosecha-cafetera-en-el-tolima",
+   "volumen": "bajo"
+  }
+ },
+ "regiones": [
+  {
+   "conf": "alta",
+   "dep": "Antioquia",
+   "id": "antioquia",
+   "mF": 5,
+   "mI": 2,
+   "nota": "Pico en oct-nov; cerca del 70% en cosecha principal y 30% en mitaca",
+   "pF": 12,
+   "pI": 9,
+   "sub": "General",
+   "zona": "Centro"
+  },
+  {
+   "conf": "alta",
+   "dep": "Caldas",
+   "id": "caldas",
+   "mF": 6,
+   "mI": 4,
+   "nota": "Patrón clásico de la zona central: dos cosechas al año",
+   "pF": 12,
+   "pI": 9,
+   "sub": "General",
+   "zona": "Centro (Eje Cafetero)"
+  },
+  {
+   "conf": "alta",
+   "dep": "Risaralda",
+   "id": "risaralda",
+   "mF": 6,
+   "mI": 4,
+   "nota": "",
+   "pF": 12,
+   "pI": 9,
+   "sub": "General",
+   "zona": "Centro (Eje Cafetero)"
+  },
+  {
+   "conf": "media",
+   "dep": "Quindío",
+   "id": "quindio",
+   "mF": 6,
+   "mI": 4,
+   "nota": "Departamento dividido: cerca de la mitad de los municipios tiene la principal en el primer semestre; verificar por municipio",
+   "pF": 12,
+   "pI": 9,
+   "sub": "General",
+   "zona": "Centro (Eje Cafetero)"
+  },
+  {
+   "conf": "alta",
+   "dep": "Valle del Cauca",
+   "id": "valle",
+   "mF": 6,
+   "mI": 4,
+   "nota": "",
+   "pF": 12,
+   "pI": 9,
+   "sub": "General",
+   "zona": "Centro"
+  },
+  {
+   "conf": "media",
+   "dep": "Tolima",
+   "id": "tolima-norte",
+   "mF": 6,
+   "mI": 4,
+   "nota": "Se comporta como el Eje Cafetero",
+   "pF": 12,
+   "pI": 9,
+   "sub": "Norte (Líbano / Fresno)",
+   "zona": "Centro"
+  },
+  {
+   "conf": "alta",
+   "dep": "Tolima",
+   "id": "tolima-sur",
+   "mF": 12,
+   "mI": 10,
+   "nota": "Principal en el primer semestre",
+   "pF": 6,
+   "pI": 3,
+   "sub": "Centro y sur (Planadas / Ataco / Chaparral / Rioblanco)",
+   "zona": "Sur"
+  },
+  {
+   "conf": "media",
+   "dep": "Huila",
+   "id": "huila-norte",
+   "mF": 12,
+   "mI": 10,
+   "nota": "Principal en el primer semestre",
+   "pF": 6,
+   "pI": 3,
+   "sub": "Norte",
+   "zona": "Sur"
+  },
+  {
+   "conf": "media",
+   "dep": "Huila",
+   "id": "huila-sur",
+   "mF": 6,
+   "mI": 3,
+   "nota": "Principal puede iniciar desde agosto; Huila tiene oferta casi todo el año",
+   "pF": 12,
+   "pI": 9,
+   "sub": "Centro y sur (Pitalito / Acevedo / San Agustín)",
+   "zona": "Sur"
+  },
+  {
+   "conf": "alta",
+   "dep": "Cauca",
+   "id": "cauca",
+   "mF": 12,
+   "mI": 10,
+   "nota": "Pico en mayo; en años lluviosos se extiende hasta jul-ago",
+   "pF": 6,
+   "pI": 3,
+   "sub": "General",
+   "zona": "Sur"
+  },
+  {
+   "conf": "alta",
+   "dep": "Nariño",
+   "id": "narino",
+   "mF": 12,
+   "mI": 10,
+   "nota": "Mitaca escasa; en la práctica casi una sola cosecha",
+   "pF": 7,
+   "pI": 4,
+   "sub": "General",
+   "zona": "Sur"
+  },
+  {
+   "conf": "media",
+   "dep": "Cundinamarca",
+   "id": "cundinamarca",
+   "mF": 12,
+   "mI": 10,
+   "nota": "Varía bastante por municipio",
+   "pF": 6,
+   "pI": 3,
+   "sub": "General",
+   "zona": "Centro-oriente"
+  },
+  {
+   "conf": "media",
+   "dep": "Boyacá",
+   "id": "boyaca",
+   "mF": 12,
+   "mI": 10,
+   "nota": "Varía bastante por municipio",
+   "pF": 6,
+   "pI": 3,
+   "sub": "General",
+   "zona": "Centro-oriente"
+  },
+  {
+   "conf": "media",
+   "dep": "Santander",
+   "id": "santander",
+   "mF": 6,
+   "mI": 4,
+   "nota": "Mitaca pequeña",
+   "pF": 12,
+   "pI": 9,
+   "sub": "General",
+   "zona": "Norte"
+  },
+  {
+   "conf": "media",
+   "dep": "Norte de Santander",
+   "id": "norte-santander",
+   "mF": 6,
+   "mI": 4,
+   "nota": "Mitaca pequeña",
+   "pF": 12,
+   "pI": 9,
+   "sub": "General",
+   "zona": "Norte"
+  },
+  {
+   "conf": "alta",
+   "dep": "Cesar",
+   "id": "cesar",
+   "mF": null,
+   "mI": null,
+   "nota": "Una sola cosecha al año; puede extenderse a enero",
+   "pF": 12,
+   "pI": 9,
+   "sub": "Serranía del Perijá / Sierra Nevada",
+   "zona": "Norte"
+  },
+  {
+   "conf": "alta",
+   "dep": "Magdalena",
+   "id": "magdalena",
+   "mF": null,
+   "mI": null,
+   "nota": "Una sola cosecha al año; puede extenderse a enero",
+   "pF": 12,
+   "pI": 9,
+   "sub": "Sierra Nevada de Santa Marta",
+   "zona": "Norte"
+  },
+  {
+   "conf": "media",
+   "dep": "La Guajira",
+   "id": "guajira",
+   "mF": null,
+   "mI": null,
+   "nota": "Una sola cosecha al año",
+   "pF": 12,
+   "pI": 9,
+   "sub": "Sierra Nevada / Perijá",
+   "zona": "Norte"
+  }
+ ],
+ "reportes": [
+  {
+   "fecha": "2026-10-07",
+   "fuente": "Vanguardia",
+   "id": "r1",
+   "region": "santander",
+   "texto": "Cosecha más corta en Oiba y Pinchote; caficultores reportan más broca y precio de carga entre $2,1 y $2,3 millones.",
+   "tipo": "noticia",
+   "url": "https://www.vanguardia.com/santander/2026/10/07/cafeteros-santandereanos-hacen-cuentas-entre-los-bajos-precios-la-baja-produccion-y-la-broca/"
+  },
+  {
+   "fecha": "2026-09-28",
+   "fuente": "Radio Nacional",
+   "id": "r2",
+   "region": "huila-sur",
+   "texto": "Temperaturas 2–4 °C sobre el promedio en Huila; la FNC subió la pasilla a $12.000/kg para proteger ingresos ante El Niño.",
+   "tipo": "noticia",
+   "url": "https://www.radionacional.co/actualidad/campo-colombiano/cafe-en-colombia"
+  },
+  {
+   "fecha": "2026-09-17",
+   "fuente": "Vanguardia",
+   "id": "r3",
+   "region": "santander",
+   "texto": "Arranca el Plan Cosecha Segura: se esperan 30.000 recolectores para unas 500.000 cargas.",
+   "tipo": "noticia",
+   "url": "https://www.vanguardia.com/santander/2026/09/17/plan-cosecha-segura-entra-en-marcha-a-la-espera-de-30000-recolectores-en-santander/"
+  },
+  {
+   "fecha": "2026-08-31",
+   "fuente": "El Colombiano",
+   "id": "r4",
+   "region": "antioquia",
+   "texto": "700 uniformados acompañarán la cosecha del Suroeste; el grueso se espera en septiembre y octubre.",
+   "tipo": "noticia",
+   "url": "https://co.headtopics.com/news/plan-cosecha-2026-700-uniformados-blindar-n-la-recolecci-n-87249817"
+  },
+  {
+   "fecha": "2026-04-16",
+   "fuente": "El Cronista",
+   "id": "r5",
+   "region": "tolima-sur",
+   "texto": "Invierno golpea la cosecha: producción del Tolima cae cerca de 30% y la maduración se retrasa.",
+   "tipo": "noticia",
+   "url": "https://elcronista.co/actualidad/invierno-golpea-la-cosecha-cafetera-en-el-tolima"
+  }
+ ],
+ "temporada": "2026-27",
+ "updatedAt": "2026-10-15T23:20:00Z"
+}

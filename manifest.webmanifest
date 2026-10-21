@@ -1,0 +1,17 @@
+{
+  "name": "DataCafé",
+  "short_name": "DataCafé",
+  "description": "Calculadoras, mercado, cosechas, catación, noticias y clima para comprar café en Colombia.",
+  "lang": "es-CO",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#EDEFE6",
+  "theme_color": "#1C2217",
+  "icons": [
+    {"src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png"},
+    {"src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png"},
+    {"src": "icons/maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
+  ]
+}
