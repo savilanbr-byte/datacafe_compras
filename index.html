@@ -303,6 +303,14 @@ main{padding-bottom:calc(var(--tabh) + env(safe-area-inset-bottom,0px) + 28px)}
 .scope{font-size:10.5px;font-weight:700;letter-spacing:.06em;text-transform:uppercase;padding:2px 7px;border-radius:5px}
 .scope.co{background:var(--amber-soft);color:var(--warn)}
 .scope.mundo{background:var(--leaf-soft);color:var(--leaf)}
+.rtag{font-size:11px;font-weight:600;color:var(--ink);background:var(--sunk);border-radius:5px;padding:2px 7px}
+.newsbar{display:flex;flex-wrap:wrap;gap:8px 10px;align-items:center;justify-content:space-between}
+.rsel{display:flex;align-items:center;gap:8px;font-size:13px;color:var(--muted)}
+.rsel select{font:inherit;font-size:14px;padding:6px 30px 6px 10px;border-radius:999px;border:1px solid var(--line);background:var(--surface);color:var(--ink);max-width:60vw;
+  appearance:none;-webkit-appearance:none;background-image:linear-gradient(45deg,transparent 50%,var(--muted) 50%),linear-gradient(135deg,var(--muted) 50%,transparent 50%);
+  background-position:calc(100% - 15px) 52%,calc(100% - 10px) 52%;background-size:5px 5px;background-repeat:no-repeat}
+.rsel select.on{border-color:var(--ink);font-weight:600}
+.rhint{font-size:13px;color:var(--muted);margin:0}
 
 /* climate */
 .enso{padding:16px;display:flex;flex-direction:column;gap:10px;border-color:var(--amber)}
@@ -440,10 +448,13 @@ main{padding-bottom:calc(var(--tabh) + env(safe-area-inset-bottom,0px) + 28px)}
   <!-- NOTICIAS -->
   <section class="view" id="v-noticias" hidden>
     <div class="sec-h"><div><h2>Noticias del café</h2><p class="lede" id="newsLede">Colombia primero, luego el mercado mundial.</p></div></div>
-    <div class="chips" id="newsFilter" role="group" aria-label="Filtro">
-      <button class="chip" data-f="all" aria-pressed="true">Todas</button>
-      <button class="chip" data-f="co" aria-pressed="false">Colombia</button>
-      <button class="chip" data-f="mundo" aria-pressed="false">Mundo</button>
+    <div class="newsbar">
+      <div class="chips" id="newsFilter" role="group" aria-label="Filtro">
+        <button class="chip" data-f="all" aria-pressed="true">Todas</button>
+        <button class="chip" data-f="co" aria-pressed="false">Colombia</button>
+        <button class="chip" data-f="mundo" aria-pressed="false">Mundo</button>
+      </div>
+      <label class="rsel">Región <select id="newsRegion" aria-label="Región cafetera"><option value="">Todas</option></select></label>
     </div>
     <div id="newsBody"></div>
   </section>
@@ -1121,19 +1132,66 @@ function renderClima(){
 /* =========================================================
    NOTICIAS
    ========================================================= */
-let newsF="all";
-$$("#newsFilter .chip").forEach(b=>b.onclick=()=>{newsF=b.dataset.f;$$("#newsFilter .chip").forEach(x=>x.setAttribute("aria-pressed",x===b));renderNoticias();});
+/* Regiones cafeteras para filtrar noticias. Si una noticia no trae "regiones", se detectan por el texto. */
+const NEWS_REG=[
+  ["antioquia","Antioquia",["antioquia","medellin","ciudad bolivar","urrao","jardin antioquia","suroeste antioqueno"]],
+  ["caldas","Caldas",["caldas","manizales","chinchina","aguadas","riosucio"]],
+  ["risaralda","Risaralda",["risaralda","pereira","santa rosa de cabal","belen de umbria","apia"]],
+  ["quindio","Quindío",["quindio","armenia","montenegro","salento","calarca","parque del cafe"]],
+  ["valle","Valle del Cauca",["valle del cauca","sevilla","caicedonia","el cerrito"]],
+  ["tolima","Tolima",["tolima","planadas","ataco","chaparral","rioblanco","libano","ibague"]],
+  ["huila","Huila",["huila","pitalito","acevedo","garzon","san agustin","neiva"]],
+  ["cauca","Cauca",["cauca","popayan","inza","piendamo"]],
+  ["narino","Nariño",["narino","buesaco","sandona"]],
+  ["cundinamarca","Cundinamarca",["cundinamarca","viota","fusagasuga"]],
+  ["boyaca","Boyacá",["boyaca","moniquira"]],
+  ["santander","Santander",["santander","san gil","bucaramanga"]],
+  ["norte-santander","Norte de Santander",["norte de santander","salazar de las palmas","cucuta"]],
+  ["cesar","Cesar",["pueblo bello","valledupar","perija"]],
+  ["magdalena","Magdalena",["magdalena","santa marta","minca"]],
+  ["guajira","La Guajira",["guajira"]]
+];
+const NEWS_REG_NAME=Object.fromEntries(NEWS_REG.map(r=>[r[0],r[1]]));
+const newsNorm=t=>" "+String(t||"").toLowerCase().normalize("NFD").replace(/[̀-ͯ]/g,"").replace(/[^a-z0-9ñ]+/g," ")+" ";
+function newsRegs(x){
+  if(Array.isArray(x.regiones)) return x.regiones.filter(r=>NEWS_REG_NAME[r]);
+  if(x.scope!=="co") return [];
+  const raw=String(x.title||"")+" "+String(x.summary||"");
+  let t=newsNorm(raw);
+  const out=new Set();
+  if(t.includes(" eje cafetero ")) ["caldas","risaralda","quindio"].forEach(r=>out.add(r));
+  if(t.includes(" valle del cauca ")){ out.add("valle"); t=t.split(" valle del cauca ").join(" "); }
+  if(t.includes(" norte de santander ")){ out.add("norte-santander"); t=t.split(" norte de santander ").join(" "); }
+  if(/\bCesar\b/.test(raw)) out.add("cesar");
+  t=t.split(" banco santander ").join(" ");
+  NEWS_REG.forEach(([id,,kw])=>{ if(kw.some(k=>t.includes(" "+k+" "))) out.add(id); });
+  return NEWS_REG.map(r=>r[0]).filter(id=>out.has(id));
+}
+let newsF=LS.get("mc_news_f","all"), newsR=LS.get("mc_news_r","");
+if(!["all","co","mundo"].includes(newsF)) newsF="all";
+function setNewsF(f){ newsF=f; LS.set("mc_news_f",f); $$("#newsFilter .chip").forEach(x=>x.setAttribute("aria-pressed",x.dataset.f===f?"true":"false")); }
+$$("#newsFilter .chip").forEach(b=>b.onclick=()=>{ setNewsF(b.dataset.f); if(b.dataset.f==="mundo"){ newsR=""; LS.set("mc_news_r",""); } renderNoticias(); });
+$("#newsRegion").onchange=e=>{ newsR=e.target.value; LS.set("mc_news_r",newsR); if(newsR) setNewsF("co"); renderNoticias(); };
+setNewsF(newsF);
 function renderNoticias(){
-  const n=FEED.noticias, body=$("#newsBody");
+  const n=FEED.noticias, body=$("#newsBody"), sel=$("#newsRegion");
   if(!n||!n.items||!n.items.length){ body.innerHTML='<div class="empty"><strong>Todavía no hay noticias.</strong>Se cargan con la próxima actualización.</div>'; return; }
-  $("#newsLede").textContent="Colombia primero, luego el mercado mundial. Actualizado "+ago(n.updatedAt)+".";
-  let items=[...n.items].filter(x=>newsF==="all"||x.scope===newsF);
-  items.sort((a,b)=>(a.scope===b.scope?0:a.scope==="co"?-1:1)||String(b.date).localeCompare(String(a.date)));
-  if(newsF==="all"){ items=[...n.items].sort((a,b)=>String(b.date).localeCompare(String(a.date))); const co=items.filter(x=>x.scope==="co"), mu=items.filter(x=>x.scope!=="co"); items=co.concat(mu); }
-  if(!items.length){ body.innerHTML='<div class="empty">Sin noticias en este filtro.</div>'; return; }
-  const by=x=>'<div class="byline"><span class="scope '+(x.scope==="co"?"co":"mundo")+'">'+(x.scope==="co"?"Colombia":"Mundo")+'</span>'+(x.tag?'<span>'+esc(x.tag)+'</span>':'')+'<span>'+esc(fdate(x.date))+'</span><span>'+esc(x.source||"")+'</span></div>';
+  $("#newsLede").textContent="Colombia primero, luego el mercado mundial. Filtra por región cafetera para ver solo lo de una zona. Actualizado "+ago(n.updatedAt)+".";
+  const all=n.items.map(x=>({...x,_r:newsRegs(x)}));
+  const cnt={}; all.forEach(x=>x._r.forEach(r=>cnt[r]=(cnt[r]||0)+1));
+  if(newsR&&!NEWS_REG_NAME[newsR]) newsR="";
+  sel.innerHTML='<option value="">Todas</option>'+NEWS_REG.map(([id,nm])=>'<option value="'+id+'"'+(cnt[id]?'':' disabled')+(id===newsR?' selected':'')+'>'+esc(nm)+(cnt[id]?' ('+cnt[id]+')':'')+'</option>').join("");
+  sel.classList.toggle("on",!!newsR);
+  let items=all.filter(x=>newsF==="all"||x.scope===newsF);
+  if(newsR) items=items.filter(x=>x._r.includes(newsR));
+  items.sort((a,b)=>String(b.date).localeCompare(String(a.date)));
+  if(newsF==="all"&&!newsR){ const co=items.filter(x=>x.scope==="co"), mu=items.filter(x=>x.scope!=="co"); items=co.concat(mu); }
+  if(!items.length){ body.innerHTML='<div class="empty">'+(newsR?'<strong>Sin noticias de '+esc(NEWS_REG_NAME[newsR])+' en los últimos días.</strong>Prueba con otra región o vuelve a "Todas".':'Sin noticias en este filtro.')+'</div>'; return; }
+  const tags=x=>{ const r=x._r; if(!r.length) return ""; const sh=r.slice(0,3).map(id=>'<span class="rtag">'+esc(NEWS_REG_NAME[id])+'</span>').join(""); return sh+(r.length>3?'<span class="rtag">+'+(r.length-3)+'</span>':""); };
+  const by=x=>'<div class="byline"><span class="scope '+(x.scope==="co"?"co":"mundo")+'">'+(x.scope==="co"?"Colombia":"Mundo")+'</span>'+tags(x)+(x.tag?'<span>'+esc(x.tag)+'</span>':'')+'<span>'+esc(fdate(x.date))+'</span><span>'+esc(x.source||"")+'</span></div>';
   const lead=items[0];
-  let h='<article class="card lead">'+by(lead)+'<h3><a href="'+esc(lead.url)+'" target="_blank" rel="noopener">'+esc(lead.title)+'</a></h3><p>'+esc(lead.summary||"")+'</p></article>';
+  let h=newsR?'<p class="rhint">'+items.length+(items.length===1?' noticia menciona ':' noticias mencionan ')+esc(NEWS_REG_NAME[newsR])+'.</p>':'';
+  h+='<article class="card lead">'+by(lead)+'<h3><a href="'+esc(lead.url)+'" target="_blank" rel="noopener">'+esc(lead.title)+'</a></h3><p>'+esc(lead.summary||"")+'</p></article>';
   h+='<ul class="news">'+items.slice(1).map(x=>'<li>'+by(x)+'<h3><a href="'+esc(x.url)+'" target="_blank" rel="noopener">'+esc(x.title)+'</a></h3>'+(x.summary?'<p>'+esc(x.summary)+'</p>':'')+'</li>').join("")+'</ul>';
   body.innerHTML=h;
 }
