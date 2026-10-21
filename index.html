@@ -339,13 +339,11 @@ main{padding-bottom:calc(var(--tabh) + env(safe-area-inset-bottom,0px) + 28px)}
 .live .ldot{width:8px;height:8px;border-radius:50%;background:var(--up);box-shadow:0 0 0 3px color-mix(in srgb,var(--up) 22%,transparent)}
 .live .chev{color:var(--muted);transition:transform .2s ease}
 .live[open] .chev{transform:rotate(180deg)}
-.lgrid{display:grid;grid-template-columns:minmax(0,1fr);gap:10px;padding:0 14px}
-@media (min-width:600px){.lgrid{grid-template-columns:repeat(3,minmax(0,1fr))}}
-.lcard{border:1px solid var(--line);border-radius:10px;background:var(--bg);padding:6px 10px 0;min-width:0}
-.lcard .lbl{font-size:12.5px}
-.lcard .lbl{display:flex;justify-content:space-between;gap:8px}
-.lcard .tv{height:120px;overflow:hidden}
-.lcard .tv,.lcard .tv iframe{color-scheme:normal}
+.lstrip{min-height:78px}
+.lchart{height:170px;padding:0 6px}
+.lstrip,.lchart,.lstrip iframe,.lchart iframe{color-scheme:normal}
+.lsep{height:1px;background:var(--line);margin:4px 14px 0}
+.lwait{font-size:13px;color:var(--muted);padding:6px 14px 10px;margin:0}
 .live .lnote{font-size:12.5px;color:var(--muted);line-height:1.4;padding:10px 14px 14px;margin:0}
 @media (prefers-reduced-motion:reduce){.live .chev{transition:none}}
 
@@ -410,8 +408,8 @@ main{padding-bottom:calc(var(--tabh) + env(safe-area-inset-bottom,0px) + 28px)}
     <div class="sec-h"><div><h2>Precios y mercado</h2><p class="lede" id="mktLede">Último dato disponible de cada fuente, con su fecha. Los futuros llegan con retraso; no es una pantalla de trading.</p></div></div>
     <details class="card live" id="liveBox" open>
       <summary><h3><span class="ldot" aria-hidden="true"></span>En vivo</h3><span class="small muted">TradingView <span class="chev" aria-hidden="true">▾</span></span></summary>
-      <div class="lgrid" id="liveGrid"></div>
-      <p class="lnote">Se mueven durante la sesión. El café es la cotización de Pepperstone (CFD) que sigue al contrato frente del KC, en ¢/lb; puede diferir unos centavos, sobre todo cerca del vencimiento. Las tarjetas de abajo y la calculadora usan los datos con fecha y fuente.</p>
+      <div id="liveGrid"></div>
+      <p class="lnote">Se mueven durante la sesión. La gráfica es el café del día: la cotización de Pepperstone (CFD) que sigue al contrato frente del KC, en ¢/lb; puede diferir unos centavos, sobre todo cerca del vencimiento. Las tarjetas de abajo y la calculadora usan los datos con fecha y fuente.</p>
     </details>
     <div id="mktBody"></div>
   </section>
@@ -532,29 +530,34 @@ function show(t){
 $$(".tab").forEach(b=>b.addEventListener("click",()=>{show(b.dataset.t);window.scrollTo(0,0);}));
 /* ---------- en vivo (TradingView) ---------- */
 const TV_LIVE=[
-  {sym:"FX_IDC:USDCOP", lbl:"Dólar · peso colombiano", unit:"COP/USD"},
-  {sym:"FX_IDC:USDBRL", lbl:"Dólar · real brasileño", unit:"BRL/USD"},
-  {sym:"PEPPERSTONE:COFFEE", lbl:"Café arábica · CFD del KC", unit:"¢/lb"}
+  {proName:"FX_IDC:USDCOP", title:"USD/COP"},
+  {proName:"FX_IDC:USDBRL", title:"USD/BRL"},
+  {proName:"PEPPERSTONE:COFFEE", title:"Café KC (CFD)"}
 ];
 let liveDone=false;
 function liveTheme(){ const t=document.documentElement.getAttribute("data-theme");
   if(t==="dark"||t==="light") return t;
   return window.matchMedia&&matchMedia("(prefers-color-scheme: dark)").matches?"dark":"light"; }
+function tvMount(el,kind,cfg){
+  el.classList.add("tradingview-widget-container");
+  const i=document.createElement("div"); i.className="tradingview-widget-container__widget"; el.appendChild(i);
+  const sc=document.createElement("script"); sc.async=true;
+  sc.src="https://s3.tradingview.com/external-embedding/embed-widget-"+kind+".js";
+  sc.textContent=JSON.stringify(cfg); el.appendChild(sc);
+}
 function loadLive(){
   const box=$("#liveBox"); if(liveDone||!box||!box.open) return;
   const grid=$("#liveGrid");
-  if(navigator.onLine===false){ grid.innerHTML='<p class="small muted" style="margin:0">Sin conexión: los precios en vivo aparecen cuando vuelva la red.</p>'; return; }
+  if(navigator.onLine===false){ grid.innerHTML='<p class="lwait">Sin conexión: los precios en vivo aparecen cuando vuelva la red.</p>'; return; }
   liveDone=true; grid.innerHTML="";
-  TV_LIVE.forEach(x=>{
-    const c=document.createElement("div"); c.className="lcard";
-    c.innerHTML='<div class="lbl"><span>'+esc(x.lbl)+'</span><span class="muted">'+esc(x.unit)+'</span></div>';
-    const w=document.createElement("div"); w.className="tradingview-widget-container tv";
-    const i=document.createElement("div"); i.className="tradingview-widget-container__widget"; w.appendChild(i);
-    const sc=document.createElement("script"); sc.async=true;
-    sc.src="https://s3.tradingview.com/external-embedding/embed-widget-mini-symbol-overview.js";
-    sc.textContent=JSON.stringify({symbol:x.sym,width:"100%",height:120,locale:"es",dateRange:"1D",colorTheme:liveTheme(),isTransparent:true,autosize:false,noTimeScale:false,chartOnly:false,largeChartUrl:""});
-    w.appendChild(sc); c.appendChild(w); grid.appendChild(c);
-  });
+  const theme=liveTheme();
+  const strip=document.createElement("div"); strip.className="lstrip";
+  const sep=document.createElement("div"); sep.className="lsep";
+  const chart=document.createElement("div"); chart.className="lchart";
+  grid.append(strip,sep,chart);
+  tvMount(strip,"tickers",{symbols:TV_LIVE,isTransparent:true,showSymbolLogo:true,colorTheme:theme,locale:"es"});
+  tvMount(chart,"mini-symbol-overview",{symbol:"PEPPERSTONE:COFFEE",width:"100%",height:170,locale:"es",dateRange:"1D",
+    colorTheme:theme,isTransparent:true,autosize:false,chartOnly:true,largeChartUrl:""});
 }
 (function(){ const box=$("#liveBox"); if(!box) return;
   if(LS.get("mc_live_open",true)===false) box.open=false;
