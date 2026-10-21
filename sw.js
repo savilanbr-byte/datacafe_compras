@@ -1,5 +1,5 @@
 // DataCafé service worker: app disponible sin conexión, datos siempre frescos cuando hay red.
-const VERSION = "datacafe-v3";
+const VERSION = "datacafe-v4";
 const SHELL = ["./", "index.html", "manifest.webmanifest", "icons/icon-192.png", "icons/icon-512.png", "icons/apple-touch-icon.png", "icons/favicon-32.png"];
 
 self.addEventListener("install", e => {
@@ -12,6 +12,8 @@ self.addEventListener("fetch", e => {
   const req = e.request;
   if (req.method !== "GET") return;
   const url = new URL(req.url);
+  // Precios en vivo (TradingView): siempre directo a la red.
+  if (/(^|\.)tradingview\.com$/.test(url.hostname)) return;
   // Datos: la app ya guarda la última copia; no los cacheamos aquí.
   if (url.origin === location.origin && url.pathname.includes("/data/")) return;
   // Página: red primero, para recibir versiones nuevas; si no hay red, la copia guardada.

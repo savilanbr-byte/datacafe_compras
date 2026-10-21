@@ -330,6 +330,24 @@ main{padding-bottom:calc(var(--tabh) + env(safe-area-inset-bottom,0px) + 28px)}
 
 .toast{position:fixed;left:50%;transform:translateX(-50%);bottom:calc(var(--tabh) + env(safe-area-inset-bottom,0px) + 14px);background:var(--ink);color:var(--surface);padding:9px 14px;border-radius:10px;font-size:13.5px;z-index:20;max-width:calc(100% - 32px)}
 @media (max-width:380px){.tab{font-size:10px}.facts{grid-template-columns:repeat(2,minmax(0,1fr))}}
+
+/* en vivo (TradingView) */
+.live{padding:0;margin-bottom:6px}
+.live>summary{list-style:none;cursor:pointer;display:flex;align-items:center;justify-content:space-between;gap:10px;padding:12px 14px}
+.live>summary::-webkit-details-marker{display:none}
+.live>summary h3{display:flex;align-items:center;gap:8px}
+.live .ldot{width:8px;height:8px;border-radius:50%;background:var(--up);box-shadow:0 0 0 3px color-mix(in srgb,var(--up) 22%,transparent)}
+.live .chev{color:var(--muted);transition:transform .2s ease}
+.live[open] .chev{transform:rotate(180deg)}
+.lgrid{display:grid;grid-template-columns:minmax(0,1fr);gap:10px;padding:0 14px}
+@media (min-width:600px){.lgrid{grid-template-columns:repeat(3,minmax(0,1fr))}}
+.lcard{border:1px solid var(--line);border-radius:10px;background:var(--bg);padding:6px 10px 0;min-width:0}
+.lcard .lbl{font-size:12.5px}
+.lcard .lbl{display:flex;justify-content:space-between;gap:8px}
+.lcard .tv{height:120px;overflow:hidden}
+.live .lnote{font-size:12.5px;color:var(--muted);line-height:1.4;padding:10px 14px 14px;margin:0}
+@media (prefers-reduced-motion:reduce){.live .chev{transition:none}}
+
 /* menú lateral */
 .top-l{display:flex;align-items:center;gap:6px;min-width:0}
 .menu-btn{background:none;border:0;width:38px;height:38px;margin-left:-8px;border-radius:10px;display:inline-flex;align-items:center;justify-content:center;flex:none}
@@ -389,6 +407,11 @@ main{padding-bottom:calc(var(--tabh) + env(safe-area-inset-bottom,0px) + 28px)}
   <!-- MERCADO -->
   <section class="view" id="v-mercado" hidden>
     <div class="sec-h"><div><h2>Precios y mercado</h2><p class="lede" id="mktLede">Último dato disponible de cada fuente, con su fecha. Los futuros llegan con retraso; no es una pantalla de trading.</p></div></div>
+    <details class="card live" id="liveBox" open>
+      <summary><h3><span class="ldot" aria-hidden="true"></span>En vivo</h3><span class="small muted">TradingView <span class="chev" aria-hidden="true">▾</span></span></summary>
+      <div class="lgrid" id="liveGrid"></div>
+      <p class="lnote">Se mueven durante la sesión. El café es la cotización de Pepperstone (CFD) que sigue al contrato frente del KC, en ¢/lb; puede diferir unos centavos, sobre todo cerca del vencimiento. Las tarjetas de abajo y la calculadora usan los datos con fecha y fuente.</p>
+    </details>
     <div id="mktBody"></div>
   </section>
 
@@ -503,8 +526,40 @@ function show(t){
   $$(".view").forEach(v=>v.hidden=v.id!=="v-"+t);
   $$(".tab").forEach(b=>b.setAttribute("aria-current",b.dataset.t===t?"page":"false"));
   LS.set("mc_tab",t);
+  if(t==="mercado"&&typeof loadLive==="function") loadLive();
 }
 $$(".tab").forEach(b=>b.addEventListener("click",()=>{show(b.dataset.t);window.scrollTo(0,0);}));
+/* ---------- en vivo (TradingView) ---------- */
+const TV_LIVE=[
+  {sym:"FX_IDC:USDCOP", lbl:"Dólar · peso colombiano", unit:"COP/USD"},
+  {sym:"FX_IDC:USDBRL", lbl:"Dólar · real brasileño", unit:"BRL/USD"},
+  {sym:"PEPPERSTONE:COFFEE", lbl:"Café arábica · CFD del KC", unit:"¢/lb"}
+];
+let liveDone=false;
+function liveTheme(){ const t=document.documentElement.getAttribute("data-theme");
+  if(t==="dark"||t==="light") return t;
+  return window.matchMedia&&matchMedia("(prefers-color-scheme: dark)").matches?"dark":"light"; }
+function loadLive(){
+  const box=$("#liveBox"); if(liveDone||!box||!box.open) return;
+  const grid=$("#liveGrid");
+  if(navigator.onLine===false){ grid.innerHTML='<p class="small muted" style="margin:0">Sin conexión: los precios en vivo aparecen cuando vuelva la red.</p>'; return; }
+  liveDone=true; grid.innerHTML="";
+  TV_LIVE.forEach(x=>{
+    const c=document.createElement("div"); c.className="lcard";
+    c.innerHTML='<div class="lbl"><span>'+esc(x.lbl)+'</span><span class="muted">'+esc(x.unit)+'</span></div>';
+    const w=document.createElement("div"); w.className="tradingview-widget-container tv";
+    const i=document.createElement("div"); i.className="tradingview-widget-container__widget"; w.appendChild(i);
+    const sc=document.createElement("script"); sc.async=true;
+    sc.src="https://s3.tradingview.com/external-embedding/embed-widget-mini-symbol-overview.js";
+    sc.textContent=JSON.stringify({symbol:x.sym,width:"100%",height:120,locale:"es",dateRange:"1D",colorTheme:liveTheme(),isTransparent:true,autosize:false,noTimeScale:false,chartOnly:false,largeChartUrl:""});
+    w.appendChild(sc); c.appendChild(w); grid.appendChild(c);
+  });
+}
+(function(){ const box=$("#liveBox"); if(!box) return;
+  if(LS.get("mc_live_open",true)===false) box.open=false;
+  box.addEventListener("toggle",()=>{ LS.set("mc_live_open",box.open); if(box.open&&!$("#v-mercado").hidden) loadLive(); });
+  window.addEventListener("online",()=>{ if(!liveDone&&!$("#v-mercado").hidden) loadLive(); });
+})();
 /* ---------- menú lateral ---------- */
 const drawer=$("#drawer"), drawerBg=$("#drawerBg"), menuBtn=$("#menuBtn");
 $("#dnav").innerHTML=$$(".tabbar .tab").map(b=>'<button data-t="'+b.dataset.t+'">'+b.innerHTML+'</button>').join("");
