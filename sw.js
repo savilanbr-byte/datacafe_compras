@@ -1,5 +1,5 @@
 // DataCafé service worker: app disponible sin conexión, datos siempre frescos cuando hay red.
-const VERSION = "datacafe-v2";
+const VERSION = "datacafe-v3";
 const SHELL = ["./", "index.html", "manifest.webmanifest", "icons/icon-192.png", "icons/icon-512.png", "icons/apple-touch-icon.png", "icons/favicon-32.png"];
 
 self.addEventListener("install", e => {
@@ -15,6 +15,8 @@ self.addEventListener("fetch", e => {
   // Datos: la app ya guarda la última copia; no los cacheamos aquí.
   if (url.origin === location.origin && url.pathname.includes("/data/")) return;
   // Página: red primero, para recibir versiones nuevas; si no hay red, la copia guardada.
+  // Solo la app (raíz o index.html) se guarda como copia sin conexión; otras páginas van directo a la red.
+  if (req.mode === "navigate" && !/\/(index\.html)?$/.test(url.pathname)) return;
   if (req.mode === "navigate") {
     e.respondWith(fetch(req).then(r => { const cp = r.clone(); caches.open(VERSION).then(c => c.put("index.html", cp)); return r; })
       .catch(() => caches.match("index.html")));

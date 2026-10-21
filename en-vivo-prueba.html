@@ -1,0 +1,64 @@
+<!doctype html>
+<html lang="es-CO">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>DataCafé · Prueba en vivo</title>
+<style>
+:root{--bg:#EDEFE6;--surface:#FAFBF6;--ink:#1C2217;--muted:#5B6453;--line:#D2D7C6;--cherry:#A8261C}
+@media (prefers-color-scheme:dark){:root{--bg:#121510;--surface:#1A1F16;--ink:#E6E9DD;--muted:#9AA391;--line:#2F3828;--cherry:#E4675B}}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font:15px/1.45 system-ui,-apple-system,"Segoe UI",sans-serif}
+.wrap{max-width:720px;margin:0 auto;padding:16px 16px 40px}
+h1{font-size:21px;margin:4px 0 6px}
+p.lead{color:var(--muted);margin:0 0 16px;font-size:14px}
+.card{background:var(--surface);border:1px solid var(--line);border-radius:12px;padding:12px 12px 6px;margin-bottom:12px}
+.card h2{font-size:15px;margin:0 0 2px;display:flex;justify-content:space-between;gap:8px}
+.card h2 span{font:500 12px ui-monospace,Menlo,monospace;color:var(--muted)}
+.card .q{font-size:12.5px;color:var(--muted);margin:0 0 6px}
+.n{display:inline-flex;align-items:center;justify-content:center;width:22px;height:22px;border-radius:50%;background:var(--cherry);color:#fff;font-size:12px;font-weight:700;margin-right:6px}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <h1>Prueba de precios en vivo</h1>
+  <p class="lead">Cada tarjeta intenta cargar un símbolo de TradingView. Anota qué números muestran precio y gráfica, cuáles dicen que el símbolo no está disponible y si alguno marca "retrasado" (delayed).</p>
+  <div id="list"></div>
+</div>
+<script>
+(function(){
+  "use strict";
+  var dark = window.matchMedia && matchMedia("(prefers-color-scheme: dark)").matches;
+  var S = [
+    ["USD/COP", "FX_IDC:USDCOP", "Peso colombiano"],
+    ["USD/BRL", "FX_IDC:USDBRL", "Real brasileño"],
+    ["Café arábica KC · frente", "ICEUS:KC1!", "Futuro ICE Nueva York (contrato frente)"],
+    ["Café arábica KC · Mar-27", "ICEUS:KCH2027", "Futuro ICE, contrato específico"],
+    ["Café arábica · CFD", "CAPITALCOM:COFFEE", "CFD que sigue al KC (respaldo)"],
+    ["Café arábica · CFD", "PEPPERSTONE:COFFEE", "Otro CFD (respaldo)"],
+    ["Robusta Londres · frente", "ICEEUR:RC1!", "Futuro ICE Europa"],
+    ["Índice dólar DXY", "TVC:DXY", "Referencia del dólar"]
+  ];
+  var list = document.getElementById("list");
+  S.forEach(function(s, i){
+    var card = document.createElement("section");
+    card.className = "card";
+    card.innerHTML = '<h2><span style="font:inherit;color:inherit"><b class="n">' + (i+1) + '</b>' + s[0] + '</span><span>' + s[1] + '</span></h2><p class="q">' + s[2] + '</p>';
+    var box = document.createElement("div");
+    box.className = "tradingview-widget-container";
+    var inner = document.createElement("div");
+    inner.className = "tradingview-widget-container__widget";
+    box.appendChild(inner);
+    var sc = document.createElement("script");
+    sc.src = "https://s3.tradingview.com/external-embedding/embed-widget-mini-symbol-overview.js";
+    sc.async = true;
+    sc.textContent = JSON.stringify({symbol: s[1], width: "100%", height: 200, locale: "es", dateRange: "1D",
+      colorTheme: dark ? "dark" : "light", isTransparent: true, autosize: false, largeChartUrl: ""});
+    box.appendChild(sc);
+    card.appendChild(box);
+    list.appendChild(card);
+  });
+})();
+</script>
+</body>
+</html>
