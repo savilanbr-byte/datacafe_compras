@@ -84,18 +84,18 @@
    "value": 2235000
   },
   "icestocks": {
-   "asOf": "2026-10-19",
+   "asOf": "2026-10-20",
    "dec": 0,
    "label": "Inventarios certificados ICE",
-   "note": "Reuters 19-oct; mínimo en 27 años: 217.646 (sep)",
-   "source": "ICE · Reuters/ESM",
+   "note": "ADM 21-oct (cierre del martes 20); mínimo en 27 años: 217.646 (15-sep)",
+   "source": "ICE · ADM Investor Services",
    "unit": "sacos",
-   "url": "https://www.esmmagazine.com/supply-chain/arabica-coffee-touches-one-month-high-amid-low-stocks-strong-brazil-currency-324039",
-   "value": 240767
+   "url": "https://admis.com/cotton-faces-new-rain-risk",
+   "value": 234901
   },
   "icoComp": {
    "asOf": "2026-10-20",
-   "changePct": -1.0,
+   "changePct": -1,
    "dec": 0,
    "label": "Indicador compuesto OIC",
    "source": "OIC · La República",
@@ -105,7 +105,7 @@
   },
   "kc1": {
    "asOf": "2026-10-21",
-   "change": 5.35,
+   "change": 4.85,
    "chgDec": 2,
    "contract": "Dic-26",
    "dec": 2,
@@ -114,7 +114,7 @@
    "source": "Investing.com",
    "unit": "¢/lb",
    "url": "https://www.investing.com/commodities/us-coffee-c-historical-data",
-   "value": 316.65
+   "value": 316.15
   },
   "kc2": {
    "asOf": "2026-10-21",
@@ -123,11 +123,11 @@
    "contract": "Mar-27",
    "dec": 2,
    "label": "KC C2",
+   "note": "Cierre 21-oct; derivado de la página de contratos (cotización del 22-oct menos su variación)",
    "source": "Investing.com",
    "unit": "¢/lb",
    "url": "https://www.investing.com/commodities/us-coffee-c-contracts",
-   "value": 301.25,
-   "note": "Página de contratos con retraso; allí C1 = 316,15"
+   "value": 301.25
   },
   "kc3": {
    "asOf": "2026-10-21",
@@ -136,11 +136,11 @@
    "contract": "May-27",
    "dec": 2,
    "label": "KC C3",
+   "note": "Cierre 21-oct; derivado de la página de contratos (cotización del 22-oct menos su variación)",
    "source": "Investing.com",
    "unit": "¢/lb",
    "url": "https://www.investing.com/commodities/us-coffee-c-contracts",
-   "value": 296.2,
-   "note": "Página de contratos con retraso; allí C1 = 316,15"
+   "value": 296.2
   },
   "kc4": {
    "asOf": "2026-10-21",
@@ -149,11 +149,11 @@
    "contract": "Jul-27",
    "dec": 2,
    "label": "KC C4",
+   "note": "Cierre 21-oct; derivado de la página de contratos (cotización del 22-oct menos su variación)",
    "source": "Investing.com",
    "unit": "¢/lb",
    "url": "https://www.investing.com/commodities/us-coffee-c-contracts",
-   "value": 292.85,
-   "note": "Página de contratos con retraso; allí C1 = 316,15"
+   "value": 292.85
   },
   "milds": {
    "asOf": "2026-10-20",
@@ -177,29 +177,29 @@
    "value": 12.65
   },
   "robusta": {
-   "asOf": "2026-10-21",
-   "change": -62,
-   "changePct": -1.81,
+   "asOf": "2026-10-22",
+   "change": -101,
+   "changePct": -3.01,
    "contract": "Nov-26",
    "dec": 0,
    "label": "Robusta Londres (ICE)",
-   "note": "Mostrado como cerrado; la página no indica fecha (se asume 21-oct)",
+   "note": "Intradía (22-oct 07:46 hora de la página)",
    "source": "Investing.com",
    "unit": "USD/t",
    "url": "https://www.investing.com/commodities/london-coffee",
-   "value": 3356
+   "value": 3255
   },
   "trm": {
-   "asOf": "2026-10-21",
-   "change": 7.44,
+   "asOf": "2026-10-22",
+   "change": 27.71,
    "chgDec": 2,
    "dec": 2,
    "label": "TRM",
    "source": "Superfinanciera",
    "unit": "COP/USD",
    "url": "https://www.datos.gov.co/Econom-a-y-Finanzas/Tasa-de-Cambio-Representativa-del-Mercado-TRM/32sa-8pi3",
-   "value": 3163.76
+   "value": 3191.47
   }
  },
- "updatedAt": "2026-10-21T19:55:00Z"
+ "updatedAt": "2026-10-22T11:48:54Z"
 }

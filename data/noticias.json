@@ -1,44 +1,82 @@
 {
  "items": [
   {
-   "date": "2026-10-13",
-   "id": "n3",
+   "date": "2026-10-21",
+   "id": "n21",
+   "regiones": [],
    "scope": "co",
    "source": "Infobae",
-   "summary": "La segunda temporada de lluvias sigue activa en la región Andina, Caribe y Pacífica. 567 municipios tienen alerta por deslizamientos. El déficit se sentiría con más fuerza desde diciembre.",
-   "tag": "Clima",
-   "title": "Pese a El Niño, el IDEAM prevé lluvias intensas en 22 departamentos",
-   "url": "https://www.infobae.com/colombia/2026/10/13/el-ideam-preve-lluvias-intensas-en-22-departamentos-pese-a-declaratoria-oficial-del-inicio-del-fenomeno-de-el-nino/"
+   "summary": "La TRM subió $7,44 y el dólar spot abrió en torno a $3.191; en octubre acumula una caída de 5,1%. El petróleo alto y la Fed (reunión del 27–28 de octubre) marcan el rumbo; con un peso fuerte, el ingreso en pesos por saco sigue presionado.",
+   "tag": "Divisas",
+   "title": "TRM sube a $3.163,76 y el dólar abre sobre $3.190, con el Brent cerca de US$111",
+   "url": "https://www.infobae.com/colombia/2026/10/21/dolar-hoy-en-colombia-cotizacion-de-apertura-del-21-de-octubre/"
   },
   {
-   "date": "2026-10-15",
-   "id": "n6",
+   "id": "n23",
    "scope": "co",
-   "source": "Agronegocios",
-   "summary": "Del 15 al 18 de octubre en Bogotá, con más de 150 expositores y campeonatos nacionales.",
-   "tag": "Eventos",
-   "title": "Abre Cafés de Colombia Expo 2026 en Corferias",
-   "url": "https://www.agronegocios.co/ferias/cafes-de-colombia-expo-2026-abre-hoy-sus-puertas-con-mas-de-150-expositores-en-corferias-4503471"
+   "tag": "Agricultura",
+   "date": "2026-10-21",
+   "source": "Infobae",
+   "url": "https://www.infobae.com/colombia/2026/10/21/clan-del-golfo-estaria-extorsionando-a-caficultores-de-antioquia-con-decomiso-de-parte-de-su-cosecha-gobernacion-ofrece-recompensas/",
+   "title": "Denuncian cobros del Clan del Golfo a caficultores del norte de Antioquia",
+   "summary": "Caficultores de Toledo y San Andrés de Cuerquia reportan que les exigen una carga por cada diez cosechadas, o hasta 16% de sus ventas; la Gobernación ofrece hasta $500 millones de recompensa. Las denuncias aún deben verificarse; la cosecha de Antioquia se estima 15–20% menor, cerca de 1,9 millones de sacos.",
+   "regiones": [
+    "antioquia"
+   ]
   },
   {
-   "date": "2026-10-14",
-   "id": "n9",
-   "scope": "mundo",
-   "source": "Barchart · TradingView",
-   "summary": "Brasil cosecharía 67,6 millones de sacos en 2026, con 48,21 millones de arábica. Los inventarios certificados ICE rebotaron a 260.654 sacos tras tocar mínimo de 27 años.",
-   "tag": "Producción",
-   "title": "Conab sube su estimado de Brasil: arábica +34,8%",
-   "url": "https://www.tradingview.com/news/barchart:f50148f03094b:0-arabica-coffee-prices-finish-higher-on-supply-concerns/"
+   "id": "n24",
+   "scope": "co",
+   "tag": "Agricultura",
+   "date": "2026-10-21",
+   "source": "La Última",
+   "url": "https://laultima.com.co/2026/10/21/huila-construira-cinco-microcentrales-cafeteras-e-infraestructura-agroindustrial-para-frutas",
+   "title": "Huila construirá cinco microcentrales de beneficio de café con una inversión de $3.218 millones",
+   "summary": "La Gobernación y el consorcio CISP–VENSER firmaron un memorando para levantar las plantas en nueve municipios, entre ellos Pitalito, Garzón, Acevedo y La Plata. Busca dar más valor agregado al café local.",
+   "regiones": [
+    "huila"
+   ]
   },
   {
-   "date": "2026-10-14",
-   "id": "n10",
+   "id": "n25",
    "scope": "mundo",
-   "source": "Comunicaffe",
-   "summary": "El arábica diciembre subió a 292,70 ¢/lb el 13-oct. La UE y JDE Peet's financian un proyecto con 65 empresas cafeteras en Vietnam.",
-   "tag": "Industria",
-   "title": "Nestlé duplica su inversión en México a US$2.000 millones",
-   "url": "https://www.comunicaffe.com/arabica-coffee-futures-extend-recovery-nestle-to-invest-us2bn-in-mexico-the-eu-and-jde-peets-to-fund-a-project-in-vietnams-arabica-coffee-growing-region/"
+   "tag": "Mercado",
+   "date": "2026-10-21",
+   "source": "ADM Investor Services",
+   "url": "https://admis.com/cotton-faces-new-rain-risk",
+   "title": "Inventarios certificados de arábica bajan a 234.901 sacos",
+   "summary": "Cayeron 4.951 sacos el martes 20-oct, el nivel más bajo desde el 16 de septiembre, y sostienen el mercado ante la expectativa de oferta ajustada para la entrega de diciembre. El mínimo de 27 años sigue en 217.646 sacos."
+  },
+  {
+   "date": "2026-10-19",
+   "id": "n18",
+   "scope": "mundo",
+   "source": "Reuters · ESM",
+   "summary": "El arábica ICE subió 1,5% a US$3,103/lb tras tocar US$3,138; los inventarios certificados son 240.767 sacos, cerca del mínimo de 27 años (217.646). El robusta subió 1,5% a US$3.454/t.",
+   "tag": "Mercado",
+   "title": "Arábica toca máximo de un mes por inventarios bajos y real fuerte",
+   "url": "https://www.esmmagazine.com/supply-chain/arabica-coffee-touches-one-month-high-amid-low-stocks-strong-brazil-currency-324039"
+  },
+  {
+   "date": "2026-10-18",
+   "id": "n22",
+   "scope": "mundo",
+   "source": "Moncloa",
+   "summary": "La Comisión Europea afirma que no habrá un tercer aplazamiento del EUDR para medianas y grandes empresas y dice haber recortado 75% los costos de cumplimiento frente a su estimación de 2023. Los exportadores colombianos deben tener listos los datos de geolocalización de las fincas antes de fin de año.",
+   "tag": "Regulación",
+   "title": "UE reitera que el reglamento antideforestación aplica al café desde el 30 de diciembre",
+   "url": "https://www.moncloa.com/2026/10/18/reglamento-deforestacion-ue-soja-cafe-3450573"
+  },
+  {
+   "id": "n26",
+   "scope": "co",
+   "tag": "Divisas",
+   "date": "2026-10-18",
+   "source": "Infobae",
+   "url": "https://www.infobae.com/colombia/2026/10/18/precio-del-dolar-en-colombia-que-pasara-con-la-moneda-entre-el-19-y-el-23-de-octubre-de-2026-expertos-dicen-por-que-seguiria-barato/",
+   "title": "Dólar a la baja en octubre: expertos ven el rango $3.120–$3.220 mientras la Fed podría subir tasas",
+   "summary": "La TRM acumula una caída de 4,17% en octubre; la tasa del Banco de la República está en 12,25% y la Fed (reunión 27–28 de octubre) tiene cerca de 50% de probabilidad de alza. Un peso fuerte resta ingreso en pesos al caficultor aunque el arábica se mantenga sobre 300 ¢/lb.",
+   "regiones": []
   },
   {
    "date": "2026-10-16",
@@ -101,16 +139,6 @@
    "url": "https://tradingeconomics.com/commodity/coffee/news/592784"
   },
   {
-   "date": "2026-10-19",
-   "id": "n18",
-   "scope": "mundo",
-   "source": "Reuters · ESM",
-   "summary": "El arábica ICE subió 1,5% a US$3,103/lb tras tocar US$3,138; los inventarios certificados son 240.767 sacos, cerca del mínimo de 27 años (217.646). El robusta subió 1,5% a US$3.454/t.",
-   "tag": "Mercado",
-   "title": "Arábica toca máximo de un mes por inventarios bajos y real fuerte",
-   "url": "https://www.esmmagazine.com/supply-chain/arabica-coffee-touches-one-month-high-amid-low-stocks-strong-brazil-currency-324039"
-  },
-  {
    "date": "2026-10-16",
    "id": "n19",
    "regiones": [],
@@ -122,26 +150,45 @@
    "url": "https://www.valoraanalitik.com/fertilizantes-subirian-de-precio-en-colombia-y-afectaria-precios-de-alimentos-por-repunte-internacional-de-la-urea/"
   },
   {
-   "id": "n21",
+   "date": "2026-10-15",
+   "id": "n6",
    "scope": "co",
-   "regiones": [],
-   "tag": "Divisas",
-   "date": "2026-10-21",
-   "source": "Infobae",
-   "url": "https://www.infobae.com/colombia/2026/10/21/dolar-hoy-en-colombia-cotizacion-de-apertura-del-21-de-octubre/",
-   "title": "TRM sube a $3.163,76 y el dólar abre sobre $3.190, con el Brent cerca de US$111",
-   "summary": "La TRM subió $7,44 y el dólar spot abrió en torno a $3.191; en octubre acumula una caída de 5,1%. El petróleo alto y la Fed (reunión del 27–28 de octubre) marcan el rumbo; con un peso fuerte, el ingreso en pesos por saco sigue presionado."
+   "source": "Agronegocios",
+   "summary": "Del 15 al 18 de octubre en Bogotá, con más de 150 expositores y campeonatos nacionales.",
+   "tag": "Eventos",
+   "title": "Abre Cafés de Colombia Expo 2026 en Corferias",
+   "url": "https://www.agronegocios.co/ferias/cafes-de-colombia-expo-2026-abre-hoy-sus-puertas-con-mas-de-150-expositores-en-corferias-4503471"
   },
   {
-   "id": "n22",
+   "date": "2026-10-14",
+   "id": "n9",
    "scope": "mundo",
-   "tag": "Regulación",
-   "date": "2026-10-18",
-   "source": "Moncloa",
-   "url": "https://www.moncloa.com/2026/10/18/reglamento-deforestacion-ue-soja-cafe-3450573",
-   "title": "UE reitera que el reglamento antideforestación aplica al café desde el 30 de diciembre",
-   "summary": "La Comisión Europea afirma que no habrá un tercer aplazamiento del EUDR para medianas y grandes empresas y dice haber recortado 75% los costos de cumplimiento frente a su estimación de 2023. Los exportadores colombianos deben tener listos los datos de geolocalización de las fincas antes de fin de año."
+   "source": "Barchart · TradingView",
+   "summary": "Brasil cosecharía 67,6 millones de sacos en 2026, con 48,21 millones de arábica. Los inventarios certificados ICE rebotaron a 260.654 sacos tras tocar mínimo de 27 años.",
+   "tag": "Producción",
+   "title": "Conab sube su estimado de Brasil: arábica +34,8%",
+   "url": "https://www.tradingview.com/news/barchart:f50148f03094b:0-arabica-coffee-prices-finish-higher-on-supply-concerns/"
+  },
+  {
+   "date": "2026-10-14",
+   "id": "n10",
+   "scope": "mundo",
+   "source": "Comunicaffe",
+   "summary": "El arábica diciembre subió a 292,70 ¢/lb el 13-oct. La UE y JDE Peet's financian un proyecto con 65 empresas cafeteras en Vietnam.",
+   "tag": "Industria",
+   "title": "Nestlé duplica su inversión en México a US$2.000 millones",
+   "url": "https://www.comunicaffe.com/arabica-coffee-futures-extend-recovery-nestle-to-invest-us2bn-in-mexico-the-eu-and-jde-peets-to-fund-a-project-in-vietnams-arabica-coffee-growing-region/"
+  },
+  {
+   "date": "2026-10-13",
+   "id": "n3",
+   "scope": "co",
+   "source": "Infobae",
+   "summary": "La segunda temporada de lluvias sigue activa en la región Andina, Caribe y Pacífica. 567 municipios tienen alerta por deslizamientos. El déficit se sentiría con más fuerza desde diciembre.",
+   "tag": "Clima",
+   "title": "Pese a El Niño, el IDEAM prevé lluvias intensas en 22 departamentos",
+   "url": "https://www.infobae.com/colombia/2026/10/13/el-ideam-preve-lluvias-intensas-en-22-departamentos-pese-a-declaratoria-oficial-del-inicio-del-fenomeno-de-el-nino/"
   }
  ],
- "updatedAt": "2026-10-21T19:55:00Z"
+ "updatedAt": "2026-10-22T11:48:54Z"
 }
