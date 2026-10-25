@@ -373,6 +373,13 @@ main{padding-bottom:calc(var(--tabh) + env(safe-area-inset-bottom,0px) + 28px)}
 .dnav button{display:flex;align-items:center;gap:12px;width:100%;text-align:left;background:none;border:0;border-radius:10px;padding:10px 10px;font-size:15px}
 .dnav button:hover{background:var(--sunk)}
 .dnav button[aria-current="page"]{background:var(--sunk);font-weight:600}
+.share{padding:16px;display:flex;flex-direction:column;align-items:center;gap:10px;text-align:center}
+.share .eyebrow{align-self:flex-start}
+.drawer .share svg.qr{width:min(184px,100%);height:auto;display:block;border-radius:10px;border:1px solid var(--line);stroke:none;stroke-width:0;fill:#fff;background:#fff}
+.drawer .share svg.qr path{fill:#1C2217;stroke:none}
+.share .lnk{font-size:12.5px;color:var(--muted);overflow-wrap:anywhere;line-height:1.35}
+.share .acts{display:grid;grid-template-columns:1fr 1fr;gap:8px;width:100%}
+.share .btn{justify-content:center}
 .contact{padding:16px;display:flex;flex-direction:column;gap:12px}
 .contact .who{display:flex;gap:12px;align-items:center}
 .avatar{width:46px;height:46px;border-radius:50%;background:var(--cherry);color:#fff;font-family:var(--f-display);font-weight:700;font-size:17px;display:flex;align-items:center;justify-content:center;flex:none}
@@ -485,6 +492,15 @@ main{padding-bottom:calc(var(--tabh) + env(safe-area-inset-bottom,0px) + 28px)}
     <button class="btn ghost" id="drawerX" aria-label="Cerrar menú">✕</button>
   </div>
   <nav class="dnav" id="dnav" aria-label="Secciones"></nav>
+  <section class="card share" aria-labelledby="shareT">
+    <div class="eyebrow" id="shareT">Comparte la app</div>
+    <svg class="qr" viewBox="-4 -4 41 41" role="img" aria-label="Código QR con el enlace de DataCafé" shape-rendering="crispEdges"><rect x="-4" y="-4" width="41" height="41" fill="#fff"/><path fill="#1C2217" d="M0 0h7v1h-7zM9 0h3v1h-3zM13 0h1v1h-1zM17 0h4v1h-4zM23 0h1v1h-1zM26 0h7v1h-7zM0 1h1v1h-1zM6 1h1v1h-1zM9 1h2v1h-2zM12 1h4v1h-4zM17 1h1v1h-1zM21 1h2v1h-2zM24 1h1v1h-1zM26 1h1v1h-1zM32 1h1v1h-1zM0 2h1v1h-1zM2 2h3v1h-3zM6 2h1v1h-1zM8 2h2v1h-2zM11 2h3v1h-3zM17 2h2v1h-2zM20 2h3v1h-3zM26 2h1v1h-1zM28 2h3v1h-3zM32 2h1v1h-1zM0 3h1v1h-1zM2 3h3v1h-3zM6 3h1v1h-1zM8 3h2v1h-2zM11 3h1v1h-1zM14 3h3v1h-3zM20 3h1v1h-1zM22 3h3v1h-3zM26 3h1v1h-1zM28 3h3v1h-3zM32 3h1v1h-1zM0 4h1v1h-1zM2 4h3v1h-3zM6 4h1v1h-1zM8 4h1v1h-1zM12 4h2v1h-2zM15 4h1v1h-1zM18 4h1v1h-1zM21 4h3v1h-3zM26 4h1v1h-1zM28 4h3v1h-3zM32 4h1v1h-1zM0 5h1v1h-1zM6 5h1v1h-1zM8 5h1v1h-1zM10 5h7v1h-7zM20 5h2v1h-2zM26 5h1v1h-1zM32 5h1v1h-1zM0 6h7v1h-7zM8 6h1v1h-1zM10 6h1v1h-1zM12 6h1v1h-1zM14 6h1v1h-1zM16 6h1v1h-1zM18 6h1v1h-1zM20 6h1v1h-1zM22 6h1v1h-1zM24 6h1v1h-1zM26 6h7v1h-7zM8 7h1v1h-1zM12 7h1v1h-1zM15 7h1v1h-1zM21 7h3v1h-3zM0 8h1v1h-1zM2 8h5v1h-5zM9 8h2v1h-2zM12 8h4v1h-4zM17 8h2v1h-2zM20 8h1v1h-1zM22 8h3v1h-3zM26 8h5v1h-5zM0 9h2v1h-2zM7 9h2v1h-2zM12 9h1v1h-1zM16 9h1v1h-1zM18 9h4v1h-4zM23 9h1v1h-1zM26 9h2v1h-2zM29 9h2v1h-2zM32 9h1v1h-1zM0 10h1v1h-1zM6 10h2v1h-2zM10 10h1v1h-1zM12 10h1v1h-1zM15 10h2v1h-2zM18 10h1v1h-1zM20 10h2v1h-2zM28 10h1v1h-1zM30 10h2v1h-2zM1 11h5v1h-5zM7 11h3v1h-3zM11 11h2v1h-2zM14 11h3v1h-3zM21 11h1v1h-1zM24 11h2v1h-2zM28 11h5v1h-5zM0 12h8v1h-8zM9 12h1v1h-1zM15 12h1v1h-1zM18 12h2v1h-2zM22 12h4v1h-4zM27 12h3v1h-3zM31 12h2v1h-2zM0 13h4v1h-4zM7 13h3v1h-3zM11 13h1v1h-1zM13 13h5v1h-5zM20 13h1v1h-1zM22 13h2v1h-2zM26 13h1v1h-1zM29 13h4v1h-4zM1 14h1v1h-1zM4 14h3v1h-3zM9 14h2v1h-2zM12 14h1v1h-1zM17 14h1v1h-1zM19 14h1v1h-1zM22 14h1v1h-1zM25 14h2v1h-2zM28 14h1v1h-1zM30 14h2v1h-2zM0 15h1v1h-1zM3 15h2v1h-2zM11 15h1v1h-1zM13 15h1v1h-1zM16 15h1v1h-1zM18 15h4v1h-4zM23 15h5v1h-5zM29 15h2v1h-2zM5 16h4v1h-4zM10 16h1v1h-1zM12 16h2v1h-2zM16 16h2v1h-2zM19 16h2v1h-2zM22 16h1v1h-1zM24 16h2v1h-2zM27 16h2v1h-2zM32 16h1v1h-1zM1 17h1v1h-1zM3 17h2v1h-2zM7 17h3v1h-3zM14 17h1v1h-1zM16 17h6v1h-6zM23 17h1v1h-1zM25 17h3v1h-3zM29 17h2v1h-2zM32 17h1v1h-1zM1 18h1v1h-1zM5 18h3v1h-3zM9 18h2v1h-2zM13 18h1v1h-1zM15 18h1v1h-1zM17 18h1v1h-1zM24 18h2v1h-2zM27 18h2v1h-2zM30 18h1v1h-1zM0 19h1v1h-1zM2 19h1v1h-1zM5 19h1v1h-1zM7 19h1v1h-1zM9 19h3v1h-3zM13 19h3v1h-3zM17 19h3v1h-3zM21 19h1v1h-1zM23 19h1v1h-1zM26 19h7v1h-7zM0 20h1v1h-1zM3 20h2v1h-2zM6 20h3v1h-3zM10 20h1v1h-1zM12 20h1v1h-1zM16 20h1v1h-1zM22 20h1v1h-1zM24 20h2v1h-2zM27 20h3v1h-3zM31 20h2v1h-2zM0 21h4v1h-4zM5 21h1v1h-1zM8 21h1v1h-1zM12 21h2v1h-2zM15 21h1v1h-1zM18 21h1v1h-1zM21 21h1v1h-1zM23 21h1v1h-1zM26 21h1v1h-1zM30 21h1v1h-1zM32 21h1v1h-1zM0 22h1v1h-1zM3 22h1v1h-1zM5 22h5v1h-5zM11 22h1v1h-1zM13 22h1v1h-1zM15 22h3v1h-3zM20 22h1v1h-1zM29 22h3v1h-3zM0 23h1v1h-1zM2 23h2v1h-2zM7 23h2v1h-2zM10 23h2v1h-2zM15 23h1v1h-1zM19 23h3v1h-3zM23 23h1v1h-1zM25 23h3v1h-3zM29 23h2v1h-2zM32 23h1v1h-1zM0 24h3v1h-3zM5 24h6v1h-6zM15 24h1v1h-1zM17 24h1v1h-1zM19 24h1v1h-1zM22 24h8v1h-8zM8 25h2v1h-2zM12 25h2v1h-2zM16 25h1v1h-1zM18 25h7v1h-7zM28 25h1v1h-1zM30 25h1v1h-1zM32 25h1v1h-1zM0 26h7v1h-7zM9 26h1v1h-1zM11 26h2v1h-2zM15 26h1v1h-1zM18 26h1v1h-1zM20 26h2v1h-2zM23 26h2v1h-2zM26 26h1v1h-1zM28 26h1v1h-1zM30 26h2v1h-2zM0 27h1v1h-1zM6 27h1v1h-1zM8 27h1v1h-1zM10 27h1v1h-1zM13 27h4v1h-4zM20 27h5v1h-5zM28 27h4v1h-4zM0 28h1v1h-1zM2 28h3v1h-3zM6 28h1v1h-1zM8 28h2v1h-2zM15 28h1v1h-1zM18 28h2v1h-2zM22 28h1v1h-1zM24 28h6v1h-6zM32 28h1v1h-1zM0 29h1v1h-1zM2 29h3v1h-3zM6 29h1v1h-1zM8 29h1v1h-1zM11 29h1v1h-1zM15 29h3v1h-3zM19 29h1v1h-1zM21 29h5v1h-5zM28 29h5v1h-5zM0 30h1v1h-1zM2 30h3v1h-3zM6 30h1v1h-1zM8 30h1v1h-1zM13 30h2v1h-2zM18 30h1v1h-1zM20 30h1v1h-1zM24 30h1v1h-1zM26 30h2v1h-2zM30 30h1v1h-1zM0 31h1v1h-1zM6 31h1v1h-1zM9 31h4v1h-4zM16 31h1v1h-1zM19 31h1v1h-1zM21 31h1v1h-1zM23 31h3v1h-3zM28 31h3v1h-3zM0 32h7v1h-7zM8 32h3v1h-3zM12 32h1v1h-1zM16 32h2v1h-2zM23 32h3v1h-3zM27 32h1v1h-1zM31 32h1v1h-1z"/></svg>
+    <div class="lnk">Escanéalo con la cámara del teléfono<br><span style="white-space:nowrap">savilanbr‑byte.github.io/</span><wbr><span style="white-space:nowrap">datacafe_compras</span></div>
+    <div class="acts">
+      <button class="btn primary" id="shareApp">Compartir</button>
+      <button class="btn" id="copyApp">Copiar enlace</button>
+    </div>
+  </section>
   <section class="card contact" aria-labelledby="contactT">
     <div class="eyebrow" id="contactT">Contacto</div>
     <div class="who">
@@ -586,6 +602,14 @@ function closeDrawer(){ if(!drawer.classList.contains("open")) return; drawer.cl
 menuBtn.onclick=openDrawer; $("#drawerX").onclick=closeDrawer; drawerBg.onclick=closeDrawer;
 document.addEventListener("keydown",e=>{ if(e.key==="Escape") closeDrawer(); });
 $$("#dnav button").forEach(b=>b.onclick=()=>{ show(b.dataset.t); window.scrollTo(0,0); closeDrawer(); });
+const APP_URL="https://savilanbr-byte.github.io/datacafe_compras/";
+async function copyTxt(t){ try{ await navigator.clipboard.writeText(t); return true; }catch(e){
+  try{ const a=document.createElement("textarea"); a.value=t; a.style.position="fixed"; a.style.opacity="0"; document.body.appendChild(a); a.select(); const ok=document.execCommand("copy"); a.remove(); return ok; }catch(_){ return false; } } }
+$("#copyApp").onclick=async()=>{ toast(await copyTxt(APP_URL)?"Enlace copiado":APP_URL); };
+if(!navigator.share) $("#shareApp").textContent="Por correo";
+$("#shareApp").onclick=async()=>{
+  if(navigator.share){ try{ await navigator.share({title:"DataCafé",text:"DataCafé: calculadoras, mercado, cosechas, catación, noticias y clima para comprar café.",url:APP_URL}); }catch(e){} return; }
+  location.href="mailto:?subject="+encodeURIComponent("DataCafé")+"&body="+encodeURIComponent("Te comparto DataCafé: "+APP_URL); };
 $("#copyMail").onclick=async()=>{ const m="s.avilanbr@gmail.com"; let ok=false;
   try{ await navigator.clipboard.writeText(m); ok=true; }catch(e){
     try{ const t=document.createElement("textarea"); t.value=m; t.style.position="fixed"; t.style.opacity="0"; document.body.appendChild(t); t.select(); ok=document.execCommand("copy"); t.remove(); }catch(_){} }
