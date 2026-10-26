@@ -172,19 +172,6 @@
       "url": "https://www.valoraanalitik.com/fertilizantes-subirian-de-precio-en-colombia-y-afectaria-precios-de-alimentos-por-repunte-internacional-de-la-urea/"
     },
     {
-      "date": "2026-10-14",
-      "id": "n29",
-      "regiones": [
-        "valle"
-      ],
-      "scope": "co",
-      "source": "Pyme Noticias",
-      "summary": "La gobernadora del Valle confirmó el 13 de octubre que el Distrito no aplicará el Decreto 0338 de 2026, que gravaba cada vehículo de carga de importación o exportación. Alivia costos para el café, pues cerca del 60% de las exportaciones cafeteras de 2026 sale por este puerto; los gremios piden reactivar la mesa de logística.",
-      "tag": "Logística",
-      "title": "Buenaventura no aplicará el cobro por tonelada a la carga de comercio exterior",
-      "url": "https://www.pymenoticias.com/post/suspension-cobro-carga-buenaventura-gobernacion-valle"
-    },
-    {
       "date": "2026-10-21",
       "id": "n30",
       "regiones": [
@@ -197,7 +184,17 @@
       "tag": "Cafés especiales",
       "title": "Celestra, nueva variedad de Cenicafé, se luce en el campeonato de filtrados de la Expo",
       "url": "https://www.lapatria.com/economia/celestra-nueva-apuesta-de-la-federacion-nacional-de-cafeteros-se-presento-en-la-feria-cafe"
+    },
+    {
+      "id": "n31",
+      "scope": "mundo",
+      "tag": "Divisas",
+      "date": "2026-10-26",
+      "source": "Istoé Dinheiro",
+      "url": "https://istoedinheiro.com.br/dolar-hoje-26-10-2026-reeleicao-lula",
+      "title": "El real se desploma tras la reelección de Lula: el dólar sube cerca de 9% en Brasil",
+      "summary": "Tras la victoria de Lula el 25 de octubre, el dólar abrió en R$ 5,42 (+8,65%) por temor a mayor deuda pública y falta de mayoría en el Congreso. Un real débil suele estimular la venta de café por parte de Brasil y presionar a la baja el arábica, lo que complicaría el precio interno colombiano."
     }
   ],
-  "updatedAt": "2026-10-26T11:55:00Z"
+  "updatedAt": "2026-10-26T19:48:00Z"
 }
