@@ -173,51 +173,31 @@
     },
     {
       "date": "2026-10-14",
-      "id": "n9",
-      "scope": "mundo",
-      "source": "Barchart · TradingView",
-      "summary": "Brasil cosecharía 67,6 millones de sacos en 2026, con 48,21 millones de arábica. Los inventarios certificados ICE rebotaron a 260.654 sacos tras tocar mínimo de 27 años.",
-      "tag": "Producción",
-      "title": "Conab sube su estimado de Brasil: arábica +34,8%",
-      "url": "https://www.tradingview.com/news/barchart:f50148f03094b:0-arabica-coffee-prices-finish-higher-on-supply-concerns/"
-    },
-    {
-      "date": "2026-10-13",
-      "id": "n3",
-      "scope": "co",
-      "source": "Infobae",
-      "summary": "La segunda temporada de lluvias sigue activa en la región Andina, Caribe y Pacífica. 567 municipios tienen alerta por deslizamientos. El déficit se sentiría con más fuerza desde diciembre.",
-      "tag": "Clima",
-      "title": "Pese a El Niño, el IDEAM prevé lluvias intensas en 22 departamentos",
-      "url": "https://www.infobae.com/colombia/2026/10/13/el-ideam-preve-lluvias-intensas-en-22-departamentos-pese-a-declaratoria-oficial-del-inicio-del-fenomeno-de-el-nino/"
-    },
-    {
       "id": "n29",
-      "scope": "co",
       "regiones": [
         "valle"
       ],
-      "tag": "Logística",
-      "date": "2026-10-14",
+      "scope": "co",
       "source": "Pyme Noticias",
-      "url": "https://www.pymenoticias.com/post/suspension-cobro-carga-buenaventura-gobernacion-valle",
+      "summary": "La gobernadora del Valle confirmó el 13 de octubre que el Distrito no aplicará el Decreto 0338 de 2026, que gravaba cada vehículo de carga de importación o exportación. Alivia costos para el café, pues cerca del 60% de las exportaciones cafeteras de 2026 sale por este puerto; los gremios piden reactivar la mesa de logística.",
+      "tag": "Logística",
       "title": "Buenaventura no aplicará el cobro por tonelada a la carga de comercio exterior",
-      "summary": "La gobernadora del Valle confirmó el 13 de octubre que el Distrito no aplicará el Decreto 0338 de 2026, que gravaba cada vehículo de carga de importación o exportación. Alivia costos para el café, pues cerca del 60% de las exportaciones cafeteras de 2026 sale por este puerto; los gremios piden reactivar la mesa de logística."
+      "url": "https://www.pymenoticias.com/post/suspension-cobro-carga-buenaventura-gobernacion-valle"
     },
     {
+      "date": "2026-10-21",
       "id": "n30",
-      "scope": "co",
       "regiones": [
         "huila",
         "caldas"
       ],
-      "tag": "Cafés especiales",
-      "date": "2026-10-21",
+      "scope": "co",
       "source": "La Patria",
-      "url": "https://www.lapatria.com/economia/celestra-nueva-apuesta-de-la-federacion-nacional-de-cafeteros-se-presento-en-la-feria-cafe",
+      "summary": "Cenicafé presentó Celestra, cruce de Caturra rojo con una línea silvestre etíope, y un lote de esta variedad cultivado en Huila ganó el campeonato nacional de cafés filtrados. Abre una opción de perfil exótico para compradores de especiales, sin precios ni volúmenes aún.",
+      "tag": "Cafés especiales",
       "title": "Celestra, nueva variedad de Cenicafé, se luce en el campeonato de filtrados de la Expo",
-      "summary": "Cenicafé presentó Celestra, cruce de Caturra rojo con una línea silvestre etíope, y un lote de esta variedad cultivado en Huila ganó el campeonato nacional de cafés filtrados. Abre una opción de perfil exótico para compradores de especiales, sin precios ni volúmenes aún."
+      "url": "https://www.lapatria.com/economia/celestra-nueva-apuesta-de-la-federacion-nacional-de-cafeteros-se-presento-en-la-feria-cafe"
     }
   ],
-  "updatedAt": "2026-10-23T19:55:00Z"
+  "updatedAt": "2026-10-26T11:55:00Z"
 }
