@@ -1,14 +1,14 @@
 {
   "items": [
     {
+      "date": "2026-10-26",
       "id": "n32",
       "scope": "mundo",
-      "tag": "Exportaciones",
-      "date": "2026-10-26",
       "source": "Trading Economics · Cecafé",
-      "url": "https://tradingeconomics.com/commodity/coffee",
+      "summary": "Según Cecafé, Brasil había despachado cerca de 3,30 millones de sacos a esa fecha, 43,2% más que un año atrás, lo que da más oferta y presiona al arábica; el arábica cerró en 295 ¢/lb el 27-oct, lejos del máximo de 317,85 de hace una semana.",
+      "tag": "Exportaciones",
       "title": "Embarques de café de Brasil suben 43% anual hasta el 22 de octubre",
-      "summary": "Según Cecafé, Brasil había despachado cerca de 3,30 millones de sacos a esa fecha, 43,2% más que un año atrás, lo que da más oferta y presiona al arábica; el arábica cerró en 295 ¢/lb el 27-oct, lejos del máximo de 317,85 de hace una semana."
+      "url": "https://tradingeconomics.com/commodity/coffee"
     },
     {
       "date": "2026-10-22",
@@ -122,16 +122,6 @@
     },
     {
       "date": "2026-10-16",
-      "id": "n13",
-      "scope": "mundo",
-      "source": "Finimize",
-      "summary": "Los futuros subieron 4,7% a cerca de US$3,0855/lb; los inventarios certificados están en 238.976 sacos y operadores dudan que el café brasileño llegue a bodegas antes del vencimiento de diciembre.",
-      "tag": "Mercado",
-      "title": "El arábica salta a máximo de un mes por inventarios ICE bajos",
-      "url": "https://finimize.com/content/coffee-prices-jump-as-ice-stockpiles-stay-uncomfortably-low"
-    },
-    {
-      "date": "2026-10-16",
       "id": "n14",
       "scope": "mundo",
       "source": "TradingKey",
@@ -159,16 +149,6 @@
       "tag": "Industria",
       "title": "La FNC abrirá un hotel de 200 habitaciones en Quindío en 2027",
       "url": "https://www.portafolio.co/economia/agro/del-cafe-al-turismo-federacion-de-cafeteros-prepara-su-entrada-al-negocio-hotelero-con-apertura-prevista-para-504570"
-    },
-    {
-      "date": "2026-10-16",
-      "id": "n17",
-      "scope": "mundo",
-      "source": "Trading Economics",
-      "summary": "Los futuros subieron a cerca de US$3,10/lb con inventarios certificados de 238.976 sacos, cerca del mínimo de 27 años (217.646). Preocupa que el café brasileño no llegue a bodegas ICE antes del vencimiento de diciembre.",
-      "tag": "Precios",
-      "title": "El arábica supera los US$3 por libra, máximo desde inicios de septiembre",
-      "url": "https://tradingeconomics.com/commodity/coffee/news/592784"
     },
     {
       "date": "2026-10-16",
@@ -204,7 +184,28 @@
       "tag": "Divisas",
       "title": "El real se desploma tras la reelección de Lula: el dólar sube cerca de 9% en Brasil",
       "url": "https://istoedinheiro.com.br/dolar-hoje-26-10-2026-reeleicao-lula"
+    },
+    {
+      "id": "n33",
+      "scope": "mundo",
+      "tag": "Mercado",
+      "date": "2026-10-27",
+      "source": "Reuters · Business Recorder",
+      "url": "https://brecorder.com/news/40446024/sugar-coffee-slip-as-brazils-real-slumps-on-lula-win",
+      "title": "Arábica y robusta caen tras la reelección de Lula y el desplome del real",
+      "summary": "El arábica en ICE retrocedió 3,4% hasta cerca de US$2,97/lb y el robusta bajó 1,9% a US$3.181/t, tocando su nivel más bajo desde marzo de 2024, presionado también por la cosecha de Vietnam. Un real débil incentiva ventas de Brasil y puede seguir restando soporte al precio de referencia."
+    },
+    {
+      "id": "n34",
+      "scope": "co",
+      "regiones": [],
+      "tag": "Divisas",
+      "date": "2026-10-27",
+      "source": "La República · El Universal",
+      "url": "https://www.eluniversal.com.co/economica/2026/10/27/dolar-en-colombia-la-divisa-volvio-a-abrir-a-la-baja-este-martes/",
+      "title": "El dólar abre a la baja en $3.135 frente a una TRM de $3.157,94",
+      "summary": "La divisa abrió 22,7 pesos por debajo de la TRM y se movió entre $3.111 y $3.145 mientras el mercado espera las decisiones de Fed, BCE y Banco de Japón. Un peso más fuerte resta ingreso en pesos al caficultor, junto con la baja del arábica."
     }
   ],
-  "updatedAt": "2026-10-27T11:50:00Z"
+  "updatedAt": "2026-10-27T19:55:00Z"
 }

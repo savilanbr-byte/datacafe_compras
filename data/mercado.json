@@ -1,36 +1,36 @@
 {
   "curve": {
-    "asOf": "2026-10-26",
+    "asOf": "2026-10-27",
     "points": [
       {
         "contract": "Dic-26",
-        "value": 300.95
+        "value": 293.75
       },
       {
         "contract": "Mar-27",
-        "value": 285.2
+        "value": 281.1
       },
       {
         "contract": "May-27",
-        "value": 280.65
+        "value": 277.1
       },
       {
         "contract": "Jul-27",
-        "value": 277.5
+        "value": 274.15
       },
       {
         "contract": "Sep-27",
-        "value": 274.6
+        "value": 271.4
       }
     ],
     "source": "Investing.com",
     "url": "https://www.investing.com/commodities/us-coffee-c-contracts"
   },
   "fncRef": {
-    "asOf": "2026-10-26",
-    "kc": 300.95,
+    "asOf": "2026-10-27",
+    "kc": 293.75,
     "pasillaCOP": 97920,
-    "trm": 3130
+    "trm": 3147.4
   },
   "items": {
     "anuncios": {
@@ -42,15 +42,15 @@
       "value": null
     },
     "brl": {
-      "asOf": "2026-10-26",
-      "change": 0.5419,
+      "asOf": "2026-10-27",
+      "change": -0.241,
       "chgDec": 3,
       "dec": 3,
       "label": "Real brasileño",
       "source": "BCE · Frankfurter",
       "unit": "BRL/USD",
       "url": "https://frankfurter.dev",
-      "value": 5.5884
+      "value": 5.3474
     },
     "cot": {
       "asOf": "2026-10-20",
@@ -75,15 +75,15 @@
       "value": 11.78
     },
     "fnc": {
-      "asOf": "2026-10-26",
-      "change": -48000,
+      "asOf": "2026-10-27",
+      "change": -35000,
       "dec": 0,
       "label": "Precio interno FNC",
       "note": "Carga de 125 kg pergamino seco, factor 94",
       "source": "FNC",
       "unit": "COP/carga",
       "url": "https://federaciondecafeteros.org/estadisticas-cafeteras/",
-      "value": 2100000
+      "value": 2065000
     },
     "icestocks": {
       "asOf": "2026-10-20",
@@ -96,18 +96,18 @@
       "value": 234901
     },
     "icoComp": {
-      "asOf": "2026-10-23",
-      "changePct": -0.84,
+      "asOf": "2026-10-26",
+      "changePct": -2.82,
       "dec": 0,
       "label": "Indicador compuesto OIC",
       "source": "OIC · La República",
       "unit": "¢/lb",
       "url": "https://www.larepublica.co/indicadores-economicos/commodities/cafe",
-      "value": 264
+      "value": 257
     },
     "kc1": {
-      "asOf": "2026-10-26",
-      "change": -6.5,
+      "asOf": "2026-10-27",
+      "change": -7.2,
       "chgDec": 2,
       "contract": "Dic-26",
       "dec": 2,
@@ -116,56 +116,56 @@
       "source": "Investing.com",
       "unit": "¢/lb",
       "url": "https://www.investing.com/commodities/us-coffee-c-historical-data",
-      "value": 300.95
+      "value": 293.75
     },
     "kc2": {
-      "asOf": "2026-10-26",
-      "change": -8.2,
+      "asOf": "2026-10-27",
+      "change": -4.1,
       "chgDec": 2,
       "contract": "Mar-27",
       "dec": 2,
       "label": "KC C2",
-      "note": "Liquidación 26-oct",
+      "note": "Liquidación 27-oct",
       "source": "Investing.com",
       "unit": "¢/lb",
       "url": "https://www.investing.com/commodities/us-coffee-c-contracts",
-      "value": 285.2
+      "value": 281.1
     },
     "kc3": {
-      "asOf": "2026-10-26",
-      "change": -8.35,
+      "asOf": "2026-10-27",
+      "change": -3.55,
       "chgDec": 2,
       "contract": "May-27",
       "dec": 2,
       "label": "KC C3",
-      "note": "Liquidación 26-oct",
+      "note": "Liquidación 27-oct",
       "source": "Investing.com",
       "unit": "¢/lb",
       "url": "https://www.investing.com/commodities/us-coffee-c-contracts",
-      "value": 280.65
+      "value": 277.1
     },
     "kc4": {
-      "asOf": "2026-10-26",
-      "change": -8.4,
+      "asOf": "2026-10-27",
+      "change": -3.35,
       "chgDec": 2,
       "contract": "Jul-27",
       "dec": 2,
       "label": "KC C4",
-      "note": "Liquidación 26-oct",
+      "note": "Liquidación 27-oct",
       "source": "Investing.com",
       "unit": "¢/lb",
       "url": "https://www.investing.com/commodities/us-coffee-c-contracts",
-      "value": 277.5
+      "value": 274.15
     },
     "milds": {
-      "asOf": "2026-10-23",
-      "changePct": -0.81,
+      "asOf": "2026-10-26",
+      "changePct": -2.05,
       "dec": 0,
       "label": "Colombian Milds (OIC)",
       "source": "OIC · La República",
       "unit": "¢/lb",
       "url": "https://www.larepublica.co/indicadores-economicos/commodities/cafe",
-      "value": 363
+      "value": 356
     },
     "prod": {
       "asOf": "2026-09-30",
@@ -180,17 +180,17 @@
     },
     "robusta": {
       "asOf": "2026-10-27",
-      "change": 12.5,
-      "changePct": 0.39,
+      "change": 27.5,
+      "changePct": 0.86,
+      "chgDec": 1,
       "contract": "Nov-26",
       "dec": 1,
       "label": "Robusta Londres (ICE)",
-      "note": "Intradía (Nov-26), 07:47 hora de la página; cierre previo 3.210.",
+      "note": "Cierre 27-oct (Nov-26); cierre previo 3.210.",
       "source": "Investing.com",
       "unit": "USD/t",
       "url": "https://www.investing.com/commodities/london-coffee",
-      "value": 3222.5,
-      "chgDec": 1
+      "value": 3237.5
     },
     "trm": {
       "asOf": "2026-10-27",
@@ -204,5 +204,5 @@
       "value": 3157.94
     }
   },
-  "updatedAt": "2026-10-27T11:50:00Z"
+  "updatedAt": "2026-10-27T19:55:00Z"
 }
