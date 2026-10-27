@@ -1,6 +1,16 @@
 {
   "items": [
     {
+      "id": "n32",
+      "scope": "mundo",
+      "tag": "Exportaciones",
+      "date": "2026-10-26",
+      "source": "Trading Economics · Cecafé",
+      "url": "https://tradingeconomics.com/commodity/coffee",
+      "title": "Embarques de café de Brasil suben 43% anual hasta el 22 de octubre",
+      "summary": "Según Cecafé, Brasil había despachado cerca de 3,30 millones de sacos a esa fecha, 43,2% más que un año atrás, lo que da más oferta y presiona al arábica; el arábica cerró en 295 ¢/lb el 27-oct, lejos del máximo de 317,85 de hace una semana."
+    },
+    {
       "date": "2026-10-22",
       "id": "n28",
       "regiones": [],
@@ -186,15 +196,15 @@
       "url": "https://www.lapatria.com/economia/celestra-nueva-apuesta-de-la-federacion-nacional-de-cafeteros-se-presento-en-la-feria-cafe"
     },
     {
+      "date": "2026-10-26",
       "id": "n31",
       "scope": "mundo",
-      "tag": "Divisas",
-      "date": "2026-10-26",
       "source": "Istoé Dinheiro",
-      "url": "https://istoedinheiro.com.br/dolar-hoje-26-10-2026-reeleicao-lula",
+      "summary": "Tras la victoria de Lula el 25 de octubre, el dólar abrió en R$ 5,42 (+8,65%) por temor a mayor deuda pública y falta de mayoría en el Congreso. Un real débil suele estimular la venta de café por parte de Brasil y presionar a la baja el arábica, lo que complicaría el precio interno colombiano.",
+      "tag": "Divisas",
       "title": "El real se desploma tras la reelección de Lula: el dólar sube cerca de 9% en Brasil",
-      "summary": "Tras la victoria de Lula el 25 de octubre, el dólar abrió en R$ 5,42 (+8,65%) por temor a mayor deuda pública y falta de mayoría en el Congreso. Un real débil suele estimular la venta de café por parte de Brasil y presionar a la baja el arábica, lo que complicaría el precio interno colombiano."
+      "url": "https://istoedinheiro.com.br/dolar-hoje-26-10-2026-reeleicao-lula"
     }
   ],
-  "updatedAt": "2026-10-26T19:48:00Z"
+  "updatedAt": "2026-10-27T11:50:00Z"
 }

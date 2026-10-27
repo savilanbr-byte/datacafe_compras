@@ -58,9 +58,9 @@
   "regions": [
     {
       "dept": "Huila",
-      "p7": 28.0,
+      "p7": 28,
       "place": "Pitalito",
-      "tmax": 27.0,
+      "tmax": 27,
       "tmin": 18.4
     },
     {
@@ -116,7 +116,7 @@
       "dept": "Valle del Cauca",
       "p7": 110.8,
       "place": "Sevilla",
-      "tmax": 23.0,
+      "tmax": 23,
       "tmin": 15.7
     },
     {
@@ -135,7 +135,7 @@
     },
     {
       "dept": "Santander",
-      "p7": 110.0,
+      "p7": 110,
       "place": "San Gil",
       "tmax": 25.4,
       "tmin": 19.6
@@ -162,5 +162,5 @@
       "tmin": 20.1
     }
   ],
-  "updatedAt": "2026-10-26T19:48:00Z"
+  "updatedAt": "2026-10-27T11:50:00Z"
 }
