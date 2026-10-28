@@ -1,36 +1,36 @@
 {
   "curve": {
-    "asOf": "2026-10-27",
+    "asOf": "2026-10-28",
     "points": [
       {
         "contract": "Dic-26",
-        "value": 293.75
+        "value": 286.75
       },
       {
         "contract": "Mar-27",
-        "value": 281.1
+        "value": 276.2
       },
       {
         "contract": "May-27",
-        "value": 277.1
+        "value": 272.25
       },
       {
         "contract": "Jul-27",
-        "value": 274.15
+        "value": 269.5
       },
       {
         "contract": "Sep-27",
-        "value": 271.4
+        "value": 266.9
       }
     ],
     "source": "Investing.com",
     "url": "https://www.investing.com/commodities/us-coffee-c-contracts"
   },
   "fncRef": {
-    "asOf": "2026-10-27",
-    "kc": 293.75,
+    "asOf": "2026-10-28",
+    "kc": 286.75,
     "pasillaCOP": 97920,
-    "trm": 3147.4
+    "trm": 3163.05
   },
   "items": {
     "anuncios": {
@@ -42,15 +42,15 @@
       "value": null
     },
     "brl": {
-      "asOf": "2026-10-27",
-      "change": -0.241,
+      "asOf": "2026-10-28",
+      "change": -0.02,
       "chgDec": 3,
       "dec": 3,
       "label": "Real brasileño",
       "source": "BCE · Frankfurter",
       "unit": "BRL/USD",
       "url": "https://frankfurter.dev",
-      "value": 5.3474
+      "value": 5.3271
     },
     "cot": {
       "asOf": "2026-10-20",
@@ -75,7 +75,7 @@
       "value": 11.78
     },
     "fnc": {
-      "asOf": "2026-10-27",
+      "asOf": "2026-10-28",
       "change": -35000,
       "dec": 0,
       "label": "Precio interno FNC",
@@ -83,89 +83,89 @@
       "source": "FNC",
       "unit": "COP/carga",
       "url": "https://federaciondecafeteros.org/estadisticas-cafeteras/",
-      "value": 2065000
+      "value": 2030000
     },
     "icestocks": {
-      "asOf": "2026-10-20",
+      "asOf": "2026-10-26",
       "dec": 0,
       "label": "Inventarios certificados ICE",
-      "note": "ADM 21-oct (cierre del martes 20); mínimo en 27 años: 217.646 (15-sep)",
+      "note": "ADM 27-oct (cierre del lunes 26); mínimo en 27 años: 217.646 (15-sep)",
       "source": "ICE · ADM Investor Services",
       "unit": "sacos",
-      "url": "https://admis.com/cotton-faces-new-rain-risk",
-      "value": 234901
+      "url": "https://www.admis.com/coffee-futures-extend-selloff/",
+      "value": 225610
     },
     "icoComp": {
-      "asOf": "2026-10-26",
-      "changePct": -2.82,
+      "asOf": "2026-10-27",
+      "changePct": -0.76,
       "dec": 0,
       "label": "Indicador compuesto OIC",
       "source": "OIC · La República",
       "unit": "¢/lb",
       "url": "https://www.larepublica.co/indicadores-economicos/commodities/cafe",
-      "value": 257
+      "value": 255
     },
     "kc1": {
-      "asOf": "2026-10-27",
-      "change": -7.2,
+      "asOf": "2026-10-28",
+      "change": -7.0,
       "chgDec": 2,
       "contract": "Dic-26",
       "dec": 2,
       "label": "KC C1",
-      "note": "Liquidación (settlement).",
+      "note": "Liquidación (settlement); el histórico de Investing muestra 286,35 al cierre.",
       "source": "Investing.com",
       "unit": "¢/lb",
       "url": "https://www.investing.com/commodities/us-coffee-c-historical-data",
-      "value": 293.75
+      "value": 286.75
     },
     "kc2": {
-      "asOf": "2026-10-27",
-      "change": -4.1,
+      "asOf": "2026-10-28",
+      "change": -4.9,
       "chgDec": 2,
       "contract": "Mar-27",
       "dec": 2,
       "label": "KC C2",
-      "note": "Liquidación 27-oct",
+      "note": "Liquidación 28-oct",
       "source": "Investing.com",
       "unit": "¢/lb",
       "url": "https://www.investing.com/commodities/us-coffee-c-contracts",
-      "value": 281.1
+      "value": 276.2
     },
     "kc3": {
-      "asOf": "2026-10-27",
-      "change": -3.55,
+      "asOf": "2026-10-28",
+      "change": -4.85,
       "chgDec": 2,
       "contract": "May-27",
       "dec": 2,
       "label": "KC C3",
-      "note": "Liquidación 27-oct",
+      "note": "Liquidación 28-oct",
       "source": "Investing.com",
       "unit": "¢/lb",
       "url": "https://www.investing.com/commodities/us-coffee-c-contracts",
-      "value": 277.1
+      "value": 272.25
     },
     "kc4": {
-      "asOf": "2026-10-27",
-      "change": -3.35,
+      "asOf": "2026-10-28",
+      "change": -4.65,
       "chgDec": 2,
       "contract": "Jul-27",
       "dec": 2,
       "label": "KC C4",
-      "note": "Liquidación 27-oct",
+      "note": "Liquidación 28-oct",
       "source": "Investing.com",
       "unit": "¢/lb",
       "url": "https://www.investing.com/commodities/us-coffee-c-contracts",
-      "value": 274.15
+      "value": 269.5
     },
     "milds": {
-      "asOf": "2026-10-26",
-      "changePct": -2.05,
+      "asOf": "2026-10-27",
+      "changePct": -1.12,
       "dec": 0,
       "label": "Colombian Milds (OIC)",
       "source": "OIC · La República",
       "unit": "¢/lb",
       "url": "https://www.larepublica.co/indicadores-economicos/commodities/cafe",
-      "value": 356
+      "value": 352
     },
     "prod": {
       "asOf": "2026-09-30",
@@ -204,5 +204,5 @@
       "value": 3148.02
     }
   },
-  "updatedAt": "2026-10-28T11:47:00Z"
+  "updatedAt": "2026-10-28T19:47:00Z"
 }
