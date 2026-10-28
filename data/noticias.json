@@ -1,6 +1,16 @@
 {
   "items": [
     {
+      "id": "n35",
+      "scope": "mundo",
+      "tag": "Mercado",
+      "date": "2026-10-28",
+      "source": "Reuters · ESM Magazine",
+      "url": "https://esmmagazine.com/supply-chain/sugar-and-coffee-diverge-as-fundamentals-reassert-themselves-after-brazil-election-324693",
+      "title": "Arabica cae 2,4% a 293,75 ¢/lb y el robusta presiona por la cosecha de Vietnam",
+      "summary": "El arabica cerró el martes con una baja de 7,2 ¢ tras perder 2,1% el lunes; el real se recuperó parcialmente hasta cerca de 5,35 por dólar y el clima en Brasil es favorable para la floración. Para el comprador en Colombia, menor bolsa implica presión a la baja sobre el precio interno si la TRM no compensa."
+    },
+    {
       "date": "2026-10-26",
       "id": "n32",
       "scope": "mundo",
@@ -112,26 +122,6 @@
     },
     {
       "date": "2026-10-16",
-      "id": "n12",
-      "scope": "co",
-      "source": "El Tiempo",
-      "summary": "El gerente de la FNC atribuyó la caída a La Niña (ene–abr) y a El Niño, que reduce el peso del grano. El café cosechado en 12 meses valió $21,4 billones y la feria espera 40.000 visitantes.",
-      "tag": "Producción",
-      "title": "Bahamón: el clima recortó la producción; la Expo apuesta por el consumo interno",
-      "url": "https://www.eltiempo.com/economia/cafes-de-colombia-expo-2026-la-apuesta-por-el-consumo-interno-de-cafe-especial-en-un-ano-de-alertas-en-su-produccion-3593936"
-    },
-    {
-      "date": "2026-10-16",
-      "id": "n14",
-      "scope": "mundo",
-      "source": "TradingKey",
-      "summary": "Brasil exportó 236.000 t en septiembre (+20%) y Vietnam 124.000 t (+53%); la OIC proyecta un superávit global de 3 millones de sacos, el primero en cinco años.",
-      "tag": "Producción",
-      "title": "Exportaciones récord de Brasil y Vietnam frente a un mercado alcista",
-      "url": "https://www.tradingkey.com/news/market-movers/262220714-market-movers-coffee-20261016"
-    },
-    {
-      "date": "2026-10-16",
       "id": "n15",
       "scope": "co",
       "source": "Agronegocios",
@@ -139,16 +129,6 @@
       "tag": "Cafés especiales",
       "title": "Cafés de Colombia Expo subasta 25 lotes de especialidad ante compradores internacionales",
       "url": "https://www.agronegocios.co/ferias/cafes-de-colombia-expo-subastara-25-lotes-de-cafes-de-especialidad-ante-compradores-internacionales-4504523"
-    },
-    {
-      "date": "2026-10-16",
-      "id": "n16",
-      "scope": "co",
-      "source": "Portafolio",
-      "summary": "En su centenario, la Federación abrirá un hotel en Montenegro, frente al Parque del Café. Bahamón proyecta un consumo mundial de 200 millones de sacos en 2030, frente a 178 millones el año pasado.",
-      "tag": "Industria",
-      "title": "La FNC abrirá un hotel de 200 habitaciones en Quindío en 2027",
-      "url": "https://www.portafolio.co/economia/agro/del-cafe-al-turismo-federacion-de-cafeteros-prepara-su-entrada-al-negocio-hotelero-con-apertura-prevista-para-504570"
     },
     {
       "date": "2026-10-16",
@@ -186,26 +166,26 @@
       "url": "https://istoedinheiro.com.br/dolar-hoje-26-10-2026-reeleicao-lula"
     },
     {
+      "date": "2026-10-27",
       "id": "n33",
       "scope": "mundo",
-      "tag": "Mercado",
-      "date": "2026-10-27",
       "source": "Reuters · Business Recorder",
-      "url": "https://brecorder.com/news/40446024/sugar-coffee-slip-as-brazils-real-slumps-on-lula-win",
+      "summary": "El arábica en ICE retrocedió 3,4% hasta cerca de US$2,97/lb y el robusta bajó 1,9% a US$3.181/t, tocando su nivel más bajo desde marzo de 2024, presionado también por la cosecha de Vietnam. Un real débil incentiva ventas de Brasil y puede seguir restando soporte al precio de referencia.",
+      "tag": "Mercado",
       "title": "Arábica y robusta caen tras la reelección de Lula y el desplome del real",
-      "summary": "El arábica en ICE retrocedió 3,4% hasta cerca de US$2,97/lb y el robusta bajó 1,9% a US$3.181/t, tocando su nivel más bajo desde marzo de 2024, presionado también por la cosecha de Vietnam. Un real débil incentiva ventas de Brasil y puede seguir restando soporte al precio de referencia."
+      "url": "https://brecorder.com/news/40446024/sugar-coffee-slip-as-brazils-real-slumps-on-lula-win"
     },
     {
-      "id": "n34",
-      "scope": "co",
-      "regiones": [],
-      "tag": "Divisas",
       "date": "2026-10-27",
+      "id": "n34",
+      "regiones": [],
+      "scope": "co",
       "source": "La República · El Universal",
-      "url": "https://www.eluniversal.com.co/economica/2026/10/27/dolar-en-colombia-la-divisa-volvio-a-abrir-a-la-baja-este-martes/",
+      "summary": "La divisa abrió 22,7 pesos por debajo de la TRM y se movió entre $3.111 y $3.145 mientras el mercado espera las decisiones de Fed, BCE y Banco de Japón. Un peso más fuerte resta ingreso en pesos al caficultor, junto con la baja del arábica.",
+      "tag": "Divisas",
       "title": "El dólar abre a la baja en $3.135 frente a una TRM de $3.157,94",
-      "summary": "La divisa abrió 22,7 pesos por debajo de la TRM y se movió entre $3.111 y $3.145 mientras el mercado espera las decisiones de Fed, BCE y Banco de Japón. Un peso más fuerte resta ingreso en pesos al caficultor, junto con la baja del arábica."
+      "url": "https://www.eluniversal.com.co/economica/2026/10/27/dolar-en-colombia-la-divisa-volvio-a-abrir-a-la-baja-este-martes/"
     }
   ],
-  "updatedAt": "2026-10-27T19:55:00Z"
+  "updatedAt": "2026-10-28T11:47:00Z"
 }
