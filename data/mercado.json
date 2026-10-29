@@ -1,26 +1,26 @@
 {
   "curve": {
-    "asOf": "2026-10-28",
+    "asOf": "2026-10-29",
     "points": [
       {
         "contract": "Dic-26",
-        "value": 286.75
+        "value": 285.45
       },
       {
         "contract": "Mar-27",
-        "value": 276.2
+        "value": 276.75
       },
       {
         "contract": "May-27",
-        "value": 272.25
+        "value": 273.0
       },
       {
         "contract": "Jul-27",
-        "value": 269.5
+        "value": 270.2
       },
       {
         "contract": "Sep-27",
-        "value": 266.9
+        "value": 267.55
       }
     ],
     "source": "Investing.com",
@@ -42,15 +42,15 @@
       "value": null
     },
     "brl": {
-      "asOf": "2026-10-28",
-      "change": -0.02,
+      "asOf": "2026-10-29",
+      "change": 0.0245,
       "chgDec": 3,
       "dec": 3,
       "label": "Real brasileño",
       "source": "BCE · Frankfurter",
       "unit": "BRL/USD",
       "url": "https://frankfurter.dev",
-      "value": 5.3271
+      "value": 5.3516
     },
     "cot": {
       "asOf": "2026-10-20",
@@ -106,56 +106,56 @@
       "value": 255
     },
     "kc1": {
-      "asOf": "2026-10-28",
-      "change": -7,
+      "asOf": "2026-10-29",
+      "change": -1.3,
       "chgDec": 2,
       "contract": "Dic-26",
       "dec": 2,
       "label": "KC C1",
-      "note": "Liquidación (settlement); el histórico de Investing muestra 286,35 al cierre.",
+      "note": "Cotización diferida 29-oct 14:34 (Investing); aún sin liquidación oficial.",
       "source": "Investing.com",
       "unit": "¢/lb",
       "url": "https://www.investing.com/commodities/us-coffee-c-historical-data",
-      "value": 286.75
+      "value": 285.45
     },
     "kc2": {
-      "asOf": "2026-10-28",
-      "change": -4.9,
+      "asOf": "2026-10-29",
+      "change": 0.55,
       "chgDec": 2,
       "contract": "Mar-27",
       "dec": 2,
       "label": "KC C2",
-      "note": "Liquidación 28-oct",
+      "note": "Cotización diferida 29-oct 14:34",
       "source": "Investing.com",
       "unit": "¢/lb",
       "url": "https://www.investing.com/commodities/us-coffee-c-contracts",
-      "value": 276.2
+      "value": 276.75
     },
     "kc3": {
-      "asOf": "2026-10-28",
-      "change": -4.85,
+      "asOf": "2026-10-29",
+      "change": 0.75,
       "chgDec": 2,
       "contract": "May-27",
       "dec": 2,
       "label": "KC C3",
-      "note": "Liquidación 28-oct",
+      "note": "Cotización diferida 29-oct 14:34",
       "source": "Investing.com",
       "unit": "¢/lb",
       "url": "https://www.investing.com/commodities/us-coffee-c-contracts",
-      "value": 272.25
+      "value": 273.0
     },
     "kc4": {
-      "asOf": "2026-10-28",
-      "change": -4.65,
+      "asOf": "2026-10-29",
+      "change": 0.7,
       "chgDec": 2,
       "contract": "Jul-27",
       "dec": 2,
       "label": "KC C4",
-      "note": "Liquidación 28-oct",
+      "note": "Cotización diferida 29-oct 14:34",
       "source": "Investing.com",
       "unit": "¢/lb",
       "url": "https://www.investing.com/commodities/us-coffee-c-contracts",
-      "value": 269.5
+      "value": 270.2
     },
     "milds": {
       "asOf": "2026-10-27",
@@ -204,5 +204,5 @@
       "value": 3162.35
     }
   },
-  "updatedAt": "2026-10-29T11:55:00Z"
+  "updatedAt": "2026-10-29T19:55:00Z"
 }
