@@ -1,6 +1,17 @@
 {
   "items": [
     {
+      "id": "n37",
+      "scope": "co",
+      "regiones": [],
+      "tag": "Precios",
+      "date": "2026-10-29",
+      "source": "La Patria",
+      "url": "https://www.lapatria.com/caldas/federacion-de-cafeteros-comparte-con-cuatro-ministros-la-vision-y-los-retos-de-la",
+      "title": "Comité Nacional cafetero se reúne con cuatro ministros y cierra sesiones del FoNC y el FEPC",
+      "summary": "El 29 de octubre se cumplió la primera sesión del Comité Nacional con los cuatro ministros que lo integran (Hacienda y Agricultura presentes), con seis horas y media de discusión sobre el Fondo Nacional del Café y el Fondo de Estabilización. No se informaron decisiones ni cifras; el Gobierno respaldó la continuidad de la política cafetera."
+    },
+    {
       "date": "2026-10-29",
       "id": "n36",
       "scope": "mundo",
@@ -176,5 +187,5 @@
       "url": "https://www.eluniversal.com.co/economica/2026/10/27/dolar-en-colombia-la-divisa-volvio-a-abrir-a-la-baja-este-martes/"
     }
   ],
-  "updatedAt": "2026-10-29T19:55:00Z"
+  "updatedAt": "2026-10-30T11:58:00Z"
 }

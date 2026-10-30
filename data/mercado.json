@@ -12,7 +12,7 @@
       },
       {
         "contract": "May-27",
-        "value": 273.0
+        "value": 273
       },
       {
         "contract": "Jul-27",
@@ -27,10 +27,10 @@
     "url": "https://www.investing.com/commodities/us-coffee-c-contracts"
   },
   "fncRef": {
-    "asOf": "2026-10-28",
-    "kc": 286.75,
+    "asOf": "2026-10-29",
+    "kc": 285.45,
     "pasillaCOP": 97920,
-    "trm": 3163.05
+    "trm": 3169.8
   },
   "items": {
     "anuncios": {
@@ -75,15 +75,15 @@
       "value": 11.78
     },
     "fnc": {
-      "asOf": "2026-10-28",
-      "change": -35000,
+      "asOf": "2026-10-29",
+      "change": -5000,
       "dec": 0,
       "label": "Precio interno FNC",
       "note": "Carga de 125 kg pergamino seco, factor 94",
       "source": "FNC",
       "unit": "COP/carga",
       "url": "https://federaciondecafeteros.org/estadisticas-cafeteras/",
-      "value": 2030000
+      "value": 2025000
     },
     "icestocks": {
       "asOf": "2026-10-26",
@@ -96,14 +96,14 @@
       "value": 225610
     },
     "icoComp": {
-      "asOf": "2026-10-27",
-      "changePct": -0.76,
+      "asOf": "2026-10-28",
+      "changePct": -1.32,
       "dec": 0,
       "label": "Indicador compuesto OIC",
       "source": "OIC · La República",
       "unit": "¢/lb",
       "url": "https://www.larepublica.co/indicadores-economicos/commodities/cafe",
-      "value": 255
+      "value": 251
     },
     "kc1": {
       "asOf": "2026-10-29",
@@ -112,7 +112,7 @@
       "contract": "Dic-26",
       "dec": 2,
       "label": "KC C1",
-      "note": "Cotización diferida 29-oct 14:34 (Investing); aún sin liquidación oficial.",
+      "note": "Cierre 29-oct (Dic-26); la sesión del 30-oct sigue abierta (287,33 intradía en Investing).",
       "source": "Investing.com",
       "unit": "¢/lb",
       "url": "https://www.investing.com/commodities/us-coffee-c-historical-data",
@@ -125,7 +125,7 @@
       "contract": "Mar-27",
       "dec": 2,
       "label": "KC C2",
-      "note": "Cotización diferida 29-oct 14:34",
+      "note": "Cierre 29-oct (derivado de la cotización del 30-oct menos su variación)",
       "source": "Investing.com",
       "unit": "¢/lb",
       "url": "https://www.investing.com/commodities/us-coffee-c-contracts",
@@ -138,11 +138,11 @@
       "contract": "May-27",
       "dec": 2,
       "label": "KC C3",
-      "note": "Cotización diferida 29-oct 14:34",
+      "note": "Cierre 29-oct (derivado de la cotización del 30-oct menos su variación)",
       "source": "Investing.com",
       "unit": "¢/lb",
       "url": "https://www.investing.com/commodities/us-coffee-c-contracts",
-      "value": 273.0
+      "value": 273
     },
     "kc4": {
       "asOf": "2026-10-29",
@@ -151,21 +151,21 @@
       "contract": "Jul-27",
       "dec": 2,
       "label": "KC C4",
-      "note": "Cotización diferida 29-oct 14:34",
+      "note": "Cierre 29-oct (derivado de la cotización del 30-oct menos su variación)",
       "source": "Investing.com",
       "unit": "¢/lb",
       "url": "https://www.investing.com/commodities/us-coffee-c-contracts",
       "value": 270.2
     },
     "milds": {
-      "asOf": "2026-10-27",
-      "changePct": -1.12,
+      "asOf": "2026-10-28",
+      "changePct": -1.38,
       "dec": 0,
       "label": "Colombian Milds (OIC)",
       "source": "OIC · La República",
       "unit": "¢/lb",
       "url": "https://www.larepublica.co/indicadores-economicos/commodities/cafe",
-      "value": 352
+      "value": 347
     },
     "prod": {
       "asOf": "2026-09-30",
@@ -193,16 +193,16 @@
       "value": 3237.5
     },
     "trm": {
-      "asOf": "2026-10-29",
-      "change": 14.33,
+      "asOf": "2026-10-30",
+      "change": 4.56,
       "chgDec": 2,
       "dec": 2,
       "label": "TRM",
       "source": "Superfinanciera",
       "unit": "COP/USD",
       "url": "https://www.datos.gov.co/Econom-a-y-Finanzas/Tasa-de-Cambio-Representativa-del-Mercado-TRM/32sa-8pi3",
-      "value": 3162.35
+      "value": 3166.91
     }
   },
-  "updatedAt": "2026-10-29T19:55:00Z"
+  "updatedAt": "2026-10-30T11:58:00Z"
 }
