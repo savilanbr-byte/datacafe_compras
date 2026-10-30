@@ -1,15 +1,15 @@
 {
   "items": [
     {
-      "id": "n37",
-      "scope": "co",
-      "regiones": [],
-      "tag": "Precios",
       "date": "2026-10-29",
+      "id": "n37",
+      "regiones": [],
+      "scope": "co",
       "source": "La Patria",
-      "url": "https://www.lapatria.com/caldas/federacion-de-cafeteros-comparte-con-cuatro-ministros-la-vision-y-los-retos-de-la",
+      "summary": "El 29 de octubre se cumplió la primera sesión del Comité Nacional con los cuatro ministros que lo integran (Hacienda y Agricultura presentes), con seis horas y media de discusión sobre el Fondo Nacional del Café y el Fondo de Estabilización. No se informaron decisiones ni cifras; el Gobierno respaldó la continuidad de la política cafetera.",
+      "tag": "Precios",
       "title": "Comité Nacional cafetero se reúne con cuatro ministros y cierra sesiones del FoNC y el FEPC",
-      "summary": "El 29 de octubre se cumplió la primera sesión del Comité Nacional con los cuatro ministros que lo integran (Hacienda y Agricultura presentes), con seis horas y media de discusión sobre el Fondo Nacional del Café y el Fondo de Estabilización. No se informaron decisiones ni cifras; el Gobierno respaldó la continuidad de la política cafetera."
+      "url": "https://www.lapatria.com/caldas/federacion-de-cafeteros-comparte-con-cuatro-ministros-la-vision-y-los-retos-de-la"
     },
     {
       "date": "2026-10-29",
@@ -111,16 +111,6 @@
       "url": "https://www.admis.com/coffee-futures-extend-selloff/"
     },
     {
-      "date": "2026-10-19",
-      "id": "n18",
-      "scope": "mundo",
-      "source": "Reuters · ESM",
-      "summary": "El arábica ICE subió 1,5% a US$3,103/lb tras tocar US$3,138; los inventarios certificados son 240.767 sacos, cerca del mínimo de 27 años (217.646). El robusta subió 1,5% a US$3.454/t.",
-      "tag": "Mercado",
-      "title": "Arábica toca máximo de un mes por inventarios bajos y real fuerte",
-      "url": "https://www.esmmagazine.com/supply-chain/arabica-coffee-touches-one-month-high-amid-low-stocks-strong-brazil-currency-324039"
-    },
-    {
       "date": "2026-10-18",
       "id": "n22",
       "scope": "mundo",
@@ -185,7 +175,42 @@
       "tag": "Divisas",
       "title": "El dólar abre a la baja en $3.135 frente a una TRM de $3.157,94",
       "url": "https://www.eluniversal.com.co/economica/2026/10/27/dolar-en-colombia-la-divisa-volvio-a-abrir-a-la-baja-este-martes/"
+    },
+    {
+      "id": "n38",
+      "scope": "co",
+      "regiones": [],
+      "tag": "Regulación",
+      "date": "2026-10-30",
+      "source": "El País Cali · Colprensa",
+      "url": "https://elpais.com.co/economia/subir-el-iva-al-cafe-del-5-al-19-afectaria-el-consumo-nacional-y-el-empleo-advierte-fedecafe-3037.html",
+      "title": "FNC advierte que subir el IVA del café de 5% a 19% frenaría el consumo",
+      "summary": "La Ley de Rescate Fiscal propone eliminar la tarifa especial del 5% al café; el gerente de la FNC dice que podría reducir la demanda y favorecer cafés importados más baratos. Sigue en trámite en el Congreso."
+    },
+    {
+      "id": "n39",
+      "scope": "co",
+      "regiones": [],
+      "tag": "Divisas",
+      "date": "2026-10-30",
+      "source": "Noticias RCN",
+      "url": "https://www.noticiasrcn.com/economia/precio-del-dolar-en-colombia-en-el-cierre-de-hoy-30-de-octubre-de-2026-1077231",
+      "title": "El dólar cierra en $3.194 tras abrir en $3.170 el día de la decisión del Banco de la República",
+      "summary": "La divisa subió unos 23 pesos en la jornada frente a la apertura, con la TRM oficial del día en $3.166,91. Un dólar más alto sostiene el precio interno del café en pesos."
+    },
+    {
+      "id": "n40",
+      "scope": "co",
+      "regiones": [
+        "cauca"
+      ],
+      "tag": "Cafés especiales",
+      "date": "2026-10-29",
+      "source": "Occidente",
+      "url": "https://occidente.co/colombia/cafe-en-el-departamento-del-cauca-exportacion-europa-2026/",
+      "title": "Cauca despacha 50 contenedores de café especial a Alemania, Países Bajos y Bélgica",
+      "summary": "El envío reúne a productores de Inzá, Caldono, Piendamó y Timbío y beneficia a más de 700 familias; la Gobernación anunció más de $65.000 millones para la caficultura caucana."
     }
   ],
-  "updatedAt": "2026-10-30T11:58:00Z"
+  "updatedAt": "2026-10-30T19:47:00Z"
 }
