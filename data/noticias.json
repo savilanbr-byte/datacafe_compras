@@ -65,17 +65,6 @@
     },
     {
       "date": "2026-10-21",
-      "id": "n21",
-      "regiones": [],
-      "scope": "co",
-      "source": "Infobae",
-      "summary": "La TRM subió $7,44 y el dólar spot abrió en torno a $3.191; en octubre acumula una caída de 5,1%. El petróleo alto y la Fed (reunión del 27–28 de octubre) marcan el rumbo; con un peso fuerte, el ingreso en pesos por saco sigue presionado.",
-      "tag": "Divisas",
-      "title": "TRM sube a $3.163,76 y el dólar abre sobre $3.190, con el Brent cerca de US$111",
-      "url": "https://www.infobae.com/colombia/2026/10/21/dolar-hoy-en-colombia-cotizacion-de-apertura-del-21-de-octubre/"
-    },
-    {
-      "date": "2026-10-21",
       "id": "n23",
       "regiones": [
         "antioquia"
@@ -99,37 +88,6 @@
       "tag": "Agricultura",
       "title": "Huila construirá cinco microcentrales de beneficio de café con una inversión de $3.218 millones",
       "url": "https://laultima.com.co/2026/10/21/huila-construira-cinco-microcentrales-cafeteras-e-infraestructura-agroindustrial-para-frutas"
-    },
-    {
-      "date": "2026-10-27",
-      "id": "n25",
-      "scope": "mundo",
-      "source": "ADM Investor Services",
-      "summary": "Las existencias en ICE cayeron 2.368 sacos el lunes 26 y quedaron en su nivel más bajo desde el 15 de septiembre. La oferta certificada escasa sostiene los diferenciales de los cafés lavados.",
-      "tag": "Mercado",
-      "title": "Inventarios certificados de arábica bajan a 225.610 sacos, cerca de mínimos de 27 años",
-      "url": "https://www.admis.com/coffee-futures-extend-selloff/"
-    },
-    {
-      "date": "2026-10-18",
-      "id": "n22",
-      "scope": "mundo",
-      "source": "Moncloa",
-      "summary": "La Comisión Europea afirma que no habrá un tercer aplazamiento del EUDR para medianas y grandes empresas y dice haber recortado 75% los costos de cumplimiento frente a su estimación de 2023. Los exportadores colombianos deben tener listos los datos de geolocalización de las fincas antes de fin de año.",
-      "tag": "Regulación",
-      "title": "UE reitera que el reglamento antideforestación aplica al café desde el 30 de diciembre",
-      "url": "https://www.moncloa.com/2026/10/18/reglamento-deforestacion-ue-soja-cafe-3450573"
-    },
-    {
-      "date": "2026-10-16",
-      "id": "n19",
-      "regiones": [],
-      "scope": "co",
-      "source": "Valora Analitik",
-      "summary": "Según la FAO (AMIS), la urea promedió US$986,3 por tonelada de nitrógeno en septiembre, tras cinco meses a la baja. En Colombia el bulto aún bajó en 45 de 68 municipios en agosto, pero el rebote presiona costos de abonado hacia fin de año.",
-      "tag": "Insumos",
-      "title": "La urea internacional sube 6,9% y podría encarecer fertilizantes en Colombia",
-      "url": "https://www.valoraanalitik.com/fertilizantes-subirian-de-precio-en-colombia-y-afectaria-precios-de-alimentos-por-repunte-internacional-de-la-urea/"
     },
     {
       "date": "2026-10-21",
@@ -177,40 +135,61 @@
       "url": "https://www.eluniversal.com.co/economica/2026/10/27/dolar-en-colombia-la-divisa-volvio-a-abrir-a-la-baja-este-martes/"
     },
     {
-      "id": "n38",
-      "scope": "co",
-      "regiones": [],
-      "tag": "Regulación",
       "date": "2026-10-30",
+      "id": "n38",
+      "regiones": [],
+      "scope": "co",
       "source": "El País Cali · Colprensa",
-      "url": "https://elpais.com.co/economia/subir-el-iva-al-cafe-del-5-al-19-afectaria-el-consumo-nacional-y-el-empleo-advierte-fedecafe-3037.html",
+      "summary": "La Ley de Rescate Fiscal propone eliminar la tarifa especial del 5% al café; el gerente de la FNC dice que podría reducir la demanda y favorecer cafés importados más baratos. Sigue en trámite en el Congreso.",
+      "tag": "Regulación",
       "title": "FNC advierte que subir el IVA del café de 5% a 19% frenaría el consumo",
-      "summary": "La Ley de Rescate Fiscal propone eliminar la tarifa especial del 5% al café; el gerente de la FNC dice que podría reducir la demanda y favorecer cafés importados más baratos. Sigue en trámite en el Congreso."
+      "url": "https://elpais.com.co/economia/subir-el-iva-al-cafe-del-5-al-19-afectaria-el-consumo-nacional-y-el-empleo-advierte-fedecafe-3037.html"
     },
     {
+      "date": "2026-10-30",
       "id": "n39",
+      "regiones": [],
+      "scope": "co",
+      "source": "Noticias RCN",
+      "summary": "La divisa subió unos 23 pesos en la jornada frente a la apertura, con la TRM oficial del día en $3.166,91. Un dólar más alto sostiene el precio interno del café en pesos.",
+      "tag": "Divisas",
+      "title": "El dólar cierra en $3.194 tras abrir en $3.170 el día de la decisión del Banco de la República",
+      "url": "https://www.noticiasrcn.com/economia/precio-del-dolar-en-colombia-en-el-cierre-de-hoy-30-de-octubre-de-2026-1077231"
+    },
+    {
+      "date": "2026-10-29",
+      "id": "n40",
+      "regiones": [
+        "cauca"
+      ],
+      "scope": "co",
+      "source": "Occidente",
+      "summary": "El envío reúne a productores de Inzá, Caldono, Piendamó y Timbío y beneficia a más de 700 familias; la Gobernación anunció más de $65.000 millones para la caficultura caucana.",
+      "tag": "Cafés especiales",
+      "title": "Cauca despacha 50 contenedores de café especial a Alemania, Países Bajos y Bélgica",
+      "url": "https://occidente.co/colombia/cafe-en-el-departamento-del-cauca-exportacion-europa-2026/"
+    },
+    {
+      "id": "n41",
+      "scope": "mundo",
+      "tag": "Mercado",
+      "date": "2026-10-29",
+      "source": "ADM Investor Services",
+      "url": "https://www.admis.com/coffee-faces-selling-pressure/",
+      "title": "Inventarios certificados de arábica caen a 222.035 sacos, mínimo desde el 15 de septiembre",
+      "summary": "Las existencias en ICE bajaron 2.787 sacos el miércoles 28-oct y las muestras en revisión subieron a 41.961 sacos, todas de Brasil. Con inventario tan escaso, el diferencial de entrega sigue siendo sensible para quien compra físico."
+    },
+    {
+      "id": "n42",
       "scope": "co",
       "regiones": [],
       "tag": "Divisas",
       "date": "2026-10-30",
-      "source": "Noticias RCN",
-      "url": "https://www.noticiasrcn.com/economia/precio-del-dolar-en-colombia-en-el-cierre-de-hoy-30-de-octubre-de-2026-1077231",
-      "title": "El dólar cierra en $3.194 tras abrir en $3.170 el día de la decisión del Banco de la República",
-      "summary": "La divisa subió unos 23 pesos en la jornada frente a la apertura, con la TRM oficial del día en $3.166,91. Un dólar más alto sostiene el precio interno del café en pesos."
-    },
-    {
-      "id": "n40",
-      "scope": "co",
-      "regiones": [
-        "cauca"
-      ],
-      "tag": "Cafés especiales",
-      "date": "2026-10-29",
-      "source": "Occidente",
-      "url": "https://occidente.co/colombia/cafe-en-el-departamento-del-cauca-exportacion-europa-2026/",
-      "title": "Cauca despacha 50 contenedores de café especial a Alemania, Países Bajos y Bélgica",
-      "summary": "El envío reúne a productores de Inzá, Caldono, Piendamó y Timbío y beneficia a más de 700 familias; la Gobernación anunció más de $65.000 millones para la caficultura caucana."
+      "source": "La República",
+      "url": "https://www.larepublica.co/economia/banco-de-la-republica-mantuvo-inalterada-la-tasa-de-interes-y-se-ubico-en-12-25-4515117",
+      "title": "Banco de la República mantiene la tasa en 12,25% con inflación en 6,03%",
+      "summary": "La Junta dejó quieta la tasa de política en la reunión del 30-oct; la inflación anual está en 6,03% y la básica bajó de 6,1% a 6%. Una tasa alta sostiene al peso, lo que reduce el ingreso en pesos de la carga frente al mismo precio en dólares."
     }
   ],
-  "updatedAt": "2026-10-30T19:47:00Z"
+  "updatedAt": "2026-11-02T11:53:00Z"
 }

@@ -1,26 +1,26 @@
 {
   "curve": {
-    "asOf": "2026-10-29",
+    "asOf": "2026-10-30",
     "points": [
       {
         "contract": "Dic-26",
-        "value": 285.45
+        "value": 287.2
       },
       {
         "contract": "Mar-27",
-        "value": 276.75
+        "value": 276.8
       },
       {
         "contract": "May-27",
-        "value": 273
+        "value": 272.75
       },
       {
         "contract": "Jul-27",
-        "value": 270.2
+        "value": 269.65
       },
       {
         "contract": "Sep-27",
-        "value": 267.55
+        "value": 266.95
       }
     ],
     "source": "Investing.com",
@@ -86,14 +86,15 @@
       "value": 2050000
     },
     "icestocks": {
-      "asOf": "2026-10-26",
+      "asOf": "2026-10-28",
       "dec": 0,
       "label": "Inventarios certificados ICE",
-      "note": "ADM 27-oct (cierre del lunes 26); mínimo en 27 años: 217.646 (15-sep)",
+      "note": "ADM 29-oct (cierre del miércoles 28); variación vs 26-oct (225.610). Mínimo en 27 años: 217.646 (15-sep)",
       "source": "ICE · ADM Investor Services",
       "unit": "sacos",
-      "url": "https://www.admis.com/coffee-futures-extend-selloff/",
-      "value": 225610
+      "url": "https://www.admis.com/coffee-faces-selling-pressure/",
+      "value": 222035,
+      "change": -3575
     },
     "icoComp": {
       "asOf": "2026-10-29",
@@ -106,56 +107,56 @@
       "value": 252
     },
     "kc1": {
-      "asOf": "2026-10-29",
-      "change": -1.3,
+      "asOf": "2026-10-30",
+      "change": 1.75,
       "chgDec": 2,
       "contract": "Dic-26",
       "dec": 2,
       "label": "KC C1",
-      "note": "Cierre 29-oct (Dic-26); la sesión del 30-oct sigue abierta (287,15 intradía en Investing).",
+      "note": "Cierre 30-oct (Dic-26). Lunes 2-nov, intradía: 295,05 (+2,73%) en Investing.",
       "source": "Investing.com",
       "unit": "¢/lb",
       "url": "https://www.investing.com/commodities/us-coffee-c-historical-data",
-      "value": 285.45
+      "value": 287.2
     },
     "kc2": {
-      "asOf": "2026-10-29",
-      "change": 0.55,
+      "asOf": "2026-10-30",
+      "change": 0.05,
       "chgDec": 2,
       "contract": "Mar-27",
       "dec": 2,
       "label": "KC C2",
-      "note": "Cierre 29-oct (derivado de la cotización del 30-oct menos su variación)",
+      "note": "Cierre 30-oct (derivado de la cotización del 2-nov menos su variación)",
       "source": "Investing.com",
       "unit": "¢/lb",
       "url": "https://www.investing.com/commodities/us-coffee-c-contracts",
-      "value": 276.75
+      "value": 276.8
     },
     "kc3": {
-      "asOf": "2026-10-29",
-      "change": 0.75,
+      "asOf": "2026-10-30",
+      "change": -0.25,
       "chgDec": 2,
       "contract": "May-27",
       "dec": 2,
       "label": "KC C3",
-      "note": "Cierre 29-oct (derivado de la cotización del 30-oct menos su variación)",
+      "note": "Cierre 30-oct (derivado de la cotización del 2-nov menos su variación)",
       "source": "Investing.com",
       "unit": "¢/lb",
       "url": "https://www.investing.com/commodities/us-coffee-c-contracts",
-      "value": 273
+      "value": 272.75
     },
     "kc4": {
-      "asOf": "2026-10-29",
-      "change": 0.7,
+      "asOf": "2026-10-30",
+      "change": -0.55,
       "chgDec": 2,
       "contract": "Jul-27",
       "dec": 2,
       "label": "KC C4",
-      "note": "Cierre 29-oct (derivado de la cotización del 30-oct menos su variación)",
+      "note": "Cierre 30-oct (derivado de la cotización del 2-nov menos su variación)",
       "source": "Investing.com",
       "unit": "¢/lb",
       "url": "https://www.investing.com/commodities/us-coffee-c-contracts",
-      "value": 270.2
+      "value": 269.65
     },
     "milds": {
       "asOf": "2026-10-29",
@@ -179,30 +180,27 @@
       "value": 12.65
     },
     "robusta": {
-      "asOf": "2026-10-27",
-      "change": 27.5,
-      "changePct": 0.86,
-      "chgDec": 1,
-      "contract": "Nov-26",
+      "asOf": "2026-10-30",
+      "contract": "Ene-27",
       "dec": 1,
       "label": "Robusta Londres (ICE)",
-      "note": "Cierre 27-oct (Nov-26); cierre previo 3.210.",
+      "note": "Cierre previo del Ene-27 (roll del 1-nov desde Nov-26). Intradía 2-nov: 3.272 (+2,12%). Sin variación comparable por el cambio de contrato.",
       "source": "Investing.com",
       "unit": "USD/t",
       "url": "https://www.investing.com/commodities/london-coffee",
-      "value": 3237.5
+      "value": 3204
     },
     "trm": {
-      "asOf": "2026-10-30",
-      "change": 4.56,
+      "asOf": "2026-10-31",
+      "change": 16.08,
       "chgDec": 2,
       "dec": 2,
       "label": "TRM",
       "source": "Superfinanciera",
       "unit": "COP/USD",
       "url": "https://www.datos.gov.co/Econom-a-y-Finanzas/Tasa-de-Cambio-Representativa-del-Mercado-TRM/32sa-8pi3",
-      "value": 3166.91
+      "value": 3182.99
     }
   },
-  "updatedAt": "2026-10-30T19:47:00Z"
+  "updatedAt": "2026-11-02T11:53:00Z"
 }
