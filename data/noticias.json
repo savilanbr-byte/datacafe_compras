@@ -42,68 +42,6 @@
       "url": "https://tradingeconomics.com/commodity/coffee"
     },
     {
-      "date": "2026-10-22",
-      "id": "n28",
-      "regiones": [],
-      "scope": "co",
-      "source": "Valora Analitik",
-      "summary": "El peso se mantiene fuerte pese al salto del petróleo (Brent +3,5%) y la presión por los TES y el Presupuesto 2027; el mercado espera que la tasa suba de 12,25% a 12,50% a fin de mes. Un dólar bajo resta ingreso en pesos al caficultor, aunque el arábica en US$3 lo compensa en parte.",
-      "tag": "Divisas",
-      "title": "Dólar cierra en $3.174 con el Brent sobre US$112; se espera alza de tasas del Banco de la República",
-      "url": "https://www.valoraanalitik.com/dolar-en-colombia-retrocede-y-cierra-en-3-174-mientras-el-petroleo-supera-los-us112-por-tensiones-militares/"
-    },
-    {
-      "date": "2026-10-19",
-      "id": "n27",
-      "regiones": [],
-      "scope": "co",
-      "source": "Semana",
-      "summary": "Colombia envió 8,45 millones de sacos en nueve meses frente a 9,80 millones un año antes; septiembre subió 9%. Asoexport atribuye la caída a la revaluación del peso y al alza de costos, lo que presiona el margen de los exportadores.",
-      "tag": "Exportaciones",
-      "title": "Exportaciones de café caen 13,8% entre enero y septiembre por el peso fuerte",
-      "url": "https://www.semana.com/economia/macroeconomia/articulo/exportaciones-de-cafe-caen-un-138-y-el-sector-alerta-por-el-impacto-del-dolar/202605/"
-    },
-    {
-      "date": "2026-10-21",
-      "id": "n23",
-      "regiones": [
-        "antioquia"
-      ],
-      "scope": "co",
-      "source": "Infobae",
-      "summary": "Caficultores de Toledo y San Andrés de Cuerquia reportan que les exigen una carga por cada diez cosechadas, o hasta 16% de sus ventas; la Gobernación ofrece hasta $500 millones de recompensa. Las denuncias aún deben verificarse; la cosecha de Antioquia se estima 15–20% menor, cerca de 1,9 millones de sacos.",
-      "tag": "Agricultura",
-      "title": "Denuncian cobros del Clan del Golfo a caficultores del norte de Antioquia",
-      "url": "https://www.infobae.com/colombia/2026/10/21/clan-del-golfo-estaria-extorsionando-a-caficultores-de-antioquia-con-decomiso-de-parte-de-su-cosecha-gobernacion-ofrece-recompensas/"
-    },
-    {
-      "date": "2026-10-21",
-      "id": "n24",
-      "regiones": [
-        "huila"
-      ],
-      "scope": "co",
-      "source": "La Última",
-      "summary": "La Gobernación y el consorcio CISP–VENSER firmaron un memorando para levantar las plantas en nueve municipios, entre ellos Pitalito, Garzón, Acevedo y La Plata. Busca dar más valor agregado al café local.",
-      "tag": "Agricultura",
-      "title": "Huila construirá cinco microcentrales de beneficio de café con una inversión de $3.218 millones",
-      "url": "https://laultima.com.co/2026/10/21/huila-construira-cinco-microcentrales-cafeteras-e-infraestructura-agroindustrial-para-frutas"
-    },
-    {
-      "date": "2026-10-21",
-      "id": "n30",
-      "regiones": [
-        "huila",
-        "caldas"
-      ],
-      "scope": "co",
-      "source": "La Patria",
-      "summary": "Cenicafé presentó Celestra, cruce de Caturra rojo con una línea silvestre etíope, y un lote de esta variedad cultivado en Huila ganó el campeonato nacional de cafés filtrados. Abre una opción de perfil exótico para compradores de especiales, sin precios ni volúmenes aún.",
-      "tag": "Cafés especiales",
-      "title": "Celestra, nueva variedad de Cenicafé, se luce en el campeonato de filtrados de la Expo",
-      "url": "https://www.lapatria.com/economia/celestra-nueva-apuesta-de-la-federacion-nacional-de-cafeteros-se-presento-en-la-feria-cafe"
-    },
-    {
       "date": "2026-10-26",
       "id": "n31",
       "scope": "mundo",
@@ -170,26 +108,47 @@
       "url": "https://occidente.co/colombia/cafe-en-el-departamento-del-cauca-exportacion-europa-2026/"
     },
     {
+      "date": "2026-10-29",
       "id": "n41",
       "scope": "mundo",
-      "tag": "Mercado",
-      "date": "2026-10-29",
       "source": "ADM Investor Services",
-      "url": "https://www.admis.com/coffee-faces-selling-pressure/",
+      "summary": "Las existencias en ICE bajaron 2.787 sacos el miércoles 28-oct y las muestras en revisión subieron a 41.961 sacos, todas de Brasil. Con inventario tan escaso, el diferencial de entrega sigue siendo sensible para quien compra físico.",
+      "tag": "Mercado",
       "title": "Inventarios certificados de arábica caen a 222.035 sacos, mínimo desde el 15 de septiembre",
-      "summary": "Las existencias en ICE bajaron 2.787 sacos el miércoles 28-oct y las muestras en revisión subieron a 41.961 sacos, todas de Brasil. Con inventario tan escaso, el diferencial de entrega sigue siendo sensible para quien compra físico."
+      "url": "https://www.admis.com/coffee-faces-selling-pressure/"
     },
     {
+      "date": "2026-10-30",
       "id": "n42",
+      "regiones": [],
+      "scope": "co",
+      "source": "La República",
+      "summary": "La Junta dejó quieta la tasa de política en la reunión del 30-oct; la inflación anual está en 6,03% y la básica bajó de 6,1% a 6%. Una tasa alta sostiene al peso, lo que reduce el ingreso en pesos de la carga frente al mismo precio en dólares.",
+      "tag": "Divisas",
+      "title": "Banco de la República mantiene la tasa en 12,25% con inflación en 6,03%",
+      "url": "https://www.larepublica.co/economia/banco-de-la-republica-mantuvo-inalterada-la-tasa-de-interes-y-se-ubico-en-12-25-4515117"
+    },
+    {
+      "id": "n43",
       "scope": "co",
       "regiones": [],
-      "tag": "Divisas",
-      "date": "2026-10-30",
-      "source": "La República",
-      "url": "https://www.larepublica.co/economia/banco-de-la-republica-mantuvo-inalterada-la-tasa-de-interes-y-se-ubico-en-12-25-4515117",
-      "title": "Banco de la República mantiene la tasa en 12,25% con inflación en 6,03%",
-      "summary": "La Junta dejó quieta la tasa de política en la reunión del 30-oct; la inflación anual está en 6,03% y la básica bajó de 6,1% a 6%. Una tasa alta sostiene al peso, lo que reduce el ingreso en pesos de la carga frente al mismo precio en dólares."
+      "tag": "Eventos",
+      "date": "2026-11-02",
+      "source": "El Universal",
+      "url": "https://www.eluniversal.com.co/economica/2026/11/01/cumbre-cafetera-2026-productores-y-exportadores-de-cafe-al-grano-en-cartagena/",
+      "title": "Cartagena recibe la 90 Cumbre Cafetera el 5 y 6 de noviembre",
+      "summary": "Asoexport y Analdex reúnen a exportadores, comercializadores y al ministro de Agricultura; la FNC cierra con su gerente. El puerto de Cartagena movió 1,56 M de sacos (32% de las exportaciones) de enero a septiembre, con EE. UU. como destino del 56,2%."
+    },
+    {
+      "id": "n44",
+      "scope": "mundo",
+      "tag": "Mercado",
+      "date": "2026-11-02",
+      "source": "CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/agro/cafe-fecha-em-alta-de-171-na-bolsa-de-nova-york-com-estoques-reduzidos/",
+      "title": "Arábica sube 1,71% a US$2,92/lb por la caída de inventarios en ICE",
+      "summary": "El contrato de diciembre cerró al alza apoyado en los inventarios certificados de 222.035 sacos y en riesgos climáticos en Brasil y Vietnam. Los stocks de robusta, en cambio, están en máximos de 15 meses (6.711 lotes)."
     }
   ],
-  "updatedAt": "2026-11-02T19:47:00Z"
+  "updatedAt": "2026-11-03T11:55:00Z"
 }

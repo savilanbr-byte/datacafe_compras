@@ -68,11 +68,11 @@
       "p7": 98.4,
       "place": "Andes",
       "tmax": 24.7,
-      "tmin": 19.0
+      "tmin": 19
     },
     {
       "dept": "Tolima",
-      "p7": 26.0,
+      "p7": 26,
       "place": "Planadas",
       "tmax": 27.5,
       "tmin": 19.4
@@ -81,7 +81,7 @@
       "dept": "Cauca",
       "p7": 132.1,
       "place": "Popayán",
-      "tmax": 21.0,
+      "tmax": 21,
       "tmin": 16.6
     },
     {
@@ -114,7 +114,7 @@
     },
     {
       "dept": "Valle del Cauca",
-      "p7": 92.0,
+      "p7": 92,
       "place": "Sevilla",
       "tmax": 21.3,
       "tmin": 15.9
@@ -130,8 +130,8 @@
       "dept": "Boyacá",
       "p7": 78.7,
       "place": "Moniquirá",
-      "tmax": 24.0,
-      "tmin": 15.0
+      "tmax": 24,
+      "tmin": 15
     },
     {
       "dept": "Santander",
@@ -149,7 +149,7 @@
     },
     {
       "dept": "Cesar",
-      "p7": 55.0,
+      "p7": 55,
       "place": "Pueblo Bello",
       "tmax": 24.3,
       "tmin": 19.3
@@ -162,5 +162,5 @@
       "tmin": 20.5
     }
   ],
-  "updatedAt": "2026-11-02T19:47:00Z"
+  "updatedAt": "2026-11-03T11:55:00Z"
 }

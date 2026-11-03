@@ -87,14 +87,14 @@
     },
     "icestocks": {
       "asOf": "2026-10-28",
+      "change": -3575,
       "dec": 0,
       "label": "Inventarios certificados ICE",
       "note": "ADM 29-oct (cierre del miércoles 28); variación vs 26-oct (225.610). Mínimo en 27 años: 217.646 (15-sep)",
       "source": "ICE · ADM Investor Services",
       "unit": "sacos",
       "url": "https://www.admis.com/coffee-faces-selling-pressure/",
-      "value": 222035,
-      "change": -3575
+      "value": 222035
     },
     "icoComp": {
       "asOf": "2026-10-29",
@@ -181,6 +181,8 @@
     },
     "robusta": {
       "asOf": "2026-11-02",
+      "change": 41,
+      "changePct": 1.28,
       "contract": "Ene-27",
       "dec": 1,
       "label": "Robusta Londres (ICE)",
@@ -188,9 +190,7 @@
       "source": "Investing.com",
       "unit": "USD/t",
       "url": "https://www.investing.com/commodities/london-coffee",
-      "value": 3245,
-      "change": 41,
-      "changePct": 1.28
+      "value": 3245
     },
     "trm": {
       "asOf": "2026-10-31",
@@ -204,5 +204,5 @@
       "value": 3182.99
     }
   },
-  "updatedAt": "2026-11-02T19:47:00Z"
+  "updatedAt": "2026-11-03T11:55:00Z"
 }
