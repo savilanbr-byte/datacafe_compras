@@ -1,13 +1,24 @@
 {
  "items": [
   {
+   "id": "n46",
+   "scope": "co",
+   "regiones": [],
+   "tag": "Divisas",
+   "date": "2026-11-03",
+   "source": "XTB Latam",
+   "url": "https://xtb.com/cl/analisis-y-noticias/analisis-de-mercado/dolar-hoy-colombia-abre-al-alza-sobre-los-3-240-tras-decision-de-tasas-del-banco-de-la-republica",
+   "title": "El dólar en Colombia salta sobre $3.240 tras la pausa del Banco de la República",
+   "summary": "El peso se debilitó cerca de 1,2% frente al cierre previo, con el banco central manteniendo la tasa en 12,25% (4 votos contra 3) y el Brent rebotando hacia US$106. Una TRM más alta mejora el precio interno del café en pesos: el 4-nov quedó en $3.235,59."
+  },
+  {
    "id": "n45",
    "scope": "mundo",
    "tag": "Mercado",
    "date": "2026-11-03",
    "source": "Investing.com",
    "url": "https://www.investing.com/commodities/us-coffee-c-historical-data",
-   "title": "Arábica cede 2,76% y cierra en 284,05 ¢/lb, borrando el rebote del lunes",
+   "title": "Arábica cede 2,79% y cierra en 283,95 ¢/lb, borrando el rebote del lunes",
    "summary": "El contrato diciembre perdió 8,05 ¢ en la sesión del 3 de noviembre tras subir 1,71% el día anterior. La FNC bajó su precio interno a $2.050.000 por carga, $30.000 menos que ayer."
   },
   {
@@ -160,5 +171,5 @@
    "summary": "El contrato de diciembre cerró al alza apoyado en los inventarios certificados de 222.035 sacos y en riesgos climáticos en Brasil y Vietnam. Los stocks de robusta, en cambio, están en máximos de 15 meses (6.711 lotes)."
   }
  ],
- "updatedAt": "2026-11-03T19:47:04Z"
+ "updatedAt": "2026-11-04T11:58:00Z"
 }
