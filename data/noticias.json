@@ -1,25 +1,36 @@
 {
   "items": [
     {
-      "id": "n47",
+      "id": "n49",
       "scope": "co",
       "regiones": [],
       "tag": "Divisas",
       "date": "2026-11-04",
-      "source": "Portafolio",
-      "url": "https://portafolio.co/economia/finanzas/el-dolar-en-colombia-pego-un-salto-asi-cotiza-la-divisa-tras-las-elecciones-de-medio-tiempo-en-estados-unidos-505683",
-      "title": "Dólar en Colombia cotiza cerca de $3.219 con TRM oficial de $3.235,59",
-      "summary": "La divisa osciló entre $3.210 y $3.248 durante la jornada del 4 de noviembre, con el mercado atento a Brent y al empleo en EE. UU. El Banco de la República anunció compras por US$2.000 millones al Gobierno, fuera del mercado cambiario. Un dólar más alto sostiene el ingreso en pesos del caficultor."
+      "source": "El Colombiano",
+      "url": "https://www.elcolombiano.com/negocios/dolar-colombia-proyeccion-tasa-cambio-noviembre-2026-GF43201403",
+      "title": "Bancolombia ve el dólar entre $3.120 y $3.300 en noviembre",
+      "summary": "Octubre cerró en $3.194 (-3,6%) con Brent al alza y bonos externos por US$5.200 millones; el rango depende de la Fed, el ajuste fiscal y la reunión de diciembre. Un dólar más bajo reduce el precio interno en pesos."
     },
     {
+      "date": "2026-11-04",
+      "id": "n47",
+      "regiones": [],
+      "scope": "co",
+      "source": "Portafolio",
+      "summary": "La divisa osciló entre $3.210 y $3.248 durante la jornada del 4 de noviembre, con el mercado atento a Brent y al empleo en EE. UU. El Banco de la República anunció compras por US$2.000 millones al Gobierno, fuera del mercado cambiario. Un dólar más alto sostiene el ingreso en pesos del caficultor.",
+      "tag": "Divisas",
+      "title": "Dólar en Colombia cotiza cerca de $3.219 con TRM oficial de $3.235,59",
+      "url": "https://portafolio.co/economia/finanzas/el-dolar-en-colombia-pego-un-salto-asi-cotiza-la-divisa-tras-las-elecciones-de-medio-tiempo-en-estados-unidos-505683"
+    },
+    {
+      "date": "2026-11-04",
       "id": "n48",
       "scope": "mundo",
-      "tag": "Mercado",
-      "date": "2026-11-04",
       "source": "Investing.com",
-      "url": "https://www.investing.com/commodities/us-coffee-c-historical-data",
+      "summary": "El contrato diciembre cerró la sesión del 4 de noviembre en 279,50 ¢/lb, con rango entre 277,42 y 284,95. Acumula casi 13 ¢ de baja en dos sesiones, lo que presiona el precio interno colombiano (FNC en $2.010.000 por carga).",
+      "tag": "Mercado",
       "title": "Arábica baja 1,57% y cierra en 279,50 ¢/lb, segunda caída seguida",
-      "summary": "El contrato diciembre cerró la sesión del 4 de noviembre en 279,50 ¢/lb, con rango entre 277,42 y 284,95. Acumula casi 13 ¢ de baja en dos sesiones, lo que presiona el precio interno colombiano (FNC en $2.010.000 por carga)."
+      "url": "https://www.investing.com/commodities/us-coffee-c-historical-data"
     },
     {
       "date": "2026-11-03",
@@ -192,5 +203,5 @@
       "url": "https://www.cnnbrasil.com.br/agro/cafe-fecha-em-alta-de-171-na-bolsa-de-nova-york-com-estoques-reduzidos/"
     }
   ],
-  "updatedAt": "2026-11-04T19:55:00Z"
+  "updatedAt": "2026-11-05T11:48:00Z"
 }

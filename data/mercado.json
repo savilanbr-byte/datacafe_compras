@@ -97,15 +97,15 @@
       "value": 222035
     },
     "icoComp": {
-      "asOf": "2026-11-02",
-      "change": 3,
-      "changePct": 1.19,
+      "asOf": "2026-11-03",
+      "change": -4,
+      "changePct": -1.6,
       "dec": 0,
       "label": "Indicador compuesto OIC",
       "source": "OIC · La República",
       "unit": "¢/lb",
       "url": "https://www.larepublica.co/indicadores-economicos/commodities/cafe",
-      "value": 255
+      "value": 251
     },
     "kc1": {
       "asOf": "2026-11-04",
@@ -160,15 +160,15 @@
       "value": 264.75
     },
     "milds": {
-      "asOf": "2026-11-02",
-      "change": 3,
-      "changePct": 0.87,
+      "asOf": "2026-11-03",
+      "change": -6,
+      "changePct": -1.64,
       "dec": 0,
       "label": "Colombian Milds (OIC)",
       "source": "OIC · La República",
       "unit": "¢/lb",
       "url": "https://www.larepublica.co/indicadores-economicos/commodities/cafe",
-      "value": 348
+      "value": 343
     },
     "prod": {
       "asOf": "2026-09-30",
@@ -195,16 +195,16 @@
       "value": 3224
     },
     "trm": {
-      "asOf": "2026-11-04",
-      "change": 52.6,
+      "asOf": "2026-11-05",
+      "change": -14.4,
       "chgDec": 2,
       "dec": 2,
       "label": "TRM",
       "source": "Superfinanciera",
       "unit": "COP/USD",
       "url": "https://www.datos.gov.co/Econom-a-y-Finanzas/Tasa-de-Cambio-Representativa-del-Mercado-TRM/32sa-8pi3",
-      "value": 3235.59
+      "value": 3221.19
     }
   },
-  "updatedAt": "2026-11-04T19:55:00Z"
+  "updatedAt": "2026-11-05T11:48:00Z"
 }
