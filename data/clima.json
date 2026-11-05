@@ -103,11 +103,11 @@
       "p7": 152.7,
       "place": "Armenia",
       "tmax": 22.7,
-      "tmin": 17.0
+      "tmin": 17
     },
     {
       "dept": "Risaralda",
-      "p7": 90.0,
+      "p7": 90,
       "place": "Santa Rosa de Cabal",
       "tmax": 23.1,
       "tmin": 16.4
@@ -137,7 +137,7 @@
       "dept": "Santander",
       "p7": 96.6,
       "place": "San Gil",
-      "tmax": 26.0,
+      "tmax": 26,
       "tmin": 19.6
     },
     {
@@ -162,5 +162,5 @@
       "tmin": 20.3
     }
   ],
-  "updatedAt": "2026-11-05T11:48:00Z"
+  "updatedAt": "2026-11-05T19:47:00Z"
 }

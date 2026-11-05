@@ -1,15 +1,15 @@
 {
   "items": [
     {
-      "id": "n49",
-      "scope": "co",
-      "regiones": [],
-      "tag": "Divisas",
       "date": "2026-11-04",
+      "id": "n49",
+      "regiones": [],
+      "scope": "co",
       "source": "El Colombiano",
-      "url": "https://www.elcolombiano.com/negocios/dolar-colombia-proyeccion-tasa-cambio-noviembre-2026-GF43201403",
+      "summary": "Octubre cerró en $3.194 (-3,6%) con Brent al alza y bonos externos por US$5.200 millones; el rango depende de la Fed, el ajuste fiscal y la reunión de diciembre. Un dólar más bajo reduce el precio interno en pesos.",
+      "tag": "Divisas",
       "title": "Bancolombia ve el dólar entre $3.120 y $3.300 en noviembre",
-      "summary": "Octubre cerró en $3.194 (-3,6%) con Brent al alza y bonos externos por US$5.200 millones; el rango depende de la Fed, el ajuste fiscal y la reunión de diciembre. Un dólar más bajo reduce el precio interno en pesos."
+      "url": "https://www.elcolombiano.com/negocios/dolar-colombia-proyeccion-tasa-cambio-noviembre-2026-GF43201403"
     },
     {
       "date": "2026-11-04",
@@ -203,5 +203,5 @@
       "url": "https://www.cnnbrasil.com.br/agro/cafe-fecha-em-alta-de-171-na-bolsa-de-nova-york-com-estoques-reduzidos/"
     }
   ],
-  "updatedAt": "2026-11-05T11:48:00Z"
+  "updatedAt": "2026-11-05T19:47:00Z"
 }
