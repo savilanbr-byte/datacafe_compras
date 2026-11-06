@@ -22,7 +22,7 @@
   },
   "forecastSource": {
     "name": "MET Norway",
-    "period": "6 al 12 de noviembre",
+    "period": "7 al 13 de noviembre",
     "url": "https://api.met.no/"
   },
   "ideam": {
@@ -58,109 +58,109 @@
   "regions": [
     {
       "dept": "Huila",
-      "p7": 22.9,
+      "p7": 18.1,
       "place": "Pitalito",
-      "tmax": 25.6,
-      "tmin": 17.7
+      "tmax": 25.9,
+      "tmin": 17.6
     },
     {
       "dept": "Antioquia",
-      "p7": 96.8,
+      "p7": 42.0,
       "place": "Andes",
-      "tmax": 26.9,
+      "tmax": 27.3,
       "tmin": 18.9
     },
     {
       "dept": "Tolima",
-      "p7": 24.5,
+      "p7": 29.0,
       "place": "Planadas",
-      "tmax": 28.9,
-      "tmin": 19.4
+      "tmax": 29.0,
+      "tmin": 19.1
     },
     {
       "dept": "Cauca",
-      "p7": 65.2,
+      "p7": 40.6,
       "place": "Popayán",
-      "tmax": 23.2,
-      "tmin": 15.8
+      "tmax": 23.9,
+      "tmin": 15.9
     },
     {
       "dept": "Nariño",
-      "p7": 74.3,
+      "p7": 49.0,
       "place": "La Unión",
-      "tmax": 22.4,
-      "tmin": 14.7
+      "tmax": 23.1,
+      "tmin": 15.0
     },
     {
       "dept": "Caldas",
-      "p7": 78.6,
+      "p7": 50.8,
       "place": "Chinchiná",
-      "tmax": 25.3,
-      "tmin": 17.6
+      "tmax": 26.2,
+      "tmin": 17.7
     },
     {
       "dept": "Quindío",
-      "p7": 152.7,
+      "p7": 102.0,
       "place": "Armenia",
-      "tmax": 22.7,
-      "tmin": 17
+      "tmax": 23.4,
+      "tmin": 17.0
     },
     {
       "dept": "Risaralda",
-      "p7": 90,
+      "p7": 68.6,
       "place": "Santa Rosa de Cabal",
-      "tmax": 23.1,
+      "tmax": 23.7,
       "tmin": 16.4
     },
     {
       "dept": "Valle del Cauca",
-      "p7": 77.4,
+      "p7": 31.9,
       "place": "Sevilla",
-      "tmax": 22.6,
-      "tmin": 16.5
+      "tmax": 23.4,
+      "tmin": 16.2
     },
     {
       "dept": "Cundinamarca",
-      "p7": 26.6,
+      "p7": 14.8,
       "place": "Viotá",
-      "tmax": 29.4,
-      "tmin": 22.3
+      "tmax": 29.9,
+      "tmin": 22.5
     },
     {
       "dept": "Boyacá",
-      "p7": 65.3,
+      "p7": 41.8,
       "place": "Moniquirá",
-      "tmax": 25.7,
-      "tmin": 14.6
+      "tmax": 26.9,
+      "tmin": 14.5
     },
     {
       "dept": "Santander",
-      "p7": 96.6,
+      "p7": 69.3,
       "place": "San Gil",
-      "tmax": 26,
+      "tmax": 26.9,
       "tmin": 19.6
     },
     {
       "dept": "Norte de Santander",
-      "p7": 53.3,
+      "p7": 45.1,
       "place": "Salazar",
-      "tmax": 26.5,
-      "tmin": 19.1
+      "tmax": 27.3,
+      "tmin": 19.4
     },
     {
       "dept": "Cesar",
-      "p7": 31.5,
+      "p7": 31.0,
       "place": "Pueblo Bello",
-      "tmax": 25.8,
-      "tmin": 19.6
+      "tmax": 26.5,
+      "tmin": 20.1
     },
     {
       "dept": "Magdalena",
-      "p7": 53.5,
+      "p7": 29.4,
       "place": "Minca",
-      "tmax": 26.3,
-      "tmin": 20.3
+      "tmax": 26.9,
+      "tmin": 20.4
     }
   ],
-  "updatedAt": "2026-11-05T19:47:00Z"
+  "updatedAt": "2026-11-06T11:48:00Z"
 }

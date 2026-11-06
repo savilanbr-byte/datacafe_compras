@@ -1,6 +1,27 @@
 {
   "items": [
     {
+      "id": "n50",
+      "scope": "co",
+      "regiones": [],
+      "tag": "Divisas",
+      "date": "2026-11-05",
+      "source": "Infobae",
+      "url": "https://www.infobae.com/colombia/2026/11/05/precio-del-dolar-hoy-en-colombia-cotizacion-de-cierre-del-5-de-noviembre/",
+      "title": "Dólar cierra en $3.228 en Colombia, $7 sobre la TRM, con Brent en US$98",
+      "summary": "El dólar osciló entre $3.208 y $3.240 el 5 de noviembre por la aversión al riesgo tras las elecciones de EE. UU. y un Brent que subió 3,5%. Un dólar más alto ayuda al ingreso en pesos del caficultor."
+    },
+    {
+      "id": "n51",
+      "scope": "mundo",
+      "tag": "Mercado",
+      "date": "2026-11-05",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/commodities/us-coffee-c-historical-data",
+      "title": "Arábica cierra en 277,15 ¢/lb, tercera caída seguida",
+      "summary": "El contrato diciembre cedió 0,93% el 5 de noviembre, con rango de 276,40 a 284,40 ¢/lb, y la FNC bajó el precio interno a $2.005.000 por carga."
+    },
+    {
       "date": "2026-11-04",
       "id": "n49",
       "regiones": [],
@@ -83,26 +104,6 @@
       "tag": "Mercado",
       "title": "Arabica cae 2,4% a 293,75 ¢/lb y el robusta presiona por la cosecha de Vietnam",
       "url": "https://esmmagazine.com/supply-chain/sugar-and-coffee-diverge-as-fundamentals-reassert-themselves-after-brazil-election-324693"
-    },
-    {
-      "date": "2026-10-26",
-      "id": "n32",
-      "scope": "mundo",
-      "source": "Trading Economics · Cecafé",
-      "summary": "Según Cecafé, Brasil había despachado cerca de 3,30 millones de sacos a esa fecha, 43,2% más que un año atrás, lo que da más oferta y presiona al arábica; el arábica cerró en 295 ¢/lb el 27-oct, lejos del máximo de 317,85 de hace una semana.",
-      "tag": "Exportaciones",
-      "title": "Embarques de café de Brasil suben 43% anual hasta el 22 de octubre",
-      "url": "https://tradingeconomics.com/commodity/coffee"
-    },
-    {
-      "date": "2026-10-26",
-      "id": "n31",
-      "scope": "mundo",
-      "source": "Istoé Dinheiro",
-      "summary": "Tras la victoria de Lula el 25 de octubre, el dólar abrió en R$ 5,42 (+8,65%) por temor a mayor deuda pública y falta de mayoría en el Congreso. Un real débil suele estimular la venta de café por parte de Brasil y presionar a la baja el arábica, lo que complicaría el precio interno colombiano.",
-      "tag": "Divisas",
-      "title": "El real se desploma tras la reelección de Lula: el dólar sube cerca de 9% en Brasil",
-      "url": "https://istoedinheiro.com.br/dolar-hoje-26-10-2026-reeleicao-lula"
     },
     {
       "date": "2026-10-27",
@@ -203,5 +204,5 @@
       "url": "https://www.cnnbrasil.com.br/agro/cafe-fecha-em-alta-de-171-na-bolsa-de-nova-york-com-estoques-reduzidos/"
     }
   ],
-  "updatedAt": "2026-11-05T19:47:00Z"
+  "updatedAt": "2026-11-06T11:48:00Z"
 }

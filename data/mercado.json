@@ -108,17 +108,17 @@
       "value": 249
     },
     "kc1": {
-      "asOf": "2026-11-04",
-      "change": -4.2,
+      "asOf": "2026-11-05",
+      "change": -2.6,
       "chgDec": 2,
       "contract": "Dic-26",
       "dec": 2,
       "label": "KC C1",
-      "note": "Cierre 4-nov (Dic-26)",
+      "note": "Cierre 5-nov (Dic-26)",
       "source": "Investing.com",
       "unit": "¢/lb",
       "url": "https://www.investing.com/commodities/us-coffee-c-historical-data",
-      "value": 279.75
+      "value": 277.15
     },
     "kc2": {
       "asOf": "2026-11-05",
@@ -127,7 +127,7 @@
       "contract": "Mar-27",
       "dec": 2,
       "label": "KC C2",
-      "note": "Último 5-nov (13:34)",
+      "note": "Cierre 5-nov",
       "source": "Investing.com",
       "unit": "¢/lb",
       "url": "https://www.investing.com/commodities/us-coffee-c-contracts",
@@ -140,7 +140,7 @@
       "contract": "May-27",
       "dec": 2,
       "label": "KC C3",
-      "note": "Último 5-nov (13:34)",
+      "note": "Cierre 5-nov",
       "source": "Investing.com",
       "unit": "¢/lb",
       "url": "https://www.investing.com/commodities/us-coffee-c-contracts",
@@ -153,7 +153,7 @@
       "contract": "Jul-27",
       "dec": 2,
       "label": "KC C4",
-      "note": "Último 5-nov (13:34)",
+      "note": "Cierre 5-nov",
       "source": "Investing.com",
       "unit": "¢/lb",
       "url": "https://www.investing.com/commodities/us-coffee-c-contracts",
@@ -195,16 +195,16 @@
       "value": 3238
     },
     "trm": {
-      "asOf": "2026-11-05",
-      "change": -14.4,
+      "asOf": "2026-11-06",
+      "change": 7.07,
       "chgDec": 2,
       "dec": 2,
       "label": "TRM",
       "source": "Superfinanciera",
       "unit": "COP/USD",
       "url": "https://www.datos.gov.co/Econom-a-y-Finanzas/Tasa-de-Cambio-Representativa-del-Mercado-TRM/32sa-8pi3",
-      "value": 3221.19
+      "value": 3228.26
     }
   },
-  "updatedAt": "2026-11-05T19:47:00Z"
+  "updatedAt": "2026-11-06T11:48:00Z"
 }
