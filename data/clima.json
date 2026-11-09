@@ -98,12 +98,12 @@
       "dept": "Quindío",
       "p7": 114.1,
       "place": "Armenia",
-      "tmax": 23.0,
+      "tmax": 23,
       "tmin": 17.2
     },
     {
       "dept": "Risaralda",
-      "p7": 90.0,
+      "p7": 90,
       "place": "Santa Rosa de Cabal",
       "tmax": 23.6,
       "tmin": 16.4
@@ -126,12 +126,12 @@
       "dept": "Boyacá",
       "p7": 39.6,
       "place": "Moniquirá",
-      "tmax": 27.0,
-      "tmin": 15.0
+      "tmax": 27,
+      "tmin": 15
     },
     {
       "dept": "Santander",
-      "p7": 39.0,
+      "p7": 39,
       "place": "San Gil",
       "tmax": 27.3,
       "tmin": 19.7
@@ -158,5 +158,5 @@
       "tmin": 21.6
     }
   ],
-  "updatedAt": "2026-11-09T11:50:00Z"
+  "updatedAt": "2026-11-09T19:48:15Z"
 }
