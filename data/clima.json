@@ -1,166 +1,162 @@
 {
- "enso": {
-  "asOf": "2026-10-08",
-  "facts": [
-   {
-    "l": "Anomalía Niño 3.4",
-    "v": "+2,1 °C"
-   },
-   {
-    "l": "Fuerte o más hasta ene–mar 2027",
-    "v": "83%"
-   },
-   {
-    "l": "Inicio del déficit fuerte de lluvias",
-    "v": "Dic"
-   }
+  "enso": {
+    "asOf": "2026-10-08",
+    "facts": [
+      {
+        "l": "Anomalía Niño 3.4",
+        "v": "+2,1 °C"
+      },
+      {
+        "l": "Fuerte o más hasta ene–mar 2027",
+        "v": "83%"
+      },
+      {
+        "l": "Inicio del déficit fuerte de lluvias",
+        "v": "Dic"
+      }
+    ],
+    "headline": "El IDEAM declaró el inicio del fenómeno y NOAA mantiene aviso de El Niño en fortalecimiento.",
+    "source": "NOAA CPC · IDEAM",
+    "status": "El Niño · fuerte a muy fuerte",
+    "url": "https://www.cpc.ncep.noaa.gov/products/analysis_monitoring/enso_advisory/ensodisc.shtml"
+  },
+  "forecastSource": {
+    "name": "MET Norway",
+    "period": "10 al 16 de noviembre",
+    "url": "https://api.met.no/"
+  },
+  "ideam": {
+    "asOf": "2026-11-05",
+    "headline": "El pico de El Niño se acerca: noviembre alterna lluvias y días secos",
+    "items": [
+      "Noviembre: alternancia de lluvias y jornadas secas por la transición estacional y la cercanía del pico de El Niño.",
+      "Las condiciones más intensas se esperan desde finales de diciembre hasta febrero.",
+      "Informe de predicción de octubre: déficit de lluvias entre noviembre y enero, sobre todo en regiones Caribe, Andina y Pacífica."
+    ],
+    "links": [
+      {
+        "t": "Infobae: pico de El Niño y lluvias",
+        "url": "https://www.infobae.com/colombia/2026/11/05/el-ideam-anuncio-que-el-pico-del-fenomeno-de-el-nino-se-acerca-esta-es-la-fecha-en-que-comenzaran-a-disminuir-de-las-lluvias-en-el-pais/"
+      },
+      {
+        "t": "Comunicado IDEAM",
+        "url": "https://www.ideam.gov.co/sala-de-prensa/noticia/condiciones-el-nino-continuan-en-fortalecimiento-y-aumenta-la-probabilidad-de-que-alcance-una"
+      }
+    ]
+  },
+  "impactos": [
+    "Octubre y noviembre todavía traen lluvias en la zona andina; el déficit fuerte llega desde diciembre.",
+    "En el sur (Huila, Cauca, Nariño, sur del Tolima), la cosecha principal de mar–jun 2027 llenará grano en plena sequía: riesgo de grano más pequeño, menor rendimiento y más pasilla.",
+    "Las floraciones de diciembre a febrero alimentan la principal 2027 de la zona centro: si fallan por falta de agua, esa cosecha llega más corta.",
+    "La sequía favorece la broca: revisa calidad física (broca, pasilla, factor) en los lotes de inicios de 2027.",
+    "Con más sol, el secado mejora en diciembre y enero para la cosecha que va terminando."
   ],
-  "headline": "El IDEAM declaró el inicio del fenómeno y NOAA mantiene aviso de El Niño en fortalecimiento.",
-  "source": "NOAA CPC · IDEAM",
-  "status": "El Niño · fuerte a muy fuerte",
-  "url": "https://www.cpc.ncep.noaa.gov/products/analysis_monitoring/enso_advisory/ensodisc.shtml"
- },
- "forecastSource": {
-  "name": "MET Norway",
-  "period": "7 al 13 de noviembre",
-  "url": "https://api.met.no/"
- },
- "ideam": {
-  "asOf": "2026-10-19",
-  "headline": "Lluvias siguen en octubre–noviembre, pero El Niño traerá déficit desde diciembre",
-  "items": [
-   "Comunicado especial 111 (6-oct): la temporada de lluvias empezó a finales de septiembre, con acumulados menores a los históricos en varias zonas y tormentas intensas en lapsos cortos.",
-   "Semana del 19 al 23 de octubre: lluvias más fuertes en Antioquia, Chocó, Cauca y Nariño.",
-   "Después podrían presentarse déficits de lluvia superiores al 60%; sequía posible entre diciembre y marzo."
+  "regions": [
+    {
+      "dept": "Huila",
+      "p7": 21.2,
+      "place": "Pitalito",
+      "tmax": 26.5,
+      "tmin": 18.2
+    },
+    {
+      "dept": "Antioquia",
+      "p7": 39.8,
+      "place": "Andes",
+      "tmax": 27.4,
+      "tmin": 18.9
+    },
+    {
+      "dept": "Tolima",
+      "p7": 19.6,
+      "place": "Planadas",
+      "tmax": 29.3,
+      "tmin": 19.5
+    },
+    {
+      "dept": "Cauca",
+      "p7": 49.8,
+      "place": "Popayán",
+      "tmax": 22.5,
+      "tmin": 16.1
+    },
+    {
+      "dept": "Nariño",
+      "p7": 74.4,
+      "place": "La Unión",
+      "tmax": 21.9,
+      "tmin": 15.4
+    },
+    {
+      "dept": "Caldas",
+      "p7": 94.3,
+      "place": "Chinchiná",
+      "tmax": 25.5,
+      "tmin": 17.5
+    },
+    {
+      "dept": "Quindío",
+      "p7": 114.1,
+      "place": "Armenia",
+      "tmax": 23.0,
+      "tmin": 17.2
+    },
+    {
+      "dept": "Risaralda",
+      "p7": 90.0,
+      "place": "Santa Rosa de Cabal",
+      "tmax": 23.6,
+      "tmin": 16.4
+    },
+    {
+      "dept": "Valle del Cauca",
+      "p7": 27.4,
+      "place": "Sevilla",
+      "tmax": 23.2,
+      "tmin": 16.2
+    },
+    {
+      "dept": "Cundinamarca",
+      "p7": 13.9,
+      "place": "Viotá",
+      "tmax": 29.8,
+      "tmin": 22.7
+    },
+    {
+      "dept": "Boyacá",
+      "p7": 39.6,
+      "place": "Moniquirá",
+      "tmax": 27.0,
+      "tmin": 15.0
+    },
+    {
+      "dept": "Santander",
+      "p7": 39.0,
+      "place": "San Gil",
+      "tmax": 27.3,
+      "tmin": 19.7
+    },
+    {
+      "dept": "Norte de Santander",
+      "p7": 29.8,
+      "place": "Salazar",
+      "tmax": 27.9,
+      "tmin": 19.6
+    },
+    {
+      "dept": "Cesar",
+      "p7": 17.3,
+      "place": "Pueblo Bello",
+      "tmax": 26.4,
+      "tmin": 19.8
+    },
+    {
+      "dept": "Magdalena",
+      "p7": 33.1,
+      "place": "Minca",
+      "tmax": 27.1,
+      "tmin": 21.6
+    }
   ],
-  "links": [
-   {
-    "t": "Infobae: lluvias en 22 departamentos",
-    "url": "https://www.infobae.com/colombia/2026/10/13/el-ideam-preve-lluvias-intensas-en-22-departamentos-pese-a-declaratoria-oficial-del-inicio-del-fenomeno-de-el-nino/"
-   },
-   {
-    "t": "El Tiempo: regiones con más lluvia esta semana",
-    "url": "https://www.eltiempo.com/vida/medio-ambiente/lluvias-en-colombia-esta-semana-estas-son-las-regiones-donde-mas-llovera-segun-el-ideam-3594740"
-   },
-   {
-    "t": "Comunicado IDEAM",
-    "url": "https://www.ideam.gov.co/sala-de-prensa/noticia/condiciones-el-nino-continuan-en-fortalecimiento-y-aumenta-la-probabilidad-de-que-alcance-una"
-   }
-  ]
- },
- "impactos": [
-  "Octubre y noviembre todavía traen lluvias en la zona andina; el déficit fuerte llega desde diciembre.",
-  "En el sur (Huila, Cauca, Nariño, sur del Tolima), la cosecha principal de mar–jun 2027 llenará grano en plena sequía: riesgo de grano más pequeño, menor rendimiento y más pasilla.",
-  "Las floraciones de diciembre a febrero alimentan la principal 2027 de la zona centro: si fallan por falta de agua, esa cosecha llega más corta.",
-  "La sequía favorece la broca: revisa calidad física (broca, pasilla, factor) en los lotes de inicios de 2027.",
-  "Con más sol, el secado mejora en diciembre y enero para la cosecha que va terminando."
- ],
- "regions": [
-  {
-   "dept": "Huila",
-   "p7": 18.1,
-   "place": "Pitalito",
-   "tmax": 25.9,
-   "tmin": 17.6
-  },
-  {
-   "dept": "Antioquia",
-   "p7": 42,
-   "place": "Andes",
-   "tmax": 27.3,
-   "tmin": 18.9
-  },
-  {
-   "dept": "Tolima",
-   "p7": 29,
-   "place": "Planadas",
-   "tmax": 29,
-   "tmin": 19.1
-  },
-  {
-   "dept": "Cauca",
-   "p7": 40.6,
-   "place": "Popayán",
-   "tmax": 23.9,
-   "tmin": 15.9
-  },
-  {
-   "dept": "Nariño",
-   "p7": 49,
-   "place": "La Unión",
-   "tmax": 23.1,
-   "tmin": 15
-  },
-  {
-   "dept": "Caldas",
-   "p7": 50.8,
-   "place": "Chinchiná",
-   "tmax": 26.2,
-   "tmin": 17.7
-  },
-  {
-   "dept": "Quindío",
-   "p7": 102,
-   "place": "Armenia",
-   "tmax": 23.4,
-   "tmin": 17
-  },
-  {
-   "dept": "Risaralda",
-   "p7": 68.6,
-   "place": "Santa Rosa de Cabal",
-   "tmax": 23.7,
-   "tmin": 16.4
-  },
-  {
-   "dept": "Valle del Cauca",
-   "p7": 31.9,
-   "place": "Sevilla",
-   "tmax": 23.4,
-   "tmin": 16.2
-  },
-  {
-   "dept": "Cundinamarca",
-   "p7": 14.8,
-   "place": "Viotá",
-   "tmax": 29.9,
-   "tmin": 22.5
-  },
-  {
-   "dept": "Boyacá",
-   "p7": 41.8,
-   "place": "Moniquirá",
-   "tmax": 26.9,
-   "tmin": 14.5
-  },
-  {
-   "dept": "Santander",
-   "p7": 69.3,
-   "place": "San Gil",
-   "tmax": 26.9,
-   "tmin": 19.6
-  },
-  {
-   "dept": "Norte de Santander",
-   "p7": 45.1,
-   "place": "Salazar",
-   "tmax": 27.3,
-   "tmin": 19.4
-  },
-  {
-   "dept": "Cesar",
-   "p7": 31,
-   "place": "Pueblo Bello",
-   "tmax": 26.5,
-   "tmin": 20.1
-  },
-  {
-   "dept": "Magdalena",
-   "p7": 29.4,
-   "place": "Minca",
-   "tmax": 26.9,
-   "tmin": 20.4
-  }
- ],
- "updatedAt": "2026-11-06T19:55:00Z"
+  "updatedAt": "2026-11-09T11:50:00Z"
 }

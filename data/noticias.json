@@ -1,157 +1,178 @@
 {
- "items": [
-  {
-   "date": "2026-11-05",
-   "id": "n50",
-   "regiones": [],
-   "scope": "co",
-   "source": "Infobae",
-   "summary": "El dólar osciló entre $3.208 y $3.240 el 5 de noviembre por la aversión al riesgo tras las elecciones de EE. UU. y un Brent que subió 3,5%. Un dólar más alto ayuda al ingreso en pesos del caficultor.",
-   "tag": "Divisas",
-   "title": "Dólar cierra en $3.228 en Colombia, $7 sobre la TRM, con Brent en US$98",
-   "url": "https://www.infobae.com/colombia/2026/11/05/precio-del-dolar-hoy-en-colombia-cotizacion-de-cierre-del-5-de-noviembre/"
-  },
-  {
-   "date": "2026-11-05",
-   "id": "n51",
-   "scope": "mundo",
-   "source": "Investing.com",
-   "summary": "El contrato diciembre cedió 0,93% el 5 de noviembre, con rango de 276,40 a 284,40 ¢/lb, y la FNC bajó el precio interno a $2.005.000 por carga.",
-   "tag": "Mercado",
-   "title": "Arábica cierra en 277,15 ¢/lb, tercera caída seguida",
-   "url": "https://www.investing.com/commodities/us-coffee-c-historical-data"
-  },
-  {
-   "date": "2026-11-04",
-   "id": "n49",
-   "regiones": [],
-   "scope": "co",
-   "source": "El Colombiano",
-   "summary": "Octubre cerró en $3.194 (-3,6%) con Brent al alza y bonos externos por US$5.200 millones; el rango depende de la Fed, el ajuste fiscal y la reunión de diciembre. Un dólar más bajo reduce el precio interno en pesos.",
-   "tag": "Divisas",
-   "title": "Bancolombia ve el dólar entre $3.120 y $3.300 en noviembre",
-   "url": "https://www.elcolombiano.com/negocios/dolar-colombia-proyeccion-tasa-cambio-noviembre-2026-GF43201403"
-  },
-  {
-   "date": "2026-11-03",
-   "id": "n46",
-   "regiones": [],
-   "scope": "co",
-   "source": "XTB Latam",
-   "summary": "El peso se debilitó cerca de 1,2% frente al cierre previo, con el banco central manteniendo la tasa en 12,25% (4 votos contra 3) y el Brent rebotando hacia US$106. Una TRM más alta mejora el precio interno del café en pesos: el 4-nov quedó en $3.235,59.",
-   "tag": "Divisas",
-   "title": "El dólar en Colombia salta sobre $3.240 tras la pausa del Banco de la República",
-   "url": "https://xtb.com/cl/analisis-y-noticias/analisis-de-mercado/dolar-hoy-colombia-abre-al-alza-sobre-los-3-240-tras-decision-de-tasas-del-banco-de-la-republica"
-  },
-  {
-   "date": "2026-10-29",
-   "id": "n37",
-   "regiones": [],
-   "scope": "co",
-   "source": "La Patria",
-   "summary": "El 29 de octubre se cumplió la primera sesión del Comité Nacional con los cuatro ministros que lo integran (Hacienda y Agricultura presentes), con seis horas y media de discusión sobre el Fondo Nacional del Café y el Fondo de Estabilización. No se informaron decisiones ni cifras; el Gobierno respaldó la continuidad de la política cafetera.",
-   "tag": "Precios",
-   "title": "Comité Nacional cafetero se reúne con cuatro ministros y cierra sesiones del FoNC y el FEPC",
-   "url": "https://www.lapatria.com/caldas/federacion-de-cafeteros-comparte-con-cuatro-ministros-la-vision-y-los-retos-de-la"
-  },
-  {
-   "date": "2026-10-29",
-   "id": "n36",
-   "scope": "mundo",
-   "source": "La República",
-   "summary": "El comité decidió 10 a 2 dejar la tasa sin cambios, pero los mercados siguen apostando a un alza en diciembre por la inflación impulsada por la energía. Un dólar más fuerte podría subir la TRM y amortiguar en pesos una eventual baja de la bolsa de NY.",
-   "tag": "Divisas",
-   "title": "La Fed mantiene su tasa en 3,75%-4% con dos votos a favor de subirla",
-   "url": "https://www.larepublica.co/globoeconomia/la-reserva-federal-dejo-las-tasas-de-interes-en-3-75-4-ante-creciente-temor-inflacionario-4513460"
-  },
-  {
-   "date": "2026-10-30",
-   "id": "n38",
-   "regiones": [],
-   "scope": "co",
-   "source": "El País Cali · Colprensa",
-   "summary": "La Ley de Rescate Fiscal propone eliminar la tarifa especial del 5% al café; el gerente de la FNC dice que podría reducir la demanda y favorecer cafés importados más baratos. Sigue en trámite en el Congreso.",
-   "tag": "Regulación",
-   "title": "FNC advierte que subir el IVA del café de 5% a 19% frenaría el consumo",
-   "url": "https://elpais.com.co/economia/subir-el-iva-al-cafe-del-5-al-19-afectaria-el-consumo-nacional-y-el-empleo-advierte-fedecafe-3037.html"
-  },
-  {
-   "date": "2026-10-30",
-   "id": "n39",
-   "regiones": [],
-   "scope": "co",
-   "source": "Noticias RCN",
-   "summary": "La divisa subió unos 23 pesos en la jornada frente a la apertura, con la TRM oficial del día en $3.166,91. Un dólar más alto sostiene el precio interno del café en pesos.",
-   "tag": "Divisas",
-   "title": "El dólar cierra en $3.194 tras abrir en $3.170 el día de la decisión del Banco de la República",
-   "url": "https://www.noticiasrcn.com/economia/precio-del-dolar-en-colombia-en-el-cierre-de-hoy-30-de-octubre-de-2026-1077231"
-  },
-  {
-   "date": "2026-10-29",
-   "id": "n40",
-   "regiones": [
-    "cauca"
-   ],
-   "scope": "co",
-   "source": "Occidente",
-   "summary": "El envío reúne a productores de Inzá, Caldono, Piendamó y Timbío y beneficia a más de 700 familias; la Gobernación anunció más de $65.000 millones para la caficultura caucana.",
-   "tag": "Cafés especiales",
-   "title": "Cauca despacha 50 contenedores de café especial a Alemania, Países Bajos y Bélgica",
-   "url": "https://occidente.co/colombia/cafe-en-el-departamento-del-cauca-exportacion-europa-2026/"
-  },
-  {
-   "date": "2026-10-29",
-   "id": "n41",
-   "scope": "mundo",
-   "source": "ADM Investor Services",
-   "summary": "Las existencias en ICE bajaron 2.787 sacos el miércoles 28-oct y las muestras en revisión subieron a 41.961 sacos, todas de Brasil. Con inventario tan escaso, el diferencial de entrega sigue siendo sensible para quien compra físico.",
-   "tag": "Mercado",
-   "title": "Inventarios certificados de arábica caen a 222.035 sacos, mínimo desde el 15 de septiembre",
-   "url": "https://www.admis.com/coffee-faces-selling-pressure/"
-  },
-  {
-   "date": "2026-10-30",
-   "id": "n42",
-   "regiones": [],
-   "scope": "co",
-   "source": "La República",
-   "summary": "La Junta dejó quieta la tasa de política en la reunión del 30-oct; la inflación anual está en 6,03% y la básica bajó de 6,1% a 6%. Una tasa alta sostiene al peso, lo que reduce el ingreso en pesos de la carga frente al mismo precio en dólares.",
-   "tag": "Divisas",
-   "title": "Banco de la República mantiene la tasa en 12,25% con inflación en 6,03%",
-   "url": "https://www.larepublica.co/economia/banco-de-la-republica-mantuvo-inalterada-la-tasa-de-interes-y-se-ubico-en-12-25-4515117"
-  },
-  {
-   "date": "2026-11-02",
-   "id": "n43",
-   "regiones": [],
-   "scope": "co",
-   "source": "El Universal",
-   "summary": "Asoexport y Analdex reúnen a exportadores, comercializadores y al ministro de Agricultura; la FNC cierra con su gerente. El puerto de Cartagena movió 1,56 M de sacos (32% de las exportaciones) de enero a septiembre, con EE. UU. como destino del 56,2%.",
-   "tag": "Eventos",
-   "title": "Cartagena recibe la 90 Cumbre Cafetera el 5 y 6 de noviembre",
-   "url": "https://www.eluniversal.com.co/economica/2026/11/01/cumbre-cafetera-2026-productores-y-exportadores-de-cafe-al-grano-en-cartagena/"
-  },
-  {
-   "id": "n52",
-   "scope": "co",
-   "regiones": [],
-   "tag": "Agricultura",
-   "date": "2026-11-06",
-   "source": "Portafolio",
-   "url": "https://www.portafolio.co/economia/agro/federacion-de-cafeteros-recibe-respaldo-del-gobierno-preparan-creditos-para-enfrentar-riesgos-climaticos-505856",
-   "title": "Gobierno prepara crédito, reperfilamiento de deudas y seguro climático para cafeteros",
-   "summary": "Se alista una línea de crédito vía compradores con respaldo del FAG, alivio de cuotas ante un posible Niño, subsidio de hasta 60% a pólizas climáticas (a discutir el 30 de noviembre) y ICR de hasta 30% para renovar cafetales. No se informan montos."
-  },
-  {
-   "id": "n53",
-   "scope": "mundo",
-   "tag": "Mercado",
-   "date": "2026-11-06",
-   "source": "Investing.com",
-   "url": "https://www.investing.com/commodities/us-coffee-c-historical-data",
-   "title": "Arábica rebota 1,08% a 280,15 ¢/lb y corta tres caídas",
-   "summary": "El contrato diciembre subió 3 ¢ el 6 de noviembre; el robusta de Londres sumó 32 USD/t a 3.270. La FNC subió el precio interno a $2.020.000 por carga."
-  }
- ],
- "updatedAt": "2026-11-06T19:55:00Z"
+  "items": [
+    {
+      "date": "2026-11-05",
+      "id": "n50",
+      "regiones": [],
+      "scope": "co",
+      "source": "Infobae",
+      "summary": "El dólar osciló entre $3.208 y $3.240 el 5 de noviembre por la aversión al riesgo tras las elecciones de EE. UU. y un Brent que subió 3,5%. Un dólar más alto ayuda al ingreso en pesos del caficultor.",
+      "tag": "Divisas",
+      "title": "Dólar cierra en $3.228 en Colombia, $7 sobre la TRM, con Brent en US$98",
+      "url": "https://www.infobae.com/colombia/2026/11/05/precio-del-dolar-hoy-en-colombia-cotizacion-de-cierre-del-5-de-noviembre/"
+    },
+    {
+      "date": "2026-11-04",
+      "id": "n49",
+      "regiones": [],
+      "scope": "co",
+      "source": "El Colombiano",
+      "summary": "Octubre cerró en $3.194 (-3,6%) con Brent al alza y bonos externos por US$5.200 millones; el rango depende de la Fed, el ajuste fiscal y la reunión de diciembre. Un dólar más bajo reduce el precio interno en pesos.",
+      "tag": "Divisas",
+      "title": "Bancolombia ve el dólar entre $3.120 y $3.300 en noviembre",
+      "url": "https://www.elcolombiano.com/negocios/dolar-colombia-proyeccion-tasa-cambio-noviembre-2026-GF43201403"
+    },
+    {
+      "date": "2026-10-29",
+      "id": "n36",
+      "scope": "mundo",
+      "source": "La República",
+      "summary": "El comité decidió 10 a 2 dejar la tasa sin cambios, pero los mercados siguen apostando a un alza en diciembre por la inflación impulsada por la energía. Un dólar más fuerte podría subir la TRM y amortiguar en pesos una eventual baja de la bolsa de NY.",
+      "tag": "Divisas",
+      "title": "La Fed mantiene su tasa en 3,75%-4% con dos votos a favor de subirla",
+      "url": "https://www.larepublica.co/globoeconomia/la-reserva-federal-dejo-las-tasas-de-interes-en-3-75-4-ante-creciente-temor-inflacionario-4513460"
+    },
+    {
+      "date": "2026-10-30",
+      "id": "n38",
+      "regiones": [],
+      "scope": "co",
+      "source": "El País Cali · Colprensa",
+      "summary": "La Ley de Rescate Fiscal propone eliminar la tarifa especial del 5% al café; el gerente de la FNC dice que podría reducir la demanda y favorecer cafés importados más baratos. Sigue en trámite en el Congreso.",
+      "tag": "Regulación",
+      "title": "FNC advierte que subir el IVA del café de 5% a 19% frenaría el consumo",
+      "url": "https://elpais.com.co/economia/subir-el-iva-al-cafe-del-5-al-19-afectaria-el-consumo-nacional-y-el-empleo-advierte-fedecafe-3037.html"
+    },
+    {
+      "date": "2026-10-29",
+      "id": "n40",
+      "regiones": [
+        "cauca"
+      ],
+      "scope": "co",
+      "source": "Occidente",
+      "summary": "El envío reúne a productores de Inzá, Caldono, Piendamó y Timbío y beneficia a más de 700 familias; la Gobernación anunció más de $65.000 millones para la caficultura caucana.",
+      "tag": "Cafés especiales",
+      "title": "Cauca despacha 50 contenedores de café especial a Alemania, Países Bajos y Bélgica",
+      "url": "https://occidente.co/colombia/cafe-en-el-departamento-del-cauca-exportacion-europa-2026/"
+    },
+    {
+      "date": "2026-10-29",
+      "id": "n41",
+      "scope": "mundo",
+      "source": "ADM Investor Services",
+      "summary": "Las existencias en ICE bajaron 2.787 sacos el miércoles 28-oct y las muestras en revisión subieron a 41.961 sacos, todas de Brasil. Con inventario tan escaso, el diferencial de entrega sigue siendo sensible para quien compra físico.",
+      "tag": "Mercado",
+      "title": "Inventarios certificados de arábica caen a 222.035 sacos, mínimo desde el 15 de septiembre",
+      "url": "https://www.admis.com/coffee-faces-selling-pressure/"
+    },
+    {
+      "date": "2026-10-30",
+      "id": "n42",
+      "regiones": [],
+      "scope": "co",
+      "source": "La República",
+      "summary": "La Junta dejó quieta la tasa de política en la reunión del 30-oct; la inflación anual está en 6,03% y la básica bajó de 6,1% a 6%. Una tasa alta sostiene al peso, lo que reduce el ingreso en pesos de la carga frente al mismo precio en dólares.",
+      "tag": "Divisas",
+      "title": "Banco de la República mantiene la tasa en 12,25% con inflación en 6,03%",
+      "url": "https://www.larepublica.co/economia/banco-de-la-republica-mantuvo-inalterada-la-tasa-de-interes-y-se-ubico-en-12-25-4515117"
+    },
+    {
+      "date": "2026-11-06",
+      "id": "n53",
+      "scope": "mundo",
+      "source": "Investing.com",
+      "summary": "El contrato diciembre subió 3 ¢ el 6 de noviembre; el robusta de Londres sumó 32 USD/t a 3.270. La FNC subió el precio interno a $2.020.000 por carga.",
+      "tag": "Mercado",
+      "title": "Arábica rebota 1,08% a 280,15 ¢/lb y corta tres caídas",
+      "url": "https://www.investing.com/commodities/us-coffee-c-historical-data"
+    },
+    {
+      "id": "n54",
+      "scope": "co",
+      "regiones": [],
+      "tag": "Producción",
+      "date": "2026-11-06",
+      "source": "Agronegocios",
+      "url": "https://www.agronegocios.co/agricultura/produccion-cafetera-con-corte-a-octubre-de-2026-4519174",
+      "title": "Producción cafetera de octubre: 1,11 M de sacos, 8% menos; 12 meses cae 15%",
+      "summary": "La FNC reportó 1,114 M de sacos en octubre y 12,56 M en los últimos 12 meses (−15%); las exportaciones del mes subieron 6% a 1,119 M. La oferta sigue corta, lo que sostiene las primas de origen."
+    },
+    {
+      "id": "n55",
+      "scope": "co",
+      "regiones": [],
+      "tag": "Industria",
+      "date": "2026-11-08",
+      "source": "El Tiempo",
+      "url": "https://www.eltiempo.com/economia/federacion-nacional-de-cafeteros-empezara-a-comprar-cafe-en-cereza-que-cambia-para-los-caficultores-3599155",
+      "title": "La FNC empezará a comprar café en cereza para ofrecer lotes trazables",
+      "summary": "Anunciado en la Cumbre Cafetera de Cartagena, el esquema busca lotes consistentes y trazables que piden tostadores e importadores. No se informó precio ni fecha de inicio; también presentó las variedades Celestra, Cocoon y Castalia."
+    },
+    {
+      "id": "n56",
+      "scope": "co",
+      "regiones": [],
+      "tag": "Agricultura",
+      "date": "2026-11-06",
+      "source": "El Tiempo",
+      "url": "https://www.eltiempo.com/amp/economia/los-cinco-anuncios-del-gobierno-para-el-cafe-colombiano-credito-por-el-comprador-y-alivio-de-deudas-entre-ellos-3599035",
+      "title": "Gobierno anuncia cinco medidas para el café: crédito vía comprador, reperfilar deudas y seguro con subsidio de hasta 60%",
+      "summary": "MinAgricultura anunció crédito canalizado por los compradores, congelar amortizaciones antes de El Niño, ICR de hasta 30% para renovación y subsidio al seguro climático (decisión el 30-nov). Los compradores que anticipan fertilización podrían contar con respaldo del FAG."
+    },
+    {
+      "id": "n57",
+      "scope": "co",
+      "regiones": [],
+      "tag": "Industria",
+      "date": "2026-11-06",
+      "source": "El Colombiano",
+      "url": "https://www.elcolombiano.com/negocios/german-bahamon-critica-petro-iva-cafe-federacion-cafeteros-colombia-BM43297116",
+      "title": "Bahamón pide excluir el café del IVA de 19% y anuncia inversiones en cereza, trilla y Buencafé",
+      "summary": "El gerente de la FNC planteó $10.000 millones para compra en cereza, $20.000 millones para tres plantas en zonas afectadas por el terremoto y una ampliación de Buencafé de más de US$80 millones; la meta es exportar 20 M de sacos en 2035."
+    },
+    {
+      "id": "n58",
+      "scope": "co",
+      "regiones": [],
+      "tag": "Divisas",
+      "date": "2026-11-09",
+      "source": "Superfinanciera · datos.gov.co",
+      "url": "https://www.datos.gov.co/Econom-a-y-Finanzas/Tasa-de-Cambio-Representativa-del-Mercado-TRM/32sa-8pi3",
+      "title": "La TRM sube a $3.237,83 para el 7–9 de noviembre",
+      "summary": "La TRM vigente sube $9,57 frente a la del 6-nov ($3.228,26). Un dólar algo más caro mejora el precio interno en pesos para igual bolsa de Nueva York."
+    },
+    {
+      "id": "n60",
+      "scope": "mundo",
+      "tag": "Mercado",
+      "date": "2026-11-06",
+      "source": "Trading Economics",
+      "url": "https://tradingeconomics.com/commodity/coffee",
+      "title": "Arábica ronda mínimos de un mes por la llegada de café brasileño a los almacenes de ICE",
+      "summary": "El contrato cotizó cerca de US$2,80/lb el 6-nov; el café brasileño certificado llegó a 83.678 sacos (máximo en 9 meses y cuarto), aunque las existencias totales siguen críticamente bajas y 55.396 sacos esperan clasificación."
+    },
+    {
+      "id": "n61",
+      "scope": "mundo",
+      "tag": "Mercado",
+      "date": "2026-11-06",
+      "source": "CFTC",
+      "url": "https://www.cftc.gov/dea/futures/ag_lf.htm",
+      "title": "Fondos reducen su posición neta compradora en café arábica a 14.732 contratos",
+      "summary": "Con datos al 3-nov, los fondos bajaron largos en 2.943 y subieron cortos en 2.429 (largos 34.613, cortos 19.881); el interés abierto cayó a 166.984."
+    },
+    {
+      "id": "n62",
+      "scope": "co",
+      "regiones": [],
+      "tag": "Clima",
+      "date": "2026-11-05",
+      "source": "Infobae",
+      "url": "https://www.infobae.com/colombia/2026/11/05/el-ideam-anuncio-que-el-pico-del-fenomeno-de-el-nino-se-acerca-esta-es-la-fecha-en-que-comenzaran-a-disminuir-de-las-lluvias-en-el-pais/",
+      "title": "IDEAM: noviembre alterna lluvias y días secos; lo más intenso de El Niño llega desde fines de diciembre",
+      "summary": "El IDEAM prevé las condiciones más fuertes entre finales de diciembre y febrero. Para el secado y el despacho de la cosecha actual, noviembre aún trae lluvias intermitentes."
+    }
+  ],
+  "updatedAt": "2026-11-09T11:50:00Z"
 }
