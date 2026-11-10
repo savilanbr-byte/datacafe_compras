@@ -195,16 +195,16 @@
       "value": 3264
     },
     "trm": {
-      "asOf": "2026-11-07",
-      "change": 9.57,
+      "asOf": "2026-11-10",
+      "change": 32.05,
       "chgDec": 2,
       "dec": 2,
       "label": "TRM",
       "source": "Superfinanciera",
       "unit": "COP/USD",
       "url": "https://www.datos.gov.co/Econom-a-y-Finanzas/Tasa-de-Cambio-Representativa-del-Mercado-TRM/32sa-8pi3",
-      "value": 3237.83
+      "value": 3269.88
     }
   },
-  "updatedAt": "2026-11-09T19:48:15Z"
+  "updatedAt": "2026-11-10T11:46:36Z"
 }

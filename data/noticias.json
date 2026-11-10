@@ -1,6 +1,17 @@
 {
   "items": [
     {
+      "id": "n67",
+      "scope": "co",
+      "regiones": [],
+      "tag": "Divisas",
+      "date": "2026-11-10",
+      "source": "Superfinanciera · datos.gov.co",
+      "url": "https://www.datos.gov.co/Econom-a-y-Finanzas/Tasa-de-Cambio-Representativa-del-Mercado-TRM/32sa-8pi3",
+      "title": "La TRM para el 10 de noviembre sube a $3.269,88",
+      "summary": "La tasa representativa sube $32,05 frente a los $3.237,83 vigentes del 7 al 9 de noviembre. Un dólar más caro eleva el precio interno del café en pesos si la bolsa de Nueva York se mantiene."
+    },
+    {
       "date": "2026-11-05",
       "id": "n50",
       "regiones": [],
@@ -99,17 +110,6 @@
       "url": "https://www.elcolombiano.com/negocios/german-bahamon-critica-petro-iva-cafe-federacion-cafeteros-colombia-BM43297116"
     },
     {
-      "date": "2026-11-09",
-      "id": "n58",
-      "regiones": [],
-      "scope": "co",
-      "source": "Superfinanciera · datos.gov.co",
-      "summary": "La TRM vigente sube $9,57 frente a la del 6-nov ($3.228,26). Un dólar algo más caro mejora el precio interno en pesos para igual bolsa de Nueva York.",
-      "tag": "Divisas",
-      "title": "La TRM sube a $3.237,83 para el 7–9 de noviembre",
-      "url": "https://www.datos.gov.co/Econom-a-y-Finanzas/Tasa-de-Cambio-Representativa-del-Mercado-TRM/32sa-8pi3"
-    },
-    {
       "date": "2026-11-06",
       "id": "n60",
       "scope": "mundo",
@@ -141,47 +141,47 @@
       "url": "https://www.infobae.com/colombia/2026/11/05/el-ideam-anuncio-que-el-pico-del-fenomeno-de-el-nino-se-acerca-esta-es-la-fecha-en-que-comenzaran-a-disminuir-de-las-lluvias-en-el-pais/"
     },
     {
+      "date": "2026-11-09",
       "id": "n63",
-      "scope": "co",
       "regiones": [],
-      "tag": "Divisas",
-      "date": "2026-11-09",
+      "scope": "co",
       "source": "La República",
-      "url": "https://www.larepublica.co/finanzas/precios-del-dolar-y-del-petroleo-hoy-9-de-noviembre-de-2026-4520380",
+      "summary": "La divisa cerró en $3.269,21, unos $31 por encima de la TRM del día, con un rango entre $3.235 y $3.288. El Brent cedió 16% la semana pasada; un dólar más caro sube el precio interno en pesos para el caficultor.",
+      "tag": "Divisas",
       "title": "El dólar sube a $3.269 en Colombia pese a la caída del petróleo",
-      "summary": "La divisa cerró en $3.269,21, unos $31 por encima de la TRM del día, con un rango entre $3.235 y $3.288. El Brent cedió 16% la semana pasada; un dólar más caro sube el precio interno en pesos para el caficultor."
+      "url": "https://www.larepublica.co/finanzas/precios-del-dolar-y-del-petroleo-hoy-9-de-noviembre-de-2026-4520380"
     },
     {
-      "id": "n64",
-      "scope": "co",
-      "regiones": [],
-      "tag": "Precios",
       "date": "2026-11-09",
+      "id": "n64",
+      "regiones": [],
+      "scope": "co",
       "source": "Federación Nacional de Cafeteros",
-      "url": "https://federaciondecafeteros.org/estadisticas-cafeteras/",
+      "summary": "La FNC fijó la carga de pergamino seco en $2.000.000 (−0,99%), con la bolsa de Nueva York en 273,60 ¢/lb. Los compradores pueden esperar precios de compra más bajos que la semana anterior.",
+      "tag": "Precios",
       "title": "Precio interno del café baja $20.000 y se ubica en $2.000.000 por carga",
-      "summary": "La FNC fijó la carga de pergamino seco en $2.000.000 (−0,99%), con la bolsa de Nueva York en 273,60 ¢/lb. Los compradores pueden esperar precios de compra más bajos que la semana anterior."
+      "url": "https://federaciondecafeteros.org/estadisticas-cafeteras/"
     },
     {
+      "date": "2026-11-09",
       "id": "n65",
       "scope": "mundo",
-      "tag": "Mercado",
-      "date": "2026-11-09",
       "source": "Investing.com",
-      "url": "https://www.investing.com/commodities/us-coffee-c-contracts",
+      "summary": "El contrato diciembre perdió 6,40 ¢ y toda la curva bajó entre 3,8 y 4,6 ¢. Deshace el rebote del viernes y presiona a la baja el precio interno colombiano.",
+      "tag": "Mercado",
       "title": "Arábica cae más de 2% y cierra en 273,60 ¢/lb",
-      "summary": "El contrato diciembre perdió 6,40 ¢ y toda la curva bajó entre 3,8 y 4,6 ¢. Deshace el rebote del viernes y presiona a la baja el precio interno colombiano."
+      "url": "https://www.investing.com/commodities/us-coffee-c-contracts"
     },
     {
+      "date": "2026-11-09",
       "id": "n66",
       "scope": "mundo",
-      "tag": "Divisas",
-      "date": "2026-11-09",
       "source": "La República",
-      "url": "https://www.larepublica.co/finanzas/precios-del-dolar-y-del-petroleo-hoy-9-de-noviembre-de-2026-4520380",
+      "summary": "Los datos de octubre mostraron más empleo y menos desempleo, mientras el índice dólar cayó 0,3% a 101,88 el lunes. Se espera el IPC estadounidense el martes; un dólar fuerte suele debilitar los precios de materias primas como el café.",
+      "tag": "Divisas",
       "title": "Empleo fuerte en EE. UU. eleva a ~81% la opción de alza de tasas de la Fed en diciembre",
-      "summary": "Los datos de octubre mostraron más empleo y menos desempleo, mientras el índice dólar cayó 0,3% a 101,88 el lunes. Se espera el IPC estadounidense el martes; un dólar fuerte suele debilitar los precios de materias primas como el café."
+      "url": "https://www.larepublica.co/finanzas/precios-del-dolar-y-del-petroleo-hoy-9-de-noviembre-de-2026-4520380"
     }
   ],
-  "updatedAt": "2026-11-09T19:48:15Z"
+  "updatedAt": "2026-11-10T11:46:36Z"
 }
