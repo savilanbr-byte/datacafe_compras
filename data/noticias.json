@@ -1,80 +1,67 @@
 {
   "items": [
     {
-      "id": "n67",
+      "id": "n68",
       "scope": "co",
       "regiones": [],
       "tag": "Divisas",
       "date": "2026-11-10",
-      "source": "Superfinanciera · datos.gov.co",
-      "url": "https://www.datos.gov.co/Econom-a-y-Finanzas/Tasa-de-Cambio-Representativa-del-Mercado-TRM/32sa-8pi3",
-      "title": "La TRM para el 10 de noviembre sube a $3.269,88",
-      "summary": "La tasa representativa sube $32,05 frente a los $3.237,83 vigentes del 7 al 9 de noviembre. Un dólar más caro eleva el precio interno del café en pesos si la bolsa de Nueva York se mantiene."
+      "source": "El Espectador",
+      "url": "https://www.elespectador.com/economia/precio-del-dolar-hoy-en-colombia-asi-arranco-la-divisa-este-martes-10-de-noviembre/?outputType=amp",
+      "title": "El dólar cierra en $3.299 y roza los $3.300 en Colombia",
+      "summary": "La divisa subió 0,92% (unos $30) frente al lunes, con máximo de $3.309,99, por la expectativa de un alza de tasas de la Fed y un Brent que cayó cerca de 12% en la semana a US$93. Un peso más débil sostiene el precio interno pese a la caída de Nueva York."
     },
     {
-      "date": "2026-11-05",
-      "id": "n50",
+      "date": "2026-11-09",
+      "id": "n64",
       "regiones": [],
       "scope": "co",
-      "source": "Infobae",
-      "summary": "El dólar osciló entre $3.208 y $3.240 el 5 de noviembre por la aversión al riesgo tras las elecciones de EE. UU. y un Brent que subió 3,5%. Un dólar más alto ayuda al ingreso en pesos del caficultor.",
-      "tag": "Divisas",
-      "title": "Dólar cierra en $3.228 en Colombia, $7 sobre la TRM, con Brent en US$98",
-      "url": "https://www.infobae.com/colombia/2026/11/05/precio-del-dolar-hoy-en-colombia-cotizacion-de-cierre-del-5-de-noviembre/"
+      "source": "Federación Nacional de Cafeteros",
+      "summary": "La FNC fijó la carga de pergamino seco en $2.000.000 (−0,99%), con la bolsa de Nueva York en 273,60 ¢/lb. Los compradores pueden esperar precios de compra más bajos que la semana anterior.",
+      "tag": "Precios",
+      "title": "Precio interno del café baja $20.000 y se ubica en $2.000.000 por carga",
+      "url": "https://federaciondecafeteros.org/estadisticas-cafeteras/"
     },
     {
-      "date": "2026-11-04",
-      "id": "n49",
-      "regiones": [],
-      "scope": "co",
-      "source": "El Colombiano",
-      "summary": "Octubre cerró en $3.194 (-3,6%) con Brent al alza y bonos externos por US$5.200 millones; el rango depende de la Fed, el ajuste fiscal y la reunión de diciembre. Un dólar más bajo reduce el precio interno en pesos.",
-      "tag": "Divisas",
-      "title": "Bancolombia ve el dólar entre $3.120 y $3.300 en noviembre",
-      "url": "https://www.elcolombiano.com/negocios/dolar-colombia-proyeccion-tasa-cambio-noviembre-2026-GF43201403"
+      "date": "2026-11-09",
+      "id": "n65",
+      "scope": "mundo",
+      "source": "Investing.com",
+      "summary": "El contrato diciembre perdió 6,40 ¢ y toda la curva bajó entre 3,8 y 4,6 ¢. Deshace el rebote del viernes y presiona a la baja el precio interno colombiano.",
+      "tag": "Mercado",
+      "title": "Arábica cae más de 2% y cierra en 273,60 ¢/lb",
+      "url": "https://www.investing.com/commodities/us-coffee-c-contracts"
     },
     {
-      "date": "2026-10-29",
-      "id": "n36",
+      "date": "2026-11-09",
+      "id": "n66",
       "scope": "mundo",
       "source": "La República",
-      "summary": "El comité decidió 10 a 2 dejar la tasa sin cambios, pero los mercados siguen apostando a un alza en diciembre por la inflación impulsada por la energía. Un dólar más fuerte podría subir la TRM y amortiguar en pesos una eventual baja de la bolsa de NY.",
+      "summary": "Los datos de octubre mostraron más empleo y menos desempleo, mientras el índice dólar cayó 0,3% a 101,88 el lunes. Se espera el IPC estadounidense el martes; un dólar fuerte suele debilitar los precios de materias primas como el café.",
       "tag": "Divisas",
-      "title": "La Fed mantiene su tasa en 3,75%-4% con dos votos a favor de subirla",
-      "url": "https://www.larepublica.co/globoeconomia/la-reserva-federal-dejo-las-tasas-de-interes-en-3-75-4-ante-creciente-temor-inflacionario-4513460"
+      "title": "Empleo fuerte en EE. UU. eleva a ~81% la opción de alza de tasas de la Fed en diciembre",
+      "url": "https://www.larepublica.co/finanzas/precios-del-dolar-y-del-petroleo-hoy-9-de-noviembre-de-2026-4520380"
     },
     {
-      "date": "2026-10-30",
-      "id": "n38",
-      "regiones": [],
-      "scope": "co",
-      "source": "El País Cali · Colprensa",
-      "summary": "La Ley de Rescate Fiscal propone eliminar la tarifa especial del 5% al café; el gerente de la FNC dice que podría reducir la demanda y favorecer cafés importados más baratos. Sigue en trámite en el Congreso.",
-      "tag": "Regulación",
-      "title": "FNC advierte que subir el IVA del café de 5% a 19% frenaría el consumo",
-      "url": "https://elpais.com.co/economia/subir-el-iva-al-cafe-del-5-al-19-afectaria-el-consumo-nacional-y-el-empleo-advierte-fedecafe-3037.html"
+      "id": "n69",
+      "scope": "mundo",
+      "tag": "Exportaciones",
+      "date": "2026-11-09",
+      "source": "Barchart · TradingView",
+      "url": "https://www.tradingview.com/news/barchart:bf0455cf1094b:0-soaring-brazil-coffee-exports-weigh-on-arabica-prices/",
+      "title": "Exportaciones de Brasil suben 23% en octubre y llevan el arábica a mínimos de 7 semanas",
+      "summary": "Brasil despachó 287.000 t de café en octubre (+23% anual) y Conab elevó su estimado de cosecha 2026 a 67,6 M de sacos; Vietnam exportó 61% más. Más oferta brasileña presiona la bolsa y los diferenciales de los suaves colombianos."
     },
     {
-      "date": "2026-10-30",
-      "id": "n42",
-      "regiones": [],
+      "id": "n70",
       "scope": "co",
-      "source": "La República",
-      "summary": "La Junta dejó quieta la tasa de política en la reunión del 30-oct; la inflación anual está en 6,03% y la básica bajó de 6,1% a 6%. Una tasa alta sostiene al peso, lo que reduce el ingreso en pesos de la carga frente al mismo precio en dólares.",
-      "tag": "Divisas",
-      "title": "Banco de la República mantiene la tasa en 12,25% con inflación en 6,03%",
-      "url": "https://www.larepublica.co/economia/banco-de-la-republica-mantuvo-inalterada-la-tasa-de-interes-y-se-ubico-en-12-25-4515117"
-    },
-    {
-      "date": "2026-11-06",
-      "id": "n54",
       "regiones": [],
-      "scope": "co",
-      "source": "Agronegocios",
-      "summary": "La FNC reportó 1,114 M de sacos en octubre y 12,56 M en los últimos 12 meses (−15%); las exportaciones del mes subieron 6% a 1,119 M. La oferta sigue corta, lo que sostiene las primas de origen.",
-      "tag": "Producción",
-      "title": "Producción cafetera de octubre: 1,11 M de sacos, 8% menos; 12 meses cae 15%",
-      "url": "https://www.agronegocios.co/agricultura/produccion-cafetera-con-corte-a-octubre-de-2026-4519174"
+      "tag": "Industria",
+      "date": "2026-11-09",
+      "source": "Infobae",
+      "url": "https://www.infobae.com/movant/2026/11/09/colombia-apunta-a-20-millones-de-sacos-de-cafe-para-sostener-exportaciones-y-consumo-interno/",
+      "title": "Asoexport propone llevar la producción a 18–20 millones de sacos",
+      "summary": "En la Cumbre Cafetera los exportadores plantearon subir más de 50% la producción frente a los 12,65 M de sacos del año cafetero y se opusieron al IVA de 19% en compras internas desde 2028, que según ellos inmovilizaría unos US$708 M de capital de trabajo."
     },
     {
       "date": "2026-11-08",
@@ -86,6 +73,17 @@
       "tag": "Industria",
       "title": "La FNC empezará a comprar café en cereza para ofrecer lotes trazables",
       "url": "https://www.eltiempo.com/economia/federacion-nacional-de-cafeteros-empezara-a-comprar-cafe-en-cereza-que-cambia-para-los-caficultores-3599155"
+    },
+    {
+      "date": "2026-11-06",
+      "id": "n54",
+      "regiones": [],
+      "scope": "co",
+      "source": "Agronegocios",
+      "summary": "La FNC reportó 1,114 M de sacos en octubre y 12,56 M en los últimos 12 meses (−15%); las exportaciones del mes subieron 6% a 1,119 M. La oferta sigue corta, lo que sostiene las primas de origen.",
+      "tag": "Producción",
+      "title": "Producción cafetera de octubre: 1,11 M de sacos, 8% menos; 12 meses cae 15%",
+      "url": "https://www.agronegocios.co/agricultura/produccion-cafetera-con-corte-a-octubre-de-2026-4519174"
     },
     {
       "date": "2026-11-06",
@@ -141,47 +139,27 @@
       "url": "https://www.infobae.com/colombia/2026/11/05/el-ideam-anuncio-que-el-pico-del-fenomeno-de-el-nino-se-acerca-esta-es-la-fecha-en-que-comenzaran-a-disminuir-de-las-lluvias-en-el-pais/"
     },
     {
-      "date": "2026-11-09",
-      "id": "n63",
+      "date": "2026-11-04",
+      "id": "n49",
       "regiones": [],
       "scope": "co",
-      "source": "La República",
-      "summary": "La divisa cerró en $3.269,21, unos $31 por encima de la TRM del día, con un rango entre $3.235 y $3.288. El Brent cedió 16% la semana pasada; un dólar más caro sube el precio interno en pesos para el caficultor.",
+      "source": "El Colombiano",
+      "summary": "Octubre cerró en $3.194 (-3,6%) con Brent al alza y bonos externos por US$5.200 millones; el rango depende de la Fed, el ajuste fiscal y la reunión de diciembre. Un dólar más bajo reduce el precio interno en pesos.",
       "tag": "Divisas",
-      "title": "El dólar sube a $3.269 en Colombia pese a la caída del petróleo",
-      "url": "https://www.larepublica.co/finanzas/precios-del-dolar-y-del-petroleo-hoy-9-de-noviembre-de-2026-4520380"
+      "title": "Bancolombia ve el dólar entre $3.120 y $3.300 en noviembre",
+      "url": "https://www.elcolombiano.com/negocios/dolar-colombia-proyeccion-tasa-cambio-noviembre-2026-GF43201403"
     },
     {
-      "date": "2026-11-09",
-      "id": "n64",
+      "date": "2026-10-30",
+      "id": "n38",
       "regiones": [],
       "scope": "co",
-      "source": "Federación Nacional de Cafeteros",
-      "summary": "La FNC fijó la carga de pergamino seco en $2.000.000 (−0,99%), con la bolsa de Nueva York en 273,60 ¢/lb. Los compradores pueden esperar precios de compra más bajos que la semana anterior.",
-      "tag": "Precios",
-      "title": "Precio interno del café baja $20.000 y se ubica en $2.000.000 por carga",
-      "url": "https://federaciondecafeteros.org/estadisticas-cafeteras/"
-    },
-    {
-      "date": "2026-11-09",
-      "id": "n65",
-      "scope": "mundo",
-      "source": "Investing.com",
-      "summary": "El contrato diciembre perdió 6,40 ¢ y toda la curva bajó entre 3,8 y 4,6 ¢. Deshace el rebote del viernes y presiona a la baja el precio interno colombiano.",
-      "tag": "Mercado",
-      "title": "Arábica cae más de 2% y cierra en 273,60 ¢/lb",
-      "url": "https://www.investing.com/commodities/us-coffee-c-contracts"
-    },
-    {
-      "date": "2026-11-09",
-      "id": "n66",
-      "scope": "mundo",
-      "source": "La República",
-      "summary": "Los datos de octubre mostraron más empleo y menos desempleo, mientras el índice dólar cayó 0,3% a 101,88 el lunes. Se espera el IPC estadounidense el martes; un dólar fuerte suele debilitar los precios de materias primas como el café.",
-      "tag": "Divisas",
-      "title": "Empleo fuerte en EE. UU. eleva a ~81% la opción de alza de tasas de la Fed en diciembre",
-      "url": "https://www.larepublica.co/finanzas/precios-del-dolar-y-del-petroleo-hoy-9-de-noviembre-de-2026-4520380"
+      "source": "El País Cali · Colprensa",
+      "summary": "La Ley de Rescate Fiscal propone eliminar la tarifa especial del 5% al café; el gerente de la FNC dice que podría reducir la demanda y favorecer cafés importados más baratos. Sigue en trámite en el Congreso.",
+      "tag": "Regulación",
+      "title": "FNC advierte que subir el IVA del café de 5% a 19% frenaría el consumo",
+      "url": "https://elpais.com.co/economia/subir-el-iva-al-cafe-del-5-al-19-afectaria-el-consumo-nacional-y-el-empleo-advierte-fedecafe-3037.html"
     }
   ],
-  "updatedAt": "2026-11-10T11:46:36Z"
+  "updatedAt": "2026-11-10T19:49:52Z"
 }
