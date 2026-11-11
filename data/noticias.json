@@ -1,6 +1,27 @@
 {
   "items": [
     {
+      "id": "n75",
+      "scope": "mundo",
+      "tag": "Exportaciones",
+      "date": "2026-11-11",
+      "source": "Reuters · Cecafé (Investing.com Brasil)",
+      "url": "https://br.investing.com/news/commodities-news/exportacao-de-cafe-do-brasil-supera-5-mi-sacas-em-outubro-e-atinge-recorde-diz-cecafe-2124218",
+      "title": "Brasil exporta récord de 5,33 millones de sacos en octubre, según Cecafé",
+      "summary": "Los envíos crecieron 28,4% anual (arábica 4,12 M sacos) por la llegada tardía de la cosecha, el fin del arancel de EE. UU. (+119% a ese destino) y compras europeas antes de la EUDR; más oferta brasileña disponible resta soporte a los diferenciales del café colombiano."
+    },
+    {
+      "id": "n77",
+      "scope": "co",
+      "regiones": [],
+      "tag": "Divisas",
+      "date": "2026-11-11",
+      "source": "Semana",
+      "url": "https://www.semana.com/economia/macroeconomia/articulo/dolar-cerro-a-la-baja-y-finalizo-la-jornada-del-miercoles-11-de-noviembre-mas-barato/202606/",
+      "title": "El dólar cierra en $3.295, levemente por debajo de la TRM",
+      "summary": "El 11 de noviembre la divisa osciló entre $3.271 y $3.311 con un promedio cercano a $3.275 y negocios por US$1.170 millones; la TRM del día es $3.297,07, $27 más que el martes, lo que amortigua en parte la caída de Nueva York en el precio interno."
+    },
+    {
       "id": "n71",
       "scope": "mundo",
       "tag": "Exportaciones",
@@ -11,25 +32,29 @@
       "summary": "El mundo exportó 142,39 millones de sacos en el año cafetero, con el robusta superando por primera vez el 40% del café verde. En septiembre los suaves colombianos sumaron 1,19 millones de sacos y su precio OIC promedió 357,85 ¢/lb en octubre (+0,5%)."
     },
     {
-      "id": "n68",
-      "scope": "co",
-      "regiones": [],
-      "tag": "Divisas",
-      "date": "2026-11-10",
-      "source": "El Espectador",
-      "url": "https://www.elespectador.com/economia/precio-del-dolar-hoy-en-colombia-asi-arranco-la-divisa-este-martes-10-de-noviembre/?outputType=amp",
-      "title": "El dólar cierra en $3.299 y roza los $3.300 en Colombia",
-      "summary": "La divisa subió 0,92% (unos $30) frente al lunes, con máximo de $3.309,99, por la expectativa de un alza de tasas de la Fed y un Brent que cayó cerca de 12% en la semana a US$93. Un peso más débil sostiene el precio interno pese a la caída de Nueva York."
-    },
-    {
-      "date": "2026-11-10",
+      "date": "2026-11-11",
       "id": "n65",
       "scope": "mundo",
       "source": "Investing.com",
-      "summary": "El contrato diciembre perdió 2,20 ¢ y marzo cerró en 265,90 ¢ (−1,35 ¢); en la madrugada del 11-nov seguía bajando hacia 267 ¢. Con la TRM subiendo, el peso más débil amortigua el golpe sobre el precio interno.",
+      "summary": "El contrato de diciembre en ICE perdió 0,7% el 11 de noviembre (mínimo intradía de 266,92) y acumula cerca de 10 ¢/lb de baja desde el 6-nov; con la FNC en $2.000.000 por carga, la presión sobre el precio interno sigue.",
       "tag": "Mercado",
-      "title": "Arábica cede 0,8% y cierra en 271,40 ¢/lb, mínimo en cinco semanas",
+      "title": "Arábica cae por tercera sesión y cierra en 269,50 ¢/lb",
       "url": "https://www.investing.com/commodities/us-coffee-c-historical-data"
+    },
+    {
+      "id": "n76",
+      "scope": "co",
+      "regiones": [
+        "cesar",
+        "magdalena",
+        "guajira"
+      ],
+      "tag": "Cafés especiales",
+      "date": "2026-11-10",
+      "source": "El Tiempo",
+      "url": "https://www.eltiempo.com/vida/medio-ambiente/dos-regiones-cafeteras-del-norte-de-colombia-despiertan-el-interes-de-empresario-aleman-que-compra-millones-de-sacos-de-cafe-3600023",
+      "title": "MinAgricultura y Neumann Kaffee Gruppe lanzan piloto de cafés especiales en Perijá y Sierra Nevada",
+      "summary": "NKG, que compra más de 1,5 millones de sacos de café colombiano, apoyará a pequeños productores (fincas desde 5 ha) para sembrar y exportar cafés especiales; aún no hay cifras de beneficiarios ni presupuesto."
     },
     {
       "id": "n72",
@@ -51,16 +76,6 @@
       "tag": "Precios",
       "title": "Precio interno del café baja $20.000 y se ubica en $2.000.000 por carga",
       "url": "https://federaciondecafeteros.org/estadisticas-cafeteras/"
-    },
-    {
-      "id": "n69",
-      "scope": "mundo",
-      "tag": "Exportaciones",
-      "date": "2026-11-09",
-      "source": "Barchart · TradingView",
-      "url": "https://www.tradingview.com/news/barchart:bf0455cf1094b:0-soaring-brazil-coffee-exports-weigh-on-arabica-prices/",
-      "title": "Exportaciones de Brasil suben 23% en octubre y llevan el arábica a mínimos de 7 semanas",
-      "summary": "Brasil despachó 287.000 t de café en octubre (+23% anual) y Conab elevó su estimado de cosecha 2026 a 67,6 M de sacos; Vietnam exportó 61% más. Más oferta brasileña presiona la bolsa y los diferenciales de los suaves colombianos."
     },
     {
       "id": "n70",
@@ -182,5 +197,5 @@
       "summary": "El ministro de Hacienda ratificó que el café entra a la tarifa general; la devolución del IVA a hogares de bajos ingresos arrancaría en 2028 y el Congreso tiene unas seis semanas para decidir. Afecta el consumo interno, no las exportaciones de café verde."
     }
   ],
-  "updatedAt": "2026-11-11T11:50:36Z"
+  "updatedAt": "2026-11-11T19:48:01Z"
 }
