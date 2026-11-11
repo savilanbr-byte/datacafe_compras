@@ -98,7 +98,7 @@
     },
     "icoComp": {
       "asOf": "2026-11-09",
-      "change": -3,
+      "change": -2,
       "changePct": -0.98,
       "dec": 0,
       "label": "Indicador compuesto OIC",
@@ -109,7 +109,7 @@
     },
     "kc1": {
       "asOf": "2026-11-10",
-      "change": -1.4,
+      "change": -2.2,
       "chgDec": 2,
       "contract": "Dic-26",
       "dec": 2,
@@ -117,8 +117,8 @@
       "note": "Cierre 10-nov (Dic-26)",
       "source": "Investing.com",
       "unit": "¢/lb",
-      "url": "https://www.investing.com/commodities/us-coffee-c-contracts",
-      "value": 272.2
+      "url": "https://www.investing.com/commodities/us-coffee-c-historical-data",
+      "value": 271.4
     },
     "kc2": {
       "asOf": "2026-11-10",
@@ -195,16 +195,16 @@
       "value": 3252
     },
     "trm": {
-      "asOf": "2026-11-10",
-      "change": 32.05,
+      "asOf": "2026-11-11",
+      "change": 27.19,
       "chgDec": 2,
       "dec": 2,
       "label": "TRM",
       "source": "Superfinanciera",
       "unit": "COP/USD",
       "url": "https://www.datos.gov.co/Econom-a-y-Finanzas/Tasa-de-Cambio-Representativa-del-Mercado-TRM/32sa-8pi3",
-      "value": 3269.88
+      "value": 3297.07
     }
   },
-  "updatedAt": "2026-11-10T19:49:52Z"
+  "updatedAt": "2026-11-11T11:50:36Z"
 }

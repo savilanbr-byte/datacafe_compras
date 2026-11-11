@@ -1,6 +1,16 @@
 {
   "items": [
     {
+      "id": "n71",
+      "scope": "mundo",
+      "tag": "Exportaciones",
+      "date": "2026-11-11",
+      "source": "The Cooperator News · OIC",
+      "url": "https://thecooperator.news/global-coffee-exports-rise-1-percent-despite-september-shipment-slump",
+      "title": "OIC: exportaciones mundiales suben 1% en 2025/26 y los suaves colombianos crecen 12,6% en septiembre",
+      "summary": "El mundo exportó 142,39 millones de sacos en el año cafetero, con el robusta superando por primera vez el 40% del café verde. En septiembre los suaves colombianos sumaron 1,19 millones de sacos y su precio OIC promedió 357,85 ¢/lb en octubre (+0,5%)."
+    },
+    {
       "id": "n68",
       "scope": "co",
       "regiones": [],
@@ -12,6 +22,26 @@
       "summary": "La divisa subió 0,92% (unos $30) frente al lunes, con máximo de $3.309,99, por la expectativa de un alza de tasas de la Fed y un Brent que cayó cerca de 12% en la semana a US$93. Un peso más débil sostiene el precio interno pese a la caída de Nueva York."
     },
     {
+      "date": "2026-11-10",
+      "id": "n65",
+      "scope": "mundo",
+      "source": "Investing.com",
+      "summary": "El contrato diciembre perdió 2,20 ¢ y marzo cerró en 265,90 ¢ (−1,35 ¢); en la madrugada del 11-nov seguía bajando hacia 267 ¢. Con la TRM subiendo, el peso más débil amortigua el golpe sobre el precio interno.",
+      "tag": "Mercado",
+      "title": "Arábica cede 0,8% y cierra en 271,40 ¢/lb, mínimo en cinco semanas",
+      "url": "https://www.investing.com/commodities/us-coffee-c-historical-data"
+    },
+    {
+      "id": "n72",
+      "scope": "mundo",
+      "tag": "Divisas",
+      "date": "2026-11-10",
+      "source": "CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/economia/money/mercado/mercado-financeiro-ibovespa-dolar-10-novembro-2026/",
+      "title": "El real cae 1,5% y el dólar toca R$5,61, máximo desde julio de 2025",
+      "summary": "Una inflación en EE. UU. mayor a la esperada reforzó las apuestas por un alza de tasas de la Fed en diciembre (hoy en 3,75%–4%) y el dólar cerró en R$5,586. Un real débil incentiva al productor brasileño a vender y suele presionar el arábica a la baja."
+    },
+    {
       "date": "2026-11-09",
       "id": "n64",
       "regiones": [],
@@ -21,26 +51,6 @@
       "tag": "Precios",
       "title": "Precio interno del café baja $20.000 y se ubica en $2.000.000 por carga",
       "url": "https://federaciondecafeteros.org/estadisticas-cafeteras/"
-    },
-    {
-      "date": "2026-11-09",
-      "id": "n65",
-      "scope": "mundo",
-      "source": "Investing.com",
-      "summary": "El contrato diciembre perdió 6,40 ¢ y toda la curva bajó entre 3,8 y 4,6 ¢. Deshace el rebote del viernes y presiona a la baja el precio interno colombiano.",
-      "tag": "Mercado",
-      "title": "Arábica cae más de 2% y cierra en 273,60 ¢/lb",
-      "url": "https://www.investing.com/commodities/us-coffee-c-contracts"
-    },
-    {
-      "date": "2026-11-09",
-      "id": "n66",
-      "scope": "mundo",
-      "source": "La República",
-      "summary": "Los datos de octubre mostraron más empleo y menos desempleo, mientras el índice dólar cayó 0,3% a 101,88 el lunes. Se espera el IPC estadounidense el martes; un dólar fuerte suele debilitar los precios de materias primas como el café.",
-      "tag": "Divisas",
-      "title": "Empleo fuerte en EE. UU. eleva a ~81% la opción de alza de tasas de la Fed en diciembre",
-      "url": "https://www.larepublica.co/finanzas/precios-del-dolar-y-del-petroleo-hoy-9-de-noviembre-de-2026-4520380"
     },
     {
       "id": "n69",
@@ -62,6 +72,17 @@
       "url": "https://www.infobae.com/movant/2026/11/09/colombia-apunta-a-20-millones-de-sacos-de-cafe-para-sostener-exportaciones-y-consumo-interno/",
       "title": "Asoexport propone llevar la producción a 18–20 millones de sacos",
       "summary": "En la Cumbre Cafetera los exportadores plantearon subir más de 50% la producción frente a los 12,65 M de sacos del año cafetero y se opusieron al IVA de 19% en compras internas desde 2028, que según ellos inmovilizaría unos US$708 M de capital de trabajo."
+    },
+    {
+      "id": "n73",
+      "scope": "co",
+      "regiones": [],
+      "tag": "Logística",
+      "date": "2026-11-09",
+      "source": "El Universal",
+      "url": "https://www.eluniversal.com.co/economica/2026/11/09/este-es-el-grupo-portuario-del-caribe-colombiano-que-mas-cafe-exporta-por-sus-terminales/",
+      "title": "Cartagena mueve 32% del café exportado; Buenaventura concentra 61%",
+      "summary": "Según Asoexport, Santa Marta despacha el 7% restante; Contecar planea ampliar su bodega de café de 30.000 a 50.000 m², con presentación a inicios de 2027. La alta dependencia de Buenaventura expone los embarques a los bloqueos de la vía al Pacífico."
     },
     {
       "date": "2026-11-08",
@@ -150,16 +171,16 @@
       "url": "https://www.elcolombiano.com/negocios/dolar-colombia-proyeccion-tasa-cambio-noviembre-2026-GF43201403"
     },
     {
-      "date": "2026-10-30",
-      "id": "n38",
-      "regiones": [],
+      "id": "n74",
       "scope": "co",
-      "source": "El País Cali · Colprensa",
-      "summary": "La Ley de Rescate Fiscal propone eliminar la tarifa especial del 5% al café; el gerente de la FNC dice que podría reducir la demanda y favorecer cafés importados más baratos. Sigue en trámite en el Congreso.",
+      "regiones": [],
       "tag": "Regulación",
-      "title": "FNC advierte que subir el IVA del café de 5% a 19% frenaría el consumo",
-      "url": "https://elpais.com.co/economia/subir-el-iva-al-cafe-del-5-al-19-afectaria-el-consumo-nacional-y-el-empleo-advierte-fedecafe-3037.html"
+      "date": "2026-11-01",
+      "source": "El Tiempo",
+      "url": "https://www.eltiempo.com/economia/sectores/el-abc-de-los-cambios-del-iva-en-la-ley-de-rescate-economico-explicado-por-el-gobierno-mas-productos-gravados-pero-devolucion-a-los-mas-necesitados-3597787",
+      "title": "Ley de rescate: Hacienda confirma que el café pasaría del 5% al 19% de IVA",
+      "summary": "El ministro de Hacienda ratificó que el café entra a la tarifa general; la devolución del IVA a hogares de bajos ingresos arrancaría en 2028 y el Congreso tiene unas seis semanas para decidir. Afecta el consumo interno, no las exportaciones de café verde."
     }
   ],
-  "updatedAt": "2026-11-10T19:49:52Z"
+  "updatedAt": "2026-11-11T11:50:36Z"
 }
