@@ -4,7 +4,7 @@
     "points": [
       {
         "contract": "Dic-26",
-        "value": 269.0
+        "value": 269
       },
       {
         "contract": "Mar-27",
@@ -107,16 +107,16 @@
     },
     "kc1": {
       "asOf": "2026-11-11",
-      "change": -1.9,
+      "change": -2.4,
       "chgDec": 2,
       "contract": "Dic-26",
       "dec": 2,
       "label": "KC C1",
-      "note": "Cierre 11-nov (Dic-26)",
+      "note": "Cierre 11-nov (Dic-26); variación vs 10-nov (271,40)",
       "source": "Investing.com",
       "unit": "¢/lb",
       "url": "https://www.investing.com/commodities/us-coffee-c-historical-data",
-      "value": 269.5
+      "value": 269.0
     },
     "kc2": {
       "asOf": "2026-11-11",
@@ -180,17 +180,17 @@
       "value": 12.56
     },
     "robusta": {
-      "asOf": "2026-11-11",
-      "change": -10,
-      "changePct": -0.31,
+      "asOf": "2026-11-12",
+      "change": -41,
+      "changePct": -1.26,
       "contract": "Ene-27",
       "dec": 1,
       "label": "Robusta Londres (ICE)",
-      "note": "Cierre 11-nov (Ene-27); variación vs cierre previo.",
+      "note": "Intradía 12-nov, 06:45 Bogotá (Ene-27); cierre 11-nov: 3.242",
       "source": "Investing.com",
       "unit": "USD/t",
       "url": "https://www.investing.com/commodities/london-coffee",
-      "value": 3242
+      "value": 3201
     },
     "trm": {
       "asOf": "2026-11-11",
@@ -204,5 +204,5 @@
       "value": 3297.07
     }
   },
-  "updatedAt": "2026-11-11T19:48:01Z"
+  "updatedAt": "2026-11-12T11:48:49Z"
 }
