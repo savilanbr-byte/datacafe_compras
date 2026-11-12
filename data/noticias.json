@@ -1,6 +1,48 @@
 {
   "items": [
     {
+      "id": "n83",
+      "scope": "co",
+      "regiones": [],
+      "tag": "Precios",
+      "date": "2026-11-12",
+      "source": "Federación Nacional de Cafeteros",
+      "url": "https://federaciondecafeteros.org/estadisticas-cafeteras/",
+      "title": "Precio interno del café sube $85.000 y llega a $2.085.000 por carga",
+      "summary": "La FNC fijó la referencia del 12 de noviembre en $2.085.000 por carga de pergamino (factor 94), con el contrato de diciembre en 280,20 ¢/lb y un dólar de $3.310,65. El repunte de Nueva York y la tasa de cambio más alta encarecen el pergamino frente a la semana pasada."
+    },
+    {
+      "id": "n84",
+      "scope": "mundo",
+      "tag": "Mercado",
+      "date": "2026-11-12",
+      "source": "Safras & Mercado",
+      "url": "https://safras.com.br/cafe-sobe-mais-de-4-em-ny-com-correcao-tecnica-e-cobertura-de-posicoes-vendidas",
+      "title": "Arábica rebota 4,2% en Nueva York y el diciembre cierra en 280,20 ¢/lb",
+      "summary": "Tras tocar mínimos de seis semanas, el contrato de diciembre subió 11,20 centavos por recompras de fondos y corrección técnica, aunque los inventarios certificados en ICE subieron a 250.241 sacos y hay más de 113.000 en espera de clasificación. El rebote es técnico: la mayor oferta brasileña sigue presionando el mercado."
+    },
+    {
+      "id": "n85",
+      "scope": "co",
+      "regiones": [],
+      "tag": "Divisas",
+      "date": "2026-11-12",
+      "source": "Semana",
+      "url": "https://www.semana.com/economia/macroeconomia/articulo/dolar-supero-la-barrera-de-los-3300-pesos-la-moneda-cerro-la-jornada-del-jueves-12-de-noviembre-mas-cara/202608/",
+      "title": "El dólar supera los $3.300 y cierra en $3.301 tras una jornada volátil",
+      "summary": "La divisa cerró $4 por encima de la TRM de $3.297, con un máximo de $3.347 y negocios por unos US$1.155 millones. Un peso más débil sube el precio interno en pesos para un mismo nivel de la bolsa."
+    },
+    {
+      "id": "n86",
+      "scope": "mundo",
+      "tag": "Divisas",
+      "date": "2026-11-12",
+      "source": "Reuters (Notícias Agrícolas)",
+      "url": "https://www.noticiasagricolas.com.br/noticias/politica-economia/431258-dolar-tem-alta-firme-contra-real-com-frustracao-do-mercado-em-relacao-a-medidas-fiscais.html",
+      "title": "El real se debilita: dólar sube 0,9% a R$5,61 por decepción con el paquete fiscal",
+      "summary": "El mercado juzgó insuficientes las medidas fiscales de Brasil para 2027 y la presión externa por un dato de inflación alto en EE. UU. llevó el bono a 10 años cerca del 5%. Un real débil incentiva las ventas de café brasileño y suele restar soporte al arábica."
+    },
+    {
       "date": "2026-11-11",
       "id": "n75",
       "scope": "mundo",
@@ -12,17 +54,6 @@
     },
     {
       "date": "2026-11-11",
-      "id": "n77",
-      "regiones": [],
-      "scope": "co",
-      "source": "Semana",
-      "summary": "El 11 de noviembre la divisa osciló entre $3.271 y $3.311 con un promedio cercano a $3.275 y negocios por US$1.170 millones; la TRM del día es $3.297,07, $27 más que el martes, lo que amortigua en parte la caída de Nueva York en el precio interno.",
-      "tag": "Divisas",
-      "title": "El dólar cierra en $3.295, levemente por debajo de la TRM",
-      "url": "https://www.semana.com/economia/macroeconomia/articulo/dolar-cerro-a-la-baja-y-finalizo-la-jornada-del-miercoles-11-de-noviembre-mas-barato/202606/"
-    },
-    {
-      "date": "2026-11-11",
       "id": "n71",
       "scope": "mundo",
       "source": "The Cooperator News · OIC",
@@ -30,26 +61,6 @@
       "tag": "Exportaciones",
       "title": "OIC: exportaciones mundiales suben 1% en 2025/26 y los suaves colombianos crecen 12,6% en septiembre",
       "url": "https://thecooperator.news/global-coffee-exports-rise-1-percent-despite-september-shipment-slump"
-    },
-    {
-      "date": "2026-11-11",
-      "id": "n65",
-      "scope": "mundo",
-      "source": "Investing.com",
-      "summary": "El contrato diciembre cerró el 11 de noviembre en 269,00 ¢/lb, 2,40 centavos menos (−0,9%) y casi 11 centavos por debajo del 6 de noviembre, presionado por la llegada de café brasileño a los almacenes de ICE. Con la bolsa a la baja y el peso fuerte, el precio interno sigue anclado cerca de $2 millones por carga.",
-      "tag": "Mercado",
-      "title": "Arábica cae por tercera sesión y cierra en 269 ¢/lb",
-      "url": "https://www.investing.com/commodities/us-coffee-c-historical-data"
-    },
-    {
-      "id": "n78",
-      "scope": "mundo",
-      "tag": "Divisas",
-      "date": "2026-11-11",
-      "source": "A Crítica",
-      "url": "https://acritica.net/noticias/dolar-cai-para-r-556-e-bolsa-supera-172-mil-pontos-com-pacote-fiscal-no-radar/",
-      "title": "El real se recupera: el dólar cae 0,42% a R$5,56 por el ajuste fiscal y el petróleo",
-      "summary": "Tras el salto del martes, el dólar cerró el 11 de noviembre en R$5,5628 en Brasil, apoyado en un paquete fiscal de R$50.000–60.000 millones para 2027 y en el Brent a US$92,76. Un real menos débil reduce el incentivo de Brasil a vender café a futuro, lo que quita algo de presión a la bolsa de NY."
     },
     {
       "date": "2026-11-10",
@@ -65,17 +76,6 @@
       "tag": "Cafés especiales",
       "title": "MinAgricultura y Neumann Kaffee Gruppe lanzan piloto de cafés especiales en Perijá y Sierra Nevada",
       "url": "https://www.eltiempo.com/vida/medio-ambiente/dos-regiones-cafeteras-del-norte-de-colombia-despiertan-el-interes-de-empresario-aleman-que-compra-millones-de-sacos-de-cafe-3600023"
-    },
-    {
-      "date": "2026-11-09",
-      "id": "n64",
-      "regiones": [],
-      "scope": "co",
-      "source": "Federación Nacional de Cafeteros",
-      "summary": "La FNC fijó la carga de pergamino seco en $2.000.000 (−0,99%), con la bolsa de Nueva York en 273,60 ¢/lb. Los compradores pueden esperar precios de compra más bajos que la semana anterior.",
-      "tag": "Precios",
-      "title": "Precio interno del café baja $20.000 y se ubica en $2.000.000 por carga",
-      "url": "https://federaciondecafeteros.org/estadisticas-cafeteras/"
     },
     {
       "date": "2026-11-09",
@@ -100,25 +100,25 @@
       "url": "https://www.eluniversal.com.co/economica/2026/11/09/este-es-el-grupo-portuario-del-caribe-colombiano-que-mas-cafe-exporta-por-sus-terminales/"
     },
     {
-      "id": "n79",
-      "scope": "co",
-      "regiones": [],
-      "tag": "Divisas",
       "date": "2026-11-09",
+      "id": "n79",
+      "regiones": [],
+      "scope": "co",
       "source": "Valora Analitik",
-      "url": "https://www.valoraanalitik.com/inflacion-colombia-octubre-2026-escalo-leve/",
+      "summary": "El IPC subió 0,20% en el mes y 6,30% anual, por debajo del 6,38% que esperaba el mercado; alimentos pasaron de 6,74% a 7,31%. Con la inflación lejos de la meta, el Banco de la República difícilmente baja su tasa de 12,25%, lo que sostiene el peso fuerte y el precio interno bajo.",
+      "tag": "Divisas",
       "title": "Inflación de octubre sube levemente a 6,30% y alimentos aceleran a 7,31%",
-      "summary": "El IPC subió 0,20% en el mes y 6,30% anual, por debajo del 6,38% que esperaba el mercado; alimentos pasaron de 6,74% a 7,31%. Con la inflación lejos de la meta, el Banco de la República difícilmente baja su tasa de 12,25%, lo que sostiene el peso fuerte y el precio interno bajo."
+      "url": "https://www.valoraanalitik.com/inflacion-colombia-octubre-2026-escalo-leve/"
     },
     {
+      "date": "2026-11-09",
       "id": "n82",
       "scope": "mundo",
-      "tag": "Producción",
-      "date": "2026-11-09",
       "source": "Comunicaffe",
-      "url": "https://www.comunicaffe.com/international-coffee-week-2026-brazil/",
+      "summary": "El USDA proyecta 189,7 millones de sacos para 2026/27 (+6%) frente a un consumo de 179,7 millones, y Conab estima Brasil en un récord de 67,6 millones (+19,6%). El excedente global es el principal factor bajista para la bolsa de NY en los próximos meses.",
+      "tag": "Producción",
       "title": "Producción mundial récord de 189,7 millones de sacos y Brasil en 67,6 millones",
-      "summary": "El USDA proyecta 189,7 millones de sacos para 2026/27 (+6%) frente a un consumo de 179,7 millones, y Conab estima Brasil en un récord de 67,6 millones (+19,6%). El excedente global es el principal factor bajista para la bolsa de NY en los próximos meses."
+      "url": "https://www.comunicaffe.com/international-coffee-week-2026-brazil/"
     },
     {
       "date": "2026-11-08",
@@ -175,14 +175,14 @@
       "url": "https://www.cftc.gov/dea/futures/ag_lf.htm"
     },
     {
+      "date": "2026-11-06",
       "id": "n81",
       "scope": "mundo",
-      "tag": "Logística",
-      "date": "2026-11-06",
       "source": "Shipping Telegraph · Drewry",
-      "url": "https://shippingtelegraph.com/freight-news/drewry-the-world-container-index-decreased-1-this-week-45-2026/",
+      "summary": "El World Container Index cayó 1% a US$4.389 por contenedor de 40 pies; Rotterdam–Nueva York bajó 1% a US$3.062 y Shanghái–Nueva York 3%. La tendencia a la baja en fletes ayuda a contener el costo de exportar café a EE. UU. y Europa.",
+      "tag": "Logística",
       "title": "Fletes de contenedores bajan 1%: índice Drewry en US$4.389 por FEU",
-      "summary": "El World Container Index cayó 1% a US$4.389 por contenedor de 40 pies; Rotterdam–Nueva York bajó 1% a US$3.062 y Shanghái–Nueva York 3%. La tendencia a la baja en fletes ayuda a contener el costo de exportar café a EE. UU. y Europa."
+      "url": "https://shippingtelegraph.com/freight-news/drewry-the-world-container-index-decreased-1-this-week-45-2026/"
     },
     {
       "date": "2026-11-05",
@@ -196,16 +196,16 @@
       "url": "https://www.infobae.com/colombia/2026/11/05/el-ideam-anuncio-que-el-pico-del-fenomeno-de-el-nino-se-acerca-esta-es-la-fecha-en-que-comenzaran-a-disminuir-de-las-lluvias-en-el-pais/"
     },
     {
-      "id": "n80",
-      "scope": "co",
-      "regiones": [],
-      "tag": "Regulación",
       "date": "2026-11-05",
+      "id": "n80",
+      "regiones": [],
+      "scope": "co",
       "source": "The Rio Times",
-      "url": "https://www.riotimesonline.com/colombia-coffee-tax-exporters-us700-million-rescue-bill-2026/",
+      "summary": "El proyecto de Ley de Rescate (477 de 2026) llevaría el café al 19% de IVA; aunque la exportación es exenta, Asoexport calcula que hasta US$708 millones quedarían atados en saldos a favor mientras la DIAN devuelve. Necesita cuatro debates antes del 16 de diciembre; si avanza, afectaría la liquidez de exportadores y su capacidad de compra.",
+      "tag": "Regulación",
       "title": "Asoexport: el IVA de 19% al café podría inmovilizar hasta US$708 millones en devoluciones",
-      "summary": "El proyecto de Ley de Rescate (477 de 2026) llevaría el café al 19% de IVA; aunque la exportación es exenta, Asoexport calcula que hasta US$708 millones quedarían atados en saldos a favor mientras la DIAN devuelve. Necesita cuatro debates antes del 16 de diciembre; si avanza, afectaría la liquidez de exportadores y su capacidad de compra."
+      "url": "https://www.riotimesonline.com/colombia-coffee-tax-exporters-us700-million-rescue-bill-2026/"
     }
   ],
-  "updatedAt": "2026-11-12T11:48:49Z"
+  "updatedAt": "2026-11-12T19:48:06Z"
 }
