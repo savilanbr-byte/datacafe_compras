@@ -1,36 +1,36 @@
 {
   "items": [
     {
-      "date": "2026-11-12",
-      "id": "n83",
-      "regiones": [],
+      "id": "n89",
       "scope": "co",
-      "source": "Federación Nacional de Cafeteros",
-      "summary": "La FNC fijó la referencia del 12 de noviembre en $2.085.000 por carga de pergamino (factor 94), con el contrato de diciembre en 280,20 ¢/lb y un dólar de $3.310,65. El repunte de Nueva York y la tasa de cambio más alta encarecen el pergamino frente a la semana pasada.",
+      "regiones": [],
       "tag": "Precios",
-      "title": "Precio interno del café sube $85.000 y llega a $2.085.000 por carga",
-      "url": "https://federaciondecafeteros.org/estadisticas-cafeteras/"
+      "date": "2026-11-13",
+      "source": "Federación Nacional de Cafeteros",
+      "url": "https://federaciondecafeteros.org/estadisticas-cafeteras/",
+      "title": "Precio interno del café cede $10.000 y queda en $2.075.000 por carga",
+      "summary": "La FNC fijó el viernes 13 de noviembre la carga de pergamino seco en $2.075.000, con la Bolsa de Nueva York en 278,65 ¢/lb y el dólar en $3.315,56; la pasilla quedó en $97.920 por carga. El retroceso es leve frente al salto del jueves, así que la referencia de compra se mantiene cerca de máximos de la semana."
     },
     {
-      "date": "2026-11-12",
-      "id": "n84",
-      "scope": "mundo",
-      "source": "Safras & Mercado",
-      "summary": "Tras tocar mínimos de seis semanas, el contrato de diciembre subió 11,20 centavos por recompras de fondos y corrección técnica, aunque los inventarios certificados en ICE subieron a 250.241 sacos y hay más de 113.000 en espera de clasificación. El rebote es técnico: la mayor oferta brasileña sigue presionando el mercado.",
-      "tag": "Mercado",
-      "title": "Arábica rebota 4,2% en Nueva York y el diciembre cierra en 280,20 ¢/lb",
-      "url": "https://safras.com.br/cafe-sobe-mais-de-4-em-ny-com-correcao-tecnica-e-cobertura-de-posicoes-vendidas"
-    },
-    {
-      "date": "2026-11-12",
-      "id": "n85",
-      "regiones": [],
+      "id": "n90",
       "scope": "co",
-      "source": "Semana",
-      "summary": "La divisa cerró $4 por encima de la TRM de $3.297, con un máximo de $3.347 y negocios por unos US$1.155 millones. Un peso más débil sube el precio interno en pesos para un mismo nivel de la bolsa.",
+      "regiones": [],
       "tag": "Divisas",
-      "title": "El dólar supera los $3.300 y cierra en $3.301 tras una jornada volátil",
-      "url": "https://www.semana.com/economia/macroeconomia/articulo/dolar-supero-la-barrera-de-los-3300-pesos-la-moneda-cerro-la-jornada-del-jueves-12-de-noviembre-mas-cara/202608/"
+      "date": "2026-11-13",
+      "source": "Noticias RCN",
+      "url": "https://www.noticiasrcn.com/economia/precio-del-dolar-en-colombia-en-el-cierre-de-hoy-13-de-noviembre-de-2026-1081896",
+      "title": "El dólar cierra la semana en $3.315,56 y la TRM supera los $3.300",
+      "summary": "El peso volvió a debilitarse: el dólar abrió en $3.310 y cerró en $3.315,56, con promedio de $3.317,13, mientras la TRM del día (3.301,91) fue la más alta en más de un mes. Un dólar más caro sostiene el precio interno pese al leve retroceso de Nueva York."
+    },
+    {
+      "id": "n91",
+      "scope": "mundo",
+      "tag": "Mercado",
+      "date": "2026-11-13",
+      "source": "Portal do Agronegócio",
+      "url": "https://www.portaldoagronegocio.com.br/agricultura/cafe/noticias/cafe-recua-em-nova-york-apos-alta-de-4-16-estoques-e-oferta-brasileira-mantem-volatilidade",
+      "title": "Arábica corrige en Nueva York tras el salto de 4,16% del jueves",
+      "summary": "Tras cerrar el 12-nov en 280,20 ¢/lb, el diciembre retrocedía el viernes a 278,65 por toma de ganancias; los inventarios certificados en ICE subieron a 250.241 sacos y hay 113.038 sacos brasileños en espera de clasificación, el mayor nivel en ocho meses. Más café entrando a bodegas ICE puede aliviar la presión sobre los diferenciales."
     },
     {
       "date": "2026-11-12",
@@ -222,5 +222,5 @@
       "url": "https://www.riotimesonline.com/colombia-coffee-tax-exporters-us700-million-rescue-bill-2026/"
     }
   ],
-  "updatedAt": "2026-11-13T11:49:04Z"
+  "updatedAt": "2026-11-13T19:47:34Z"
 }
