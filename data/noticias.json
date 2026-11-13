@@ -1,46 +1,57 @@
 {
   "items": [
     {
-      "id": "n83",
-      "scope": "co",
-      "regiones": [],
-      "tag": "Precios",
       "date": "2026-11-12",
+      "id": "n83",
+      "regiones": [],
+      "scope": "co",
       "source": "Federación Nacional de Cafeteros",
-      "url": "https://federaciondecafeteros.org/estadisticas-cafeteras/",
+      "summary": "La FNC fijó la referencia del 12 de noviembre en $2.085.000 por carga de pergamino (factor 94), con el contrato de diciembre en 280,20 ¢/lb y un dólar de $3.310,65. El repunte de Nueva York y la tasa de cambio más alta encarecen el pergamino frente a la semana pasada.",
+      "tag": "Precios",
       "title": "Precio interno del café sube $85.000 y llega a $2.085.000 por carga",
-      "summary": "La FNC fijó la referencia del 12 de noviembre en $2.085.000 por carga de pergamino (factor 94), con el contrato de diciembre en 280,20 ¢/lb y un dólar de $3.310,65. El repunte de Nueva York y la tasa de cambio más alta encarecen el pergamino frente a la semana pasada."
+      "url": "https://federaciondecafeteros.org/estadisticas-cafeteras/"
     },
     {
+      "date": "2026-11-12",
       "id": "n84",
       "scope": "mundo",
-      "tag": "Mercado",
-      "date": "2026-11-12",
       "source": "Safras & Mercado",
-      "url": "https://safras.com.br/cafe-sobe-mais-de-4-em-ny-com-correcao-tecnica-e-cobertura-de-posicoes-vendidas",
+      "summary": "Tras tocar mínimos de seis semanas, el contrato de diciembre subió 11,20 centavos por recompras de fondos y corrección técnica, aunque los inventarios certificados en ICE subieron a 250.241 sacos y hay más de 113.000 en espera de clasificación. El rebote es técnico: la mayor oferta brasileña sigue presionando el mercado.",
+      "tag": "Mercado",
       "title": "Arábica rebota 4,2% en Nueva York y el diciembre cierra en 280,20 ¢/lb",
-      "summary": "Tras tocar mínimos de seis semanas, el contrato de diciembre subió 11,20 centavos por recompras de fondos y corrección técnica, aunque los inventarios certificados en ICE subieron a 250.241 sacos y hay más de 113.000 en espera de clasificación. El rebote es técnico: la mayor oferta brasileña sigue presionando el mercado."
+      "url": "https://safras.com.br/cafe-sobe-mais-de-4-em-ny-com-correcao-tecnica-e-cobertura-de-posicoes-vendidas"
     },
     {
-      "id": "n85",
-      "scope": "co",
-      "regiones": [],
-      "tag": "Divisas",
       "date": "2026-11-12",
+      "id": "n85",
+      "regiones": [],
+      "scope": "co",
       "source": "Semana",
-      "url": "https://www.semana.com/economia/macroeconomia/articulo/dolar-supero-la-barrera-de-los-3300-pesos-la-moneda-cerro-la-jornada-del-jueves-12-de-noviembre-mas-cara/202608/",
+      "summary": "La divisa cerró $4 por encima de la TRM de $3.297, con un máximo de $3.347 y negocios por unos US$1.155 millones. Un peso más débil sube el precio interno en pesos para un mismo nivel de la bolsa.",
+      "tag": "Divisas",
       "title": "El dólar supera los $3.300 y cierra en $3.301 tras una jornada volátil",
-      "summary": "La divisa cerró $4 por encima de la TRM de $3.297, con un máximo de $3.347 y negocios por unos US$1.155 millones. Un peso más débil sube el precio interno en pesos para un mismo nivel de la bolsa."
+      "url": "https://www.semana.com/economia/macroeconomia/articulo/dolar-supero-la-barrera-de-los-3300-pesos-la-moneda-cerro-la-jornada-del-jueves-12-de-noviembre-mas-cara/202608/"
     },
     {
+      "date": "2026-11-12",
       "id": "n86",
       "scope": "mundo",
-      "tag": "Divisas",
-      "date": "2026-11-12",
       "source": "Reuters (Notícias Agrícolas)",
-      "url": "https://www.noticiasagricolas.com.br/noticias/politica-economia/431258-dolar-tem-alta-firme-contra-real-com-frustracao-do-mercado-em-relacao-a-medidas-fiscais.html",
+      "summary": "El mercado juzgó insuficientes las medidas fiscales de Brasil para 2027 y la presión externa por un dato de inflación alto en EE. UU. llevó el bono a 10 años cerca del 5%. Un real débil incentiva las ventas de café brasileño y suele restar soporte al arábica.",
+      "tag": "Divisas",
       "title": "El real se debilita: dólar sube 0,9% a R$5,61 por decepción con el paquete fiscal",
-      "summary": "El mercado juzgó insuficientes las medidas fiscales de Brasil para 2027 y la presión externa por un dato de inflación alto en EE. UU. llevó el bono a 10 años cerca del 5%. Un real débil incentiva las ventas de café brasileño y suele restar soporte al arábica."
+      "url": "https://www.noticiasagricolas.com.br/noticias/politica-economia/431258-dolar-tem-alta-firme-contra-real-com-frustracao-do-mercado-em-relacao-a-medidas-fiscais.html"
+    },
+    {
+      "id": "n88",
+      "scope": "co",
+      "regiones": [],
+      "tag": "Clima",
+      "date": "2026-11-12",
+      "source": "IDEAM · Colombia.com",
+      "url": "https://www.colombia.com/actualidad/nacionales/ideam-anuncia-que-el-fenomeno-del-nino-iria-hasta-mayo-de-2027-612357",
+      "title": "IDEAM: El Niño podría durar hasta mayo de 2027; diciembre y enero, los meses más secos",
+      "summary": "La actualización del 12 de noviembre da 61% de probabilidad de que El Niño se extienda hasta mayo de 2027 y 79% de que siga entre fuerte y muy fuerte en el primer trimestre, con déficit de lluvias en las regiones Andina, Caribe y Pacífica. Riesgo para las floraciones de la principal 2027 y para el llenado de grano en el sur."
     },
     {
       "date": "2026-11-11",
@@ -121,6 +132,21 @@
       "url": "https://www.comunicaffe.com/international-coffee-week-2026-brazil/"
     },
     {
+      "id": "n87",
+      "scope": "co",
+      "regiones": [
+        "valle",
+        "cauca",
+        "narino"
+      ],
+      "tag": "Exportaciones",
+      "date": "2026-11-09",
+      "source": "Analdex · PYME Noticias",
+      "url": "https://www.pymenoticias.com/post/exportaciones-suroccidente-septiembre-cafe-narino-cauca",
+      "title": "El café verde dispara las exportaciones de Nariño y Cauca en septiembre",
+      "summary": "Según Analdex, las ventas externas del suroccidente sumaron US$307,1 millones en septiembre (+13,8%): Nariño creció 169,8% con el café sin tostar como 76,1% de lo exportado y Cauca 43,4%. Señal de oferta activa de cafés del sur en el arranque del año cafetero."
+    },
+    {
       "date": "2026-11-08",
       "id": "n55",
       "regiones": [],
@@ -186,17 +212,6 @@
     },
     {
       "date": "2026-11-05",
-      "id": "n62",
-      "regiones": [],
-      "scope": "co",
-      "source": "Infobae",
-      "summary": "El IDEAM prevé las condiciones más fuertes entre finales de diciembre y febrero. Para el secado y el despacho de la cosecha actual, noviembre aún trae lluvias intermitentes.",
-      "tag": "Clima",
-      "title": "IDEAM: noviembre alterna lluvias y días secos; lo más intenso de El Niño llega desde fines de diciembre",
-      "url": "https://www.infobae.com/colombia/2026/11/05/el-ideam-anuncio-que-el-pico-del-fenomeno-de-el-nino-se-acerca-esta-es-la-fecha-en-que-comenzaran-a-disminuir-de-las-lluvias-en-el-pais/"
-    },
-    {
-      "date": "2026-11-05",
       "id": "n80",
       "regiones": [],
       "scope": "co",
@@ -207,5 +222,5 @@
       "url": "https://www.riotimesonline.com/colombia-coffee-tax-exporters-us700-million-rescue-bill-2026/"
     }
   ],
-  "updatedAt": "2026-11-12T19:48:06Z"
+  "updatedAt": "2026-11-13T11:49:04Z"
 }

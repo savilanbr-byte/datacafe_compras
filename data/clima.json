@@ -1,51 +1,51 @@
 {
   "enso": {
-    "asOf": "2026-10-08",
+    "asOf": "2026-11-12",
     "facts": [
       {
-        "l": "Anomalía Niño 3.4",
-        "v": "+2,1 °C"
+        "v": "+2,5 °C",
+        "l": "Anomalía Niño 3.4 (octubre)"
       },
       {
-        "l": "Fuerte o más hasta ene–mar 2027",
-        "v": "83%"
+        "v": ">79%",
+        "l": "Fuerte a muy fuerte hasta ene–mar 2027"
       },
       {
-        "l": "Inicio del déficit fuerte de lluvias",
-        "v": "Dic"
+        "v": "61%",
+        "l": "IDEAM: persiste hasta mayo 2027"
       }
     ],
-    "headline": "El IDEAM declaró el inicio del fenómeno y NOAA mantiene aviso de El Niño en fortalecimiento.",
+    "headline": "NOAA (12-nov): El Niño sigue fortaleciéndose; >79% de probabilidad de fuerte a muy fuerte hasta ene–mar 2027 y ~60% de un evento histórico.",
     "source": "NOAA CPC · IDEAM",
     "status": "El Niño · fuerte a muy fuerte",
     "url": "https://www.cpc.ncep.noaa.gov/products/analysis_monitoring/enso_advisory/ensodisc.shtml"
   },
   "forecastSource": {
     "name": "MET Norway",
-    "period": "13 al 19 de noviembre",
+    "period": "14 al 20 de noviembre",
     "url": "https://api.met.no/"
   },
   "ideam": {
-    "asOf": "2026-11-05",
-    "headline": "El pico de El Niño se acerca: noviembre alterna lluvias y días secos",
+    "headline": "Actualización del 12-nov: El Niño muy fuerte, con 61% de probabilidad de durar hasta mayo de 2027",
+    "asOf": "2026-11-12",
     "items": [
-      "Noviembre: alternancia de lluvias y jornadas secas por la transición estacional y la cercanía del pico de El Niño.",
-      "Las condiciones más intensas se esperan desde finales de diciembre hasta febrero.",
-      "Informe de predicción de octubre: déficit de lluvias entre noviembre y enero, sobre todo en regiones Caribe, Andina y Pacífica."
+      "Intensidad más probable \"muy fuerte\"; 79% de probabilidad de bajar a fuerte entre enero y marzo de 2027.",
+      "Diciembre y enero serán los meses más críticos: menos lluvias y más calor en las regiones Andina, Caribe y Pacífica.",
+      "Temperaturas más altas en Cundinamarca, Boyacá, Tolima, Antioquia y Santander; próxima actualización el 10 de diciembre."
     ],
     "links": [
       {
-        "t": "Infobae: pico de El Niño y lluvias",
-        "url": "https://www.infobae.com/colombia/2026/11/05/el-ideam-anuncio-que-el-pico-del-fenomeno-de-el-nino-se-acerca-esta-es-la-fecha-en-que-comenzaran-a-disminuir-de-las-lluvias-en-el-pais/"
+        "t": "IDEAM: Fenómeno de El Niño",
+        "url": "https://www.ideam.gov.co/fenomeno-del-nino"
       },
       {
-        "t": "Comunicado IDEAM",
-        "url": "https://www.ideam.gov.co/sala-de-prensa/noticia/condiciones-el-nino-continuan-en-fortalecimiento-y-aumenta-la-probabilidad-de-que-alcance-una"
+        "t": "Colombia.com: El Niño iría hasta mayo de 2027",
+        "url": "https://www.colombia.com/actualidad/nacionales/ideam-anuncia-que-el-fenomeno-del-nino-iria-hasta-mayo-de-2027-612357"
       }
     ]
   },
   "impactos": [
-    "Octubre y noviembre todavía traen lluvias en la zona andina; el déficit fuerte llega desde diciembre.",
+    "Noviembre todavía trae lluvias en la zona andina (40–90 mm en la semana en el centro y sur); el déficit fuerte llega en diciembre y enero, y El Niño podría durar hasta mayo de 2027.",
     "En el sur (Huila, Cauca, Nariño, sur del Tolima), la cosecha principal de mar–jun 2027 llenará grano en plena sequía: riesgo de grano más pequeño, menor rendimiento y más pasilla.",
     "Las floraciones de diciembre a febrero alimentan la principal 2027 de la zona centro: si fallan por falta de agua, esa cosecha llega más corta.",
     "La sequía favorece la broca: revisa calidad física (broca, pasilla, factor) en los lotes de inicios de 2027.",
@@ -54,109 +54,109 @@
   "regions": [
     {
       "dept": "Huila",
-      "p7": 58,
+      "p7": 48.1,
       "place": "Pitalito",
-      "tmax": 26.7,
+      "tmax": 26.4,
       "tmin": 18.2
     },
     {
       "dept": "Antioquia",
-      "p7": 30.3,
+      "p7": 69.3,
       "place": "Andes",
-      "tmax": 27.4,
-      "tmin": 19
+      "tmax": 26.7,
+      "tmin": 18.5
     },
     {
       "dept": "Tolima",
-      "p7": 47.3,
+      "p7": 52.8,
       "place": "Planadas",
-      "tmax": 27.2,
-      "tmin": 19.6
-    },
-    {
-      "dept": "Cauca",
-      "p7": 67.9,
-      "place": "Popayán",
-      "tmax": 22.6,
-      "tmin": 16.7
-    },
-    {
-      "dept": "Nariño",
-      "p7": 64,
-      "place": "La Unión",
-      "tmax": 21.9,
-      "tmin": 15.6
-    },
-    {
-      "dept": "Caldas",
-      "p7": 73.2,
-      "place": "Chinchiná",
-      "tmax": 24.8,
-      "tmin": 17.7
-    },
-    {
-      "dept": "Quindío",
-      "p7": 96.3,
-      "place": "Armenia",
-      "tmax": 23.5,
-      "tmin": 17.6
-    },
-    {
-      "dept": "Risaralda",
-      "p7": 76.5,
-      "place": "Santa Rosa de Cabal",
-      "tmax": 22.3,
-      "tmin": 16.2
-    },
-    {
-      "dept": "Valle del Cauca",
-      "p7": 38.5,
-      "place": "Sevilla",
-      "tmax": 23.5,
-      "tmin": 16.3
-    },
-    {
-      "dept": "Cundinamarca",
-      "p7": 41.4,
-      "place": "Viotá",
-      "tmax": 28.5,
-      "tmin": 22.2
-    },
-    {
-      "dept": "Boyacá",
-      "p7": 38.2,
-      "place": "Moniquirá",
-      "tmax": 25.6,
-      "tmin": 15.8
-    },
-    {
-      "dept": "Santander",
-      "p7": 74.8,
-      "place": "San Gil",
-      "tmax": 26.6,
+      "tmax": 27.3,
       "tmin": 19.4
     },
     {
+      "dept": "Cauca",
+      "p7": 70.6,
+      "place": "Popayán",
+      "tmax": 23.4,
+      "tmin": 16.3
+    },
+    {
+      "dept": "Nariño",
+      "p7": 86.2,
+      "place": "La Unión",
+      "tmax": 21.8,
+      "tmin": 16.1
+    },
+    {
+      "dept": "Caldas",
+      "p7": 79.9,
+      "place": "Chinchiná",
+      "tmax": 25.4,
+      "tmin": 17.6
+    },
+    {
+      "dept": "Quindío",
+      "p7": 93.0,
+      "place": "Armenia",
+      "tmax": 23.4,
+      "tmin": 17.4
+    },
+    {
+      "dept": "Risaralda",
+      "p7": 85.7,
+      "place": "Santa Rosa de Cabal",
+      "tmax": 22.5,
+      "tmin": 16.0
+    },
+    {
+      "dept": "Valle del Cauca",
+      "p7": 50.5,
+      "place": "Sevilla",
+      "tmax": 24.1,
+      "tmin": 16.4
+    },
+    {
+      "dept": "Cundinamarca",
+      "p7": 44.7,
+      "place": "Viotá",
+      "tmax": 28.5,
+      "tmin": 22.3
+    },
+    {
+      "dept": "Boyacá",
+      "p7": 39.1,
+      "place": "Moniquirá",
+      "tmax": 25.3,
+      "tmin": 15.7
+    },
+    {
+      "dept": "Santander",
+      "p7": 55.1,
+      "place": "San Gil",
+      "tmax": 25.9,
+      "tmin": 19.5
+    },
+    {
       "dept": "Norte de Santander",
-      "p7": 18.3,
+      "p7": 14.1,
       "place": "Salazar",
-      "tmax": 27.9,
-      "tmin": 18.9
+      "tmax": 27.5,
+      "tmin": 19.2
     },
     {
       "dept": "Cesar",
-      "p7": 14.3,
+      "p7": 15.1,
       "place": "Pueblo Bello",
-      "tmax": 26.6,
-      "tmin": 18.9
+      "tmax": 26.4,
+      "tmin": 17.9
     },
     {
       "dept": "Magdalena",
-      "p7": 31.3,
+      "p7": 24.4,
       "place": "Minca",
-      "tmax": 27.3,
-      "tmin": 21
+      "tmax": 27.0,
+      "tmin": 20.2
     }
   ],
-  "updatedAt": "2026-11-12T19:48:06Z"
+  "updatedAt": "2026-11-13T11:49:04Z"
 }
