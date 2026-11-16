@@ -24,6 +24,27 @@
       "id": "n100"
     },
     {
+      "id": "n105",
+      "scope": "mundo",
+      "tag": "Mercado",
+      "date": "2026-11-16",
+      "source": "Portal do Agronegócio",
+      "url": "https://www.portaldoagronegocio.com.br/agricultura/cafe/noticias/cafe-sobe-mais-de-1-em-nova-york-com-safra-brasileira-e-estoques-no-radar",
+      "title": "El arábica abre la semana al alza; calor en Brasil preocupa para la cosecha 2027/28",
+      "summary": "El contrato diciembre subía más de 1% (281,95 ¢/lb) en la apertura del lunes, mientras el mercado vigila el calor intenso y las lluvias irregulares en Mogiana y Cerrado Mineiro tras la floración. Un riesgo climático en Brasil sostiene el piso de la bolsa y del precio interno colombiano."
+    },
+    {
+      "date": "2026-11-16",
+      "id": "n89",
+      "regiones": [],
+      "scope": "co",
+      "source": "Federación Nacional de Cafeteros",
+      "summary": "La FNC fijó el 16 de noviembre la carga de pergamino seco en $2.085.000, con el contrato diciembre en 280,70 ¢/lb y tasa de referencia de $3.315,56. La pasilla de factor 94 se paga a $97.920 por carga.",
+      "tag": "Precios",
+      "title": "Precio interno del café sube $10.000 y queda en $2.085.000 por carga",
+      "url": "https://federaciondecafeteros.org/estadisticas-cafeteras/"
+    },
+    {
       "scope": "co",
       "regiones": [
         "caldas"
@@ -78,17 +99,6 @@
       "title": "Davivienda ve el dólar entre $3.120 y $3.436 en noviembre",
       "summary": "La TRM para el puente festivo quedó en $3.316,70, tras la compra de US$2.000 millones del Banco de la República al Gobierno; Davivienda proyecta una TRM promedio cercana a $3.263 en noviembre y un cierre de año alrededor de $3.276. La monetización de exportaciones suele bajar el dólar en noviembre y diciembre, lo que restaría al precio interno.",
       "id": "n98"
-    },
-    {
-      "date": "2026-11-13",
-      "id": "n89",
-      "regiones": [],
-      "scope": "co",
-      "source": "Federación Nacional de Cafeteros",
-      "summary": "La FNC fijó el viernes 13 de noviembre la carga de pergamino seco en $2.075.000, con la Bolsa de Nueva York en 278,65 ¢/lb y el dólar en $3.315,56; la pasilla quedó en $97.920 por carga. El retroceso es leve frente al salto del jueves, así que la referencia de compra se mantiene cerca de máximos de la semana.",
-      "tag": "Precios",
-      "title": "Precio interno del café cede $10.000 y queda en $2.075.000 por carga",
-      "url": "https://federaciondecafeteros.org/estadisticas-cafeteras/"
     },
     {
       "date": "2026-11-13",
@@ -205,17 +215,7 @@
       "tag": "Agricultura",
       "title": "Gobierno anuncia cinco medidas para el café: crédito vía comprador, reperfilar deudas y seguro con subsidio de hasta 60%",
       "url": "https://www.eltiempo.com/amp/economia/los-cinco-anuncios-del-gobierno-para-el-cafe-colombiano-credito-por-el-comprador-y-alivio-de-deudas-entre-ellos-3599035"
-    },
-    {
-      "date": "2026-11-06",
-      "id": "n61",
-      "scope": "mundo",
-      "source": "CFTC",
-      "summary": "Con datos al 3-nov, los fondos bajaron largos en 2.943 y subieron cortos en 2.429 (largos 34.613, cortos 19.881); el interés abierto cayó a 166.984.",
-      "tag": "Mercado",
-      "title": "Fondos reducen su posición neta compradora en café arábica a 14.732 contratos",
-      "url": "https://www.cftc.gov/dea/futures/ag_lf.htm"
     }
   ],
-  "updatedAt": "2026-11-16T11:54:31Z"
+  "updatedAt": "2026-11-16T19:47:32Z"
 }

@@ -1,32 +1,32 @@
 {
   "curve": {
-    "asOf": "2026-11-13",
+    "asOf": "2026-11-16",
     "points": [
       {
         "contract": "Dic-26",
-        "value": 278.65
+        "value": 280.7
       },
       {
         "contract": "Mar-27",
-        "value": 273.5
+        "value": 274.9
       },
       {
         "contract": "May-27",
-        "value": 269.45
+        "value": 270.55
       },
       {
         "contract": "Jul-27",
-        "value": 266.3
+        "value": 267.3
       },
       {
         "contract": "Sep-27",
-        "value": 263.35
+        "value": 264.25
       }
     ]
   },
   "fncRef": {
-    "asOf": "2026-11-13",
-    "kc": 278.65,
+    "asOf": "2026-11-16",
+    "kc": 280.7,
     "pasillaCOP": 97920,
     "trm": 3315.56
   },
@@ -40,15 +40,15 @@
       "value": null
     },
     "brl": {
-      "asOf": "2026-11-13",
-      "change": 0.047,
+      "asOf": "2026-11-16",
+      "change": 0.042,
       "chgDec": 3,
       "dec": 3,
       "label": "Real brasileño",
       "source": "BCE · Frankfurter",
       "unit": "BRL/USD",
       "url": "https://frankfurter.dev",
-      "value": 5.6637
+      "value": 5.7053
     },
     "cot": {
       "asOf": "2026-11-03",
@@ -73,31 +73,31 @@
       "value": 11.85
     },
     "fnc": {
-      "asOf": "2026-11-13",
-      "change": -10000,
+      "asOf": "2026-11-16",
+      "change": 10000,
       "dec": 0,
       "label": "Precio interno FNC",
       "note": "Carga de 125 kg pergamino seco, factor 94",
       "source": "FNC",
       "unit": "COP/carga",
       "url": "https://federaciondecafeteros.org/estadisticas-cafeteras/",
-      "value": 2075000
+      "value": 2085000
     },
     "icestocks": {
-      "asOf": "2026-11-11",
-      "change": 29862,
+      "asOf": "2026-11-12",
+      "change": -21655,
       "dec": 0,
       "label": "Inventarios certificados ICE",
-      "note": "Miércoles 11-nov: máximo desde mediados de octubre; variación vs 3-nov (220.379). Más de 113.000 sacos en espera de clasificación. Mínimo en 27 años: 217.646 (15-sep)",
+      "note": "Jueves 12-nov: baja de 21.655 sacos vs 11-nov (250.241). Mínimo en 27 años: 217.646 (15-sep)",
       "source": "ICE · Safras & Mercado",
       "unit": "sacos",
-      "url": "https://safras.com.br/cafe-sobe-mais-de-4-em-ny-com-correcao-tecnica-e-cobertura-de-posicoes-vendidas",
-      "value": 250241
+      "url": "https://safras.com.br/brasil-deve-encerrar-semana-com-precos-mais-altos-para-o-cafe",
+      "value": 228586
     },
     "icoComp": {
-      "asOf": "2026-11-12",
-      "change": 4,
-      "changePct": 1.61,
+      "asOf": "2026-11-13",
+      "change": 0,
+      "changePct": 0.09,
       "dec": 0,
       "label": "Indicador compuesto OIC",
       "source": "OIC · La República",
@@ -106,67 +106,67 @@
       "value": 249
     },
     "kc1": {
-      "asOf": "2026-11-13",
-      "change": -1.55,
+      "asOf": "2026-11-16",
+      "change": 2.05,
       "chgDec": 2,
       "contract": "Dic-26",
       "dec": 2,
       "label": "KC C1",
-      "note": "Liquidación 13-nov (Dic-26); variación vs 12-nov (280,20)",
+      "note": "Liquidación 16-nov (Dic-26); variación vs 13-nov (278,65)",
       "source": "Investing.com",
       "unit": "¢/lb",
-      "url": "https://www.investing.com/commodities/us-coffee-c-historical-data",
-      "value": 278.65
+      "url": "https://www.investing.com/commodities/us-coffee-c-contracts",
+      "value": 280.7
     },
     "kc2": {
-      "asOf": "2026-11-13",
-      "change": -1.05,
+      "asOf": "2026-11-16",
+      "change": 1.4,
       "chgDec": 2,
       "contract": "Mar-27",
       "dec": 2,
       "label": "KC C2",
-      "note": "Liquidación 13-nov",
+      "note": "Liquidación 16-nov",
       "source": "Investing.com",
       "unit": "¢/lb",
       "url": "https://www.investing.com/commodities/us-coffee-c-contracts",
-      "value": 273.5
+      "value": 274.9
     },
     "kc3": {
-      "asOf": "2026-11-13",
-      "change": -0.7,
+      "asOf": "2026-11-16",
+      "change": 1.1,
       "chgDec": 2,
       "contract": "May-27",
       "dec": 2,
       "label": "KC C3",
-      "note": "Liquidación 13-nov",
+      "note": "Liquidación 16-nov",
       "source": "Investing.com",
       "unit": "¢/lb",
       "url": "https://www.investing.com/commodities/us-coffee-c-contracts",
-      "value": 269.45
+      "value": 270.55
     },
     "kc4": {
-      "asOf": "2026-11-13",
-      "change": -0.35,
+      "asOf": "2026-11-16",
+      "change": 1.0,
       "chgDec": 2,
       "contract": "Jul-27",
       "dec": 2,
       "label": "KC C4",
-      "note": "Liquidación 13-nov",
+      "note": "Liquidación 16-nov",
       "source": "Investing.com",
       "unit": "¢/lb",
       "url": "https://www.investing.com/commodities/us-coffee-c-contracts",
-      "value": 266.3
+      "value": 267.3
     },
     "milds": {
-      "asOf": "2026-11-12",
-      "change": 8,
-      "changePct": 2.28,
+      "asOf": "2026-11-13",
+      "change": 2,
+      "changePct": 0.81,
       "dec": 0,
       "label": "Colombian Milds (OIC)",
       "source": "OIC · La República",
       "unit": "¢/lb",
       "url": "https://www.larepublica.co/indicadores-economicos/commodities/cafe",
-      "value": 340
+      "value": 342
     },
     "prod": {
       "asOf": "2026-10-31",
@@ -181,16 +181,16 @@
     },
     "robusta": {
       "asOf": "2026-11-16",
-      "change": -27,
-      "changePct": -0.84,
+      "change": -62,
+      "changePct": -1.94,
       "contract": "Ene-27",
       "dec": 1,
       "label": "Robusta Londres (ICE)",
-      "note": "Intradía 16-nov (Ene-27), sin cierre; variación vs cierre 13-nov (3.201)",
+      "note": "Cierre 16-nov (Ene-27); variación vs 13-nov (3.201)",
       "source": "Investing.com",
       "unit": "USD/t",
       "url": "https://www.investing.com/commodities/london-coffee",
-      "value": 3174
+      "value": 3139
     },
     "trm": {
       "asOf": "2026-11-14",
@@ -204,5 +204,5 @@
       "value": 3316.7
     }
   },
-  "updatedAt": "2026-11-16T11:54:31Z"
+  "updatedAt": "2026-11-16T19:47:32Z"
 }
