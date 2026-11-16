@@ -3,16 +3,16 @@
     "asOf": "2026-11-12",
     "facts": [
       {
-        "v": "+2,5 °C",
-        "l": "Anomalía Niño 3.4 (octubre)"
+        "l": "Anomalía Niño 3.4 (octubre)",
+        "v": "+2,5 °C"
       },
       {
-        "v": ">79%",
-        "l": "Fuerte a muy fuerte hasta ene–mar 2027"
+        "l": "Fuerte a muy fuerte hasta ene–mar 2027",
+        "v": ">79%"
       },
       {
-        "v": "61%",
-        "l": "IDEAM: persiste hasta mayo 2027"
+        "l": "IDEAM: persiste hasta mayo 2027",
+        "v": "61%"
       }
     ],
     "headline": "NOAA (12-nov): El Niño sigue fortaleciéndose; >79% de probabilidad de fuerte a muy fuerte hasta ene–mar 2027 y ~60% de un evento histórico.",
@@ -22,21 +22,25 @@
   },
   "forecastSource": {
     "name": "MET Norway",
-    "period": "14 al 20 de noviembre",
+    "period": "17 al 23 de noviembre",
     "url": "https://api.met.no/"
   },
   "ideam": {
-    "headline": "Actualización del 12-nov: El Niño muy fuerte, con 61% de probabilidad de durar hasta mayo de 2027",
     "asOf": "2026-11-12",
+    "headline": "Actualización del 12-nov: El Niño muy fuerte, con 61% de probabilidad de durar hasta mayo de 2027",
     "items": [
-      "Intensidad más probable \"muy fuerte\"; 79% de probabilidad de bajar a fuerte entre enero y marzo de 2027.",
-      "Diciembre y enero serán los meses más críticos: menos lluvias y más calor en las regiones Andina, Caribe y Pacífica.",
-      "Temperaturas más altas en Cundinamarca, Boyacá, Tolima, Antioquia y Santander; próxima actualización el 10 de diciembre."
+      "Intensidad más probable \"muy fuerte\"; 79% de probabilidad de bajar a fuerte entre enero y marzo de 2027, y lluvias normales hacia mayo.",
+      "Resto de noviembre: déficit de lluvias en Huila, Tolima, Cundinamarca, Santander, Norte de Santander y parte de Antioquia; lluvias sobre lo normal en Cauca y Nariño.",
+      "Diciembre y enero serán los meses más críticos; temperaturas sobre lo normal en el Eje Cafetero, Huila y Tolima. Próxima actualización el 10 de diciembre."
     ],
     "links": [
       {
         "t": "IDEAM: Fenómeno de El Niño",
         "url": "https://www.ideam.gov.co/fenomeno-del-nino"
+      },
+      {
+        "t": "Infobae: comunicado conjunto Gobierno–IDEAM (12-nov)",
+        "url": "https://www.infobae.com/colombia/2026/11/12/el-gobierno-reforzara-el-ahorro-de-agua-energia-y-gas-ante-la-posible-extension-de-la-sequia-por-el-nino-en-que-departamentos-habria-problemas/"
       },
       {
         "t": "Colombia.com: El Niño iría hasta mayo de 2027",
@@ -45,118 +49,118 @@
     ]
   },
   "impactos": [
-    "Noviembre todavía trae lluvias en la zona andina (40–90 mm en la semana en el centro y sur); el déficit fuerte llega en diciembre y enero, y El Niño podría durar hasta mayo de 2027.",
-    "En el sur (Huila, Cauca, Nariño, sur del Tolima), la cosecha principal de mar–jun 2027 llenará grano en plena sequía: riesgo de grano más pequeño, menor rendimiento y más pasilla.",
-    "Las floraciones de diciembre a febrero alimentan la principal 2027 de la zona centro: si fallan por falta de agua, esa cosecha llega más corta.",
-    "La sequía favorece la broca: revisa calidad física (broca, pasilla, factor) en los lotes de inicios de 2027.",
-    "Con más sol, el secado mejora en diciembre y enero para la cosecha que va terminando."
+    "La semana trae menos lluvia que la anterior en el centro (Andes 21 mm, Chinchiná 32 mm) y casi nada en el norte (Pueblo Bello 7 mm, Salazar 11 mm); Cauca y Nariño siguen húmedos (61–83 mm).",
+    "Con la cosecha principal de Caldas corrida hacia su pico del 7 al 13 de diciembre, el tiempo más seco favorece recolección y secado, pero la oferta de pergamino del centro se concentrará en diciembre.",
+    "En el sur (Huila, Cauca, Nariño, sur del Tolima), la principal de 2027 llenará grano en plena sequía: riesgo de grano más pequeño, menor rendimiento y más pasilla.",
+    "Las floraciones de diciembre a febrero alimentan la principal 2027 de la zona centro; si fallan por falta de agua, esa cosecha llega más corta.",
+    "La sequía favorece la broca: revisa calidad física (broca, pasilla, factor) en los lotes de inicios de 2027."
   ],
   "regions": [
     {
       "dept": "Huila",
-      "p7": 48.1,
       "place": "Pitalito",
-      "tmax": 26.4,
-      "tmin": 18.2
+      "p7": 36.6,
+      "tmax": 27.2,
+      "tmin": 18.8
     },
     {
       "dept": "Antioquia",
-      "p7": 69.3,
       "place": "Andes",
-      "tmax": 26.7,
-      "tmin": 18.5
+      "p7": 21.3,
+      "tmax": 27.4,
+      "tmin": 18.2
     },
     {
       "dept": "Tolima",
-      "p7": 52.8,
       "place": "Planadas",
+      "p7": 36.6,
       "tmax": 27.3,
-      "tmin": 19.4
+      "tmin": 19.6
     },
     {
       "dept": "Cauca",
-      "p7": 70.6,
       "place": "Popayán",
+      "p7": 61.1,
       "tmax": 23.4,
-      "tmin": 16.3
+      "tmin": 16.2
     },
     {
       "dept": "Nariño",
-      "p7": 86.2,
       "place": "La Unión",
-      "tmax": 21.8,
+      "p7": 82.9,
+      "tmax": 22.0,
       "tmin": 16.1
     },
     {
       "dept": "Caldas",
-      "p7": 79.9,
       "place": "Chinchiná",
-      "tmax": 25.4,
-      "tmin": 17.6
-    },
-    {
-      "dept": "Quindío",
-      "p7": 93.0,
-      "place": "Armenia",
-      "tmax": 23.4,
-      "tmin": 17.4
-    },
-    {
-      "dept": "Risaralda",
-      "p7": 85.7,
-      "place": "Santa Rosa de Cabal",
-      "tmax": 22.5,
-      "tmin": 16.0
-    },
-    {
-      "dept": "Valle del Cauca",
-      "p7": 50.5,
-      "place": "Sevilla",
-      "tmax": 24.1,
-      "tmin": 16.4
-    },
-    {
-      "dept": "Cundinamarca",
-      "p7": 44.7,
-      "place": "Viotá",
-      "tmax": 28.5,
-      "tmin": 22.3
-    },
-    {
-      "dept": "Boyacá",
-      "p7": 39.1,
-      "place": "Moniquirá",
-      "tmax": 25.3,
-      "tmin": 15.7
-    },
-    {
-      "dept": "Santander",
-      "p7": 55.1,
-      "place": "San Gil",
-      "tmax": 25.9,
-      "tmin": 19.5
-    },
-    {
-      "dept": "Norte de Santander",
-      "p7": 14.1,
-      "place": "Salazar",
-      "tmax": 27.5,
-      "tmin": 19.2
-    },
-    {
-      "dept": "Cesar",
-      "p7": 15.1,
-      "place": "Pueblo Bello",
+      "p7": 32.4,
       "tmax": 26.4,
       "tmin": 17.9
     },
     {
+      "dept": "Quindío",
+      "place": "Armenia",
+      "p7": 62.6,
+      "tmax": 24.9,
+      "tmin": 17.7
+    },
+    {
+      "dept": "Risaralda",
+      "place": "Santa Rosa de Cabal",
+      "p7": 51.9,
+      "tmax": 23.8,
+      "tmin": 16.2
+    },
+    {
+      "dept": "Valle del Cauca",
+      "place": "Sevilla",
+      "p7": 49.5,
+      "tmax": 24.7,
+      "tmin": 16.0
+    },
+    {
+      "dept": "Cundinamarca",
+      "place": "Viotá",
+      "p7": 67.3,
+      "tmax": 28.6,
+      "tmin": 22.2
+    },
+    {
+      "dept": "Boyacá",
+      "place": "Moniquirá",
+      "p7": 29.7,
+      "tmax": 26.2,
+      "tmin": 16.1
+    },
+    {
+      "dept": "Santander",
+      "place": "San Gil",
+      "p7": 31.9,
+      "tmax": 26.4,
+      "tmin": 19.5
+    },
+    {
+      "dept": "Norte de Santander",
+      "place": "Salazar",
+      "p7": 10.9,
+      "tmax": 28.2,
+      "tmin": 18.7
+    },
+    {
+      "dept": "Cesar",
+      "place": "Pueblo Bello",
+      "p7": 6.7,
+      "tmax": 27.2,
+      "tmin": 17.3
+    },
+    {
       "dept": "Magdalena",
-      "p7": 24.4,
       "place": "Minca",
-      "tmax": 27.0,
-      "tmin": 20.2
+      "p7": 23.2,
+      "tmax": 27.8,
+      "tmin": 19.4
     }
   ],
-  "updatedAt": "2026-11-13T19:47:34Z"
+  "updatedAt": "2026-11-16T11:54:31Z"
 }
