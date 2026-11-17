@@ -58,109 +58,109 @@
   "regions": [
     {
       "dept": "Huila",
+      "p7": 51,
       "place": "Pitalito",
-      "p7": 51.0,
       "tmax": 27.5,
       "tmin": 18.7
     },
     {
       "dept": "Antioquia",
-      "place": "Andes",
       "p7": 13.4,
+      "place": "Andes",
       "tmax": 28.1,
       "tmin": 18.3
     },
     {
       "dept": "Tolima",
-      "place": "Planadas",
       "p7": 39.6,
-      "tmax": 28.0,
+      "place": "Planadas",
+      "tmax": 28,
       "tmin": 19.9
     },
     {
       "dept": "Cauca",
-      "place": "Popayán",
       "p7": 67.6,
+      "place": "Popayán",
       "tmax": 23.4,
       "tmin": 15.9
     },
     {
       "dept": "Nariño",
-      "place": "La Unión",
       "p7": 90.8,
+      "place": "La Unión",
       "tmax": 22.6,
       "tmin": 16.1
     },
     {
       "dept": "Caldas",
+      "p7": 25,
       "place": "Chinchiná",
-      "p7": 25.0,
-      "tmax": 27.0,
+      "tmax": 27,
       "tmin": 18.1
     },
     {
       "dept": "Quindío",
-      "place": "Armenia",
       "p7": 60.8,
+      "place": "Armenia",
       "tmax": 24.7,
       "tmin": 17.9
     },
     {
       "dept": "Risaralda",
-      "place": "Santa Rosa de Cabal",
       "p7": 40.9,
+      "place": "Santa Rosa de Cabal",
       "tmax": 24.3,
       "tmin": 16.2
     },
     {
       "dept": "Valle del Cauca",
-      "place": "Sevilla",
       "p7": 69.5,
+      "place": "Sevilla",
       "tmax": 24.8,
-      "tmin": 16.0
+      "tmin": 16
     },
     {
       "dept": "Cundinamarca",
-      "place": "Viotá",
       "p7": 66.3,
+      "place": "Viotá",
       "tmax": 28.9,
       "tmin": 22.1
     },
     {
       "dept": "Boyacá",
-      "place": "Moniquirá",
       "p7": 30.6,
+      "place": "Moniquirá",
       "tmax": 25.8,
       "tmin": 16.1
     },
     {
       "dept": "Santander",
-      "place": "San Gil",
       "p7": 32.4,
+      "place": "San Gil",
       "tmax": 26.9,
       "tmin": 19.6
     },
     {
       "dept": "Norte de Santander",
-      "place": "Salazar",
       "p7": 12.5,
+      "place": "Salazar",
       "tmax": 28.4,
       "tmin": 19.3
     },
     {
       "dept": "Cesar",
-      "place": "Pueblo Bello",
       "p7": 14.6,
+      "place": "Pueblo Bello",
       "tmax": 26.9,
       "tmin": 18.1
     },
     {
       "dept": "Magdalena",
-      "place": "Minca",
       "p7": 22.9,
+      "place": "Minca",
       "tmax": 27.2,
-      "tmin": 20.0
+      "tmin": 20
     }
   ],
-  "updatedAt": "2026-11-17T11:49:45Z"
+  "updatedAt": "2026-11-17T19:48:36Z"
 }

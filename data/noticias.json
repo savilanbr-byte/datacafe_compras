@@ -1,154 +1,168 @@
 {
   "items": [
     {
-      "id": "n106",
-      "scope": "mundo",
-      "tag": "Mercado",
       "date": "2026-11-17",
-      "source": "Reuters · Business Recorder",
-      "url": "https://www.brecorder.com/news/40449223/coffee-gains-as-ice-stocks-fall-to-fresh-27-year-lows",
-      "title": "Inventarios certificados de arábica en ICE caen a 211.321 sacos, mínimo en 27 años",
-      "summary": "Las existencias certificadas bajaron cerca de 15% en dos sesiones y sostienen al arábica, que sube desde el mínimo de siete semanas (2,62 US$/lb); el robusta sigue cerca de su piso de 2½ años por la cosecha amplia de Vietnam. Para el comprador, el diferencial de los suaves colombianos sigue con soporte mientras la bolsa no reponga inventarios."
-    },
-    {
-      "scope": "co",
-      "regiones": [
-        "huila"
-      ],
-      "tag": "Precios",
-      "date": "2026-11-16",
-      "source": "La Nación (Neiva)",
-      "url": "https://www.lanacion.com.co/las-razones-detras-del-bajo-precio-interno-del-cafe-pagado-a-campesinos/",
-      "title": "En el Huila la carga se paga por debajo de $2 millones",
-      "summary": "La semana pasada el precio interno en el Huila se mantuvo tres días en $1.998.750 por carga; en octubre promedió $2.120.032 (−28,3% anual) y en septiembre $2.069.100 (−30,2%). En algunas zonas el precio ya roza el costo de producción, lo que puede frenar la venta de pergamino.",
-      "id": "n93"
-    },
-    {
-      "scope": "mundo",
-      "tag": "Divisas",
-      "date": "2026-11-16",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/16/treasury-yields-bonds-inflation.html",
-      "title": "El mercado descuenta un alza de la Fed en diciembre; bono a 10 años en 5,13%",
-      "summary": "FedWatch de CME descuenta casi por completo un aumento de 25 pb en diciembre y el Tesoro a 10 años rinde 5,131%; las minutas de octubre salen el miércoles. Tasas altas y dólar fuerte presionan al peso y al real y encarecen financiar inventarios.",
-      "id": "n100"
-    },
-    {
-      "date": "2026-11-16",
       "id": "n89",
       "regiones": [],
       "scope": "co",
       "source": "Federación Nacional de Cafeteros",
-      "summary": "La FNC fijó el 16 de noviembre la carga de pergamino seco en $2.085.000, con el contrato diciembre en 280,70 ¢/lb y tasa de referencia de $3.315,56. La pasilla de factor 94 se paga a $97.920 por carga.",
+      "summary": "La FNC fijó el 17 de noviembre la carga de pergamino seco en $2.115.000, impulsada por el repunte del contrato diciembre a 286,60 ¢/lb, aunque con un dólar de referencia más bajo ($3.303,40). Es el segundo día seguido de alza, lo que encarece las compras en finca frente a la semana pasada.",
       "tag": "Precios",
-      "title": "Precio interno del café sube $10.000 y queda en $2.085.000 por carga",
+      "title": "Precio interno del café sube $30.000 y llega a $2.115.000 por carga",
       "url": "https://federaciondecafeteros.org/estadisticas-cafeteras/"
     },
     {
+      "id": "n110",
+      "scope": "mundo",
+      "tag": "Mercado",
+      "date": "2026-11-17",
+      "source": "ADM Investor Services",
+      "url": "https://www.admis.com/arabica-stocks-hit-1999-low/",
+      "title": "Inventarios certificados de arábica en ICE bajan a 186.414 sacos, el menor nivel desde 1999",
+      "summary": "Las existencias certificadas cayeron 24.907 sacos el lunes, mientras el café pendiente de clasificación subió a 196.852 sacos, todo de Brasil. Si ese grano se certifica, la bolsa podría recuperar inventario y moderar el soporte que hoy tienen los precios y los diferenciales de los suaves."
+    },
+    {
+      "date": "2026-11-16",
+      "id": "n93",
+      "regiones": [
+        "huila"
+      ],
       "scope": "co",
+      "source": "La Nación (Neiva)",
+      "summary": "La semana pasada el precio interno en el Huila se mantuvo tres días en $1.998.750 por carga; en octubre promedió $2.120.032 (−28,3% anual) y en septiembre $2.069.100 (−30,2%). En algunas zonas el precio ya roza el costo de producción, lo que puede frenar la venta de pergamino.",
+      "tag": "Precios",
+      "title": "En el Huila la carga se paga por debajo de $2 millones",
+      "url": "https://www.lanacion.com.co/las-razones-detras-del-bajo-precio-interno-del-cafe-pagado-a-campesinos/"
+    },
+    {
+      "date": "2026-11-16",
+      "id": "n100",
+      "scope": "mundo",
+      "source": "CNBC",
+      "summary": "FedWatch de CME descuenta casi por completo un aumento de 25 pb en diciembre y el Tesoro a 10 años rinde 5,131%; las minutas de octubre salen el miércoles. Tasas altas y dólar fuerte presionan al peso y al real y encarecen financiar inventarios.",
+      "tag": "Divisas",
+      "title": "El mercado descuenta un alza de la Fed en diciembre; bono a 10 años en 5,13%",
+      "url": "https://www.cnbc.com/2026/11/16/treasury-yields-bonds-inflation.html"
+    },
+    {
+      "date": "2026-11-15",
+      "id": "n94",
       "regiones": [
         "caldas"
       ],
-      "tag": "Producción",
-      "date": "2026-11-15",
+      "scope": "co",
       "source": "BC Noticias · Comité de Cafeteros de Caldas",
-      "url": "https://www.bcnoticias.com.co/cosecha-cafetera-en-caldas-tendra-su-pico-en-diciembre-y-buscan-recolectores-en-cauca-y-narino/",
-      "title": "La cosecha de Caldas tendrá su pico del 7 al 13 de diciembre",
       "summary": "El Plan Cosecha del comité ubica el pico en la semana 50, con una recolección más dispersa de lo normal desde agosto; en la semana 46 las fincas pagaron en promedio $1.348 por kilo de cereza y se buscan recolectores en Cauca y Nariño. La mayor oferta de pergamino caldense llegaría en la segunda mitad de diciembre.",
-      "id": "n94"
+      "tag": "Producción",
+      "title": "La cosecha de Caldas tendrá su pico del 7 al 13 de diciembre",
+      "url": "https://www.bcnoticias.com.co/cosecha-cafetera-en-caldas-tendra-su-pico-en-diciembre-y-buscan-recolectores-en-cauca-y-narino/"
     },
     {
-      "scope": "co",
-      "regiones": [],
-      "tag": "Regulación",
       "date": "2026-11-15",
+      "id": "n103",
+      "regiones": [],
+      "scope": "co",
       "source": "Infobae",
-      "url": "https://www.infobae.com/colombia/2026/11/15/ley-de-rescate-economico-de-abelardo-de-la-espriella-entra-en-etapa-clave-en-el-congreso-estos-son-los-ponentes-que-la-estudiaran/",
-      "title": "Ley de Rescate entra a ponencia: el café pagaría IVA de 19% desde 2028",
       "summary": "Los ponentes se reúnen el martes 17 de noviembre en MinHacienda para estudiar el proyecto 477/2026, que gravaría el café, el azúcar, la sal y los aceites desde 2028. Los cambios al artículo del IVA definirán si los exportadores quedan con saldos a favor inmovilizados por sus compras internas.",
-      "id": "n103"
+      "tag": "Regulación",
+      "title": "Ley de Rescate entra a ponencia: el café pagaría IVA de 19% desde 2028",
+      "url": "https://www.infobae.com/colombia/2026/11/15/ley-de-rescate-economico-de-abelardo-de-la-espriella-entra-en-etapa-clave-en-el-congreso-estos-son-los-ponentes-que-la-estudiaran/"
     },
     {
-      "scope": "mundo",
-      "tag": "Regulación",
       "date": "2026-11-15",
+      "id": "n104",
+      "scope": "mundo",
       "source": "Diário do Comércio",
-      "url": "https://diariodocomercio.com.br/agronegocio/regras-europeias-cafe-mineiro/",
-      "title": "EUDR: a seis semanas del arranque, la UE exigirá también cumplimiento laboral",
       "summary": "Desde el 30 de diciembre de 2026 los operadores grandes y medianos de la UE deberán probar que el café no viene de áreas deforestadas después de 2020 y que cumple la ley del país de origen, incluidas normas laborales (pymes: 30-jun-2027). Los lotes para Europa necesitan geolocalización de fincas y trazabilidad lista ya.",
-      "id": "n104"
-    },
-    {
-      "scope": "co",
-      "regiones": [],
       "tag": "Regulación",
-      "date": "2026-11-14",
-      "source": "Vanguardia",
-      "url": "https://www.vanguardia.com/economia/2026/11/14/gobierno-renueva-por-diez-anos-el-fondo-nacional-del-cafe-y-el-fondo-de-estabilizacion-de-precios/",
-      "title": "Gobierno y FNC firman por diez años más el Fondo Nacional del Café y el FEPCafé",
-      "summary": "En Santa Marta se prorrogaron hasta 2036 los contratos del Fondo Nacional del Café y del Fondo de Estabilización de Precios, que vencían el 11 de diciembre; se mantienen la garantía de compra, Cenicafé, la extensión y la contribución de 6 centavos de dólar por libra exportada. Para el comprador se despeja la duda sobre la garantía de compra de la FNC, que actúa como piso del precio interno.",
-      "id": "n92"
+      "title": "EUDR: a seis semanas del arranque, la UE exigirá también cumplimiento laboral",
+      "url": "https://diariodocomercio.com.br/agronegocio/regras-europeias-cafe-mineiro/"
     },
     {
-      "scope": "co",
+      "date": "2026-11-14",
+      "id": "n92",
       "regiones": [],
-      "tag": "Divisas",
+      "scope": "co",
+      "source": "Vanguardia",
+      "summary": "En Santa Marta se prorrogaron hasta 2036 los contratos del Fondo Nacional del Café y del Fondo de Estabilización de Precios, que vencían el 11 de diciembre; se mantienen la garantía de compra, Cenicafé, la extensión y la contribución de 6 centavos de dólar por libra exportada. Para el comprador se despeja la duda sobre la garantía de compra de la FNC, que actúa como piso del precio interno.",
+      "tag": "Regulación",
+      "title": "Gobierno y FNC firman por diez años más el Fondo Nacional del Café y el FEPCafé",
+      "url": "https://www.vanguardia.com/economia/2026/11/14/gobierno-renueva-por-diez-anos-el-fondo-nacional-del-cafe-y-el-fondo-de-estabilizacion-de-precios/"
+    },
+    {
       "date": "2026-11-14",
+      "id": "n98",
+      "regiones": [],
+      "scope": "co",
       "source": "Infobae",
-      "url": "https://www.infobae.com/colombia/2026/11/14/el-dolar-podria-llegar-a-costar-mas-de-3400-para-el-cierre-de-2026-segun-informe/",
-      "title": "Davivienda ve el dólar entre $3.120 y $3.436 en noviembre",
       "summary": "La TRM para el puente festivo quedó en $3.316,70, tras la compra de US$2.000 millones del Banco de la República al Gobierno; Davivienda proyecta una TRM promedio cercana a $3.263 en noviembre y un cierre de año alrededor de $3.276. La monetización de exportaciones suele bajar el dólar en noviembre y diciembre, lo que restaría al precio interno.",
-      "id": "n98"
-    },
-    {
-      "scope": "mundo",
-      "tag": "Mercado",
-      "date": "2026-11-13",
-      "source": "Perfect Daily Grind",
-      "url": "https://perfectdailygrind.com/2026/11/coffee-news-recap-13-november-2026/",
-      "title": "ICE estrena el contrato de arábica cotizado por tonelada",
-      "summary": "El 10 de noviembre se negociaron los primeros 48 lotes del nuevo contrato métrico (vencimiento septiembre de 2028) entre US$5.724 y US$5.737/t; el contrato C en libras tendrá su último vencimiento en marzo de 2028. Fijaciones y coberturas tendrán que migrar a la nueva unidad.",
-      "id": "n95"
-    },
-    {
-      "scope": "mundo",
-      "tag": "Producción",
-      "date": "2026-11-13",
-      "source": "Portal do Agronegócio",
-      "url": "https://www.portaldoagronegocio.com.br/agricultura/cafe/noticias/cafe-2027-florada-antecipada-exige-atencao-a-nutricao-e-ao-pegamento-dos-frutos",
-      "title": "Brasil: floración adelantada un mes pone a prueba el arábica 2027",
-      "summary": "En la Alta Mogiana y el sur de Minas la floración principal llegó cerca de un mes antes y la recolección podría empezar hacia mayo de 2027, en un año de bienalidad negativa tras la cosecha récord de 67,6 millones de sacos. Calor por encima de lo normal y El Niño amenazan el cuajado: riesgo alcista para las coberturas de 2027.",
-      "id": "n96"
-    },
-    {
-      "scope": "mundo",
-      "tag": "Producción",
-      "date": "2026-11-13",
-      "source": "Business Recorder (Reuters)",
-      "url": "https://www.brecorder.com/news/40448624/vietnam-coffee-prices-steady-as-harvest-progresses-slowly",
-      "title": "Vietnam: la cosecha de robusta avanza lenta",
-      "summary": "Los caficultores de las Tierras Altas Centrales vendieron a 83.200–83.800 dong/kg, casi sin cambio en la semana, y no se esperan volúmenes grandes hasta diciembre. La oferta vietnamita tardía mantiene el robusta cerca de US$3.200/t.",
-      "id": "n97"
-    },
-    {
-      "scope": "mundo",
       "tag": "Divisas",
-      "date": "2026-11-13",
-      "source": "Brasil 247",
-      "url": "https://www.brasil247.com/economia/dolar-fecha-a-r-565-e-ibovespa-sobe-066-com-mercado-atento-a-pacote-fiscal",
-      "title": "El real pierde 2,6% en la semana y el dólar cierra en R$5,66",
-      "summary": "El dólar terminó el 13 de noviembre en R$5,6567 (+2,63% semanal) por dudas sobre el paquete fiscal y apuestas de nuevas alzas de la Fed. Un real débil anima las ventas de los productores brasileños y presiona el arábica en Nueva York.",
-      "id": "n99"
+      "title": "Davivienda ve el dólar entre $3.120 y $3.436 en noviembre",
+      "url": "https://www.infobae.com/colombia/2026/11/14/el-dolar-podria-llegar-a-costar-mas-de-3400-para-el-cierre-de-2026-segun-informe/"
     },
     {
+      "id": "n111",
+      "scope": "co",
+      "regiones": [
+        "huila",
+        "antioquia"
+      ],
+      "tag": "Producción",
+      "date": "2026-11-14",
+      "source": "Opa Noticias (Neiva)",
+      "url": "https://opanoticias.com/el-huila-arrasa-y-consolida-su-poder-cafetero/456572",
+      "title": "Huila sube al 20,6% de la producción nacional de café",
+      "summary": "En el Precongreso Cafetero se informó que el Huila produjo 2.566.962 sacos de 60 kg y elevó su participación de 19,65% a 20,59%, mientras Antioquia bajó de 14,20% a 13,89%. El sur del país gana peso como origen de compra."
+    },
+    {
+      "date": "2026-11-13",
+      "id": "n95",
+      "scope": "mundo",
+      "source": "Perfect Daily Grind",
+      "summary": "El 10 de noviembre se negociaron los primeros 48 lotes del nuevo contrato métrico (vencimiento septiembre de 2028) entre US$5.724 y US$5.737/t; el contrato C en libras tendrá su último vencimiento en marzo de 2028. Fijaciones y coberturas tendrán que migrar a la nueva unidad.",
+      "tag": "Mercado",
+      "title": "ICE estrena el contrato de arábica cotizado por tonelada",
+      "url": "https://perfectdailygrind.com/2026/11/coffee-news-recap-13-november-2026/"
+    },
+    {
+      "date": "2026-11-13",
+      "id": "n96",
+      "scope": "mundo",
+      "source": "Portal do Agronegócio",
+      "summary": "En la Alta Mogiana y el sur de Minas la floración principal llegó cerca de un mes antes y la recolección podría empezar hacia mayo de 2027, en un año de bienalidad negativa tras la cosecha récord de 67,6 millones de sacos. Calor por encima de lo normal y El Niño amenazan el cuajado: riesgo alcista para las coberturas de 2027.",
+      "tag": "Producción",
+      "title": "Brasil: floración adelantada un mes pone a prueba el arábica 2027",
+      "url": "https://www.portaldoagronegocio.com.br/agricultura/cafe/noticias/cafe-2027-florada-antecipada-exige-atencao-a-nutricao-e-ao-pegamento-dos-frutos"
+    },
+    {
+      "date": "2026-11-13",
+      "id": "n97",
+      "scope": "mundo",
+      "source": "Business Recorder (Reuters)",
+      "summary": "Los caficultores de las Tierras Altas Centrales vendieron a 83.200–83.800 dong/kg, casi sin cambio en la semana, y no se esperan volúmenes grandes hasta diciembre. La oferta vietnamita tardía mantiene el robusta cerca de US$3.200/t.",
+      "tag": "Producción",
+      "title": "Vietnam: la cosecha de robusta avanza lenta",
+      "url": "https://www.brecorder.com/news/40448624/vietnam-coffee-prices-steady-as-harvest-progresses-slowly"
+    },
+    {
+      "date": "2026-11-13",
+      "id": "n99",
+      "scope": "mundo",
+      "source": "Brasil 247",
+      "summary": "El dólar terminó el 13 de noviembre en R$5,6567 (+2,63% semanal) por dudas sobre el paquete fiscal y apuestas de nuevas alzas de la Fed. Un real débil anima las ventas de los productores brasileños y presiona el arábica en Nueva York.",
+      "tag": "Divisas",
+      "title": "El real pierde 2,6% en la semana y el dólar cierra en R$5,66",
+      "url": "https://www.brasil247.com/economia/dolar-fecha-a-r-565-e-ibovespa-sobe-066-com-mercado-atento-a-pacote-fiscal"
+    },
+    {
+      "date": "2026-11-13",
       "id": "n107",
       "scope": "mundo",
-      "tag": "Producción",
-      "date": "2026-11-13",
       "source": "SAFRAS & Mercado",
-      "url": "https://safras.com.br/sic-debate-perspectivas-para-proxima-safra-brasileira-de-cafe",
+      "summary": "En la Semana Internacional del Café, Cooxupé estimó una merma de cerca de 10% por bienalidad y floraciones irregulares, y Minasul habló de 5% menos volumen en 2026 con calidad golpeada por lluvias; Faemg y Cecafé no ven quiebra. El clima de diciembre a febrero definirá el llenado de grano y, con él, la presión de oferta brasileña en 2027.",
+      "tag": "Producción",
       "title": "Brasil: Cooxupé ve una caída inicial de 10% en el potencial de la cosecha 2027",
-      "summary": "En la Semana Internacional del Café, Cooxupé estimó una merma de cerca de 10% por bienalidad y floraciones irregulares, y Minasul habló de 5% menos volumen en 2026 con calidad golpeada por lluvias; Faemg y Cecafé no ven quiebra. El clima de diciembre a febrero definirá el llenado de grano y, con él, la presión de oferta brasileña en 2027."
+      "url": "https://safras.com.br/sic-debate-perspectivas-para-proxima-safra-brasileira-de-cafe"
     },
     {
       "date": "2026-11-12",
@@ -162,17 +176,17 @@
       "url": "https://www.colombia.com/actualidad/nacionales/ideam-anuncia-que-el-fenomeno-del-nino-iria-hasta-mayo-de-2027-612357"
     },
     {
-      "scope": "co",
+      "date": "2026-11-12",
+      "id": "n101",
       "regiones": [
         "valle"
       ],
-      "tag": "Logística",
-      "date": "2026-11-12",
+      "scope": "co",
       "source": "El Tiempo",
-      "url": "https://www.eltiempo.com/colombia/cali/represamiento-de-mas-de-109-000-contenedores-vacios-en-buenaventura-pone-en-alerta-el-42-del-comercio-exterior-del-pais-mintransporte-en-el-puerto-3600627",
-      "title": "Más de 109.000 contenedores vacíos congestionan Buenaventura",
       "summary": "Por cada cuatro contenedores que entran solo sale uno, y el represamiento pone en alerta un puerto que mueve 42% del comercio exterior; MinTransporte instaló mesas de coordinación sin medidas concretas aún. Hay riesgo de demoras y sobrecostos en embarques de café por el Pacífico.",
-      "id": "n101"
+      "tag": "Logística",
+      "title": "Más de 109.000 contenedores vacíos congestionan Buenaventura",
+      "url": "https://www.eltiempo.com/colombia/cali/represamiento-de-mas-de-109-000-contenedores-vacios-en-buenaventura-pone-en-alerta-el-42-del-comercio-exterior-del-pais-mintransporte-en-el-puerto-3600627"
     },
     {
       "date": "2026-11-11",
@@ -185,41 +199,30 @@
       "url": "https://br.investing.com/news/commodities-news/exportacao-de-cafe-do-brasil-supera-5-mi-sacas-em-outubro-e-atinge-recorde-diz-cecafe-2124218"
     },
     {
-      "scope": "mundo",
-      "tag": "Insumos",
       "date": "2026-11-11",
+      "id": "n102",
+      "scope": "mundo",
       "source": "DTN",
-      "url": "https://www.dtnpf.com/agriculture/web/ag/crops/article/2026/11/11/retail-fertilizer-prices-mixed-first",
-      "title": "Urea a US$662/t, 11% más cara que hace un año",
       "summary": "En el sondeo minorista de DTN en EE. UU. la urea promedia US$662/t (+11% anual) y el DAP US$950/t. Fertilizantes caros con un precio interno a la baja aprietan el margen del caficultor y pueden reducir la fertilización de cara a la cosecha 2027.",
-      "id": "n102"
+      "tag": "Insumos",
+      "title": "Urea a US$662/t, 11% más cara que hace un año",
+      "url": "https://www.dtnpf.com/agriculture/web/ag/crops/article/2026/11/11/retail-fertilizer-prices-mixed-first"
     },
     {
+      "date": "2026-11-10",
       "id": "n109",
-      "scope": "co",
       "regiones": [
         "valle",
         "cauca",
         "narino"
       ],
-      "tag": "Exportaciones",
-      "date": "2026-11-10",
-      "source": "Pyme Noticias · Analdex",
-      "url": "https://www.pymenoticias.com/post/exportaciones-suroccidente-septiembre-cafe-narino-cauca",
-      "title": "Café impulsa exportaciones del suroccidente: Nariño +137,6% y Cauca +133,8% en septiembre",
-      "summary": "Según Analdex, el café verde fue 76,1% de las ventas externas de Nariño en septiembre y creció 137,6%; en Cauca subió 133,8% y en Valle 35,9%, con exportaciones totales de la región de US$307,1 millones FOB. Señal de oferta activa del sur en la recta final del año."
-    },
-    {
-      "id": "n108",
       "scope": "co",
-      "regiones": [],
-      "tag": "Industria",
-      "date": "2026-11-07",
-      "source": "Radio Hoy",
-      "url": "https://www.radiohoy.com/2026/11/07/federacion-comprara-cafe-sin-procesar-que-cambia-para-el-caficultor-para-el-tostador-y-para-el-consumidor/831448/",
-      "title": "La FNC comprará café en cereza y presenta tres nuevas variedades",
-      "summary": "Germán Bahamón anunció en el congreso de Asoexport que la Federación empezará a comprar café en cereza para armar lotes estandarizados y trazables, y presentó las variedades Celestra, Cocoon y Castalia, además de la semilla Fronterra para zonas de 850 a 1.200 m. No dio fechas, precios ni volúmenes, pero anticipa competencia de la FNC por el café antes del beneficio."
+      "source": "Pyme Noticias · Analdex",
+      "summary": "Según Analdex, el café verde fue 76,1% de las ventas externas de Nariño en septiembre y creció 137,6%; en Cauca subió 133,8% y en Valle 35,9%, con exportaciones totales de la región de US$307,1 millones FOB. Señal de oferta activa del sur en la recta final del año.",
+      "tag": "Exportaciones",
+      "title": "Café impulsa exportaciones del suroccidente: Nariño +137,6% y Cauca +133,8% en septiembre",
+      "url": "https://www.pymenoticias.com/post/exportaciones-suroccidente-septiembre-cafe-narino-cauca"
     }
   ],
-  "updatedAt": "2026-11-17T11:49:45Z"
+  "updatedAt": "2026-11-17T19:48:36Z"
 }
