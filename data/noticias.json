@@ -1,6 +1,16 @@
 {
   "items": [
     {
+      "id": "n106",
+      "scope": "mundo",
+      "tag": "Mercado",
+      "date": "2026-11-17",
+      "source": "Reuters · Business Recorder",
+      "url": "https://www.brecorder.com/news/40449223/coffee-gains-as-ice-stocks-fall-to-fresh-27-year-lows",
+      "title": "Inventarios certificados de arábica en ICE caen a 211.321 sacos, mínimo en 27 años",
+      "summary": "Las existencias certificadas bajaron cerca de 15% en dos sesiones y sostienen al arábica, que sube desde el mínimo de siete semanas (2,62 US$/lb); el robusta sigue cerca de su piso de 2½ años por la cosecha amplia de Vietnam. Para el comprador, el diferencial de los suaves colombianos sigue con soporte mientras la bolsa no reponga inventarios."
+    },
+    {
       "scope": "co",
       "regiones": [
         "huila"
@@ -22,16 +32,6 @@
       "title": "El mercado descuenta un alza de la Fed en diciembre; bono a 10 años en 5,13%",
       "summary": "FedWatch de CME descuenta casi por completo un aumento de 25 pb en diciembre y el Tesoro a 10 años rinde 5,131%; las minutas de octubre salen el miércoles. Tasas altas y dólar fuerte presionan al peso y al real y encarecen financiar inventarios.",
       "id": "n100"
-    },
-    {
-      "id": "n105",
-      "scope": "mundo",
-      "tag": "Mercado",
-      "date": "2026-11-16",
-      "source": "Portal do Agronegócio",
-      "url": "https://www.portaldoagronegocio.com.br/agricultura/cafe/noticias/cafe-sobe-mais-de-1-em-nova-york-com-safra-brasileira-e-estoques-no-radar",
-      "title": "El arábica abre la semana al alza; calor en Brasil preocupa para la cosecha 2027/28",
-      "summary": "El contrato diciembre subía más de 1% (281,95 ¢/lb) en la apertura del lunes, mientras el mercado vigila el calor intenso y las lluvias irregulares en Mogiana y Cerrado Mineiro tras la floración. Un riesgo climático en Brasil sostiene el piso de la bolsa y del precio interno colombiano."
     },
     {
       "date": "2026-11-16",
@@ -101,16 +101,6 @@
       "id": "n98"
     },
     {
-      "date": "2026-11-13",
-      "id": "n91",
-      "scope": "mundo",
-      "source": "Portal do Agronegócio",
-      "summary": "Tras cerrar el 12-nov en 280,20 ¢/lb, el diciembre retrocedía el viernes a 278,65 por toma de ganancias; los inventarios certificados en ICE subieron a 250.241 sacos y hay 113.038 sacos brasileños en espera de clasificación, el mayor nivel en ocho meses. Más café entrando a bodegas ICE puede aliviar la presión sobre los diferenciales.",
-      "tag": "Mercado",
-      "title": "Arábica corrige en Nueva York tras el salto de 4,16% del jueves",
-      "url": "https://www.portaldoagronegocio.com.br/agricultura/cafe/noticias/cafe-recua-em-nova-york-apos-alta-de-4-16-estoques-e-oferta-brasileira-mantem-volatilidade"
-    },
-    {
       "scope": "mundo",
       "tag": "Mercado",
       "date": "2026-11-13",
@@ -149,6 +139,16 @@
       "title": "El real pierde 2,6% en la semana y el dólar cierra en R$5,66",
       "summary": "El dólar terminó el 13 de noviembre en R$5,6567 (+2,63% semanal) por dudas sobre el paquete fiscal y apuestas de nuevas alzas de la Fed. Un real débil anima las ventas de los productores brasileños y presiona el arábica en Nueva York.",
       "id": "n99"
+    },
+    {
+      "id": "n107",
+      "scope": "mundo",
+      "tag": "Producción",
+      "date": "2026-11-13",
+      "source": "SAFRAS & Mercado",
+      "url": "https://safras.com.br/sic-debate-perspectivas-para-proxima-safra-brasileira-de-cafe",
+      "title": "Brasil: Cooxupé ve una caída inicial de 10% en el potencial de la cosecha 2027",
+      "summary": "En la Semana Internacional del Café, Cooxupé estimó una merma de cerca de 10% por bienalidad y floraciones irregulares, y Minasul habló de 5% menos volumen en 2026 con calidad golpeada por lluvias; Faemg y Cecafé no ven quiebra. El clima de diciembre a febrero definirá el llenado de grano y, con él, la presión de oferta brasileña en 2027."
     },
     {
       "date": "2026-11-12",
@@ -195,27 +195,31 @@
       "id": "n102"
     },
     {
-      "date": "2026-11-06",
-      "id": "n54",
-      "regiones": [],
+      "id": "n109",
       "scope": "co",
-      "source": "Agronegocios",
-      "summary": "La FNC reportó 1,114 M de sacos en octubre y 12,56 M en los últimos 12 meses (−15%); las exportaciones del mes subieron 6% a 1,119 M. La oferta sigue corta, lo que sostiene las primas de origen.",
-      "tag": "Producción",
-      "title": "Producción cafetera de octubre: 1,11 M de sacos, 8% menos; 12 meses cae 15%",
-      "url": "https://www.agronegocios.co/agricultura/produccion-cafetera-con-corte-a-octubre-de-2026-4519174"
+      "regiones": [
+        "valle",
+        "cauca",
+        "narino"
+      ],
+      "tag": "Exportaciones",
+      "date": "2026-11-10",
+      "source": "Pyme Noticias · Analdex",
+      "url": "https://www.pymenoticias.com/post/exportaciones-suroccidente-septiembre-cafe-narino-cauca",
+      "title": "Café impulsa exportaciones del suroccidente: Nariño +137,6% y Cauca +133,8% en septiembre",
+      "summary": "Según Analdex, el café verde fue 76,1% de las ventas externas de Nariño en septiembre y creció 137,6%; en Cauca subió 133,8% y en Valle 35,9%, con exportaciones totales de la región de US$307,1 millones FOB. Señal de oferta activa del sur en la recta final del año."
     },
     {
-      "date": "2026-11-06",
-      "id": "n56",
-      "regiones": [],
+      "id": "n108",
       "scope": "co",
-      "source": "El Tiempo",
-      "summary": "MinAgricultura anunció crédito canalizado por los compradores, congelar amortizaciones antes de El Niño, ICR de hasta 30% para renovación y subsidio al seguro climático (decisión el 30-nov). Los compradores que anticipan fertilización podrían contar con respaldo del FAG.",
-      "tag": "Agricultura",
-      "title": "Gobierno anuncia cinco medidas para el café: crédito vía comprador, reperfilar deudas y seguro con subsidio de hasta 60%",
-      "url": "https://www.eltiempo.com/amp/economia/los-cinco-anuncios-del-gobierno-para-el-cafe-colombiano-credito-por-el-comprador-y-alivio-de-deudas-entre-ellos-3599035"
+      "regiones": [],
+      "tag": "Industria",
+      "date": "2026-11-07",
+      "source": "Radio Hoy",
+      "url": "https://www.radiohoy.com/2026/11/07/federacion-comprara-cafe-sin-procesar-que-cambia-para-el-caficultor-para-el-tostador-y-para-el-consumidor/831448/",
+      "title": "La FNC comprará café en cereza y presenta tres nuevas variedades",
+      "summary": "Germán Bahamón anunció en el congreso de Asoexport que la Federación empezará a comprar café en cereza para armar lotes estandarizados y trazables, y presentó las variedades Celestra, Cocoon y Castalia, además de la semilla Fronterra para zonas de 850 a 1.200 m. No dio fechas, precios ni volúmenes, pero anticipa competencia de la FNC por el café antes del beneficio."
     }
   ],
-  "updatedAt": "2026-11-16T19:47:32Z"
+  "updatedAt": "2026-11-17T11:49:45Z"
 }

@@ -22,7 +22,7 @@
   },
   "forecastSource": {
     "name": "MET Norway",
-    "period": "17 al 23 de noviembre",
+    "period": "18 al 24 de noviembre",
     "url": "https://api.met.no/"
   },
   "ideam": {
@@ -49,7 +49,7 @@
     ]
   },
   "impactos": [
-    "La semana trae menos lluvia que la anterior en el centro (Andes 21 mm, Chinchiná 32 mm) y casi nada en el norte (Pueblo Bello 7 mm, Salazar 11 mm); Cauca y Nariño siguen húmedos (61–83 mm).",
+    "La semana del 18 al 24 de noviembre trae poca lluvia en Antioquia (Andes 13 mm), Chinchiná (25 mm) y el norte (Salazar 13 mm, Pueblo Bello 15 mm); el sur sigue húmedo (Popayán 68 mm, La Unión 91 mm) y Pitalito sube a 51 mm.",
     "Con la cosecha principal de Caldas corrida hacia su pico del 7 al 13 de diciembre, el tiempo más seco favorece recolección y secado, pero la oferta de pergamino del centro se concentrará en diciembre.",
     "En el sur (Huila, Cauca, Nariño, sur del Tolima), la principal de 2027 llenará grano en plena sequía: riesgo de grano más pequeño, menor rendimiento y más pasilla.",
     "Las floraciones de diciembre a febrero alimentan la principal 2027 de la zona centro; si fallan por falta de agua, esa cosecha llega más corta.",
@@ -59,108 +59,108 @@
     {
       "dept": "Huila",
       "place": "Pitalito",
-      "p7": 36.6,
-      "tmax": 27.2,
-      "tmin": 18.8
+      "p7": 51.0,
+      "tmax": 27.5,
+      "tmin": 18.7
     },
     {
       "dept": "Antioquia",
       "place": "Andes",
-      "p7": 21.3,
-      "tmax": 27.4,
-      "tmin": 18.2
+      "p7": 13.4,
+      "tmax": 28.1,
+      "tmin": 18.3
     },
     {
       "dept": "Tolima",
       "place": "Planadas",
-      "p7": 36.6,
-      "tmax": 27.3,
-      "tmin": 19.6
+      "p7": 39.6,
+      "tmax": 28.0,
+      "tmin": 19.9
     },
     {
       "dept": "Cauca",
       "place": "Popayán",
-      "p7": 61.1,
+      "p7": 67.6,
       "tmax": 23.4,
-      "tmin": 16.2
+      "tmin": 15.9
     },
     {
       "dept": "Nariño",
       "place": "La Unión",
-      "p7": 82.9,
-      "tmax": 22.0,
+      "p7": 90.8,
+      "tmax": 22.6,
       "tmin": 16.1
     },
     {
       "dept": "Caldas",
       "place": "Chinchiná",
-      "p7": 32.4,
-      "tmax": 26.4,
-      "tmin": 17.9
+      "p7": 25.0,
+      "tmax": 27.0,
+      "tmin": 18.1
     },
     {
       "dept": "Quindío",
       "place": "Armenia",
-      "p7": 62.6,
-      "tmax": 24.9,
-      "tmin": 17.7
+      "p7": 60.8,
+      "tmax": 24.7,
+      "tmin": 17.9
     },
     {
       "dept": "Risaralda",
       "place": "Santa Rosa de Cabal",
-      "p7": 51.9,
-      "tmax": 23.8,
+      "p7": 40.9,
+      "tmax": 24.3,
       "tmin": 16.2
     },
     {
       "dept": "Valle del Cauca",
       "place": "Sevilla",
-      "p7": 49.5,
-      "tmax": 24.7,
+      "p7": 69.5,
+      "tmax": 24.8,
       "tmin": 16.0
     },
     {
       "dept": "Cundinamarca",
       "place": "Viotá",
-      "p7": 67.3,
-      "tmax": 28.6,
-      "tmin": 22.2
+      "p7": 66.3,
+      "tmax": 28.9,
+      "tmin": 22.1
     },
     {
       "dept": "Boyacá",
       "place": "Moniquirá",
-      "p7": 29.7,
-      "tmax": 26.2,
+      "p7": 30.6,
+      "tmax": 25.8,
       "tmin": 16.1
     },
     {
       "dept": "Santander",
       "place": "San Gil",
-      "p7": 31.9,
-      "tmax": 26.4,
-      "tmin": 19.5
+      "p7": 32.4,
+      "tmax": 26.9,
+      "tmin": 19.6
     },
     {
       "dept": "Norte de Santander",
       "place": "Salazar",
-      "p7": 10.9,
-      "tmax": 28.2,
-      "tmin": 18.7
+      "p7": 12.5,
+      "tmax": 28.4,
+      "tmin": 19.3
     },
     {
       "dept": "Cesar",
       "place": "Pueblo Bello",
-      "p7": 6.7,
-      "tmax": 27.2,
-      "tmin": 17.3
+      "p7": 14.6,
+      "tmax": 26.9,
+      "tmin": 18.1
     },
     {
       "dept": "Magdalena",
       "place": "Minca",
-      "p7": 23.2,
-      "tmax": 27.8,
-      "tmin": 19.4
+      "p7": 22.9,
+      "tmax": 27.2,
+      "tmin": 20.0
     }
   ],
-  "updatedAt": "2026-11-16T19:47:32Z"
+  "updatedAt": "2026-11-17T11:49:45Z"
 }

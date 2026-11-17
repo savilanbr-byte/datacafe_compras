@@ -51,15 +51,15 @@
       "value": 5.7053
     },
     "cot": {
-      "asOf": "2026-11-03",
-      "change": -5372,
+      "asOf": "2026-11-10",
+      "change": -3800,
       "dec": 0,
       "label": "Fondos (managed money) neto",
-      "note": "Largos 34.613 · cortos 19.881. Neto comprado, baja de 5.372.",
+      "note": "Largos 32.213 · cortos 21.281. Neto comprado, baja de 3.800.",
       "source": "CFTC COT",
       "unit": "contratos",
       "url": "https://www.cftc.gov/dea/futures/ag_lf.htm",
-      "value": 14732
+      "value": 10932
     },
     "expo": {
       "asOf": "2026-10-31",
@@ -84,15 +84,15 @@
       "value": 2085000
     },
     "icestocks": {
-      "asOf": "2026-11-12",
-      "change": -21655,
+      "asOf": "2026-11-16",
+      "change": -17265,
       "dec": 0,
       "label": "Inventarios certificados ICE",
-      "note": "Jueves 12-nov: baja de 21.655 sacos vs 11-nov (250.241). Mínimo en 27 años: 217.646 (15-sep)",
-      "source": "ICE · Safras & Mercado",
+      "note": "Lunes 16-nov: nuevo mínimo en 27 años; −15% en dos sesiones. Baja de 17.265 sacos vs 12-nov (228.586)",
+      "source": "ICE · Reuters (Business Recorder)",
       "unit": "sacos",
-      "url": "https://safras.com.br/brasil-deve-encerrar-semana-com-precos-mais-altos-para-o-cafe",
-      "value": 228586
+      "url": "https://www.brecorder.com/news/40449223/coffee-gains-as-ice-stocks-fall-to-fresh-27-year-lows",
+      "value": 211321
     },
     "icoComp": {
       "asOf": "2026-11-13",
@@ -180,17 +180,17 @@
       "value": 12.56
     },
     "robusta": {
-      "asOf": "2026-11-16",
-      "change": -62,
-      "changePct": -1.94,
+      "asOf": "2026-11-17",
+      "change": -13,
+      "changePct": -0.41,
       "contract": "Ene-27",
       "dec": 1,
       "label": "Robusta Londres (ICE)",
-      "note": "Cierre 16-nov (Ene-27); variación vs 13-nov (3.201)",
+      "note": "Intradía 17-nov 06:45 Bogotá (Ene-27); variación vs cierre 16-nov (3.139)",
       "source": "Investing.com",
       "unit": "USD/t",
       "url": "https://www.investing.com/commodities/london-coffee",
-      "value": 3139
+      "value": 3126
     },
     "trm": {
       "asOf": "2026-11-14",
@@ -204,5 +204,5 @@
       "value": 3316.7
     }
   },
-  "updatedAt": "2026-11-16T19:47:32Z"
+  "updatedAt": "2026-11-17T11:49:45Z"
 }
