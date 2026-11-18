@@ -65,7 +65,7 @@
     },
     {
       "dept": "Antioquia",
-      "p7": 43.0,
+      "p7": 43,
       "place": "Andes",
       "tmax": 27.6,
       "tmin": 18.3
@@ -75,7 +75,7 @@
       "p7": 62.6,
       "place": "Planadas",
       "tmax": 27.2,
-      "tmin": 20.0
+      "tmin": 20
     },
     {
       "dept": "Cauca",
@@ -88,14 +88,14 @@
       "dept": "Nariño",
       "p7": 84.8,
       "place": "La Unión",
-      "tmax": 22.0,
+      "tmax": 22,
       "tmin": 16.1
     },
     {
       "dept": "Caldas",
       "p7": 47.1,
       "place": "Chinchiná",
-      "tmax": 27.0,
+      "tmax": 27,
       "tmin": 18.2
     },
     {
@@ -103,21 +103,21 @@
       "p7": 58.2,
       "place": "Armenia",
       "tmax": 24.7,
-      "tmin": 18.0
+      "tmin": 18
     },
     {
       "dept": "Risaralda",
-      "p7": 54.0,
+      "p7": 54,
       "place": "Santa Rosa de Cabal",
       "tmax": 24.1,
       "tmin": 16.8
     },
     {
       "dept": "Valle del Cauca",
-      "p7": 81.0,
+      "p7": 81,
       "place": "Sevilla",
       "tmax": 24.8,
-      "tmin": 16.0
+      "tmin": 16
     },
     {
       "dept": "Cundinamarca",
@@ -145,7 +145,7 @@
       "p7": 9.7,
       "place": "Salazar",
       "tmax": 28.2,
-      "tmin": 20.0
+      "tmin": 20
     },
     {
       "dept": "Cesar",
@@ -162,5 +162,5 @@
       "tmin": 20.2
     }
   ],
-  "updatedAt": "2026-11-18T11:49:23Z"
+  "updatedAt": "2026-11-18T19:47:29Z"
 }

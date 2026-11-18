@@ -1,24 +1,24 @@
 {
   "items": [
     {
+      "date": "2026-11-18",
       "id": "n112",
       "scope": "mundo",
-      "tag": "Producción",
-      "date": "2026-11-18",
       "source": "Dan Tri (DTiNews)",
-      "url": "https://dtinews.dantri.com.vn/vietnam-today/coffee-prices-fall-below-vnd-80000kg-as-farmers-hold-back-stocks-20261118161007662.htm",
+      "summary": "En las Tierras Altas Centrales el grano bajó hasta 3.000 VND/kg en una mañana, a cerca de 77.000 VND/kg, mientras Londres (ene-27) cayó a US$3.071/t, mínimo en casi tres años; VICOFA estima la cosecha 2026/27 en 2,2 millones de t (+5%). Un robusta más barato resta soporte al arábica y a los diferenciales colombianos.",
+      "tag": "Producción",
       "title": "Vietnam: el robusta en finca cae por debajo de 80.000 VND/kg en plena cosecha",
-      "summary": "En las Tierras Altas Centrales el grano bajó hasta 3.000 VND/kg en una mañana, a cerca de 77.000 VND/kg, mientras Londres (ene-27) cayó a US$3.071/t, mínimo en casi tres años; VICOFA estima la cosecha 2026/27 en 2,2 millones de t (+5%). Un robusta más barato resta soporte al arábica y a los diferenciales colombianos."
+      "url": "https://dtinews.dantri.com.vn/vietnam-today/coffee-prices-fall-below-vnd-80000kg-as-farmers-hold-back-stocks-20261118161007662.htm"
     },
     {
-      "date": "2026-11-17",
+      "date": "2026-11-18",
       "id": "n89",
       "regiones": [],
       "scope": "co",
       "source": "Federación Nacional de Cafeteros",
-      "summary": "La FNC fijó el 17 de noviembre la carga de pergamino seco en $2.115.000, impulsada por el repunte del contrato diciembre a 286,60 ¢/lb, aunque con un dólar de referencia más bajo ($3.303,40). Es el segundo día seguido de alza, lo que encarece las compras en finca frente a la semana pasada.",
+      "summary": "La FNC fijó el 18 de noviembre la carga de 125 kg de pergamino seco en $2.110.000, tras el retroceso del contrato diciembre en Nueva York a 280,95 ¢/lb (−5,65). La caída del exterior se compensó en parte con la tasa de cambio de referencia de la FNC ($3.356).",
       "tag": "Precios",
-      "title": "Precio interno del café sube $30.000 y llega a $2.115.000 por carga",
+      "title": "Precio interno del café baja $5.000 y queda en $2.110.000 por carga",
       "url": "https://federaciondecafeteros.org/estadisticas-cafeteras/"
     },
     {
@@ -32,25 +32,35 @@
       "url": "https://www.admis.com/arabica-stocks-hit-1999-low/"
     },
     {
+      "date": "2026-11-17",
       "id": "n113",
       "scope": "mundo",
-      "tag": "Divisas",
-      "date": "2026-11-17",
       "source": "CNN Brasil",
-      "url": "https://www.cnnbrasil.com.br/economia/money/mercado/mercado-financeiro-ibovespa-dolar-17-novembro-2026/",
+      "summary": "El real cerró el 17-nov en R$5,781 por dólar tras tocar R$5,81 en la sesión, presionado por la incertidumbre fiscal en Brasil. Un real débil anima a los productores brasileños a vender más café, lo que pesa sobre la bolsa de Nueva York.",
+      "tag": "Divisas",
       "title": "El dólar cierra en R$5,78 y toca su nivel más alto desde abril de 2025",
-      "summary": "El real cerró el 17-nov en R$5,781 por dólar tras tocar R$5,81 en la sesión, presionado por la incertidumbre fiscal en Brasil. Un real débil anima a los productores brasileños a vender más café, lo que pesa sobre la bolsa de Nueva York."
+      "url": "https://www.cnnbrasil.com.br/economia/money/mercado/mercado-financeiro-ibovespa-dolar-17-novembro-2026/"
     },
     {
-      "id": "n114",
-      "scope": "co",
-      "regiones": [],
-      "tag": "Divisas",
       "date": "2026-11-17",
+      "id": "n114",
+      "regiones": [],
+      "scope": "co",
       "source": "Infobae",
-      "url": "https://www.infobae.com/colombia/2026/11/18/precio-del-dolar-en-colombia-bajo-de-precio-ante-expectativas-por-las-tasas-de-interes-de-los-bancos-pero-sigue-caro-y-asi-cerro-el-17-de-noviembre/",
+      "summary": "El dólar bajó $6,92 el 17-nov frente a la TRM de $3.316,70, aunque el índice DXY sigue en máximos de 19 meses y el mercado da 94% de probabilidad a un alza de la Fed el 9 de diciembre; el DANE reportó un crecimiento de apenas 0,5% anual en el tercer trimestre. Con el dólar cerca de $3.300, el precio interno sigue atado a lo que haga Nueva York.",
+      "tag": "Divisas",
       "title": "El dólar cierra en $3.309,78 en Colombia, pero el PIB solo creció 0,5% en el tercer trimestre",
-      "summary": "El dólar bajó $6,92 el 17-nov frente a la TRM de $3.316,70, aunque el índice DXY sigue en máximos de 19 meses y el mercado da 94% de probabilidad a un alza de la Fed el 9 de diciembre; el DANE reportó un crecimiento de apenas 0,5% anual en el tercer trimestre. Con el dólar cerca de $3.300, el precio interno sigue atado a lo que haga Nueva York."
+      "url": "https://www.infobae.com/colombia/2026/11/18/precio-del-dolar-en-colombia-bajo-de-precio-ante-expectativas-por-las-tasas-de-interes-de-los-bancos-pero-sigue-caro-y-asi-cerro-el-17-de-noviembre/"
+    },
+    {
+      "id": "n115",
+      "scope": "mundo",
+      "tag": "Producción",
+      "date": "2026-11-17",
+      "source": "Reuters (Investing.com Brasil)",
+      "url": "https://br.investing.com/news/commodities-news/adido-do-usda-eleva-previsao-de-safra-de-cafe-do-brasil-2130325",
+      "title": "Agregado del USDA eleva la cosecha 2026/27 de Brasil a un récord de 72,5 millones de sacos",
+      "summary": "La oficina del USDA en Brasilia subió el arábica a 49,2 millones de sacos (+29,5% anual) y bajó el robusta a 23,3 millones por mal clima en Espírito Santo; prevé exportaciones de 49 millones de sacos (+26%). Más oferta brasileña presiona los diferenciales y la bolsa, aunque el riesgo de El Niño para 2027/28 sigue abierto."
     },
     {
       "date": "2026-11-16",
@@ -207,22 +217,7 @@
       "tag": "Insumos",
       "title": "Urea a US$662/t, 11% más cara que hace un año",
       "url": "https://www.dtnpf.com/agriculture/web/ag/crops/article/2026/11/11/retail-fertilizer-prices-mixed-first"
-    },
-    {
-      "date": "2026-11-10",
-      "id": "n109",
-      "regiones": [
-        "valle",
-        "cauca",
-        "narino"
-      ],
-      "scope": "co",
-      "source": "Pyme Noticias · Analdex",
-      "summary": "Según Analdex, el café verde fue 76,1% de las ventas externas de Nariño en septiembre y creció 137,6%; en Cauca subió 133,8% y en Valle 35,9%, con exportaciones totales de la región de US$307,1 millones FOB. Señal de oferta activa del sur en la recta final del año.",
-      "tag": "Exportaciones",
-      "title": "Café impulsa exportaciones del suroccidente: Nariño +137,6% y Cauca +133,8% en septiembre",
-      "url": "https://www.pymenoticias.com/post/exportaciones-suroccidente-septiembre-cafe-narino-cauca"
     }
   ],
-  "updatedAt": "2026-11-18T11:49:23Z"
+  "updatedAt": "2026-11-18T19:47:29Z"
 }
