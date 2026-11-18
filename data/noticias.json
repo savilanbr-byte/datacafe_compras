@@ -1,6 +1,16 @@
 {
   "items": [
     {
+      "id": "n112",
+      "scope": "mundo",
+      "tag": "Producción",
+      "date": "2026-11-18",
+      "source": "Dan Tri (DTiNews)",
+      "url": "https://dtinews.dantri.com.vn/vietnam-today/coffee-prices-fall-below-vnd-80000kg-as-farmers-hold-back-stocks-20261118161007662.htm",
+      "title": "Vietnam: el robusta en finca cae por debajo de 80.000 VND/kg en plena cosecha",
+      "summary": "En las Tierras Altas Centrales el grano bajó hasta 3.000 VND/kg en una mañana, a cerca de 77.000 VND/kg, mientras Londres (ene-27) cayó a US$3.071/t, mínimo en casi tres años; VICOFA estima la cosecha 2026/27 en 2,2 millones de t (+5%). Un robusta más barato resta soporte al arábica y a los diferenciales colombianos."
+    },
+    {
       "date": "2026-11-17",
       "id": "n89",
       "regiones": [],
@@ -12,14 +22,35 @@
       "url": "https://federaciondecafeteros.org/estadisticas-cafeteras/"
     },
     {
+      "date": "2026-11-17",
       "id": "n110",
       "scope": "mundo",
-      "tag": "Mercado",
-      "date": "2026-11-17",
       "source": "ADM Investor Services",
-      "url": "https://www.admis.com/arabica-stocks-hit-1999-low/",
+      "summary": "Las existencias certificadas cayeron 24.907 sacos el lunes, mientras el café pendiente de clasificación subió a 196.852 sacos, todo de Brasil. Si ese grano se certifica, la bolsa podría recuperar inventario y moderar el soporte que hoy tienen los precios y los diferenciales de los suaves.",
+      "tag": "Mercado",
       "title": "Inventarios certificados de arábica en ICE bajan a 186.414 sacos, el menor nivel desde 1999",
-      "summary": "Las existencias certificadas cayeron 24.907 sacos el lunes, mientras el café pendiente de clasificación subió a 196.852 sacos, todo de Brasil. Si ese grano se certifica, la bolsa podría recuperar inventario y moderar el soporte que hoy tienen los precios y los diferenciales de los suaves."
+      "url": "https://www.admis.com/arabica-stocks-hit-1999-low/"
+    },
+    {
+      "id": "n113",
+      "scope": "mundo",
+      "tag": "Divisas",
+      "date": "2026-11-17",
+      "source": "CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/economia/money/mercado/mercado-financeiro-ibovespa-dolar-17-novembro-2026/",
+      "title": "El dólar cierra en R$5,78 y toca su nivel más alto desde abril de 2025",
+      "summary": "El real cerró el 17-nov en R$5,781 por dólar tras tocar R$5,81 en la sesión, presionado por la incertidumbre fiscal en Brasil. Un real débil anima a los productores brasileños a vender más café, lo que pesa sobre la bolsa de Nueva York."
+    },
+    {
+      "id": "n114",
+      "scope": "co",
+      "regiones": [],
+      "tag": "Divisas",
+      "date": "2026-11-17",
+      "source": "Infobae",
+      "url": "https://www.infobae.com/colombia/2026/11/18/precio-del-dolar-en-colombia-bajo-de-precio-ante-expectativas-por-las-tasas-de-interes-de-los-bancos-pero-sigue-caro-y-asi-cerro-el-17-de-noviembre/",
+      "title": "El dólar cierra en $3.309,78 en Colombia, pero el PIB solo creció 0,5% en el tercer trimestre",
+      "summary": "El dólar bajó $6,92 el 17-nov frente a la TRM de $3.316,70, aunque el índice DXY sigue en máximos de 19 meses y el mercado da 94% de probabilidad a un alza de la Fed el 9 de diciembre; el DANE reportó un crecimiento de apenas 0,5% anual en el tercer trimestre. Con el dólar cerca de $3.300, el precio interno sigue atado a lo que haga Nueva York."
     },
     {
       "date": "2026-11-16",
@@ -91,28 +122,17 @@
     },
     {
       "date": "2026-11-14",
-      "id": "n98",
-      "regiones": [],
-      "scope": "co",
-      "source": "Infobae",
-      "summary": "La TRM para el puente festivo quedó en $3.316,70, tras la compra de US$2.000 millones del Banco de la República al Gobierno; Davivienda proyecta una TRM promedio cercana a $3.263 en noviembre y un cierre de año alrededor de $3.276. La monetización de exportaciones suele bajar el dólar en noviembre y diciembre, lo que restaría al precio interno.",
-      "tag": "Divisas",
-      "title": "Davivienda ve el dólar entre $3.120 y $3.436 en noviembre",
-      "url": "https://www.infobae.com/colombia/2026/11/14/el-dolar-podria-llegar-a-costar-mas-de-3400-para-el-cierre-de-2026-segun-informe/"
-    },
-    {
       "id": "n111",
-      "scope": "co",
       "regiones": [
         "huila",
         "antioquia"
       ],
-      "tag": "Producción",
-      "date": "2026-11-14",
+      "scope": "co",
       "source": "Opa Noticias (Neiva)",
-      "url": "https://opanoticias.com/el-huila-arrasa-y-consolida-su-poder-cafetero/456572",
+      "summary": "En el Precongreso Cafetero se informó que el Huila produjo 2.566.962 sacos de 60 kg y elevó su participación de 19,65% a 20,59%, mientras Antioquia bajó de 14,20% a 13,89%. El sur del país gana peso como origen de compra.",
+      "tag": "Producción",
       "title": "Huila sube al 20,6% de la producción nacional de café",
-      "summary": "En el Precongreso Cafetero se informó que el Huila produjo 2.566.962 sacos de 60 kg y elevó su participación de 19,65% a 20,59%, mientras Antioquia bajó de 14,20% a 13,89%. El sur del país gana peso como origen de compra."
+      "url": "https://opanoticias.com/el-huila-arrasa-y-consolida-su-poder-cafetero/456572"
     },
     {
       "date": "2026-11-13",
@@ -133,26 +153,6 @@
       "tag": "Producción",
       "title": "Brasil: floración adelantada un mes pone a prueba el arábica 2027",
       "url": "https://www.portaldoagronegocio.com.br/agricultura/cafe/noticias/cafe-2027-florada-antecipada-exige-atencao-a-nutricao-e-ao-pegamento-dos-frutos"
-    },
-    {
-      "date": "2026-11-13",
-      "id": "n97",
-      "scope": "mundo",
-      "source": "Business Recorder (Reuters)",
-      "summary": "Los caficultores de las Tierras Altas Centrales vendieron a 83.200–83.800 dong/kg, casi sin cambio en la semana, y no se esperan volúmenes grandes hasta diciembre. La oferta vietnamita tardía mantiene el robusta cerca de US$3.200/t.",
-      "tag": "Producción",
-      "title": "Vietnam: la cosecha de robusta avanza lenta",
-      "url": "https://www.brecorder.com/news/40448624/vietnam-coffee-prices-steady-as-harvest-progresses-slowly"
-    },
-    {
-      "date": "2026-11-13",
-      "id": "n99",
-      "scope": "mundo",
-      "source": "Brasil 247",
-      "summary": "El dólar terminó el 13 de noviembre en R$5,6567 (+2,63% semanal) por dudas sobre el paquete fiscal y apuestas de nuevas alzas de la Fed. Un real débil anima las ventas de los productores brasileños y presiona el arábica en Nueva York.",
-      "tag": "Divisas",
-      "title": "El real pierde 2,6% en la semana y el dólar cierra en R$5,66",
-      "url": "https://www.brasil247.com/economia/dolar-fecha-a-r-565-e-ibovespa-sobe-066-com-mercado-atento-a-pacote-fiscal"
     },
     {
       "date": "2026-11-13",
@@ -224,5 +224,5 @@
       "url": "https://www.pymenoticias.com/post/exportaciones-suroccidente-septiembre-cafe-narino-cauca"
     }
   ],
-  "updatedAt": "2026-11-17T19:48:36Z"
+  "updatedAt": "2026-11-18T11:49:23Z"
 }
