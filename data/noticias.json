@@ -1,6 +1,28 @@
 {
   "items": [
     {
+      "id": "n118",
+      "scope": "co",
+      "regiones": [],
+      "tag": "Precios",
+      "date": "2026-11-19",
+      "source": "Federación Nacional de Cafeteros",
+      "url": "https://federaciondecafeteros.org/estadisticas-cafeteras/",
+      "title": "Precio interno del café sube $45.000 y llega a $2.155.000 por carga",
+      "summary": "La FNC fijó el precio de referencia del 19 de noviembre en $2.155.000 por carga, con la bolsa de Nueva York en 276 ¢/lb y una tasa de cambio de $3.427. El alza viene del dólar, no de la bolsa: el repunte de la divisa compensa la caída del arábica frente a la semana pasada."
+    },
+    {
+      "id": "n119",
+      "scope": "co",
+      "tag": "Divisas",
+      "regiones": [],
+      "date": "2026-11-19",
+      "source": "Minuto60",
+      "url": "https://www.minuto60.com/economia/precio-dolar-se-disparo-encima-3400-hoy-colombia-19-noviembre/19208",
+      "title": "El dólar supera los $3.400 en Colombia tras las minutas de la Fed",
+      "summary": "El 19 de noviembre la divisa llegó a un máximo de $3.431,50 y operaba en $3.421,50, casi $95 por encima de la TRM del día ($3.326,96), por la expectativa de tasas altas en EE. UU. y dudas sobre la financiación fiscal del Gobierno. Un dólar más caro sube el precio interno en pesos y encarece las compras de café pagadas en COP."
+    },
+    {
       "date": "2026-11-18",
       "id": "n112",
       "scope": "mundo",
@@ -9,28 +31,6 @@
       "tag": "Producción",
       "title": "Vietnam: el robusta en finca cae por debajo de 80.000 VND/kg en plena cosecha",
       "url": "https://dtinews.dantri.com.vn/vietnam-today/coffee-prices-fall-below-vnd-80000kg-as-farmers-hold-back-stocks-20261118161007662.htm"
-    },
-    {
-      "date": "2026-11-18",
-      "id": "n89",
-      "regiones": [],
-      "scope": "co",
-      "source": "Federación Nacional de Cafeteros",
-      "summary": "La FNC fijó el 18 de noviembre la carga de 125 kg de pergamino seco en $2.110.000, tras el retroceso del contrato diciembre en Nueva York a 280,95 ¢/lb (−5,65). La caída del exterior se compensó en parte con la tasa de cambio de referencia de la FNC ($3.356).",
-      "tag": "Precios",
-      "title": "Precio interno del café baja $5.000 y queda en $2.110.000 por carga",
-      "url": "https://federaciondecafeteros.org/estadisticas-cafeteras/"
-    },
-    {
-      "id": "n116",
-      "scope": "co",
-      "regiones": [],
-      "tag": "Divisas",
-      "date": "2026-11-18",
-      "source": "Infobae",
-      "url": "https://www.infobae.com/colombia/2026/11/18/precio-del-dolar-en-colombia-volvio-a-subir-en-medio-de-la-discusion-por-nuevos-impuestos-asi-cerro-el-18-de-noviembre-de-2026/",
-      "title": "El dólar sube a $3.327 en Colombia por la Fed y la caída del petróleo",
-      "summary": "El dólar cerró el 18-nov en un promedio de $3.327,18, $17,63 por encima de la TRM, presionado por señales de más alzas de tasas de la Fed y un Brent 1,6% más bajo, en medio del debate tributario. La TRM del 19-nov sube a $3.326,96, lo que ayuda a sostener el precio interno pese a la caída de la bolsa."
     },
     {
       "id": "n117",
@@ -219,5 +219,5 @@
       "url": "https://www.dtnpf.com/agriculture/web/ag/crops/article/2026/11/11/retail-fertilizer-prices-mixed-first"
     }
   ],
-  "updatedAt": "2026-11-19T11:48:28Z"
+  "updatedAt": "2026-11-19T19:48:12Z"
 }
