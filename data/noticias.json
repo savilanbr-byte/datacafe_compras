@@ -22,6 +22,27 @@
       "url": "https://federaciondecafeteros.org/estadisticas-cafeteras/"
     },
     {
+      "id": "n116",
+      "scope": "co",
+      "regiones": [],
+      "tag": "Divisas",
+      "date": "2026-11-18",
+      "source": "Infobae",
+      "url": "https://www.infobae.com/colombia/2026/11/18/precio-del-dolar-en-colombia-volvio-a-subir-en-medio-de-la-discusion-por-nuevos-impuestos-asi-cerro-el-18-de-noviembre-de-2026/",
+      "title": "El dólar sube a $3.327 en Colombia por la Fed y la caída del petróleo",
+      "summary": "El dólar cerró el 18-nov en un promedio de $3.327,18, $17,63 por encima de la TRM, presionado por señales de más alzas de tasas de la Fed y un Brent 1,6% más bajo, en medio del debate tributario. La TRM del 19-nov sube a $3.326,96, lo que ayuda a sostener el precio interno pese a la caída de la bolsa."
+    },
+    {
+      "id": "n117",
+      "scope": "mundo",
+      "tag": "Exportaciones",
+      "date": "2026-11-18",
+      "source": "VnEconomy",
+      "url": "https://en.vneconomy.vn/vietnams-coffee-exports-earn-708b-in-10m.htm",
+      "title": "Vietnam exporta 1,56 millones de toneladas de café en diez meses, 18,5% más",
+      "summary": "Entre enero y octubre Vietnam despachó 1,56 millones de t por US$7.080 millones: más volumen pero 5,2% menos valor por precios unos 20% más bajos; en octubre envió 108.800 t (+53%). Vicofa prevé que el año cierre con 8–10% más volumen y la nueva cosecha arranca a fines de noviembre, lo que sigue presionando al robusta."
+    },
+    {
       "date": "2026-11-17",
       "id": "n110",
       "scope": "mundo",
@@ -40,17 +61,6 @@
       "tag": "Divisas",
       "title": "El dólar cierra en R$5,78 y toca su nivel más alto desde abril de 2025",
       "url": "https://www.cnnbrasil.com.br/economia/money/mercado/mercado-financeiro-ibovespa-dolar-17-novembro-2026/"
-    },
-    {
-      "date": "2026-11-17",
-      "id": "n114",
-      "regiones": [],
-      "scope": "co",
-      "source": "Infobae",
-      "summary": "El dólar bajó $6,92 el 17-nov frente a la TRM de $3.316,70, aunque el índice DXY sigue en máximos de 19 meses y el mercado da 94% de probabilidad a un alza de la Fed el 9 de diciembre; el DANE reportó un crecimiento de apenas 0,5% anual en el tercer trimestre. Con el dólar cerca de $3.300, el precio interno sigue atado a lo que haga Nueva York.",
-      "tag": "Divisas",
-      "title": "El dólar cierra en $3.309,78 en Colombia, pero el PIB solo creció 0,5% en el tercer trimestre",
-      "url": "https://www.infobae.com/colombia/2026/11/18/precio-del-dolar-en-colombia-bajo-de-precio-ante-expectativas-por-las-tasas-de-interes-de-los-bancos-pero-sigue-caro-y-asi-cerro-el-17-de-noviembre/"
     },
     {
       "id": "n115",
@@ -156,16 +166,6 @@
     },
     {
       "date": "2026-11-13",
-      "id": "n96",
-      "scope": "mundo",
-      "source": "Portal do Agronegócio",
-      "summary": "En la Alta Mogiana y el sur de Minas la floración principal llegó cerca de un mes antes y la recolección podría empezar hacia mayo de 2027, en un año de bienalidad negativa tras la cosecha récord de 67,6 millones de sacos. Calor por encima de lo normal y El Niño amenazan el cuajado: riesgo alcista para las coberturas de 2027.",
-      "tag": "Producción",
-      "title": "Brasil: floración adelantada un mes pone a prueba el arábica 2027",
-      "url": "https://www.portaldoagronegocio.com.br/agricultura/cafe/noticias/cafe-2027-florada-antecipada-exige-atencao-a-nutricao-e-ao-pegamento-dos-frutos"
-    },
-    {
-      "date": "2026-11-13",
       "id": "n107",
       "scope": "mundo",
       "source": "SAFRAS & Mercado",
@@ -219,5 +219,5 @@
       "url": "https://www.dtnpf.com/agriculture/web/ag/crops/article/2026/11/11/retail-fertilizer-prices-mixed-first"
     }
   ],
-  "updatedAt": "2026-11-18T19:47:29Z"
+  "updatedAt": "2026-11-19T11:48:28Z"
 }
