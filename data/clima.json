@@ -22,8 +22,8 @@
   },
   "forecastSource": {
     "name": "MET Norway",
-    "url": "https://api.met.no/",
-    "period": "21 al 27 de noviembre"
+    "period": "21 al 27 de noviembre",
+    "url": "https://api.met.no/"
   },
   "ideam": {
     "asOf": "2026-11-12",
@@ -58,109 +58,109 @@
   "regions": [
     {
       "dept": "Huila",
-      "place": "Pitalito",
       "p7": 36.1,
+      "place": "Pitalito",
       "tmax": 27.4,
       "tmin": 18.7
     },
     {
       "dept": "Antioquia",
-      "place": "Andes",
       "p7": 31.5,
+      "place": "Andes",
       "tmax": 28.1,
-      "tmin": 18.0
+      "tmin": 18
     },
     {
       "dept": "Tolima",
-      "place": "Planadas",
       "p7": 39.7,
+      "place": "Planadas",
       "tmax": 27.7,
       "tmin": 20.1
     },
     {
       "dept": "Cauca",
-      "place": "Popayán",
       "p7": 49.8,
+      "place": "Popayán",
       "tmax": 23.6,
       "tmin": 16.3
     },
     {
       "dept": "Nariño",
+      "p7": 101,
       "place": "La Unión",
-      "p7": 101.0,
       "tmax": 22.2,
       "tmin": 16.4
     },
     {
       "dept": "Caldas",
-      "place": "Chinchiná",
       "p7": 40.5,
+      "place": "Chinchiná",
       "tmax": 26.9,
       "tmin": 18.5
     },
     {
       "dept": "Quindío",
+      "p7": 55,
       "place": "Armenia",
-      "p7": 55.0,
       "tmax": 24.8,
       "tmin": 18.1
     },
     {
       "dept": "Risaralda",
-      "place": "Santa Rosa de Cabal",
       "p7": 47.7,
-      "tmax": 24.0,
+      "place": "Santa Rosa de Cabal",
+      "tmax": 24,
       "tmin": 16.4
     },
     {
       "dept": "Valle del Cauca",
-      "place": "Sevilla",
       "p7": 44.9,
+      "place": "Sevilla",
       "tmax": 24.9,
       "tmin": 16.1
     },
     {
       "dept": "Cundinamarca",
-      "place": "Viotá",
       "p7": 63.6,
+      "place": "Viotá",
       "tmax": 29.2,
       "tmin": 22.2
     },
     {
       "dept": "Boyacá",
-      "place": "Moniquirá",
       "p7": 30.6,
+      "place": "Moniquirá",
       "tmax": 26.4,
       "tmin": 15.5
     },
     {
       "dept": "Santander",
-      "place": "San Gil",
       "p7": 36.9,
+      "place": "San Gil",
       "tmax": 26.9,
       "tmin": 19.2
     },
     {
       "dept": "Norte de Santander",
-      "place": "Salazar",
       "p7": 20.5,
+      "place": "Salazar",
       "tmax": 28.2,
       "tmin": 19.1
     },
     {
       "dept": "Cesar",
-      "place": "Pueblo Bello",
       "p7": 27.9,
+      "place": "Pueblo Bello",
       "tmax": 26.2,
-      "tmin": 18.0
+      "tmin": 18
     },
     {
       "dept": "Magdalena",
-      "place": "Minca",
       "p7": 32.4,
+      "place": "Minca",
       "tmax": 26.9,
       "tmin": 20.4
     }
   ],
-  "updatedAt": "2026-11-20T11:48:49Z"
+  "updatedAt": "2026-11-20T19:55:00Z"
 }
