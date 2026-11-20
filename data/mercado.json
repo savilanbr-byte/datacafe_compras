@@ -180,29 +180,29 @@
       "value": 12.56
     },
     "robusta": {
-      "asOf": "2026-11-19",
-      "change": -42,
-      "changePct": -1.39,
+      "asOf": "2026-11-20",
+      "change": -98,
+      "changePct": -3.29,
       "contract": "Ene-27",
       "dec": 1,
       "label": "Robusta Londres (ICE)",
-      "note": "Cierre 19-nov (Ene-27); variación vs cierre 18-nov (3.019)",
+      "note": "Intradía 20-nov (06:46); variación vs cierre 19-nov (2.977)",
       "source": "Investing.com",
       "unit": "USD/t",
       "url": "https://www.investing.com/commodities/london-coffee",
-      "value": 2977
+      "value": 2879
     },
     "trm": {
-      "asOf": "2026-11-19",
-      "change": 17.41,
+      "asOf": "2026-11-20",
+      "change": 88.14,
       "chgDec": 2,
       "dec": 2,
       "label": "TRM",
       "source": "Superfinanciera",
       "unit": "COP/USD",
       "url": "https://www.datos.gov.co/Econom-a-y-Finanzas/Tasa-de-Cambio-Representativa-del-Mercado-TRM/32sa-8pi3",
-      "value": 3326.96
+      "value": 3415.1
     }
   },
-  "updatedAt": "2026-11-19T19:48:12Z"
+  "updatedAt": "2026-11-20T11:48:49Z"
 }

@@ -1,6 +1,38 @@
 {
   "items": [
     {
+      "id": "n120",
+      "scope": "co",
+      "regiones": [],
+      "tag": "Divisas",
+      "date": "2026-11-20",
+      "source": "Colombia.com",
+      "url": "https://www.colombia.com/actualidad/economia/precio-del-dolar-hoy-en-colombia-viernes-20-de-noviembre-de-2026-613420",
+      "title": "La TRM salta $88 y queda en $3.415,10, máximo en más de cuatro meses",
+      "summary": "La tasa representativa del mercado para el viernes 20 de noviembre subió 2,65% frente al día anterior y es la más alta desde el 1 de julio. Un dólar más caro sostiene el precio interno del café en pesos aun con la bolsa de Nueva York a la baja."
+    },
+    {
+      "id": "n121",
+      "scope": "mundo",
+      "tag": "Precios",
+      "date": "2026-11-20",
+      "source": "Reuters (Business Recorder)",
+      "url": "https://www.brecorder.com/news/40449781/vietnam-coffee-prices-slide",
+      "title": "Vietnam: el robusta en finca baja a 74.200–75.000 VND/kg y Londres toca mínimos desde 2024",
+      "summary": "En el altiplano central el precio cayó desde 83.200–83.800 VND/kg de la semana anterior, mientras el robusta de enero cerró el miércoles en US$3.019/t, su nivel más bajo desde mediados de enero de 2024. Operadores lo atribuyen a la expectativa de más oferta con la cosecha vietnamita en marcha y un real débil que impulsa las ventas de Brasil."
+    },
+    {
+      "id": "n123",
+      "scope": "co",
+      "regiones": [],
+      "tag": "Exportaciones",
+      "date": "2026-11-19",
+      "source": "El Colombiano",
+      "url": "https://www.elcolombiano.com/negocios/precongreso-cafetero-medellin-produccion-cafe-cae-2026-AI43788901",
+      "title": "La FNC sube al 21,5% de las exportaciones y Colombia importa 1,6 millones de sacos",
+      "summary": "En el Precongreso Cafetero se informó que la Federación exportó 2,55 millones de sacos en 12 meses (21,5% del total, frente a 20,5% un año antes), mientras las importaciones llegaron a 1,60 millones de sacos, el 69% del consumo interno de 2,32 millones. La producción de 12,56 millones de sacos (−14,8%) deja menos café disponible para los compradores privados."
+    },
+    {
       "id": "n118",
       "scope": "co",
       "regiones": [],
@@ -12,25 +44,14 @@
       "summary": "La FNC fijó el precio de referencia del 19 de noviembre en $2.155.000 por carga, con la bolsa de Nueva York en 276 ¢/lb y una tasa de cambio de $3.427. El alza viene del dólar, no de la bolsa: el repunte de la divisa compensa la caída del arábica frente a la semana pasada."
     },
     {
-      "id": "n119",
-      "scope": "co",
-      "tag": "Divisas",
-      "regiones": [],
-      "date": "2026-11-19",
-      "source": "Minuto60",
-      "url": "https://www.minuto60.com/economia/precio-dolar-se-disparo-encima-3400-hoy-colombia-19-noviembre/19208",
-      "title": "El dólar supera los $3.400 en Colombia tras las minutas de la Fed",
-      "summary": "El 19 de noviembre la divisa llegó a un máximo de $3.431,50 y operaba en $3.421,50, casi $95 por encima de la TRM del día ($3.326,96), por la expectativa de tasas altas en EE. UU. y dudas sobre la financiación fiscal del Gobierno. Un dólar más caro sube el precio interno en pesos y encarece las compras de café pagadas en COP."
-    },
-    {
-      "date": "2026-11-18",
-      "id": "n112",
+      "id": "n122",
       "scope": "mundo",
-      "source": "Dan Tri (DTiNews)",
-      "summary": "En las Tierras Altas Centrales el grano bajó hasta 3.000 VND/kg en una mañana, a cerca de 77.000 VND/kg, mientras Londres (ene-27) cayó a US$3.071/t, mínimo en casi tres años; VICOFA estima la cosecha 2026/27 en 2,2 millones de t (+5%). Un robusta más barato resta soporte al arábica y a los diferenciales colombianos.",
-      "tag": "Producción",
-      "title": "Vietnam: el robusta en finca cae por debajo de 80.000 VND/kg en plena cosecha",
-      "url": "https://dtinews.dantri.com.vn/vietnam-today/coffee-prices-fall-below-vnd-80000kg-as-farmers-hold-back-stocks-20261118161007662.htm"
+      "tag": "Divisas",
+      "date": "2026-11-18",
+      "source": "The Rio Times",
+      "url": "https://www.riotimesonline.com/fed-minutes-signal-rate-rises-brazil-real/",
+      "title": "El real cae a R$5,81 por dólar tras unas minutas de la Fed que anticipan alzas",
+      "summary": "Casi todos los miembros de la Fed esperan que el próximo movimiento de tasas sea una subida; el real se ha depreciado cerca de 5% desde el 9 de noviembre (R$5,51). Un real débil anima a los productores brasileños a vender y presiona el arábica en Nueva York."
     },
     {
       "id": "n117",
@@ -51,16 +72,6 @@
       "tag": "Mercado",
       "title": "Inventarios certificados de arábica en ICE bajan a 186.414 sacos, el menor nivel desde 1999",
       "url": "https://www.admis.com/arabica-stocks-hit-1999-low/"
-    },
-    {
-      "date": "2026-11-17",
-      "id": "n113",
-      "scope": "mundo",
-      "source": "CNN Brasil",
-      "summary": "El real cerró el 17-nov en R$5,781 por dólar tras tocar R$5,81 en la sesión, presionado por la incertidumbre fiscal en Brasil. Un real débil anima a los productores brasileños a vender más café, lo que pesa sobre la bolsa de Nueva York.",
-      "tag": "Divisas",
-      "title": "El dólar cierra en R$5,78 y toca su nivel más alto desde abril de 2025",
-      "url": "https://www.cnnbrasil.com.br/economia/money/mercado/mercado-financeiro-ibovespa-dolar-17-novembro-2026/"
     },
     {
       "id": "n115",
@@ -156,16 +167,6 @@
     },
     {
       "date": "2026-11-13",
-      "id": "n95",
-      "scope": "mundo",
-      "source": "Perfect Daily Grind",
-      "summary": "El 10 de noviembre se negociaron los primeros 48 lotes del nuevo contrato métrico (vencimiento septiembre de 2028) entre US$5.724 y US$5.737/t; el contrato C en libras tendrá su último vencimiento en marzo de 2028. Fijaciones y coberturas tendrán que migrar a la nueva unidad.",
-      "tag": "Mercado",
-      "title": "ICE estrena el contrato de arábica cotizado por tonelada",
-      "url": "https://perfectdailygrind.com/2026/11/coffee-news-recap-13-november-2026/"
-    },
-    {
-      "date": "2026-11-13",
       "id": "n107",
       "scope": "mundo",
       "source": "SAFRAS & Mercado",
@@ -219,5 +220,5 @@
       "url": "https://www.dtnpf.com/agriculture/web/ag/crops/article/2026/11/11/retail-fertilizer-prices-mixed-first"
     }
   ],
-  "updatedAt": "2026-11-19T19:48:12Z"
+  "updatedAt": "2026-11-20T11:48:49Z"
 }
