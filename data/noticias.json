@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-23T11:58:45Z",
+  "updatedAt": "2026-11-23T19:51:47Z",
   "items": [
     {
       "id": "n127",
@@ -25,6 +25,28 @@
       "summary": "Al 17-nov los fondos sumaban una posición vendida neta de 21.164 contratos de robusta, y Vicofa estima la cosecha vietnamita 2026/27 en 36,67 millones de sacos, 12,8% por encima del USDA. En arábica, 34% de los sacos brasileños presentados a ICE desde septiembre no pasó la clasificación, lo que favorece a los lavados de calidad."
     },
     {
+      "date": "2026-11-23",
+      "id": "n125",
+      "regiones": [],
+      "scope": "co",
+      "source": "Federación Nacional de Cafeteros",
+      "summary": "La FNC fijó el lunes el precio de referencia en $2.155.000 por carga de pergamino seco, con la bolsa de Nueva York en 267,75 ¢/lb y un dólar de $3.527; la pasilla quedó en $97.920 por carga. La subida del dólar compensó la leve baja del arábica.",
+      "tag": "Precios",
+      "title": "Precio interno sube $5.000 y queda en $2.155.000 por carga",
+      "url": "https://federaciondecafeteros.org/estadisticas-cafeteras/"
+    },
+    {
+      "id": "n137",
+      "scope": "co",
+      "regiones": [],
+      "tag": "Divisas",
+      "date": "2026-11-23",
+      "source": "El País (Cali)",
+      "url": "https://www.elpais.com.co/economia/el-dolar-supera-la-barrera-de-los-3500-en-medio-de-la-volatilidad-de-los-mercados-globales-2332.html",
+      "title": "El dólar cierra por encima de $3.500 en Colombia",
+      "summary": "El dólar terminó el lunes con un promedio de $3.506 (máximo de $3.538), unos $43 más que el viernes y $45 sobre la TRM vigente, con US$1.308 millones negociados. Un peso más débil sostiene el precio interno en pesos aunque el arábica siga a la baja."
+    },
+    {
       "id": "n129",
       "scope": "mundo",
       "tag": "Precios",
@@ -33,28 +55,6 @@
       "url": "https://brecorder.com/news/40450161/robusta-coffee-hits-3-year-low",
       "title": "El robusta cae a mínimos de tres años y pierde cerca de 10% en la semana",
       "summary": "El robusta en Londres bajó 3,3%, a US$2.879/t, después de tocar US$2.854, su menor nivel en tres años, presionado por el avance de la cosecha vietnamita y un real débil que impulsa las ventas de Brasil. Esa debilidad arrastra al arábica y, con él, al precio interno."
-    },
-    {
-      "id": "n131",
-      "scope": "co",
-      "regiones": [],
-      "tag": "Divisas",
-      "date": "2026-11-22",
-      "source": "Infobae",
-      "url": "https://www.infobae.com/colombia/2026/11/22/precio-del-dolar-en-colombia-no-para-de-subir-y-asi-cerraria-noviembre-de-2026-debido-a-la-ley-de-rescate-del-gobierno-y-del-valor-del-petroleo/",
-      "title": "El dólar sube 7,3% en noviembre; analistas lo ven entre $3.420 y $3.540",
-      "summary": "La TRM acumula un alza de 7,29% en el mes, con el mayor salto diario del año el jueves (más de $88) y el Brent cerca de US$91; Global66 espera un rango de $3.420 a $3.540 para la última semana, con la Ley de Rescate como principal riesgo. Un peso más débil compensa en parte la caída de la bolsa en el precio interno."
-    },
-    {
-      "date": "2026-11-20",
-      "id": "n125",
-      "regiones": [],
-      "scope": "co",
-      "source": "Federación Nacional de Cafeteros",
-      "summary": "La FNC fijó la carga en $2.150.000 con el contrato de Nueva York en 268,50 ¢/lb (−7,5) y una tasa de cambio de $3.508; el alza del dólar compensó casi toda la caída de la bolsa. La pasilla quedó en $97.920 por carga.",
-      "tag": "Precios",
-      "title": "Precio interno baja $5.000 y queda en $2.150.000 por carga",
-      "url": "https://federaciondecafeteros.org/estadisticas-cafeteras/"
     },
     {
       "date": "2026-11-19",
