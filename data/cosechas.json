@@ -2,19 +2,19 @@
   "estado": {
     "antioquia": {
       "ajusteSemanas": 0,
-      "fecha": "2026-08-31",
-      "fuente": "El Colombiano",
-      "resumen": "Principal en marcha desde septiembre, con el grueso en octubre y noviembre. Se proyectan cerca de 1,9 millones de sacos, 15–20% menos que el año pasado.",
-      "url": "https://co.headtopics.com/news/plan-cosecha-2026-700-uniformados-blindar-n-la-recolecci-n-87249817",
+      "fecha": "2026-11-11",
+      "fuente": "Conexión Sur · Comité Municipal de Cafeteros de Andes",
+      "resumen": "Principal en curso en el Suroeste con menos volumen que en 2024 y 2025 y grano de menor calidad, según el comité municipal de Andes (pliego del 11-nov).",
+      "url": "https://www.conexionsur.co/post/caficultores-de-andes-llevar%C3%A1n-al-congreso-nacional-cafetero-un-pliego-de-peticiones-para-enfrentar",
       "volumen": "bajo"
     },
     "caldas": {
       "ajusteSemanas": 4,
-      "volumen": null,
-      "resumen": "Cosecha principal dispersa y corrida: el comité ubica el pico entre el 7 y el 13 de diciembre (semana 50), cuando lo habitual es concentrarla entre finales de septiembre y octubre.",
       "fecha": "2026-11-15",
       "fuente": "BC Noticias · Comité de Cafeteros de Caldas",
-      "url": "https://www.bcnoticias.com.co/cosecha-cafetera-en-caldas-tendra-su-pico-en-diciembre-y-buscan-recolectores-en-cauca-y-narino/"
+      "resumen": "Cosecha principal dispersa y corrida: el comité ubica el pico entre el 7 y el 13 de diciembre (semana 50), cuando lo habitual es concentrarla entre finales de septiembre y octubre.",
+      "url": "https://www.bcnoticias.com.co/cosecha-cafetera-en-caldas-tendra-su-pico-en-diciembre-y-buscan-recolectores-en-cauca-y-narino/",
+      "volumen": null
     },
     "cauca": {
       "ajusteSemanas": 0,
@@ -34,11 +34,11 @@
     },
     "quindio": {
       "ajusteSemanas": 0,
-      "volumen": null,
-      "resumen": "Al 1 de noviembre se había recogido 86% de la cosecha del segundo semestre (proyección de 8 millones de kg de pergamino seco), con ritmo normal pese a los daños del terremoto.",
       "fecha": "2026-11-01",
       "fuente": "Eje21",
-      "url": "https://www.eje21.com.co/2026/11/el-cafe-sostiene-su-ritmo-en-el-quindio-pese-a-las-perdidas-causadas-por-el-terremoto/"
+      "resumen": "Al 1 de noviembre se había recogido 86% de la cosecha del segundo semestre (proyección de 8 millones de kg de pergamino seco), con ritmo normal pese a los daños del terremoto.",
+      "url": "https://www.eje21.com.co/2026/11/el-cafe-sostiene-su-ritmo-en-el-quindio-pese-a-las-perdidas-causadas-por-el-terremoto/",
+      "volumen": null
     },
     "risaralda": {
       "ajusteSemanas": 0,
@@ -286,57 +286,66 @@
   "reportes": [
     {
       "fecha": "2026-11-16",
-      "region": "huila-sur",
-      "tipo": "noticia",
-      "texto": "El precio interno en el Huila estuvo tres días en $1.998.750 por carga; en octubre promedió $2.120.032 (−28,3% anual).",
       "fuente": "La Nación (Neiva)",
-      "url": "https://www.lanacion.com.co/las-razones-detras-del-bajo-precio-interno-del-cafe-pagado-a-campesinos/",
-      "id": "r9"
+      "id": "r9",
+      "region": "huila-sur",
+      "texto": "El precio interno en el Huila estuvo tres días en $1.998.750 por carga; en octubre promedió $2.120.032 (−28,3% anual).",
+      "tipo": "noticia",
+      "url": "https://www.lanacion.com.co/las-razones-detras-del-bajo-precio-interno-del-cafe-pagado-a-campesinos/"
     },
     {
       "fecha": "2026-11-15",
-      "region": "caldas",
-      "tipo": "noticia",
-      "texto": "El Comité de Caldas proyecta el pico de la cosecha principal entre el 7 y el 13 de diciembre (semana 50); la recolección viene dispersa desde agosto y en la semana 46 se pagó en promedio $1.348 por kilo de cereza.",
       "fuente": "BC Noticias · Comité de Cafeteros de Caldas",
-      "url": "https://www.bcnoticias.com.co/cosecha-cafetera-en-caldas-tendra-su-pico-en-diciembre-y-buscan-recolectores-en-cauca-y-narino/",
-      "id": "r6"
-    },
-    {
-      "fecha": "2026-11-14",
-      "region": "huila-norte",
+      "id": "r6",
+      "region": "caldas",
+      "texto": "El Comité de Caldas proyecta el pico de la cosecha principal entre el 7 y el 13 de diciembre (semana 50); la recolección viene dispersa desde agosto y en la semana 46 se pagó en promedio $1.348 por kilo de cereza.",
       "tipo": "noticia",
-      "texto": "En el Precongreso Cafetero se informó que el Huila produjo 2.566.962 sacos y subió su participación nacional de 19,65% a 20,59%.",
-      "fuente": "La Nación (Neiva)",
-      "url": "https://www.lanacion.com.co/huila-nuevamente-el-mayor-productor-de-cafe-en-colombia/",
-      "id": "r8"
+      "url": "https://www.bcnoticias.com.co/cosecha-cafetera-en-caldas-tendra-su-pico-en-diciembre-y-buscan-recolectores-en-cauca-y-narino/"
     },
     {
       "fecha": "2026-11-14",
+      "fuente": "La Nación (Neiva)",
+      "id": "r8",
+      "region": "huila-norte",
+      "texto": "En el Precongreso Cafetero se informó que el Huila produjo 2.566.962 sacos y subió su participación nacional de 19,65% a 20,59%.",
+      "tipo": "noticia",
+      "url": "https://www.lanacion.com.co/huila-nuevamente-el-mayor-productor-de-cafe-en-colombia/"
+    },
+    {
+      "fecha": "2026-11-14",
+      "fuente": "La Nación (Neiva)",
+      "id": "r10",
+      "region": "antioquia",
+      "texto": "Según el Precongreso Cafetero, la participación de Antioquia en la producción nacional bajó de 14,20% a 13,89%.",
+      "tipo": "noticia",
+      "url": "https://www.lanacion.com.co/huila-nuevamente-el-mayor-productor-de-cafe-en-colombia/"
+    },
+    {
+      "id": "r12",
+      "fecha": "2026-11-11",
       "region": "antioquia",
       "tipo": "noticia",
-      "texto": "Según el Precongreso Cafetero, la participación de Antioquia en la producción nacional bajó de 14,20% a 13,89%.",
-      "fuente": "La Nación (Neiva)",
-      "url": "https://www.lanacion.com.co/huila-nuevamente-el-mayor-productor-de-cafe-en-colombia/",
-      "id": "r10"
+      "texto": "En Andes, primer municipio cafetero del Suroeste, el comité municipal reporta cosechas de menor volumen que en 2024 y 2025 y grano de menor calidad, y pide hasta 5 años más de plazo en los créditos.",
+      "fuente": "Conexión Sur · Comité Municipal de Cafeteros de Andes",
+      "url": "https://www.conexionsur.co/post/caficultores-de-andes-llevar%C3%A1n-al-congreso-nacional-cafetero-un-pliego-de-peticiones-para-enfrentar"
     },
     {
       "fecha": "2026-11-08",
-      "region": "magdalena",
-      "tipo": "noticia",
-      "texto": "Lluvias fuertes causaron derrumbes y daños en vías de Ciénaga que dificultan la recolección y el transporte del café en Palmor y San Javier (sin cifras de afectación).",
       "fuente": "Diario La Libertad",
-      "url": "https://diariolalibertad.com/2026/11/08/lluvias-en-la-sierra-nevada-ponen-en-riesgo-la-cosecha-cafetera-en-cienaga/",
-      "id": "r11"
+      "id": "r11",
+      "region": "magdalena",
+      "texto": "Lluvias fuertes causaron derrumbes y daños en vías de Ciénaga que dificultan la recolección y el transporte del café en Palmor y San Javier (sin cifras de afectación).",
+      "tipo": "noticia",
+      "url": "https://diariolalibertad.com/2026/11/08/lluvias-en-la-sierra-nevada-ponen-en-riesgo-la-cosecha-cafetera-en-cienaga/"
     },
     {
       "fecha": "2026-11-01",
-      "region": "quindio",
-      "tipo": "noticia",
-      "texto": "Al 1 de noviembre se había recogido 86% de la cosecha del segundo semestre en el Quindío (proyección de 8 millones de kg de pergamino seco, unos 7.000 recolectores).",
       "fuente": "Eje21",
-      "url": "https://www.eje21.com.co/2026/11/el-cafe-sostiene-su-ritmo-en-el-quindio-pese-a-las-perdidas-causadas-por-el-terremoto/",
-      "id": "r7"
+      "id": "r7",
+      "region": "quindio",
+      "texto": "Al 1 de noviembre se había recogido 86% de la cosecha del segundo semestre en el Quindío (proyección de 8 millones de kg de pergamino seco, unos 7.000 recolectores).",
+      "tipo": "noticia",
+      "url": "https://www.eje21.com.co/2026/11/el-cafe-sostiene-su-ritmo-en-el-quindio-pese-a-las-perdidas-causadas-por-el-terremoto/"
     },
     {
       "fecha": "2026-10-07",
@@ -385,5 +394,5 @@
     }
   ],
   "temporada": "2026-27",
-  "updatedAt": "2026-11-16T11:54:31Z"
+  "updatedAt": "2026-11-23T11:58:45Z"
 }

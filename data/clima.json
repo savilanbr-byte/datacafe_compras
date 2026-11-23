@@ -22,7 +22,7 @@
   },
   "forecastSource": {
     "name": "MET Norway",
-    "period": "21 al 27 de noviembre",
+    "period": "24 al 30 de noviembre",
     "url": "https://api.met.no/"
   },
   "ideam": {
@@ -30,13 +30,17 @@
     "headline": "Actualización del 12-nov: El Niño muy fuerte, con 61% de probabilidad de durar hasta mayo de 2027",
     "items": [
       "Intensidad más probable \"muy fuerte\"; 79% de probabilidad de bajar a fuerte entre enero y marzo de 2027, y lluvias normales hacia mayo.",
-      "Resto de noviembre: déficit de lluvias en Huila, Tolima, Cundinamarca, Santander, Norte de Santander y parte de Antioquia; lluvias sobre lo normal en Cauca y Nariño.",
+      "Pronóstico del 17-nov: segunda temporada de lluvias irregular, con déficit en Huila, Tolima, Cundinamarca, Santander, Norte de Santander y parte de Antioquia, y lluvias sobre lo normal en Cauca, Nariño y sur del Chocó.",
       "Diciembre y enero serán los meses más críticos; temperaturas sobre lo normal en el Eje Cafetero, Huila y Tolima. Próxima actualización el 10 de diciembre."
     ],
     "links": [
       {
         "t": "IDEAM: Fenómeno de El Niño",
         "url": "https://www.ideam.gov.co/fenomeno-del-nino"
+      },
+      {
+        "t": "Infobae: pronóstico IDEAM (17-nov)",
+        "url": "https://www.infobae.com/colombia/2026/11/17/ideam-advirtio-de-un-aumento-en-las-lluvias-en-estos-departamentos-de-colombia-fuertes-precipitaciones-y-tormentas-electricas/"
       },
       {
         "t": "Infobae: comunicado conjunto Gobierno–IDEAM (12-nov)",
@@ -49,118 +53,118 @@
     ]
   },
   "impactos": [
-    "Del 21 al 27 de noviembre llueve casi a diario en casi todas las zonas: lo más húmedo es Nariño (La Unión 101 mm) y Cundinamarca (Viotá 64 mm), el Eje Cafetero recibe 40–55 mm, y lo más seco es el norte (Salazar 21 mm, Pueblo Bello 28 mm) y Andes y Moniquirá (31 mm).",
-    "Con la cosecha principal de Caldas corrida hacia su pico del 7 al 13 de diciembre, los aguaceros diarios de esta semana pueden demorar el secado en el Eje Cafetero; la oferta de pergamino del centro se concentrará en diciembre.",
-    "En el sur (Huila, Cauca, Nariño, sur del Tolima), la principal de 2027 llenará grano en plena sequía: riesgo de grano más pequeño, menor rendimiento y más pasilla.",
-    "Las floraciones de diciembre a febrero alimentan la principal 2027 de la zona centro; si fallan por falta de agua, esa cosecha llega más corta.",
+    "Del 24 al 30 de noviembre el occidente va muy húmedo: Nariño (La Unión 168 mm), Quindío (Armenia 143 mm) y Cauca (Popayán 102 mm), con 80–90 mm en Chinchiná y Santa Rosa de Cabal; lo más seco es Pueblo Bello (12 mm), Planadas (15 mm), Minca (24 mm), Salazar (27 mm) y Pitalito (29 mm).",
+    "En el Eje Cafetero, con la principal de Caldas corrida hacia su pico del 7 al 13 de diciembre, las lluvias casi diarias de esta semana demoran el secado y pueden subir la humedad del pergamino: revisa humedad y factor en lo que llegue.",
+    "El sur del Tolima y el Huila siguen con poca lluvia en plena sequía de El Niño, como prevé el IDEAM; la principal 2027 del sur llenará grano con déficit hídrico: riesgo de grano pequeño, menor rendimiento y más pasilla.",
+    "Las floraciones de diciembre a febrero alimentan la principal 2027 de la zona centro; diciembre y enero serían los meses más secos según el IDEAM, así que una floración débil acortaría esa cosecha.",
     "La sequía favorece la broca: revisa calidad física (broca, pasilla, factor) en los lotes de inicios de 2027."
   ],
   "regions": [
     {
       "dept": "Huila",
-      "p7": 36.1,
       "place": "Pitalito",
-      "tmax": 27.4,
-      "tmin": 18.7
+      "p7": 29.2,
+      "tmax": 28.2,
+      "tmin": 19.0
     },
     {
       "dept": "Antioquia",
-      "p7": 31.5,
       "place": "Andes",
-      "tmax": 28.1,
-      "tmin": 18
+      "p7": 51.5,
+      "tmax": 27.5,
+      "tmin": 18.9
     },
     {
       "dept": "Tolima",
-      "p7": 39.7,
       "place": "Planadas",
-      "tmax": 27.7,
-      "tmin": 20.1
+      "p7": 15.1,
+      "tmax": 28.5,
+      "tmin": 20.0
     },
     {
       "dept": "Cauca",
-      "p7": 49.8,
       "place": "Popayán",
-      "tmax": 23.6,
-      "tmin": 16.3
+      "p7": 101.5,
+      "tmax": 22.3,
+      "tmin": 16.7
     },
     {
       "dept": "Nariño",
-      "p7": 101,
       "place": "La Unión",
-      "tmax": 22.2,
-      "tmin": 16.4
+      "p7": 167.9,
+      "tmax": 20.9,
+      "tmin": 16.8
     },
     {
       "dept": "Caldas",
-      "p7": 40.5,
       "place": "Chinchiná",
-      "tmax": 26.9,
-      "tmin": 18.5
+      "p7": 82.2,
+      "tmax": 25.9,
+      "tmin": 18.1
     },
     {
       "dept": "Quindío",
-      "p7": 55,
       "place": "Armenia",
-      "tmax": 24.8,
+      "p7": 143.3,
+      "tmax": 23.9,
       "tmin": 18.1
     },
     {
       "dept": "Risaralda",
-      "p7": 47.7,
       "place": "Santa Rosa de Cabal",
-      "tmax": 24,
+      "p7": 89.6,
+      "tmax": 23.3,
       "tmin": 16.4
     },
     {
       "dept": "Valle del Cauca",
-      "p7": 44.9,
       "place": "Sevilla",
-      "tmax": 24.9,
-      "tmin": 16.1
+      "p7": 67.2,
+      "tmax": 24.4,
+      "tmin": 16.9
     },
     {
       "dept": "Cundinamarca",
-      "p7": 63.6,
       "place": "Viotá",
-      "tmax": 29.2,
-      "tmin": 22.2
+      "p7": 34.0,
+      "tmax": 29.1,
+      "tmin": 22.3
     },
     {
       "dept": "Boyacá",
-      "p7": 30.6,
       "place": "Moniquirá",
-      "tmax": 26.4,
-      "tmin": 15.5
+      "p7": 46.6,
+      "tmax": 26.6,
+      "tmin": 16.1
     },
     {
       "dept": "Santander",
-      "p7": 36.9,
       "place": "San Gil",
-      "tmax": 26.9,
-      "tmin": 19.2
+      "p7": 44.8,
+      "tmax": 27.3,
+      "tmin": 19.5
     },
     {
       "dept": "Norte de Santander",
-      "p7": 20.5,
       "place": "Salazar",
-      "tmax": 28.2,
-      "tmin": 19.1
+      "p7": 26.7,
+      "tmax": 27.8,
+      "tmin": 18.8
     },
     {
       "dept": "Cesar",
-      "p7": 27.9,
       "place": "Pueblo Bello",
-      "tmax": 26.2,
-      "tmin": 18
+      "p7": 12.3,
+      "tmax": 27.1,
+      "tmin": 18.2
     },
     {
       "dept": "Magdalena",
-      "p7": 32.4,
       "place": "Minca",
-      "tmax": 26.9,
-      "tmin": 20.4
+      "p7": 23.8,
+      "tmax": 27.3,
+      "tmin": 20.3
     }
   ],
-  "updatedAt": "2026-11-20T19:55:00Z"
+  "updatedAt": "2026-11-23T11:58:45Z"
 }

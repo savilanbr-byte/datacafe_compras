@@ -3,10 +3,6 @@
     "asOf": "2026-11-20",
     "points": [
       {
-        "contract": "Dic-26",
-        "value": 274.85
-      },
-      {
         "contract": "Mar-27",
         "value": 268.5
       },
@@ -21,6 +17,10 @@
       {
         "contract": "Sep-27",
         "value": 253.35
+      },
+      {
+        "contract": "Dic-27",
+        "value": 249.0
       }
     ]
   },
@@ -51,15 +51,15 @@
       "value": 5.938
     },
     "cot": {
-      "asOf": "2026-11-10",
-      "change": -3800,
+      "asOf": "2026-11-17",
+      "change": -1909,
       "dec": 0,
       "label": "Fondos (managed money) neto",
-      "note": "Largos 32.213 · cortos 21.281. Neto comprado, baja de 3.800.",
+      "note": "Largos 29.982 · cortos 20.959. Neto comprado, baja de 1.909 (posiciones al martes 17-nov).",
       "source": "CFTC COT",
       "unit": "contratos",
       "url": "https://www.cftc.gov/dea/futures/ag_lf.htm",
-      "value": 10932
+      "value": 9023
     },
     "expo": {
       "asOf": "2026-10-31",
@@ -84,15 +84,15 @@
       "value": 2150000
     },
     "icestocks": {
-      "asOf": "2026-11-16",
-      "change": -24907,
+      "asOf": "2026-11-19",
+      "change": 18163,
       "dec": 0,
       "label": "Inventarios certificados ICE",
-      "note": "Lunes 16-nov: mínimo desde febrero de 1999. Pendientes de clasificación: 196.852 sacos (+30.396), todos de Brasil",
-      "source": "ICE · ADM Investor Services",
+      "note": "Jueves 19-nov: rebote desde el mínimo de 27 años del 16-nov (186.414). Pendientes de clasificación: 248.175 sacos",
+      "source": "ICE · Escritório Carvalhaes",
       "unit": "sacos",
-      "url": "https://www.admis.com/arabica-stocks-hit-1999-low/",
-      "value": 186414
+      "url": "https://carvalhaes.com.br/noticias/noticias-conteudo.asp?ori=06-2&cod=13371",
+      "value": 219436
     },
     "icoComp": {
       "asOf": "2026-11-19",
@@ -107,55 +107,55 @@
     },
     "kc1": {
       "asOf": "2026-11-20",
-      "change": -7.2,
-      "chgDec": 2,
-      "contract": "Dic-26",
-      "dec": 2,
-      "label": "KC C1",
-      "note": "Liquidación 20-nov (Dic-26, en periodo de entrega); variación vs 19-nov (282,05)",
-      "source": "Investing.com",
-      "unit": "¢/lb",
-      "url": "https://www.investing.com/commodities/us-coffee-c-contracts",
-      "value": 274.85
-    },
-    "kc2": {
-      "asOf": "2026-11-20",
       "change": -7.5,
       "chgDec": 2,
       "contract": "Mar-27",
+      "dec": 2,
+      "label": "KC C1",
+      "note": "Cierre 20-nov del contrato frente (Mar-27; Dic-26 ya en periodo de entrega); variación vs 19-nov (276,00)",
+      "source": "Investing.com",
+      "unit": "¢/lb",
+      "url": "https://www.investing.com/commodities/us-coffee-c-historical-data",
+      "value": 268.5
+    },
+    "kc2": {
+      "asOf": "2026-11-20",
+      "change": -6.1,
+      "chgDec": 2,
+      "contract": "May-27",
       "dec": 2,
       "label": "KC C2",
       "note": "Liquidación 20-nov",
       "source": "Investing.com",
       "unit": "¢/lb",
       "url": "https://www.investing.com/commodities/us-coffee-c-contracts",
-      "value": 268.5
+      "value": 262.1
     },
     "kc3": {
       "asOf": "2026-11-20",
-      "change": -6.1,
+      "change": -4.7,
       "chgDec": 2,
-      "contract": "May-27",
+      "contract": "Jul-27",
       "dec": 2,
       "label": "KC C3",
       "note": "Liquidación 20-nov",
       "source": "Investing.com",
       "unit": "¢/lb",
       "url": "https://www.investing.com/commodities/us-coffee-c-contracts",
-      "value": 262.1
+      "value": 257.15
     },
     "kc4": {
       "asOf": "2026-11-20",
-      "change": -4.7,
+      "change": -3.75,
       "chgDec": 2,
-      "contract": "Jul-27",
+      "contract": "Sep-27",
       "dec": 2,
       "label": "KC C4",
       "note": "Liquidación 20-nov",
       "source": "Investing.com",
       "unit": "¢/lb",
       "url": "https://www.investing.com/commodities/us-coffee-c-contracts",
-      "value": 257.15
+      "value": 253.35
     },
     "milds": {
       "asOf": "2026-11-19",
@@ -186,23 +186,24 @@
       "contract": "Ene-27",
       "dec": 1,
       "label": "Robusta Londres (ICE)",
-      "note": "Último precio 20-nov con mercado cerrado (12:29 ET); variación vs cierre 19-nov (2.977)",
+      "note": "Cierre 20-nov; variación vs 19-nov (2.977)",
       "source": "Investing.com",
       "unit": "USD/t",
       "url": "https://www.investing.com/commodities/london-coffee",
       "value": 2891
     },
     "trm": {
-      "asOf": "2026-11-20",
-      "change": 88.14,
+      "asOf": "2026-11-21",
+      "change": 46.82,
       "chgDec": 2,
       "dec": 2,
       "label": "TRM",
       "source": "Superfinanciera",
       "unit": "COP/USD",
       "url": "https://www.datos.gov.co/Econom-a-y-Finanzas/Tasa-de-Cambio-Representativa-del-Mercado-TRM/32sa-8pi3",
-      "value": 3415.1
+      "value": 3461.92,
+      "note": "Vigente del 21 al 23 de noviembre"
     }
   },
-  "updatedAt": "2026-11-20T19:55:00Z"
+  "updatedAt": "2026-11-23T11:58:45Z"
 }
