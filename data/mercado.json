@@ -1,34 +1,34 @@
 {
   "curve": {
-    "asOf": "2026-11-23",
+    "asOf": "2026-11-24",
     "points": [
       {
         "contract": "Mar-27",
-        "value": 267.75
+        "value": 262.6
       },
       {
         "contract": "May-27",
-        "value": 261.15
+        "value": 257.4
       },
       {
         "contract": "Jul-27",
-        "value": 256.05
+        "value": 252.8
       },
       {
         "contract": "Sep-27",
-        "value": 252.15
+        "value": 249.15
       },
       {
         "contract": "Dic-27",
-        "value": 247.65
+        "value": 244.75
       }
     ]
   },
   "fncRef": {
-    "asOf": "2026-11-23",
-    "kc": 267.75,
+    "asOf": "2026-11-24",
+    "kc": 262.6,
     "pasillaCOP": 97920,
-    "trm": 3527
+    "trm": 3617.25
   },
   "items": {
     "anuncios": {
@@ -40,15 +40,15 @@
       "value": null
     },
     "brl": {
-      "asOf": "2026-11-23",
-      "change": 0.06,
+      "asOf": "2026-11-24",
+      "change": -0.128,
       "chgDec": 3,
       "dec": 3,
       "label": "Real brasileño",
       "source": "BCE · Frankfurter",
       "unit": "BRL/USD",
       "url": "https://frankfurter.dev",
-      "value": 5.998
+      "value": 5.87
     },
     "cot": {
       "asOf": "2026-11-17",
@@ -73,100 +73,100 @@
       "value": 11.85
     },
     "fnc": {
-      "asOf": "2026-11-23",
-      "change": 5000,
+      "asOf": "2026-11-24",
+      "change": 10000,
       "dec": 0,
       "label": "Precio interno FNC",
       "note": "Carga de 125 kg pergamino seco, factor 94",
       "source": "FNC",
       "unit": "COP/carga",
       "url": "https://federaciondecafeteros.org/estadisticas-cafeteras/",
-      "value": 2155000
+      "value": 2165000
     },
     "icestocks": {
       "asOf": "2026-11-20",
       "change": 5783,
       "dec": 0,
       "label": "Inventarios certificados ICE",
-      "note": "Viernes 20-nov: siguen cerca del mínimo de 27 años del 16-nov (186.414). Pendientes de clasificación: 251.230 sacos",
+      "note": "Viernes 20-nov: 225.219 sacos. El lunes 23-nov subieron 19% a más de 268.000 sacos, el mayor salto diario desde 1998 (Bloomberg vía InvestNews); casi 250.000 sacos pendientes de clasificación.",
       "source": "ICE · Barchart (vía Mark To Market)",
       "unit": "sacos",
       "url": "https://thomasraad.substack.com/p/mark-to-market-018-w47",
       "value": 225219
     },
     "icoComp": {
-      "asOf": "2026-11-20",
-      "change": -6,
-      "changePct": -2.3,
+      "asOf": "2026-11-23",
+      "change": -1,
+      "changePct": -0.41,
       "dec": 0,
       "label": "Indicador compuesto OIC",
       "source": "OIC · La República",
       "unit": "¢/lb",
       "url": "https://www.larepublica.co/indicadores-economicos/commodities/cafe",
-      "value": 241
+      "value": 240
     },
     "kc1": {
-      "asOf": "2026-11-23",
-      "change": -0.75,
+      "asOf": "2026-11-24",
+      "change": -5.15,
       "chgDec": 2,
       "contract": "Mar-27",
       "dec": 2,
       "label": "KC C1",
-      "note": "Liquidación 23-nov del contrato frente (Mar-27; Dic-26 ya en periodo de entrega); variación vs 20-nov (268,50)",
+      "note": "Cierre 24-nov del contrato frente (Mar-27; Dic-26 en periodo de entrega), según tabla de contratos de Investing.com a las 13:34 ET; variación vs 23-nov (267,75). Coincide con el cierre que publica la FNC.",
       "source": "Investing.com",
       "unit": "¢/lb",
       "url": "https://www.investing.com/commodities/us-coffee-c-historical-data",
-      "value": 267.75
+      "value": 262.6
     },
     "kc2": {
-      "asOf": "2026-11-23",
-      "change": -0.95,
+      "asOf": "2026-11-24",
+      "change": -3.75,
       "chgDec": 2,
       "contract": "May-27",
       "dec": 2,
       "label": "KC C2",
-      "note": "Liquidación 23-nov",
+      "note": "Cierre 24-nov",
       "source": "Investing.com",
       "unit": "¢/lb",
       "url": "https://www.investing.com/commodities/us-coffee-c-contracts",
-      "value": 261.15
+      "value": 257.4
     },
     "kc3": {
-      "asOf": "2026-11-23",
-      "change": -1.1,
+      "asOf": "2026-11-24",
+      "change": -3.25,
       "chgDec": 2,
       "contract": "Jul-27",
       "dec": 2,
       "label": "KC C3",
-      "note": "Liquidación 23-nov",
+      "note": "Cierre 24-nov",
       "source": "Investing.com",
       "unit": "¢/lb",
       "url": "https://www.investing.com/commodities/us-coffee-c-contracts",
-      "value": 256.05
+      "value": 252.8
     },
     "kc4": {
-      "asOf": "2026-11-23",
-      "change": -1.2,
+      "asOf": "2026-11-24",
+      "change": -3.0,
       "chgDec": 2,
       "contract": "Sep-27",
       "dec": 2,
       "label": "KC C4",
-      "note": "Liquidación 23-nov",
+      "note": "Cierre 24-nov",
       "source": "Investing.com",
       "unit": "¢/lb",
       "url": "https://www.investing.com/commodities/us-coffee-c-contracts",
-      "value": 252.15
+      "value": 249.15
     },
     "milds": {
-      "asOf": "2026-11-20",
-      "change": -7,
-      "changePct": -2.05,
+      "asOf": "2026-11-23",
+      "change": -1,
+      "changePct": -0.3,
       "dec": 0,
       "label": "Colombian Milds (OIC)",
       "source": "OIC · La República",
       "unit": "¢/lb",
       "url": "https://www.larepublica.co/indicadores-economicos/commodities/cafe",
-      "value": 337
+      "value": 336
     },
     "prod": {
       "asOf": "2026-10-31",
@@ -181,16 +181,16 @@
     },
     "robusta": {
       "asOf": "2026-11-24",
-      "change": -11,
-      "changePct": -0.39,
+      "change": -47,
+      "changePct": -1.65,
       "contract": "Ene-27",
       "dec": 1,
       "label": "Robusta Londres (ICE)",
-      "note": "Intradía 24-nov; cierre 23-nov 2.851",
+      "note": "Cierre 24-nov; anterior 2.851",
       "source": "Investing.com",
       "unit": "USD/t",
       "url": "https://www.investing.com/commodities/london-coffee",
-      "value": 2840
+      "value": 2804
     },
     "trm": {
       "asOf": "2026-11-24",
@@ -205,5 +205,5 @@
       "value": 3505.92
     }
   },
-  "updatedAt": "2026-11-24T11:48:43Z"
+  "updatedAt": "2026-11-24T19:48:15Z"
 }

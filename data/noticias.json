@@ -1,15 +1,25 @@
 {
   "items": [
     {
-      "id": "n138",
+      "id": "n141",
       "scope": "co",
       "regiones": [],
       "tag": "Divisas",
       "date": "2026-11-24",
-      "source": "Colombia.com",
-      "url": "https://www.colombia.com/actualidad/economia/precio-del-dolar-hoy-en-colombia-martes-24-de-noviembre-de-2026-613930",
-      "title": "TRM sube a $3.505,92, su nivel más alto en más de cinco meses",
-      "summary": "La tasa oficial del martes subió $44 (+1,27%) frente al lunes y acumula +5,7% en una semana, el mayor nivel desde el 12 de junio. Un dólar más caro sostiene el precio interno en pesos aunque Nueva York baje."
+      "source": "El Universal (La República)",
+      "url": "https://www.eluniversal.com.co/economica/2026/11/24/dolar-en-colombia-asi-cerro-la-divisa-estadounidense-este-24-de-noviembre/",
+      "title": "El dólar cierra en $3.582, $86 por encima de la TRM",
+      "summary": "El peso se debilitó el 24-nov con máximos de $3.645 y negocios por US$1.615 millones, arrastrado por un dólar global en máximos de casi dos años y la expectativa de un alza de la Fed. Un dólar más caro sostiene el precio interno del café aun con la bolsa a la baja."
+    },
+    {
+      "id": "n142",
+      "scope": "mundo",
+      "tag": "Mercado",
+      "date": "2026-11-24",
+      "source": "InvestNews (Bloomberg)",
+      "url": "https://investnews.com.br/economia/cafe-arabica-alta-estoques-28-anos",
+      "title": "Inventarios certificados de arábica saltan 19% y el precio toca mínimo de cinco meses",
+      "summary": "Las existencias en bodegas de ICE superaron los 268.000 sacos tras el mayor aumento diario desde 1998, con casi 250.000 sacos más pendientes de clasificar, y el arábica llegó a caer 2,2%. La llegada de café brasileño a la bolsa presiona el diferencial y el precio de referencia."
     },
     {
       "id": "n139",
@@ -20,6 +30,17 @@
       "url": "https://www.tradingandinvestmentnews.co.uk/december-fed-hike-williams/",
       "title": "El mercado da casi por segura una subida de la Fed en diciembre",
       "summary": "Tras declaraciones de John Williams (Fed de Nueva York), los futuros descuentan como prácticamente segura un alza de 0,25 puntos desde el rango de 3,75%–4%, frente a 89% el viernes; el dólar está en máximos desde abril de 2025. Un dólar global fuerte presiona a las materias primas y empuja al alza la tasa de cambio en Colombia."
+    },
+    {
+      "date": "2026-11-24",
+      "id": "n125",
+      "regiones": [],
+      "scope": "co",
+      "source": "Federación Nacional de Cafeteros",
+      "summary": "La FNC fijó el 24-nov la carga de pergamino seco (factor 94) en $2.165.000, pese a la caída del arábica en Nueva York a 262,60 ¢/lb, porque el dólar de referencia saltó a $3.617. El alza depende de la tasa de cambio más que de la bolsa.",
+      "tag": "Precios",
+      "title": "Precio interno sube $10.000 y queda en $2.165.000 por carga",
+      "url": "https://federaciondecafeteros.org/estadisticas-cafeteras/"
     },
     {
       "date": "2026-11-23",
@@ -43,17 +64,6 @@
       "tag": "Mercado",
       "title": "Fondos llevan su venta neta en robusta al mayor nivel en casi cuatro años",
       "url": "https://congthuong.vn/gia-ca-phe-robusta-giam-gan-10-xuong-muc-thap-nhat-gan-3-nam-482329.html"
-    },
-    {
-      "date": "2026-11-23",
-      "id": "n125",
-      "regiones": [],
-      "scope": "co",
-      "source": "Federación Nacional de Cafeteros",
-      "summary": "La FNC fijó el lunes el precio de referencia en $2.155.000 por carga de pergamino seco, con la bolsa de Nueva York en 267,75 ¢/lb y un dólar de $3.527; la pasilla quedó en $97.920 por carga. La subida del dólar compensó la leve baja del arábica.",
-      "tag": "Precios",
-      "title": "Precio interno sube $5.000 y queda en $2.155.000 por carga",
-      "url": "https://federaciondecafeteros.org/estadisticas-cafeteras/"
     },
     {
       "id": "n140",
@@ -85,16 +95,6 @@
       "tag": "Exportaciones",
       "title": "La FNC sube al 21,5% de las exportaciones y Colombia importa 1,6 millones de sacos",
       "url": "https://www.elcolombiano.com/negocios/precongreso-cafetero-medellin-produccion-cafe-cae-2026-AI43788901"
-    },
-    {
-      "date": "2026-11-19",
-      "id": "n128",
-      "scope": "mundo",
-      "source": "Escritório Carvalhaes (Agência Estado)",
-      "summary": "Los inventarios certificados subieron 18.163 sacos el 19-nov, hasta 219.436, tras el mínimo de 27 años del 16-nov (186.414), y quedan 248.175 sacos en fila de clasificación. A medida que se certifique el café brasileño se afloja la estrechez que sostenía el contrato de diciembre y las primas de los lavados.",
-      "tag": "Mercado",
-      "title": "Inventarios certificados de arábica en ICE rebotan a 219.436 sacos",
-      "url": "https://carvalhaes.com.br/noticias/noticias-conteudo.asp?ori=06-2&cod=13371"
     },
     {
       "date": "2026-11-19",
@@ -222,5 +222,5 @@
       "url": "https://opanoticias.com/el-huila-arrasa-y-consolida-su-poder-cafetero/456572"
     }
   ],
-  "updatedAt": "2026-11-24T11:48:43Z"
+  "updatedAt": "2026-11-24T19:48:15Z"
 }
