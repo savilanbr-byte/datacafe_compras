@@ -1,25 +1,36 @@
 {
   "items": [
     {
-      "id": "n143",
+      "id": "n145",
       "scope": "co",
       "regiones": [],
       "tag": "Divisas",
-      "date": "2026-11-24",
-      "source": "Infobae",
-      "url": "https://www.infobae.com/colombia/2026/11/24/dolar-hoy-en-colombia-cotizacion-de-cierre-del-24-de-noviembre/",
-      "title": "El dólar promedia $3.592 y toca su nivel más alto desde mayo",
-      "summary": "El martes el dólar promedió $3.592,15 (máximo de $3.645), $86 sobre la TRM y casi 9% más en una semana, por la caída del petróleo, la fortaleza global del dólar y la incertidumbre fiscal. La TRM del 25-nov queda en $3.592,03, lo que sostiene el precio interno pese a la baja en Nueva York."
+      "date": "2026-11-25",
+      "source": "Portafolio",
+      "url": "https://www.portafolio.co/economia/finanzas/el-dolar-en-colombia-se-dispara-asi-cotiza-la-divisa-este-25-de-noviembre-a-espera-de-la-inflacion-en-ee-uu-507057",
+      "title": "El dólar llega a tocar $3.692 y el peso acumula 12% de devaluación en noviembre",
+      "summary": "El dólar promedió $3.630 en la BVC con máximo de $3.691,90, presionado por un índice DXY en 103,9, la caída del Brent y un riesgo país (CDS) que subió a 195 pb; en la tarde bajó hasta $3.555. Un peso débil sostiene el precio interno del café aunque la bolsa ceda."
     },
     {
-      "date": "2026-11-24",
-      "id": "n142",
+      "id": "n146",
       "scope": "mundo",
-      "source": "InvestNews (Bloomberg)",
-      "summary": "Las existencias en bodegas de ICE superaron los 268.000 sacos tras el mayor aumento diario desde 1998, con casi 250.000 sacos más pendientes de clasificar, y el arábica llegó a caer 2,2%. La llegada de café brasileño a la bolsa presiona el diferencial y el precio de referencia.",
       "tag": "Mercado",
-      "title": "Inventarios certificados de arábica saltan 19% y el precio toca mínimo de cinco meses",
-      "url": "https://investnews.com.br/economia/cafe-arabica-alta-estoques-28-anos"
+      "date": "2026-11-25",
+      "source": "Portal do Agronegócio (Barchart/Cepea)",
+      "url": "https://portaldoagronegocio.com.br/agricultura/cafe/noticias/cafe-arabica-cai-em-nova-york-com-estoques-em-alta-e-dolar-sustenta-precos-no-brasil",
+      "title": "Inventarios certificados de arábica suben 44% en una semana, a 268.614 sacos",
+      "summary": "Los stocks certificados de ICE llegaron el 23-nov a su nivel más alto en cuatro meses, con 246.182 sacos más esperando clasificación y 145.223 de origen Brasil; Sucafina ve soporte de corto plazo en 250 ¢/lb. Más oferta certificada resta presión a los diferenciales de suaves lavados."
+    },
+    {
+      "date": "2026-11-25",
+      "id": "n125",
+      "regiones": [],
+      "scope": "co",
+      "source": "Federación Nacional de Cafeteros",
+      "summary": "La FNC fijó el 25-nov el precio de referencia en $2.180.000 por carga de pergamino seco, con la bolsa de Nueva York en 270 ¢/lb y un dólar de referencia de $3.555; la pasilla se mantiene en $97.920 por carga.",
+      "tag": "Precios",
+      "title": "Precio interno sube $15.000 y queda en $2.180.000 por carga",
+      "url": "https://federaciondecafeteros.org/estadisticas-cafeteras/"
     },
     {
       "date": "2026-11-24",
@@ -30,17 +41,6 @@
       "tag": "Divisas",
       "title": "El mercado da casi por segura una subida de la Fed en diciembre",
       "url": "https://www.tradingandinvestmentnews.co.uk/december-fed-hike-williams/"
-    },
-    {
-      "date": "2026-11-24",
-      "id": "n125",
-      "regiones": [],
-      "scope": "co",
-      "source": "Federación Nacional de Cafeteros",
-      "summary": "La FNC fijó el 24-nov la carga de pergamino seco (factor 94) en $2.165.000, pese a la caída del arábica en Nueva York a 262,60 ¢/lb, porque el dólar de referencia saltó a $3.617. El alza depende de la tasa de cambio más que de la bolsa.",
-      "tag": "Precios",
-      "title": "Precio interno sube $10.000 y queda en $2.165.000 por carga",
-      "url": "https://federaciondecafeteros.org/estadisticas-cafeteras/"
     },
     {
       "date": "2026-11-23",
@@ -86,17 +86,17 @@
       "url": "https://brecorder.com/news/40450161/robusta-coffee-hits-3-year-low"
     },
     {
+      "date": "2026-11-19",
       "id": "n144",
-      "scope": "co",
       "regiones": [
         "huila"
       ],
-      "tag": "Regulación",
-      "date": "2026-11-19",
+      "scope": "co",
       "source": "Pyme Noticias (Gobernación del Huila)",
-      "url": "https://www.pymenoticias.com/post/cafe-huila-pib-agropecuario-eudr-deforestacion",
+      "summary": "En la sesión de la Cadena Regional del Café en Garzón (18-nov) se socializó la debida diligencia del reglamento europeo antideforestación; el Huila tiene 88.883 caficultores, aporta 20,6% de la cosecha nacional y el café pesa 55,8% de su PIB agropecuario. Para comprar con destino a Europa, conviene exigir geolocalización de fincas desde ya.",
+      "tag": "Regulación",
       "title": "Huila alista a su cadena del café para la debida diligencia EUDR",
-      "summary": "En la sesión de la Cadena Regional del Café en Garzón (18-nov) se socializó la debida diligencia del reglamento europeo antideforestación; el Huila tiene 88.883 caficultores, aporta 20,6% de la cosecha nacional y el café pesa 55,8% de su PIB agropecuario. Para comprar con destino a Europa, conviene exigir geolocalización de fincas desde ya."
+      "url": "https://www.pymenoticias.com/post/cafe-huila-pib-agropecuario-eudr-deforestacion"
     },
     {
       "date": "2026-11-19",
@@ -221,5 +221,5 @@
       "url": "https://diariodocomercio.com.br/agronegocio/regras-europeias-cafe-mineiro/"
     }
   ],
-  "updatedAt": "2026-11-25T11:49:26Z"
+  "updatedAt": "2026-11-25T19:48:05Z"
 }
