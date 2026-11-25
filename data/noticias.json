@@ -1,35 +1,35 @@
 {
   "items": [
     {
-      "id": "n141",
+      "id": "n143",
       "scope": "co",
       "regiones": [],
       "tag": "Divisas",
       "date": "2026-11-24",
-      "source": "El Universal (La República)",
-      "url": "https://www.eluniversal.com.co/economica/2026/11/24/dolar-en-colombia-asi-cerro-la-divisa-estadounidense-este-24-de-noviembre/",
-      "title": "El dólar cierra en $3.582, $86 por encima de la TRM",
-      "summary": "El peso se debilitó el 24-nov con máximos de $3.645 y negocios por US$1.615 millones, arrastrado por un dólar global en máximos de casi dos años y la expectativa de un alza de la Fed. Un dólar más caro sostiene el precio interno del café aun con la bolsa a la baja."
+      "source": "Infobae",
+      "url": "https://www.infobae.com/colombia/2026/11/24/dolar-hoy-en-colombia-cotizacion-de-cierre-del-24-de-noviembre/",
+      "title": "El dólar promedia $3.592 y toca su nivel más alto desde mayo",
+      "summary": "El martes el dólar promedió $3.592,15 (máximo de $3.645), $86 sobre la TRM y casi 9% más en una semana, por la caída del petróleo, la fortaleza global del dólar y la incertidumbre fiscal. La TRM del 25-nov queda en $3.592,03, lo que sostiene el precio interno pese a la baja en Nueva York."
     },
     {
+      "date": "2026-11-24",
       "id": "n142",
       "scope": "mundo",
-      "tag": "Mercado",
-      "date": "2026-11-24",
       "source": "InvestNews (Bloomberg)",
-      "url": "https://investnews.com.br/economia/cafe-arabica-alta-estoques-28-anos",
+      "summary": "Las existencias en bodegas de ICE superaron los 268.000 sacos tras el mayor aumento diario desde 1998, con casi 250.000 sacos más pendientes de clasificar, y el arábica llegó a caer 2,2%. La llegada de café brasileño a la bolsa presiona el diferencial y el precio de referencia.",
+      "tag": "Mercado",
       "title": "Inventarios certificados de arábica saltan 19% y el precio toca mínimo de cinco meses",
-      "summary": "Las existencias en bodegas de ICE superaron los 268.000 sacos tras el mayor aumento diario desde 1998, con casi 250.000 sacos más pendientes de clasificar, y el arábica llegó a caer 2,2%. La llegada de café brasileño a la bolsa presiona el diferencial y el precio de referencia."
+      "url": "https://investnews.com.br/economia/cafe-arabica-alta-estoques-28-anos"
     },
     {
+      "date": "2026-11-24",
       "id": "n139",
       "scope": "mundo",
-      "tag": "Divisas",
-      "date": "2026-11-24",
       "source": "Trading and Investment News",
-      "url": "https://www.tradingandinvestmentnews.co.uk/december-fed-hike-williams/",
+      "summary": "Tras declaraciones de John Williams (Fed de Nueva York), los futuros descuentan como prácticamente segura un alza de 0,25 puntos desde el rango de 3,75%–4%, frente a 89% el viernes; el dólar está en máximos desde abril de 2025. Un dólar global fuerte presiona a las materias primas y empuja al alza la tasa de cambio en Colombia.",
+      "tag": "Divisas",
       "title": "El mercado da casi por segura una subida de la Fed en diciembre",
-      "summary": "Tras declaraciones de John Williams (Fed de Nueva York), los futuros descuentan como prácticamente segura un alza de 0,25 puntos desde el rango de 3,75%–4%, frente a 89% el viernes; el dólar está en máximos desde abril de 2025. Un dólar global fuerte presiona a las materias primas y empuja al alza la tasa de cambio en Colombia."
+      "url": "https://www.tradingandinvestmentnews.co.uk/december-fed-hike-williams/"
     },
     {
       "date": "2026-11-24",
@@ -66,14 +66,14 @@
       "url": "https://congthuong.vn/gia-ca-phe-robusta-giam-gan-10-xuong-muc-thap-nhat-gan-3-nam-482329.html"
     },
     {
+      "date": "2026-11-22",
       "id": "n140",
       "scope": "mundo",
-      "tag": "Mercado",
-      "date": "2026-11-22",
       "source": "CMB News",
-      "url": "https://commodity-board.com/vietnam-coffee-fob-prices-firm-despite-global-robusta-sell-off",
+      "summary": "Con la cosecha 2026/27 en su punto alto, el precio en finca en Dak Lak bajó de más de 83.000 a 71.200–72.000 VND/kg, mientras las ofertas FOB se mantienen firmes; Vietnam exportó unas 108.800 t en octubre (+50% anual). Más oferta de robusta presiona a la baja el mercado de cafés de menor calidad.",
+      "tag": "Mercado",
       "title": "Vietnam: el precio en finca del robusta cae a unos 72.000 VND/kg en plena cosecha",
-      "summary": "Con la cosecha 2026/27 en su punto alto, el precio en finca en Dak Lak bajó de más de 83.000 a 71.200–72.000 VND/kg, mientras las ofertas FOB se mantienen firmes; Vietnam exportó unas 108.800 t en octubre (+50% anual). Más oferta de robusta presiona a la baja el mercado de cafés de menor calidad."
+      "url": "https://commodity-board.com/vietnam-coffee-fob-prices-firm-despite-global-robusta-sell-off"
     },
     {
       "date": "2026-11-22",
@@ -84,6 +84,19 @@
       "tag": "Precios",
       "title": "El robusta cae a mínimos de tres años y pierde cerca de 10% en la semana",
       "url": "https://brecorder.com/news/40450161/robusta-coffee-hits-3-year-low"
+    },
+    {
+      "id": "n144",
+      "scope": "co",
+      "regiones": [
+        "huila"
+      ],
+      "tag": "Regulación",
+      "date": "2026-11-19",
+      "source": "Pyme Noticias (Gobernación del Huila)",
+      "url": "https://www.pymenoticias.com/post/cafe-huila-pib-agropecuario-eudr-deforestacion",
+      "title": "Huila alista a su cadena del café para la debida diligencia EUDR",
+      "summary": "En la sesión de la Cadena Regional del Café en Garzón (18-nov) se socializó la debida diligencia del reglamento europeo antideforestación; el Huila tiene 88.883 caficultores, aporta 20,6% de la cosecha nacional y el café pesa 55,8% de su PIB agropecuario. Para comprar con destino a Europa, conviene exigir geolocalización de fincas desde ya."
     },
     {
       "date": "2026-11-19",
@@ -206,21 +219,7 @@
       "tag": "Regulación",
       "title": "EUDR: a seis semanas del arranque, la UE exigirá también cumplimiento laboral",
       "url": "https://diariodocomercio.com.br/agronegocio/regras-europeias-cafe-mineiro/"
-    },
-    {
-      "date": "2026-11-14",
-      "id": "n111",
-      "regiones": [
-        "huila",
-        "antioquia"
-      ],
-      "scope": "co",
-      "source": "Opa Noticias (Neiva)",
-      "summary": "En el Precongreso Cafetero se informó que el Huila produjo 2.566.962 sacos de 60 kg y elevó su participación de 19,65% a 20,59%, mientras Antioquia bajó de 14,20% a 13,89%. El sur del país gana peso como origen de compra.",
-      "tag": "Producción",
-      "title": "Huila sube al 20,6% de la producción nacional de café",
-      "url": "https://opanoticias.com/el-huila-arrasa-y-consolida-su-poder-cafetero/456572"
     }
   ],
-  "updatedAt": "2026-11-24T19:48:15Z"
+  "updatedAt": "2026-11-25T11:49:26Z"
 }
