@@ -22,16 +22,16 @@
   },
   "forecastSource": {
     "name": "MET Norway",
-    "period": "26 de noviembre al 2 de diciembre",
+    "period": "27 de noviembre al 3 de diciembre",
     "url": "https://api.met.no/"
   },
   "ideam": {
-    "asOf": "2026-11-12",
-    "headline": "Actualización del 12-nov: El Niño muy fuerte, con 61% de probabilidad de durar hasta mayo de 2027",
+    "asOf": "2026-11-23",
+    "headline": "Pronóstico del 23-nov: las lluvias de fin de mes no alcanzarán los acumulados normales por El Niño",
     "items": [
-      "Intensidad más probable \"muy fuerte\"; 79% de probabilidad de bajar a fuerte entre enero y marzo de 2027, y lluvias normales hacia mayo.",
-      "Pronóstico del 17-nov: segunda temporada de lluvias irregular, con déficit en Huila, Tolima, Cundinamarca, Santander, Norte de Santander y parte de Antioquia, y lluvias sobre lo normal en Cauca, Nariño y sur del Chocó.",
-      "Diciembre y enero serán los meses más críticos; temperaturas sobre lo normal en el Eje Cafetero, Huila y Tolima. Próxima actualización el 10 de diciembre."
+      "Lluvias fuertes esta semana en Nariño, Cauca, Valle y Chocó; moderadas en Antioquia, Eje Cafetero, Santander, Boyacá y Cundinamarca. Podría ser uno de los últimos episodios de lluvia antes del pico de El Niño.",
+      "Actualización ENSO del 12-nov: El Niño muy fuerte, con 61% de probabilidad de durar hasta mayo de 2027; diciembre y enero serían los meses más críticos.",
+      "Temperaturas sobre lo normal en el Eje Cafetero, Huila y Tolima; calor de 34–38 °C en Cúcuta y Valledupar. Próxima actualización ENSO el 10 de diciembre."
     ],
     "links": [
       {
@@ -39,8 +39,8 @@
         "url": "https://www.ideam.gov.co/fenomeno-del-nino"
       },
       {
-        "t": "Infobae: pronóstico IDEAM (17-nov)",
-        "url": "https://www.infobae.com/colombia/2026/11/17/ideam-advirtio-de-un-aumento-en-las-lluvias-en-estos-departamentos-de-colombia-fuertes-precipitaciones-y-tormentas-electricas/"
+        "t": "El Espectador: pronóstico IDEAM (23-nov)",
+        "url": "https://www.elespectador.com/ambiente/pronostico-del-ideam-el-nino-mantiene-a-colombia-con-menos-lluvias-de-las-esperadas/"
       },
       {
         "t": "Infobae: comunicado conjunto Gobierno–IDEAM (12-nov)",
@@ -53,8 +53,8 @@
     ]
   },
   "impactos": [
-    "Del 26 de noviembre al 2 de diciembre el occidente sigue muy húmedo: Armenia 184 mm, La Unión (Nariño) 142 mm, Chinchiná 122 mm, Santa Rosa de Cabal 112 mm y Andes 97 mm, con lluvia los 7 días; lo más seco es Pueblo Bello (10 mm), Minca (19 mm), Planadas (25 mm) y Salazar (32 mm), y Pitalito baja a 38 mm.",
-    "En el Eje Cafetero, con la principal de Caldas corrida hacia su pico del 7 al 13 de diciembre, las lluvias casi diarias de esta semana demoran el secado y pueden subir la humedad del pergamino: revisa humedad y factor en lo que llegue.",
+    "Del 27 de noviembre al 3 de diciembre el occidente sigue muy húmedo: La Unión (Nariño) 172 mm, Armenia 131 mm, Santa Rosa de Cabal 104 mm, Chinchiná 101 mm, Popayán 97 mm y Sevilla 97 mm, con lluvia casi todos los días; lo más seco es Pueblo Bello (18 mm), Minca (29 mm), Planadas (31 mm), Salazar (38 mm) y Pitalito (43 mm).",
+    "En el Eje Cafetero, con la principal de Caldas camino a su pico del 7 al 13 de diciembre, las lluvias diarias demoran el secado y pueden subir la humedad del pergamino: revisa humedad y factor en lo que llegue. El IDEAM advierte que podría ser de los últimos episodios lluviosos antes del pico de El Niño.",
     "El sur del Tolima y el Huila siguen con poca lluvia en plena sequía de El Niño, como prevé el IDEAM; la principal 2027 del sur llenará grano con déficit hídrico: riesgo de grano pequeño, menor rendimiento y más pasilla.",
     "Las floraciones de diciembre a febrero alimentan la principal 2027 de la zona centro; diciembre y enero serían los meses más secos según el IDEAM, así que una floración débil acortaría esa cosecha.",
     "La sequía favorece la broca: revisa calidad física (broca, pasilla, factor) en los lotes de inicios de 2027."
@@ -62,109 +62,109 @@
   "regions": [
     {
       "dept": "Huila",
-      "p7": 37.9,
+      "p7": 42.8,
       "place": "Pitalito",
       "tmax": 27.4,
-      "tmin": 19.1
+      "tmin": 19.0
     },
     {
       "dept": "Antioquia",
-      "p7": 97.4,
+      "p7": 92.1,
       "place": "Andes",
-      "tmax": 27.3,
-      "tmin": 19
+      "tmax": 26.0,
+      "tmin": 18.9
     },
     {
       "dept": "Tolima",
-      "p7": 25,
+      "p7": 30.7,
       "place": "Planadas",
-      "tmax": 28.2,
-      "tmin": 19.8
+      "tmax": 27.6,
+      "tmin": 20.0
     },
     {
       "dept": "Cauca",
-      "p7": 63.3,
+      "p7": 97.4,
       "place": "Popayán",
       "tmax": 22.6,
-      "tmin": 16.7
+      "tmin": 16.6
     },
     {
       "dept": "Nariño",
-      "p7": 142.3,
+      "p7": 171.8,
       "place": "La Unión",
-      "tmax": 21.2,
-      "tmin": 16.5
+      "tmax": 21.4,
+      "tmin": 16.6
     },
     {
       "dept": "Caldas",
-      "p7": 122.4,
+      "p7": 101.1,
       "place": "Chinchiná",
-      "tmax": 25.7,
-      "tmin": 18.3
+      "tmax": 24.9,
+      "tmin": 18.0
     },
     {
       "dept": "Quindío",
-      "p7": 183.7,
+      "p7": 130.6,
       "place": "Armenia",
       "tmax": 22.6,
-      "tmin": 17.9
+      "tmin": 18.0
     },
     {
       "dept": "Risaralda",
-      "p7": 112.2,
+      "p7": 103.9,
       "place": "Santa Rosa de Cabal",
-      "tmax": 23.2,
-      "tmin": 16.7
+      "tmax": 23.0,
+      "tmin": 16.6
     },
     {
       "dept": "Valle del Cauca",
-      "p7": 72,
+      "p7": 97.1,
       "place": "Sevilla",
-      "tmax": 23.9,
-      "tmin": 16.4
+      "tmax": 23.3,
+      "tmin": 16.7
     },
     {
       "dept": "Cundinamarca",
-      "p7": 46.9,
+      "p7": 61.3,
       "place": "Viotá",
-      "tmax": 29,
-      "tmin": 22.5
+      "tmax": 28.7,
+      "tmin": 22.3
     },
     {
       "dept": "Boyacá",
-      "p7": 49.4,
+      "p7": 61.2,
       "place": "Moniquirá",
-      "tmax": 26.6,
-      "tmin": 15.6
+      "tmax": 25.5,
+      "tmin": 15.7
     },
     {
       "dept": "Santander",
-      "p7": 49.7,
+      "p7": 74.3,
       "place": "San Gil",
-      "tmax": 27,
-      "tmin": 19.4
+      "tmax": 26.7,
+      "tmin": 19.5
     },
     {
       "dept": "Norte de Santander",
-      "p7": 31.5,
+      "p7": 38.3,
       "place": "Salazar",
-      "tmax": 27.7,
-      "tmin": 18.8
+      "tmax": 26.8,
+      "tmin": 19.4
     },
     {
       "dept": "Cesar",
-      "p7": 10.4,
+      "p7": 18.1,
       "place": "Pueblo Bello",
-      "tmax": 27,
-      "tmin": 18.6
+      "tmax": 26.5,
+      "tmin": 18.9
     },
     {
       "dept": "Magdalena",
-      "p7": 19.4,
+      "p7": 29.2,
       "place": "Minca",
-      "tmax": 27.7,
-      "tmin": 20.7
+      "tmax": 27.2,
+      "tmin": 20.4
     }
   ],
-  "updatedAt": "2026-11-25T19:48:05Z"
+  "updatedAt": "2026-11-26T11:50:58Z"
 }

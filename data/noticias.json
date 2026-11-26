@@ -1,6 +1,16 @@
 {
   "items": [
     {
+      "id": "n147",
+      "scope": "mundo",
+      "tag": "Mercado",
+      "date": "2026-11-26",
+      "source": "Business Recorder (Reuters)",
+      "url": "https://www.brecorder.com/news/40450759/robusta-coffee-sets-three-year-low",
+      "title": "El robusta marca nuevo mínimo de tres años en US$2.709/t",
+      "summary": "El robusta en ICE tocó US$2.709 por tonelada, presionado por la cosecha vietnamita que avanza rápido, mientras el arábica rebotó desde un mínimo de cinco meses (258,65 ¢/lb). Un robusta barato resta soporte a los arábicas lavados y presiona los diferenciales colombianos."
+    },
+    {
       "id": "n145",
       "scope": "co",
       "regiones": [],
@@ -33,6 +43,16 @@
       "url": "https://federaciondecafeteros.org/estadisticas-cafeteras/"
     },
     {
+      "id": "n151",
+      "scope": "mundo",
+      "tag": "Insumos",
+      "date": "2026-11-25",
+      "source": "DTN Progressive Farmer",
+      "url": "https://www.dtnpf.com/agriculture/web/ag/crops/article/2026/11/25/fertilizer-prices-remain-mixed-5-8",
+      "title": "Urea estable en US$657/t; DAP y MAP siguen subiendo",
+      "summary": "En la tercera semana de noviembre la urea promedió US$657/t (11% más que hace un año), el DAP US$948 y el MAP US$1.004. Los costos de fertilización siguen altos para la renovación y abonada de inicios de 2027."
+    },
+    {
       "date": "2026-11-24",
       "id": "n139",
       "scope": "mundo",
@@ -41,6 +61,17 @@
       "tag": "Divisas",
       "title": "El mercado da casi por segura una subida de la Fed en diciembre",
       "url": "https://www.tradingandinvestmentnews.co.uk/december-fed-hike-williams/"
+    },
+    {
+      "id": "n148",
+      "scope": "co",
+      "regiones": [],
+      "tag": "Exportaciones",
+      "date": "2026-11-24",
+      "source": "Daily Coffee News (USDA FAS)",
+      "url": "https://dailycoffeenews.com/2026/11/24/usda-cuts-colombia-coffee-export-forecast-by-760000-bags/",
+      "title": "USDA recorta en 760.000 sacos su pronóstico de exportaciones de Colombia",
+      "summary": "La oficina del USDA en Bogotá deja la producción 2026/27 en 13,4 millones de sacos (+5,9%) pero baja las exportaciones a unos 12,64 millones por costos altos y peso fuerte; sube inventarios finales a 918.000 sacos. Advierte que la sequía de El Niño hasta inicios de 2027 puede afectar floraciones."
     },
     {
       "date": "2026-11-23",
@@ -66,24 +97,55 @@
       "url": "https://congthuong.vn/gia-ca-phe-robusta-giam-gan-10-xuong-muc-thap-nhat-gan-3-nam-482329.html"
     },
     {
-      "date": "2026-11-22",
-      "id": "n140",
-      "scope": "mundo",
-      "source": "CMB News",
-      "summary": "Con la cosecha 2026/27 en su punto alto, el precio en finca en Dak Lak bajó de más de 83.000 a 71.200–72.000 VND/kg, mientras las ofertas FOB se mantienen firmes; Vietnam exportó unas 108.800 t en octubre (+50% anual). Más oferta de robusta presiona a la baja el mercado de cafés de menor calidad.",
-      "tag": "Mercado",
-      "title": "Vietnam: el precio en finca del robusta cae a unos 72.000 VND/kg en plena cosecha",
-      "url": "https://commodity-board.com/vietnam-coffee-fob-prices-firm-despite-global-robusta-sell-off"
+      "id": "n149",
+      "scope": "co",
+      "regiones": [],
+      "tag": "Regulación",
+      "date": "2026-11-23",
+      "source": "Minuto60",
+      "url": "https://www.minuto60.com/economia/german-bahamon-petro-posiblemente-quiso-tomarse-federacion/19405",
+      "title": "Renovados por 10 años los contratos del Fondo Nacional del Café y el de Estabilización",
+      "summary": "Los contratos firmados el 14-nov en Santa Marta mantienen a la FNC como administradora de ambos fondos, que vencían el 11 de diciembre; la contribución cafetera sigue en US$0,06 por libra exportada. Despeja la incertidumbre sobre la garantía de compra y la operación de la FNC."
     },
     {
-      "date": "2026-11-22",
-      "id": "n129",
-      "scope": "mundo",
-      "source": "Business Recorder (Reuters)",
-      "summary": "El robusta en Londres bajó 3,3%, a US$2.879/t, después de tocar US$2.854, su menor nivel en tres años, presionado por el avance de la cosecha vietnamita y un real débil que impulsa las ventas de Brasil. Esa debilidad arrastra al arábica y, con él, al precio interno.",
-      "tag": "Precios",
-      "title": "El robusta cae a mínimos de tres años y pierde cerca de 10% en la semana",
-      "url": "https://brecorder.com/news/40450161/robusta-coffee-hits-3-year-low"
+      "id": "n150",
+      "scope": "co",
+      "regiones": [
+        "valle"
+      ],
+      "tag": "Logística",
+      "date": "2026-11-23",
+      "source": "El Heraldo",
+      "url": "https://www.elheraldo.co/colombia/2026/11/23/ya-se-reiniciaron-operaciones-en-el-muelle-13-en-buenaventura-ministra-elsa-noguera/",
+      "title": "Buenaventura reactiva el Muelle 13 tras meses suspendido",
+      "summary": "La ministra de Transporte confirmó que el muelle volvió a operar después de varios meses detenido por la instalación de equipos electromecánicos. Suma capacidad en el principal puerto de salida del café del suroccidente."
+    },
+    {
+      "id": "n153",
+      "scope": "co",
+      "regiones": [
+        "narino",
+        "cauca",
+        "valle",
+        "antioquia"
+      ],
+      "tag": "Clima",
+      "date": "2026-11-23",
+      "source": "El Espectador (IDEAM)",
+      "url": "https://www.elespectador.com/ambiente/pronostico-del-ideam-el-nino-mantiene-a-colombia-con-menos-lluvias-de-las-esperadas/",
+      "title": "IDEAM: las lluvias de fin de noviembre no compensarán el déficit de El Niño",
+      "summary": "El IDEAM prevé lluvias fuertes en Nariño, Cauca y Valle y moderadas en Antioquia y el Eje Cafetero esta semana, pero advierte que podría ser uno de los últimos episodios antes del pico de El Niño. Para compras, la humedad complica el secado ahora y la sequía posterior pesa sobre floraciones."
+    },
+    {
+      "date": "2026-11-19",
+      "id": "n123",
+      "regiones": [],
+      "scope": "co",
+      "source": "El Colombiano",
+      "summary": "En el Precongreso Cafetero se informó que la Federación exportó 2,55 millones de sacos en 12 meses (21,5% del total, frente a 20,5% un año antes), mientras las importaciones llegaron a 1,60 millones de sacos, el 69% del consumo interno de 2,32 millones. La producción de 12,56 millones de sacos (−14,8%) deja menos café disponible para los compradores privados.",
+      "tag": "Exportaciones",
+      "title": "La FNC sube al 21,5% de las exportaciones y Colombia importa 1,6 millones de sacos",
+      "url": "https://www.elcolombiano.com/negocios/precongreso-cafetero-medellin-produccion-cafe-cae-2026-AI43788901"
     },
     {
       "date": "2026-11-19",
@@ -97,17 +159,6 @@
       "tag": "Regulación",
       "title": "Huila alista a su cadena del café para la debida diligencia EUDR",
       "url": "https://www.pymenoticias.com/post/cafe-huila-pib-agropecuario-eudr-deforestacion"
-    },
-    {
-      "date": "2026-11-19",
-      "id": "n123",
-      "regiones": [],
-      "scope": "co",
-      "source": "El Colombiano",
-      "summary": "En el Precongreso Cafetero se informó que la Federación exportó 2,55 millones de sacos en 12 meses (21,5% del total, frente a 20,5% un año antes), mientras las importaciones llegaron a 1,60 millones de sacos, el 69% del consumo interno de 2,32 millones. La producción de 12,56 millones de sacos (−14,8%) deja menos café disponible para los compradores privados.",
-      "tag": "Exportaciones",
-      "title": "La FNC sube al 21,5% de las exportaciones y Colombia importa 1,6 millones de sacos",
-      "url": "https://www.elcolombiano.com/negocios/precongreso-cafetero-medellin-produccion-cafe-cae-2026-AI43788901"
     },
     {
       "date": "2026-11-19",
@@ -165,16 +216,6 @@
       "url": "https://www.eltiempo.com/economia/sectores/tenemos-la-mejor-noticia-10-anos-de-respaldo-para-el-cafetero-entrevista-con-gerente-de-la-federacion-german-bahamon-sobre-el-nuevo-contrato-3601813"
     },
     {
-      "date": "2026-11-18",
-      "id": "n133",
-      "scope": "mundo",
-      "source": "DTN Progressive Farmer",
-      "summary": "La urea minorista en EE. UU. promedió US$657/t en la segunda semana de noviembre (−US$17 en el mes, +10% anual), mientras el DAP subió a US$947/t y el potasio a US$504/t. El abono caro con un café en baja aprieta el margen del caficultor antes de la fertilización de fin de año.",
-      "tag": "Insumos",
-      "title": "Urea baja a US$657/t, pero sigue 10% más cara que hace un año",
-      "url": "https://www.dtnpf.com/agriculture/web/ag/crops/article/2026/11/18/5-8-major-fertilizer-prices-edge"
-    },
-    {
       "date": "2026-11-17",
       "id": "n115",
       "scope": "mundo",
@@ -183,43 +224,7 @@
       "tag": "Producción",
       "title": "Agregado del USDA eleva la cosecha 2026/27 de Brasil a un récord de 72,5 millones de sacos",
       "url": "https://br.investing.com/news/commodities-news/adido-do-usda-eleva-previsao-de-safra-de-cafe-do-brasil-2130325"
-    },
-    {
-      "date": "2026-11-16",
-      "id": "n93",
-      "regiones": [
-        "huila"
-      ],
-      "scope": "co",
-      "source": "La Nación (Neiva)",
-      "summary": "La semana pasada el precio interno en el Huila se mantuvo tres días en $1.998.750 por carga; en octubre promedió $2.120.032 (−28,3% anual) y en septiembre $2.069.100 (−30,2%). En algunas zonas el precio ya roza el costo de producción, lo que puede frenar la venta de pergamino.",
-      "tag": "Precios",
-      "title": "En el Huila la carga se paga por debajo de $2 millones",
-      "url": "https://www.lanacion.com.co/las-razones-detras-del-bajo-precio-interno-del-cafe-pagado-a-campesinos/"
-    },
-    {
-      "date": "2026-11-15",
-      "id": "n94",
-      "regiones": [
-        "caldas"
-      ],
-      "scope": "co",
-      "source": "BC Noticias · Comité de Cafeteros de Caldas",
-      "summary": "El Plan Cosecha del comité ubica el pico en la semana 50, con una recolección más dispersa de lo normal desde agosto; en la semana 46 las fincas pagaron en promedio $1.348 por kilo de cereza y se buscan recolectores en Cauca y Nariño. La mayor oferta de pergamino caldense llegaría en la segunda mitad de diciembre.",
-      "tag": "Producción",
-      "title": "La cosecha de Caldas tendrá su pico del 7 al 13 de diciembre",
-      "url": "https://www.bcnoticias.com.co/cosecha-cafetera-en-caldas-tendra-su-pico-en-diciembre-y-buscan-recolectores-en-cauca-y-narino/"
-    },
-    {
-      "date": "2026-11-15",
-      "id": "n104",
-      "scope": "mundo",
-      "source": "Diário do Comércio",
-      "summary": "Desde el 30 de diciembre de 2026 los operadores grandes y medianos de la UE deberán probar que el café no viene de áreas deforestadas después de 2020 y que cumple la ley del país de origen, incluidas normas laborales (pymes: 30-jun-2027). Los lotes para Europa necesitan geolocalización de fincas y trazabilidad lista ya.",
-      "tag": "Regulación",
-      "title": "EUDR: a seis semanas del arranque, la UE exigirá también cumplimiento laboral",
-      "url": "https://diariodocomercio.com.br/agronegocio/regras-europeias-cafe-mineiro/"
     }
   ],
-  "updatedAt": "2026-11-25T19:48:05Z"
+  "updatedAt": "2026-11-26T11:50:58Z"
 }

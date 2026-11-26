@@ -84,15 +84,15 @@
       "value": 2180000
     },
     "icestocks": {
-      "asOf": "2026-11-23",
-      "change": 43395,
+      "asOf": "2026-11-24",
+      "change": 14422,
       "dec": 0,
       "label": "Inventarios certificados ICE",
-      "note": "Lunes 23-nov: 268.614 sacos, máximo de cuatro meses y +44% frente al mínimo de 27 años del 17-nov (186.414). Otros 246.182 sacos pendientes de clasificación; café de origen Brasil: 145.223 sacos.",
-      "source": "ICE · Barchart (vía Portal do Agronegócio)",
+      "note": "283.036 sacos, máximo de 3,75 meses (+14.422 frente a los 268.614 del 23-nov). Otros 251.230 sacos pendientes de clasificación al viernes anterior.",
+      "source": "ICE · Barchart (vía Wisevoter)",
       "unit": "sacos",
-      "url": "https://portaldoagronegocio.com.br/agricultura/cafe/noticias/cafe-arabica-cai-em-nova-york-com-estoques-em-alta-e-dolar-sustenta-precos-no-brasil",
-      "value": 268614
+      "url": "https://wisevoter.com/world/2026/11/25/arabica-coffee-rises-brazil-rain-short-covering",
+      "value": 283036
     },
     "icoComp": {
       "asOf": "2026-11-24",
@@ -193,17 +193,17 @@
       "value": 2796
     },
     "trm": {
-      "asOf": "2026-11-25",
-      "change": 86.11,
+      "asOf": "2026-11-26",
+      "change": 38.86,
       "chgDec": 2,
       "dec": 2,
       "label": "TRM",
-      "note": "Vigente el 25 de noviembre",
+      "note": "Vigente del 26 al 27 de noviembre",
       "source": "Superfinanciera",
       "unit": "COP/USD",
       "url": "https://www.datos.gov.co/Econom-a-y-Finanzas/Tasa-de-Cambio-Representativa-del-Mercado-TRM/32sa-8pi3",
-      "value": 3592.03
+      "value": 3630.89
     }
   },
-  "updatedAt": "2026-11-25T19:48:05Z"
+  "updatedAt": "2026-11-26T11:50:58Z"
 }
