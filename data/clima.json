@@ -65,13 +65,13 @@
       "p7": 42.8,
       "place": "Pitalito",
       "tmax": 27.4,
-      "tmin": 19.0
+      "tmin": 19
     },
     {
       "dept": "Antioquia",
       "p7": 92.1,
       "place": "Andes",
-      "tmax": 26.0,
+      "tmax": 26,
       "tmin": 18.9
     },
     {
@@ -79,7 +79,7 @@
       "p7": 30.7,
       "place": "Planadas",
       "tmax": 27.6,
-      "tmin": 20.0
+      "tmin": 20
     },
     {
       "dept": "Cauca",
@@ -100,20 +100,20 @@
       "p7": 101.1,
       "place": "Chinchiná",
       "tmax": 24.9,
-      "tmin": 18.0
+      "tmin": 18
     },
     {
       "dept": "Quindío",
       "p7": 130.6,
       "place": "Armenia",
       "tmax": 22.6,
-      "tmin": 18.0
+      "tmin": 18
     },
     {
       "dept": "Risaralda",
       "p7": 103.9,
       "place": "Santa Rosa de Cabal",
-      "tmax": 23.0,
+      "tmax": 23,
       "tmin": 16.6
     },
     {
@@ -166,5 +166,5 @@
       "tmin": 20.4
     }
   ],
-  "updatedAt": "2026-11-26T11:50:58Z"
+  "updatedAt": "2026-11-26T19:48:08Z"
 }

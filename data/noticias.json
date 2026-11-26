@@ -1,35 +1,46 @@
 {
   "items": [
     {
-      "id": "n147",
-      "scope": "mundo",
-      "tag": "Mercado",
-      "date": "2026-11-26",
-      "source": "Business Recorder (Reuters)",
-      "url": "https://www.brecorder.com/news/40450759/robusta-coffee-sets-three-year-low",
-      "title": "El robusta marca nuevo mínimo de tres años en US$2.709/t",
-      "summary": "El robusta en ICE tocó US$2.709 por tonelada, presionado por la cosecha vietnamita que avanza rápido, mientras el arábica rebotó desde un mínimo de cinco meses (258,65 ¢/lb). Un robusta barato resta soporte a los arábicas lavados y presiona los diferenciales colombianos."
-    },
-    {
-      "id": "n145",
+      "id": "n154",
       "scope": "co",
       "regiones": [],
       "tag": "Divisas",
-      "date": "2026-11-25",
-      "source": "Portafolio",
-      "url": "https://www.portafolio.co/economia/finanzas/el-dolar-en-colombia-se-dispara-asi-cotiza-la-divisa-este-25-de-noviembre-a-espera-de-la-inflacion-en-ee-uu-507057",
-      "title": "El dólar llega a tocar $3.692 y el peso acumula 12% de devaluación en noviembre",
-      "summary": "El dólar promedió $3.630 en la BVC con máximo de $3.691,90, presionado por un índice DXY en 103,9, la caída del Brent y un riesgo país (CDS) que subió a 195 pb; en la tarde bajó hasta $3.555. Un peso débil sostiene el precio interno del café aunque la bolsa ceda."
+      "date": "2026-11-26",
+      "source": "Noticias Caracol",
+      "url": "https://www.noticiascaracol.com/economia/precio-del-dolar-en-colombia-hoy-26-de-noviembre-trm-ya-supera-los-3-600-este-jueves-so35",
+      "title": "La TRM pasa de $3.600 y sube 9% en una semana",
+      "summary": "La tasa oficial quedó en $3.630,89 para el 26 y 27 de noviembre, $38,86 más que el día anterior y $303,93 por encima de la del 19 de noviembre. Un dólar más caro sostiene el precio interno en pesos aunque la bolsa de Nueva York no se mueva."
     },
     {
+      "date": "2026-11-26",
+      "id": "n147",
+      "scope": "mundo",
+      "source": "Business Recorder (Reuters)",
+      "summary": "El robusta en ICE tocó US$2.709 por tonelada, presionado por la cosecha vietnamita que avanza rápido, mientras el arábica rebotó desde un mínimo de cinco meses (258,65 ¢/lb). Un robusta barato resta soporte a los arábicas lavados y presiona los diferenciales colombianos.",
+      "tag": "Mercado",
+      "title": "El robusta marca nuevo mínimo de tres años en US$2.709/t",
+      "url": "https://www.brecorder.com/news/40450759/robusta-coffee-sets-three-year-low"
+    },
+    {
+      "date": "2026-11-25",
+      "id": "n145",
+      "regiones": [],
+      "scope": "co",
+      "source": "Portafolio",
+      "summary": "El dólar promedió $3.630 en la BVC con máximo de $3.691,90, presionado por un índice DXY en 103,9, la caída del Brent y un riesgo país (CDS) que subió a 195 pb; en la tarde bajó hasta $3.555. Un peso débil sostiene el precio interno del café aunque la bolsa ceda.",
+      "tag": "Divisas",
+      "title": "El dólar llega a tocar $3.692 y el peso acumula 12% de devaluación en noviembre",
+      "url": "https://www.portafolio.co/economia/finanzas/el-dolar-en-colombia-se-dispara-asi-cotiza-la-divisa-este-25-de-noviembre-a-espera-de-la-inflacion-en-ee-uu-507057"
+    },
+    {
+      "date": "2026-11-25",
       "id": "n146",
       "scope": "mundo",
-      "tag": "Mercado",
-      "date": "2026-11-25",
       "source": "Portal do Agronegócio (Barchart/Cepea)",
-      "url": "https://portaldoagronegocio.com.br/agricultura/cafe/noticias/cafe-arabica-cai-em-nova-york-com-estoques-em-alta-e-dolar-sustenta-precos-no-brasil",
+      "summary": "Los stocks certificados de ICE llegaron el 23-nov a su nivel más alto en cuatro meses, con 246.182 sacos más esperando clasificación y 145.223 de origen Brasil; Sucafina ve soporte de corto plazo en 250 ¢/lb. Más oferta certificada resta presión a los diferenciales de suaves lavados.",
+      "tag": "Mercado",
       "title": "Inventarios certificados de arábica suben 44% en una semana, a 268.614 sacos",
-      "summary": "Los stocks certificados de ICE llegaron el 23-nov a su nivel más alto en cuatro meses, con 246.182 sacos más esperando clasificación y 145.223 de origen Brasil; Sucafina ve soporte de corto plazo en 250 ¢/lb. Más oferta certificada resta presión a los diferenciales de suaves lavados."
+      "url": "https://portaldoagronegocio.com.br/agricultura/cafe/noticias/cafe-arabica-cai-em-nova-york-com-estoques-em-alta-e-dolar-sustenta-precos-no-brasil"
     },
     {
       "date": "2026-11-25",
@@ -43,14 +54,14 @@
       "url": "https://federaciondecafeteros.org/estadisticas-cafeteras/"
     },
     {
+      "date": "2026-11-25",
       "id": "n151",
       "scope": "mundo",
-      "tag": "Insumos",
-      "date": "2026-11-25",
       "source": "DTN Progressive Farmer",
-      "url": "https://www.dtnpf.com/agriculture/web/ag/crops/article/2026/11/25/fertilizer-prices-remain-mixed-5-8",
+      "summary": "En la tercera semana de noviembre la urea promedió US$657/t (11% más que hace un año), el DAP US$948 y el MAP US$1.004. Los costos de fertilización siguen altos para la renovación y abonada de inicios de 2027.",
+      "tag": "Insumos",
       "title": "Urea estable en US$657/t; DAP y MAP siguen subiendo",
-      "summary": "En la tercera semana de noviembre la urea promedió US$657/t (11% más que hace un año), el DAP US$948 y el MAP US$1.004. Los costos de fertilización siguen altos para la renovación y abonada de inicios de 2027."
+      "url": "https://www.dtnpf.com/agriculture/web/ag/crops/article/2026/11/25/fertilizer-prices-remain-mixed-5-8"
     },
     {
       "date": "2026-11-24",
@@ -63,15 +74,15 @@
       "url": "https://www.tradingandinvestmentnews.co.uk/december-fed-hike-williams/"
     },
     {
-      "id": "n148",
-      "scope": "co",
-      "regiones": [],
-      "tag": "Exportaciones",
       "date": "2026-11-24",
+      "id": "n148",
+      "regiones": [],
+      "scope": "co",
       "source": "Daily Coffee News (USDA FAS)",
-      "url": "https://dailycoffeenews.com/2026/11/24/usda-cuts-colombia-coffee-export-forecast-by-760000-bags/",
+      "summary": "La oficina del USDA en Bogotá deja la producción 2026/27 en 13,4 millones de sacos (+5,9%) pero baja las exportaciones a unos 12,64 millones por costos altos y peso fuerte; sube inventarios finales a 918.000 sacos. Advierte que la sequía de El Niño hasta inicios de 2027 puede afectar floraciones.",
+      "tag": "Exportaciones",
       "title": "USDA recorta en 760.000 sacos su pronóstico de exportaciones de Colombia",
-      "summary": "La oficina del USDA en Bogotá deja la producción 2026/27 en 13,4 millones de sacos (+5,9%) pero baja las exportaciones a unos 12,64 millones por costos altos y peso fuerte; sube inventarios finales a 918.000 sacos. Advierte que la sequía de El Niño hasta inicios de 2027 puede afectar floraciones."
+      "url": "https://dailycoffeenews.com/2026/11/24/usda-cuts-colombia-coffee-export-forecast-by-760000-bags/"
     },
     {
       "date": "2026-11-23",
@@ -97,44 +108,44 @@
       "url": "https://congthuong.vn/gia-ca-phe-robusta-giam-gan-10-xuong-muc-thap-nhat-gan-3-nam-482329.html"
     },
     {
-      "id": "n149",
-      "scope": "co",
-      "regiones": [],
-      "tag": "Regulación",
       "date": "2026-11-23",
+      "id": "n149",
+      "regiones": [],
+      "scope": "co",
       "source": "Minuto60",
-      "url": "https://www.minuto60.com/economia/german-bahamon-petro-posiblemente-quiso-tomarse-federacion/19405",
+      "summary": "Los contratos firmados el 14-nov en Santa Marta mantienen a la FNC como administradora de ambos fondos, que vencían el 11 de diciembre; la contribución cafetera sigue en US$0,06 por libra exportada. Despeja la incertidumbre sobre la garantía de compra y la operación de la FNC.",
+      "tag": "Regulación",
       "title": "Renovados por 10 años los contratos del Fondo Nacional del Café y el de Estabilización",
-      "summary": "Los contratos firmados el 14-nov en Santa Marta mantienen a la FNC como administradora de ambos fondos, que vencían el 11 de diciembre; la contribución cafetera sigue en US$0,06 por libra exportada. Despeja la incertidumbre sobre la garantía de compra y la operación de la FNC."
+      "url": "https://www.minuto60.com/economia/german-bahamon-petro-posiblemente-quiso-tomarse-federacion/19405"
     },
     {
+      "date": "2026-11-23",
       "id": "n150",
-      "scope": "co",
       "regiones": [
         "valle"
       ],
-      "tag": "Logística",
-      "date": "2026-11-23",
+      "scope": "co",
       "source": "El Heraldo",
-      "url": "https://www.elheraldo.co/colombia/2026/11/23/ya-se-reiniciaron-operaciones-en-el-muelle-13-en-buenaventura-ministra-elsa-noguera/",
+      "summary": "La ministra de Transporte confirmó que el muelle volvió a operar después de varios meses detenido por la instalación de equipos electromecánicos. Suma capacidad en el principal puerto de salida del café del suroccidente.",
+      "tag": "Logística",
       "title": "Buenaventura reactiva el Muelle 13 tras meses suspendido",
-      "summary": "La ministra de Transporte confirmó que el muelle volvió a operar después de varios meses detenido por la instalación de equipos electromecánicos. Suma capacidad en el principal puerto de salida del café del suroccidente."
+      "url": "https://www.elheraldo.co/colombia/2026/11/23/ya-se-reiniciaron-operaciones-en-el-muelle-13-en-buenaventura-ministra-elsa-noguera/"
     },
     {
+      "date": "2026-11-23",
       "id": "n153",
-      "scope": "co",
       "regiones": [
         "narino",
         "cauca",
         "valle",
         "antioquia"
       ],
-      "tag": "Clima",
-      "date": "2026-11-23",
+      "scope": "co",
       "source": "El Espectador (IDEAM)",
-      "url": "https://www.elespectador.com/ambiente/pronostico-del-ideam-el-nino-mantiene-a-colombia-con-menos-lluvias-de-las-esperadas/",
+      "summary": "El IDEAM prevé lluvias fuertes en Nariño, Cauca y Valle y moderadas en Antioquia y el Eje Cafetero esta semana, pero advierte que podría ser uno de los últimos episodios antes del pico de El Niño. Para compras, la humedad complica el secado ahora y la sequía posterior pesa sobre floraciones.",
+      "tag": "Clima",
       "title": "IDEAM: las lluvias de fin de noviembre no compensarán el déficit de El Niño",
-      "summary": "El IDEAM prevé lluvias fuertes en Nariño, Cauca y Valle y moderadas en Antioquia y el Eje Cafetero esta semana, pero advierte que podría ser uno de los últimos episodios antes del pico de El Niño. Para compras, la humedad complica el secado ahora y la sequía posterior pesa sobre floraciones."
+      "url": "https://www.elespectador.com/ambiente/pronostico-del-ideam-el-nino-mantiene-a-colombia-con-menos-lluvias-de-las-esperadas/"
     },
     {
       "date": "2026-11-19",
@@ -159,16 +170,6 @@
       "tag": "Regulación",
       "title": "Huila alista a su cadena del café para la debida diligencia EUDR",
       "url": "https://www.pymenoticias.com/post/cafe-huila-pib-agropecuario-eudr-deforestacion"
-    },
-    {
-      "date": "2026-11-19",
-      "id": "n132",
-      "scope": "mundo",
-      "source": "InfoMoney",
-      "summary": "El dólar cerró en R$5,934 (+4,88% en la semana) pese a una subasta de US$1.000 millones del Banco Central, con el DXY en 103,89 y ~90% de probabilidad de un alza de 25 pb de la Fed el 9 de diciembre. Un real débil acelera las ventas brasileñas y presiona el arábica.",
-      "tag": "Divisas",
-      "title": "El real se debilita a R$5,93 y el mercado da por hecha un alza de la Fed",
-      "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-19112026/"
     },
     {
       "date": "2026-11-19",
@@ -226,5 +227,5 @@
       "url": "https://br.investing.com/news/commodities-news/adido-do-usda-eleva-previsao-de-safra-de-cafe-do-brasil-2130325"
     }
   ],
-  "updatedAt": "2026-11-26T11:50:58Z"
+  "updatedAt": "2026-11-26T19:48:08Z"
 }
