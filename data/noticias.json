@@ -1,6 +1,17 @@
 {
   "items": [
     {
+      "id": "n155",
+      "scope": "co",
+      "regiones": [],
+      "tag": "Divisas",
+      "date": "2026-11-26",
+      "source": "Infobae",
+      "url": "https://www.infobae.com/colombia/2026/11/26/precio-del-dolar-hoy-en-colombia-cotizacion-de-cierre-del-26-de-noviembre/",
+      "title": "El dólar cierra en $3.549,70 tras una jornada sin mercado de EE. UU.",
+      "summary": "En una sesión de baja liquidez por el feriado de Acción de Gracias, el dólar spot cayó $5,30 y cerró en $3.549,70 (mínimo de $3.485), muy por debajo de la TRM vigente de $3.630,89. Si se sostiene, la próxima TRM bajaría y restaría al precio interno."
+    },
+    {
       "id": "n154",
       "scope": "co",
       "regiones": [],
@@ -20,17 +31,6 @@
       "tag": "Mercado",
       "title": "El robusta marca nuevo mínimo de tres años en US$2.709/t",
       "url": "https://www.brecorder.com/news/40450759/robusta-coffee-sets-three-year-low"
-    },
-    {
-      "date": "2026-11-25",
-      "id": "n145",
-      "regiones": [],
-      "scope": "co",
-      "source": "Portafolio",
-      "summary": "El dólar promedió $3.630 en la BVC con máximo de $3.691,90, presionado por un índice DXY en 103,9, la caída del Brent y un riesgo país (CDS) que subió a 195 pb; en la tarde bajó hasta $3.555. Un peso débil sostiene el precio interno del café aunque la bolsa ceda.",
-      "tag": "Divisas",
-      "title": "El dólar llega a tocar $3.692 y el peso acumula 12% de devaluación en noviembre",
-      "url": "https://www.portafolio.co/economia/finanzas/el-dolar-en-colombia-se-dispara-asi-cotiza-la-divisa-este-25-de-noviembre-a-espera-de-la-inflacion-en-ee-uu-507057"
     },
     {
       "date": "2026-11-25",
@@ -227,5 +227,5 @@
       "url": "https://br.investing.com/news/commodities-news/adido-do-usda-eleva-previsao-de-safra-de-cafe-do-brasil-2130325"
     }
   ],
-  "updatedAt": "2026-11-26T19:48:08Z"
+  "updatedAt": "2026-11-27T11:49:02Z"
 }

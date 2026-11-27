@@ -22,7 +22,7 @@
   },
   "forecastSource": {
     "name": "MET Norway",
-    "period": "27 de noviembre al 3 de diciembre",
+    "period": "28 de noviembre al 4 de diciembre",
     "url": "https://api.met.no/"
   },
   "ideam": {
@@ -53,7 +53,7 @@
     ]
   },
   "impactos": [
-    "Del 27 de noviembre al 3 de diciembre el occidente sigue muy húmedo: La Unión (Nariño) 172 mm, Armenia 131 mm, Santa Rosa de Cabal 104 mm, Chinchiná 101 mm, Popayán 97 mm y Sevilla 97 mm, con lluvia casi todos los días; lo más seco es Pueblo Bello (18 mm), Minca (29 mm), Planadas (31 mm), Salazar (38 mm) y Pitalito (43 mm).",
+    "Del 28 de noviembre al 4 de diciembre sigue lloviendo casi a diario en el occidente y el centro: La Unión (Nariño) 138 mm, Santa Rosa de Cabal 115 mm, Armenia 113 mm, San Gil 103 mm, Moniquirá 101 mm y Chinchiná 98 mm; lo más seco es Pueblo Bello (9 mm), Minca (23 mm), Salazar (42 mm), Planadas (50 mm), Popayán (53 mm) y Pitalito (54 mm).",
     "En el Eje Cafetero, con la principal de Caldas camino a su pico del 7 al 13 de diciembre, las lluvias diarias demoran el secado y pueden subir la humedad del pergamino: revisa humedad y factor en lo que llegue. El IDEAM advierte que podría ser de los últimos episodios lluviosos antes del pico de El Niño.",
     "El sur del Tolima y el Huila siguen con poca lluvia en plena sequía de El Niño, como prevé el IDEAM; la principal 2027 del sur llenará grano con déficit hídrico: riesgo de grano pequeño, menor rendimiento y más pasilla.",
     "Las floraciones de diciembre a febrero alimentan la principal 2027 de la zona centro; diciembre y enero serían los meses más secos según el IDEAM, así que una floración débil acortaría esa cosecha.",
@@ -62,109 +62,109 @@
   "regions": [
     {
       "dept": "Huila",
-      "p7": 42.8,
+      "p7": 54.1,
       "place": "Pitalito",
-      "tmax": 27.4,
-      "tmin": 19
+      "tmax": 27.0,
+      "tmin": 19.1
     },
     {
       "dept": "Antioquia",
-      "p7": 92.1,
+      "p7": 86.0,
       "place": "Andes",
-      "tmax": 26,
-      "tmin": 18.9
+      "tmax": 25.9,
+      "tmin": 19.2
     },
     {
       "dept": "Tolima",
-      "p7": 30.7,
+      "p7": 50.3,
       "place": "Planadas",
-      "tmax": 27.6,
-      "tmin": 20
+      "tmax": 27.2,
+      "tmin": 19.9
     },
     {
       "dept": "Cauca",
-      "p7": 97.4,
+      "p7": 52.5,
       "place": "Popayán",
-      "tmax": 22.6,
-      "tmin": 16.6
+      "tmax": 23.0,
+      "tmin": 16.9
     },
     {
       "dept": "Nariño",
-      "p7": 171.8,
+      "p7": 138.2,
       "place": "La Unión",
-      "tmax": 21.4,
-      "tmin": 16.6
+      "tmax": 21.3,
+      "tmin": 16.5
     },
     {
       "dept": "Caldas",
-      "p7": 101.1,
+      "p7": 98.0,
       "place": "Chinchiná",
-      "tmax": 24.9,
-      "tmin": 18
+      "tmax": 24.5,
+      "tmin": 18.0
     },
     {
       "dept": "Quindío",
-      "p7": 130.6,
+      "p7": 113.3,
       "place": "Armenia",
-      "tmax": 22.6,
-      "tmin": 18
+      "tmax": 23.2,
+      "tmin": 17.9
     },
     {
       "dept": "Risaralda",
-      "p7": 103.9,
+      "p7": 114.7,
       "place": "Santa Rosa de Cabal",
-      "tmax": 23,
+      "tmax": 22.2,
       "tmin": 16.6
     },
     {
       "dept": "Valle del Cauca",
-      "p7": 97.1,
+      "p7": 73.7,
       "place": "Sevilla",
-      "tmax": 23.3,
+      "tmax": 23.7,
       "tmin": 16.7
     },
     {
       "dept": "Cundinamarca",
-      "p7": 61.3,
+      "p7": 70.3,
       "place": "Viotá",
-      "tmax": 28.7,
-      "tmin": 22.3
+      "tmax": 28.3,
+      "tmin": 22.2
     },
     {
       "dept": "Boyacá",
-      "p7": 61.2,
+      "p7": 100.5,
       "place": "Moniquirá",
-      "tmax": 25.5,
-      "tmin": 15.7
+      "tmax": 24.8,
+      "tmin": 16.0
     },
     {
       "dept": "Santander",
-      "p7": 74.3,
+      "p7": 103.0,
       "place": "San Gil",
-      "tmax": 26.7,
+      "tmax": 26.2,
       "tmin": 19.5
     },
     {
       "dept": "Norte de Santander",
-      "p7": 38.3,
+      "p7": 41.9,
       "place": "Salazar",
       "tmax": 26.8,
-      "tmin": 19.4
+      "tmin": 18.8
     },
     {
       "dept": "Cesar",
-      "p7": 18.1,
+      "p7": 9.2,
       "place": "Pueblo Bello",
-      "tmax": 26.5,
-      "tmin": 18.9
+      "tmax": 27.1,
+      "tmin": 18.1
     },
     {
       "dept": "Magdalena",
-      "p7": 29.2,
+      "p7": 22.6,
       "place": "Minca",
-      "tmax": 27.2,
-      "tmin": 20.4
+      "tmax": 27.4,
+      "tmin": 19.9
     }
   ],
-  "updatedAt": "2026-11-26T19:48:08Z"
+  "updatedAt": "2026-11-27T11:49:02Z"
 }

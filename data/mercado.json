@@ -180,17 +180,15 @@
       "value": 12.56
     },
     "robusta": {
-      "asOf": "2026-11-25",
-      "change": -8,
-      "changePct": -0.29,
+      "asOf": "2026-11-27",
       "contract": "Ene-27",
       "dec": 1,
       "label": "Robusta Londres (ICE)",
-      "note": "Cierre 25-nov; anterior 2.804.",
+      "note": "Intradía 27-nov (06:46 hora Bogotá); cierre previo según Investing.com 2.796. La tabla histórica (Mar-27) muestra cierre del 26-nov en 2.832 (+2,35%) y 2.971 en la sesión de hoy.",
       "source": "Investing.com",
       "unit": "USD/t",
       "url": "https://www.investing.com/commodities/london-coffee",
-      "value": 2796
+      "value": 2968
     },
     "trm": {
       "asOf": "2026-11-26",
@@ -205,5 +203,5 @@
       "value": 3630.89
     }
   },
-  "updatedAt": "2026-11-26T19:48:08Z"
+  "updatedAt": "2026-11-27T11:49:02Z"
 }
