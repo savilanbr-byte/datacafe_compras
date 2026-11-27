@@ -1,15 +1,36 @@
 {
   "items": [
     {
-      "id": "n155",
+      "id": "n156",
       "scope": "co",
       "regiones": [],
       "tag": "Divisas",
-      "date": "2026-11-26",
-      "source": "Infobae",
-      "url": "https://www.infobae.com/colombia/2026/11/26/precio-del-dolar-hoy-en-colombia-cotizacion-de-cierre-del-26-de-noviembre/",
-      "title": "El dólar cierra en $3.549,70 tras una jornada sin mercado de EE. UU.",
-      "summary": "En una sesión de baja liquidez por el feriado de Acción de Gracias, el dólar spot cayó $5,30 y cerró en $3.549,70 (mínimo de $3.485), muy por debajo de la TRM vigente de $3.630,89. Si se sostiene, la próxima TRM bajaría y restaría al precio interno."
+      "date": "2026-11-27",
+      "source": "Noticias RCN (Banco de la República)",
+      "url": "https://www.noticiasrcn.com/economia/precio-del-dolar-en-colombia-en-el-cierre-de-hoy-27-de-noviembre-de-2026-1086261",
+      "title": "El dólar cae a $3.488 al cierre del viernes",
+      "summary": "El dólar abrió en $3.515 y cerró en $3.488 este 27 de noviembre, muy por debajo de la TRM vigente de $3.630,89. Un peso más fuerte reduce el precio interno en pesos aunque Nueva York suba, como se vio hoy en la referencia de la FNC."
+    },
+    {
+      "id": "n157",
+      "scope": "mundo",
+      "tag": "Industria",
+      "date": "2026-11-27",
+      "source": "Crónica",
+      "url": "https://www.cronica.com.mx/nacional/2026/11/27/gobierno-federal-exige-a-nestle-precios-justos-para-caficultores-de-chiapas/",
+      "title": "México presiona a Nestlé por precios justos a caficultores de Chiapas",
+      "summary": "Productores de unos 20 municipios de Chiapas (cerca de 165.000 familias) denuncian pagos de unos 43 pesos mexicanos por kilo y piden entre 50 y 60; el Gobierno federal respalda la negociación y Nestlé dice que comprará más café mexicano en 2026-27 y pagará por encima de las bolsas."
+    },
+    {
+      "date": "2026-11-27",
+      "id": "n125",
+      "regiones": [],
+      "scope": "co",
+      "source": "Federación Nacional de Cafeteros",
+      "summary": "La FNC fijó para el 27 de noviembre un precio de referencia de $2.175.000 por carga de pergamino seco, $5.000 menos que el 25-nov: el alza del arábica en Nueva York (275,55 ¢/lb) se compensó con un dólar de referencia de $3.488. La pasilla se mantiene en $97.920 por carga.",
+      "tag": "Precios",
+      "title": "Precio interno baja $5.000 y queda en $2.175.000 por carga",
+      "url": "https://federaciondecafeteros.org/estadisticas-cafeteras/"
     },
     {
       "id": "n154",
@@ -41,17 +62,6 @@
       "tag": "Mercado",
       "title": "Inventarios certificados de arábica suben 44% en una semana, a 268.614 sacos",
       "url": "https://portaldoagronegocio.com.br/agricultura/cafe/noticias/cafe-arabica-cai-em-nova-york-com-estoques-em-alta-e-dolar-sustenta-precos-no-brasil"
-    },
-    {
-      "date": "2026-11-25",
-      "id": "n125",
-      "regiones": [],
-      "scope": "co",
-      "source": "Federación Nacional de Cafeteros",
-      "summary": "La FNC fijó el 25-nov el precio de referencia en $2.180.000 por carga de pergamino seco, con la bolsa de Nueva York en 270 ¢/lb y un dólar de referencia de $3.555; la pasilla se mantiene en $97.920 por carga.",
-      "tag": "Precios",
-      "title": "Precio interno sube $15.000 y queda en $2.180.000 por carga",
-      "url": "https://federaciondecafeteros.org/estadisticas-cafeteras/"
     },
     {
       "date": "2026-11-25",
@@ -206,17 +216,6 @@
       "url": "https://www.elheraldo.co/economia/2026/11/19/ley-de-rescate-economico-cambia-estos-son-los-impuestos-que-salen-y-los-que-siguen-en-discusion/"
     },
     {
-      "date": "2026-11-18",
-      "id": "n126",
-      "regiones": [],
-      "scope": "co",
-      "source": "El Tiempo",
-      "summary": "Según el gerente de la FNC, el costo promedio de producción está entre $1,6 y $1,85 millones por carga, muy cerca del precio interno de $2,15 millones, y la revaluación le quitó al caficultor unos $814.000 por carga en 18 meses. Con márgenes tan estrechos, es probable que los productores retengan pergamino cuando la bolsa baje.",
-      "tag": "Precios",
-      "title": "FNC: producir una carga cuesta entre $1,6 y $1,85 millones",
-      "url": "https://www.eltiempo.com/economia/sectores/tenemos-la-mejor-noticia-10-anos-de-respaldo-para-el-cafetero-entrevista-con-gerente-de-la-federacion-german-bahamon-sobre-el-nuevo-contrato-3601813"
-    },
-    {
       "date": "2026-11-17",
       "id": "n115",
       "scope": "mundo",
@@ -227,5 +226,5 @@
       "url": "https://br.investing.com/news/commodities-news/adido-do-usda-eleva-previsao-de-safra-de-cafe-do-brasil-2130325"
     }
   ],
-  "updatedAt": "2026-11-27T11:49:02Z"
+  "updatedAt": "2026-11-27T19:48:22Z"
 }
